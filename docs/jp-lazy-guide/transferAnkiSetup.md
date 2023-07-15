@@ -1,0 +1,1 @@
+# Transfer Lazy Anki Setup to JPMN

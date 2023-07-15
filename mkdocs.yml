@@ -1,32 +1,36 @@
 site_name: Lazy Guide
+site_url: https://xelieu.github.io/jp-lazy-guide/
 site_description: JP Immersion Tool Lazy Guide
 site_author: Xelieu
 nav:
   - Home:
-    - Introduction: 'lazy-guide/index.md'
-    - Changelog (2023-07-15): 'lazy-guide/changelog.md'
-    - About: 'lazy-guide/about.md'
-    - Credits: 'lazy-guide/credits.md'
+    - Introduction: 'jp-lazy-guide/index.md'
+    - Changelog (2023-07-15): 'jp-lazy-guide/changelog.md'
+    - About: 'jp-lazy-guide/about.md'
+    - Credits: 'jp-lazy-guide/credits.md'
   - Setup:
-    - Setup Introduction: 'lazy-guide/setup.md'
-    - "Setup: Anki": 'lazy-guide/setupAnki.md'
-    - "Setup: Yomichan": 'lazy-guide/setupYomichan.md'
-    - "Setup: ShareX": 'lazy-guide/setupShareX.md'
-    - "Setup: VN on PC": 'lazy-guide/setupVnOnPC.md'
-    - "Setup: VN on Android": 'lazy-guide/setupVnOnAndroid.md'
-    - "Setup: LN on PC": 'lazy-guide/setupLnOnPC.md'
-    - "Setup: LN on Android": 'lazy-guide/setupLnOnAndroid.md'
-    - "Setup: Manga on PC": 'lazy-guide/setupMangaOnPC.md'
-    - "Setup: Manga on Android": 'lazy-guide/setupMangaOnAndroid.md'
-    - "Setup: Anime on PC": 'lazy-guide/setupAnimeOnPC.md'
-    - "Setup: Anime on Android": 'lazy-guide/setupAnimeOnAndroid.md'
+    - Setup Introduction: 'jp-lazy-guide/setup.md'
+    - "Setup: Anki": 'jp-lazy-guide/setupAnki.md'
+    - "Setup: Yomichan": 'jp-lazy-guide/setupYomichan.md'
+    - "Setup: ShareX": 'jp-lazy-guide/setupShareX.md'
+    - "Setup: VN on PC": 'jp-lazy-guide/setupVnOnPC.md'
+    - "Setup: VN on Android": 'jp-lazy-guide/setupVnOnAndroid.md'
+    - "Setup: LN on PC": 'jp-lazy-guide/setupLnOnPC.md'
+    - "Setup: LN on Android": 'jp-lazy-guide/setupLnOnAndroid.md'
+    - "Setup: Manga on PC": 'jp-lazy-guide/setupMangaOnPC.md'
+    - "Setup: Manga on Android": 'jp-lazy-guide/setupMangaOnAndroid.md'
+    - "Setup: Anime on PC": 'jp-lazy-guide/setupAnimeOnPC.md'
+    - "Setup: Anime on Android": 'jp-lazy-guide/setupAnimeOnAndroid.md'
+    - "Transfer Lazy Setup to JPMN": 'jp-lazy-guide/transferAnkiSetup.md'
   - Sub Guide:
-    - Sub Guide Introduction: 'lazy-guide/subGuideIntro.md'
-    - Concise Guide to Jumpstart JP: 'lazy-guide/conciseGuideToJumpstartJP.md'
-    - Retention How-To: 'lazy-guide/retentionHowTo.md'
-  - Resources: 'lazy-guide/resources.md'
+    - Sub Guide Introduction: 'jp-lazy-guide/subGuide.md'
+    - Concise Guide to Jumpstart JP: 'jp-lazy-guide/conciseGuideToJumpstartJP.md'
+    - Retention How-To: 'jp-lazy-guide/retentionHowTo.md'
+  - Resources: 'jp-lazy-guide/resources.md'
 theme:
   name: material
+  favicon: img/favicon.png
+  logo: img/favicon-2.png
   features:
     - navigation.tabs
     - navigation.tabs.sticky
