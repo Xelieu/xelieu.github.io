@@ -19,15 +19,15 @@ If you want to buy me a coffee(Thanks!): [Ko-fi (Xelieu)](https://ko-fi.com/xeli
 - 4 in 1 Profile Support: `Monolingual`, `Bilingual`, `LN & Manga in Android`, `VN in Android`
 
 === "Anki | Dark"
-    ![Anki | Dark](../img/jpmn-dark.png){ align=left height=300 width=600}
+    ![Anki | Dark](../img/jpmn-dark.png){height=300 width=600}
 === "Anki | Light"
-    ![Anki | Light](../img/jpmn-light.png){ align=left height=300 width=600}
+    ![Anki | Light](../img/jpmn-light.png){height=300 width=600}
 === "Yomichan | Dark"
-    ![Yomichan | Dark](../img/yomichan-dark.png){ align=left height=300 width=600}
+    ![Yomichan | Dark](../img/yomichan-dark.png){height=300 width=600}
 === "Yomichan | Light"
-    ![Yomichan | Light](../img/yomichan-light.png){ align=left height=300 width=600}
+    ![Yomichan | Light](../img/yomichan-light.png){height=300 width=600}
 === "Yomichan Profile"
-    ![Yomichan Profile](../img/yomichan-profiles.png){ align=left height=300 width=600}
+    ![Yomichan Profile](../img/yomichan-profiles.png){align=left height=300 width=600}
 
 ---
 
@@ -37,4 +37,4 @@ If you want to buy me a coffee(Thanks!): [Ko-fi (Xelieu)](https://ko-fi.com/xeli
 <iframe width="560" height="315" src="https://www.youtube.com/embed/seAMOvIiFcw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-[Alright, Let's go! :fontawesome-solid-paper-plane:](setup.md){ .md-button .md-button }
+[Alright, Let's go!](setup.md){ .md-button .md-button }
