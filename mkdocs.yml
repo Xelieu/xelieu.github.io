@@ -1,13 +1,19 @@
 site_name: Lazy Guide
 site_description: JP Immersion Tool Lazy Guide
 site_author: Xelieu
+nav:
+  - Home: 'lazy-guide/index.md'
+  - Setup: 
+    - Setup1: 'lazy-guide/setup.md'
+    - Setup2: 'lazy-guide/setupAnki.md'
 theme:
   name: material
   features:
     - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.sections
-    - toc.integrate
     - navigation.top
+    - toc.follow
     - search.suggest
     - search.highlight
     - content.tabs.link

@@ -1,6 +1,6 @@
 # Setup
 
-## Another Heading
+ [Setup Anki:]('setupAnki.md')
 
 some `code` goes
 ```
