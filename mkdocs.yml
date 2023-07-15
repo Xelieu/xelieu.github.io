@@ -2,10 +2,28 @@ site_name: Lazy Guide
 site_description: JP Immersion Tool Lazy Guide
 site_author: Xelieu
 nav:
-  - Home: 'lazy-guide/index.md'
-  - Setup: 
-    - Setup Anki: 'lazy-guide/setup.md'
-    - Setup Yomichan: 'lazy-guide/setupAnki.md'
+  - Home:
+    - Introduction: 'lazy-guide/index.md'
+    - Changelog (2023-07-15): 'lazy-guide/changelog.md'
+    - About: 'lazy-guide/about.md'
+    - Credits: 'lazy-guide/credits.md'
+  - Setup:
+    - Setup Introduction: 'lazy-guide/setup.md'
+    - "Setup: Anki": 'lazy-guide/setupAnki.md'
+    - "Setup: Yomichan": 'lazy-guide/setupYomichan.md'
+    - "Setup: ShareX": 'lazy-guide/setupShareX.md'
+    - "Setup: VN on PC": 'lazy-guide/setupVnOnPC.md'
+    - "Setup: VN on Android": 'lazy-guide/setupVnOnAndroid.md'
+    - "Setup: LN on PC": 'lazy-guide/setupLnOnPC.md'
+    - "Setup: LN on Android": 'lazy-guide/setupLnOnAndroid.md'
+    - "Setup: Manga on PC": 'lazy-guide/setupMangaOnPC.md'
+    - "Setup: Manga on Android": 'lazy-guide/setupMangaOnAndroid.md'
+    - "Setup: Anime on PC": 'lazy-guide/setupAnimeOnPC.md'
+    - "Setup: Anime on Android": 'lazy-guide/setupAnimeOnAndroid.md'
+  - Sub Guide:
+    - Concise Guide to Jumpstart JP: 'lazy-guide/conciseGuideToJumpstartJP.md'
+    - Retention How-To: 'lazy-guide/retentionHowTo.md'
+  - Resources: 'lazy-guide/resources.md'
 theme:
   name: material
   features:
@@ -17,23 +35,23 @@ theme:
     - toc.follow
     - search.suggest
     - search.highlight
-    - content.tabs.link
     - content.code.annotation
     - content.code.copy
+    - content.tabs.link
   language: en
   palette:
     - scheme: default
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
-      primary: teal
-      accent: purple 
+      primary: indigo
+      accent: indigo
     - scheme: slate 
       toggle:
         icon: material/white-balance-sunny
         name: Switch to light mode    
-      primary: teal
-      accent: lime
+      primary: indigo
+      accent: indigo
 
 extra:
   social:
@@ -48,25 +66,31 @@ extra:
   generator: false
   
 markdown_extensions:
-  - pymdownx.highlight:
-      anchor_linenums: true
-  - pymdownx.inlinehilite
-  - pymdownx.snippets
   - admonition
-  - pymdownx.arithmatex:
-      generic: true
+  - attr_list
+  - def_list
   - footnotes
-  - pymdownx.details
-  - pymdownx.superfences
-  - pymdownx.critic
+  - md_in_html
   - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.inlinehilite
   - pymdownx.keys
   - pymdownx.mark
+  - pymdownx.snippets
+  - pymdownx.superfences
   - pymdownx.tilde
-  - attr_list
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.highlight:
+      anchor_linenums: true
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.tabbed:
+      alternate_style: true 
+  - pymdownx.tasklist:
+      custom_checkbox: true
 
 plugins:
   - search:

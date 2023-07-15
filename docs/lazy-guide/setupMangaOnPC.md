@@ -1,0 +1,1 @@
+# Setup: Manga on PC

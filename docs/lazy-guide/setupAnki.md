@@ -1,7 +1,7 @@
-# New to Anki?
+# Setup: Anki
 
 
 ## test 2
 
 ## test 3
-I am a setup test
+I am ANKI
