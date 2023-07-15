@@ -1,6 +1,6 @@
 site_name: Lazy Guide
 site_description: JP Immersion Tool Lazy Guide
-site_url: xelieu.github.io/lazy-guide
+site_url: http://xelieu.github.io/lazy-guide
 site_author: Xelieu
 theme:
   name: material
