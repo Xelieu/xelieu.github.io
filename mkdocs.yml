@@ -21,6 +21,7 @@ nav:
     - "Setup: Anime on PC": 'lazy-guide/setupAnimeOnPC.md'
     - "Setup: Anime on Android": 'lazy-guide/setupAnimeOnAndroid.md'
   - Sub Guide:
+    - Sub Guide Introduction: 'lazy-guide/subGuideIntro.md'
     - Concise Guide to Jumpstart JP: 'lazy-guide/conciseGuideToJumpstartJP.md'
     - Retention How-To: 'lazy-guide/retentionHowTo.md'
   - Resources: 'lazy-guide/resources.md'

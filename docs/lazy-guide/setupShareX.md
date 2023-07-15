@@ -1,4 +1,1 @@
 # Setup: ShareX
-
-## test
-Test
