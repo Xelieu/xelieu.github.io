@@ -1,4 +1,4 @@
-# Page 2
+# Setup
 
 ## Another Heading
 
