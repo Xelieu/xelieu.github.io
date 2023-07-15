@@ -31,6 +31,7 @@ extra:
     - icon: fontawesome/brands/github-alt
       link: https://github.com/Xelieu
     - icon: fontawesome/brands/discord
+      link: https://www.discordapp.com/users/719459399168426054
       name: xelieu
 
 markdown_extensions:
