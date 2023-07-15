@@ -1,8 +1,9 @@
+---
+hide:
+  - footer
+---
 # Setup
 
- [Setup Anki:]('setupAnki.md')
+## try
 
-some `code` goes
-```
-plain test
-```
+

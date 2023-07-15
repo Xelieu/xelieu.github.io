@@ -1,3 +1,7 @@
+---
+hide:
+  - footer
+---
 ## Test
 
 ## test2

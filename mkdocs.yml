@@ -4,8 +4,8 @@ site_author: Xelieu
 nav:
   - Home: 'lazy-guide/index.md'
   - Setup: 
-    - Setup1: 'lazy-guide/setup.md'
-    - Setup2: 'lazy-guide/setupAnki.md'
+    - Setup Anki: 'lazy-guide/setup.md'
+    - Setup Yomichan: 'lazy-guide/setupAnki.md'
 theme:
   name: material
   features:
@@ -13,6 +13,7 @@ theme:
     - navigation.tabs.sticky
     - navigation.sections
     - navigation.top
+    - navigation.footer
     - toc.follow
     - search.suggest
     - search.highlight
@@ -41,7 +42,11 @@ extra:
     - icon: fontawesome/brands/discord
       link: https://www.discordapp.com/users/719459399168426054
       name: xelieu
-
+  analytics:
+    provider: google
+    property: G-GMJZ3SM36S
+  generator: false
+  
 markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
@@ -53,7 +58,11 @@ markdown_extensions:
   - footnotes
   - pymdownx.details
   - pymdownx.superfences
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
   - pymdownx.mark
+  - pymdownx.tilde
   - attr_list
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
