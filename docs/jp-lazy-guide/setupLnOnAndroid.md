@@ -65,7 +65,7 @@ You can now read Light Novels in Android, why not check out the Manga setup?
 
 #### Info 3: Android Yoomichan Local Audio
 
-??? info "Android Yoomichan Local Audio <small>(click here)</small>"
+??? info "Android Yomichan Local Audio <small>(click here)</small>"
 
     Requirements:
     
