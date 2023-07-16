@@ -77,6 +77,12 @@ You now have an Anki Template, next is Yomichan
 
     ![Anki Theme](../img/anki-theme.png){height=300 width=600}
 
+#### Info 3: Retention How To
+
+??? info "Retention How To <small>(click here)</small>"
+
+    If you found yourself having low retention, go to [Retention How-To](https://xelieu.github.io/jp-lazy-guide/retentionHowTo/) for anki settings suggestions and other tips
+
 #### Tip 1: When Reviewing on Anki
 
 ??? tip "When Reviewing on Anki <small>(click here)</small>"
