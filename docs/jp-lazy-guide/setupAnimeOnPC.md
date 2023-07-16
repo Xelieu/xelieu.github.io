@@ -1,4 +1,4 @@
-# Setup: Anime on PC
+# Setup: Anime on PC (TODO)
 
 - XX is a
 

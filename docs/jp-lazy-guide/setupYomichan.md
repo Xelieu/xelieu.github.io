@@ -16,42 +16,44 @@ Firefox
 Chrome
 
 - Download [Yomibaba Chrome](https://github.com/forsakeninfinity/yomibaba/releases/download/22.11.3.3/yomibaba-chrome.zip) and unzip it somewhere
-- Go to chrome://extensions/ and turn on developer mode from the top right
+- Go to `chrome://extensions/` and turn on `developer mode` from the top right
 - Click `Load unpacked` and select the unzipped folder
 
-Download `LazyXel Yomichan Setup` and `Font` from [here](https://drive.google.com/drive/folders/1s_PdQ9HWvpDFXkh_AGGzVgqrFBGhUsbI?usp=sharing) extract it
+Download `LazyXel Yomichan Setup` and `Font` from [here](https://drive.google.com/drive/folders/1s_PdQ9HWvpDFXkh_AGGzVgqrFBGhUsbI?usp=sharing) and extract it
 
 ---
 
 ## Setting Up
 
-1. Go to `edge://extensions` or `chrome://extensions` (not needed for firefox)
+1. Go to `chrome://extensions` or `edge://extensions` (not needed for firefox) and go to `Yomichan` extension settings
+
+2. Make sure `Allow access to file URLs` is enabled
 
     ![Yomichan URL Access](../img/url-access.png){height=150 width=300}
 
-2. Install the `Fonts` by opening them from the `Font` folder
+3. Install the `Fonts` by opening them from the `Font` folder
 
     ![Yomichan Font](../img/fonts.png){height=150 width=300}
 
-3. Go to Yomibaba’s settings page (Click on the extension’s icon then click on the cog icon from the popup)
+4. Go to Yomibaba’s settings page (Click on the extension’s icon then click on the cog icon from the popup)
 
     ![Yomichan Cog](../img/yomichan-cog.png){height=50 width=100}
 
-4. Scroll Down to `Backup` and click `Import Dictionary Data` and select `lazyXel-yomichan-dictionaries` file (from the extracted folder)
+5. Scroll Down to `Backup` and click `Import Dictionary Data` and select `lazyXel-yomichan-dictionaries` file (from the extracted folder)
 
     ![Dictionary Import](../img/import-dictionary.png){height=250 width=500}
 
-5. Wait for the import to finish then turn all the dictionaries on from the `Dictionaries` > `Configure installed and enbaled dictionaries...`
+6. Wait for the import to finish then turn all the dictionaries on from the `Dictionaries` > `Configure installed and enbaled dictionaries...`
     - Refresh the browser tab to see the dictionaries in effect,
 restart the browser if you keep running into issues
 
     ![Dictionary Toggle](../img/dictionary-toggle.png){height=250 width=500}
 
-6. Scroll down again, in `Backup` > `Import Settings` > `lazyxel-yomichan-settings` (from the extracted folder)
-    - If you are interested on installing [Yomichan Local Audio](http://127.0.0.1:8000/jp-lazy-guide/jp-lazy-guide/setupYomichan/#yomichan-local-audio) pick `lazyXel-local-audio`, otherwise `lazyXel-non-local-audio`
+7. Scroll down again, in `Backup` > `Import Settings` > `lazyxel-yomichan-settings` (from the extracted folder)
+    - If you are interested on installing [Yomichan Local Audio](https://xelieu.github.io/jp-lazy-guide/jp-lazy-guide/setupYomichan/#yomichan-local-audio) pick `lazyXel-local-audio`, otherwise `lazyXel-non-local-audio`
 
-7. Pick a profile(`Default` and `Editing`), usually between `Monolingual` and `Bilingual` (other profiles will be discussed in other sections)
-    - `Bilingual` is default, you can hold `alt` to use the `Monolingual` profile
+8. Pick a profile(`Default` and `Editing`), usually between `Monolingual` and `Bilingual` (other profiles will be discussed in other sections)
+    - `Bilingual` is default, you can hold `alt` while hovering over a word to use the `Monolingual` profile
 
     ![Yomichan Profile](../img/yomichan-profiles.png){align=left height=300 width=600}
 
@@ -70,7 +72,7 @@ Yomichan setup is done, next is ShareX for convenient Mining
     - (Monolingual) 新明解国語辞典　第七版
     - (Monolingual) 明鏡国語辞典 第二版
     - (Bilingual) JMdict (English)
-    - (Variant) JMdict Forms
+    - (Variant Forms) JMdict Forms
     - (Name) JMnedict
     - (Pitch Accent) アクセント辞典
     - (Frequency) BCCWJ
@@ -112,4 +114,5 @@ Or `C:\Users\YourUser\AppData\Roaming\Anki2\addons21\1045800357`
 
 To change the yomichan theme, go to `yomichan settings` > `Appearance` > `Theme`
 
-![Yomichan Theme](../img/yomichan-theme.png){align=left height=300 width=600}
+![Yomichan Theme](../img/yomichan-theme.png){height=300 width=600}
+

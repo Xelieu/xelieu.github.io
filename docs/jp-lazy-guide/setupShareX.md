@@ -32,7 +32,7 @@
 
 You are done setting up ShareX, next is Visual Novel for PC
 
-[Proceed to VN for PC Setup](setupVnOnPC.md){ .md-button .md-button }
+[Proceed to VN on PC Setup](setupVnOnPC.md){ .md-button .md-button }
 
 ---
 
@@ -43,7 +43,7 @@ Hotkeys Function:
 - `screenshot` and `screenshot nsfw`: Captures your whole main screen
      - If you want to edit which monitor: `Hotkey settings` > `screenshot` > `Capture` > `Select region...`
 - `screenshot snip` and `screenshot nsfw snip`: Captures the region that you specify, similar to cropping
-- `OCR (manga_ocr)` is used in `Manga OCR` while `OCR` is your default ShareX OCR
+- `OCR (manga_ocr)` is used in [Manga OCR]() while `OCR` is your default ShareX OCR
 
 Tip 1: You can skip the audio recording when mining as it is time consuming
 
@@ -54,14 +54,15 @@ Tip 1: You can skip the audio recording when mining as it is time consuming
 ## One-handed Mining using Mouse
 
 Download and Install [Autohotkey](https://www.autohotkey.com/)
+
 Download and Run Hotkeys from [here](https://drive.google.com/drive/folders/1x6pweKLRwLDWvHLV-05QRhOZp5Ob4ZWE?usp=sharing)
 
-Option 1: Alt + Screenshot Hotkey
+#### Option 1: Alt + Screenshot Hotkey
 
 - Forward Mouse button = ALT for monolingual pop-up
 - Back Mouse button = Screenshot (non nsfw)
 
-Option 2: Audio + Screenshot Hotkey
+#### Option 2: Audio + Screenshot Hotkey
 
 - Forward Mouse button = Audio recording
 - Back Mouse button = Screenshot (non nsfw)

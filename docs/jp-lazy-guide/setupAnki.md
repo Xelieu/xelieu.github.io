@@ -34,7 +34,7 @@
 
 6. In Anki: `Browse` > on the left side under `Note Type` > `JP Mining Note` > `Card...` > `Styling` > Scroll down to the bottom
 	- Paste [this](https://pastebin.com/mu2jrrjB) AFTER the `INSERT CUSTOM CSS BELOW` line
-    - Editing only 1 card is enough
+    - Editing only 1 card is enough for this to take effect to everything
 
     ![Custom CSS](../img/custom-css.png){height=250 width=500}
 
@@ -59,14 +59,30 @@ You now have an Anki Template, next is Yomichan
 
 Here's the list of Anki Add-ons:
 
-- You can search them by `View Add-on Page` to know more about them
-- Most of them are in `Tools`
+- You can search them by clicking `View Add-on Page` to know more about them
+- Most of them are in `Tools` in the `Taskbar`
 
 ![Anki Add-Ons](../img/anki-addons.png){height=250 width=500}
 
-Tip 1:
+#### Tip 1: When Reviewing on Anki
 
 - When doing Anki just use `again (1)` or `good (spacebar or 3)` button so you don't have to think about if its `easy (2)` or `hard (4)`
+
+#### Tip 2: Keyboard Shortcuts
+
+When viewing a card, you can use shortcuts to expand for more info:
+
+- `Q` : `Secondary Definition`
+- `W` : `Extra Definition`
+- `[` : `Extra Info`
+
+#### Tip 3: Pitch Accent Color
+
+When viewing a card, they are color assigned with the following:
+
+![Pitch Accent Reference](../img/pitch-accent-reference.png){height=250 width=500}
+
+---
 
 ## Light and Dark Mode
 

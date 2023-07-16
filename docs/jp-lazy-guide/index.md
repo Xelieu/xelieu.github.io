@@ -2,7 +2,8 @@
 hide:
   - footer
 ---
-Lazy Guide is for:
+
+JP Lazy Guide is for:
 
 - People who don't want to bother customizing their settings or knowing stuff technically
 - For people who want an all-in-one source compared to other fully detailed guides but scattered tools
@@ -37,4 +38,4 @@ If you want to buy me a coffee(Thanks!): [Ko-fi (Xelieu)](https://ko-fi.com/xeli
 <iframe width="560" height="315" src="https://www.youtube.com/embed/seAMOvIiFcw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-[Alright, Let's go!](setup.md){ .md-button .md-button }
+[Proceed on Setup Guide](setup.md){ .md-button .md-button }
