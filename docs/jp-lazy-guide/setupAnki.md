@@ -38,7 +38,8 @@
 
     ![Custom CSS](../img/custom-css.png){height=250 width=500}
 
-8. Go to your Deck's option then copy this settings, as well as `Tools` > `Preferences` and turn on v3 scheduler:
+8. Go to your `Deck`'s option then copy the `settings` below
+    - `Tools` > `Preferences` and turn on `v3 scheduler`
 
 === "Settings 1"
     ![Anki Settings 1](../img/anki-settings-1.png){height=300 width=600}

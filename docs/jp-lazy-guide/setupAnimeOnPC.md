@@ -16,7 +16,7 @@
 
 You now have an XX, next is XX
 
-[Proceed to YY Setup](setupXY.md){ .md-button .md-button }
+[Proceed to Setup: Anime on Android Setup](setupAnimeOnAndroid.md){ .md-button .md-button }
 
 ---
 

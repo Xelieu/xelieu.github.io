@@ -112,6 +112,12 @@ Yomichan setup is done, next is ShareX for convenient Mining
     - Go to `yomichan settings` > `Audio` > `Configure audio playback sources...` > `Add` > `Custom URL (JSON)`
     - Paste `http://localhost:5050/?term={term}&reading={reading}` and make sure it's on the top
 
+    5. Check if its working:
+    
+        ![Yomichan Local Audio Check](../img/yomichan-local-audio-check.gif){height=250 width=500}
+
+    DONE!
+
 #### Info 3: Yomichan Light and Dark Mode
 
 ??? info "Yomichan Light and Dark Mode <small>(click here)</small>"

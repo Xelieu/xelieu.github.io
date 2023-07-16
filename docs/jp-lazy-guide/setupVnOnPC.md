@@ -1,8 +1,8 @@
 # Setup: VN on PC
 
-- Textractor is a tool used to extract `text` from `Visual Novels`
+- [Textractor](https://xelieu.github.io/jp-lazy-guide/jp-lazy-guide/setupVnOnPC/#textractor) is a tool used to extract `text` from `Visual Novels`
 
-- Clipboard Inserter is used to copy and paste the text extracted by `Textractor` into a `Texthooker` page where you can use `Yomichan` to scan the words and mine it into `Anki`
+- [Clipboard Inserter](https://xelieu.github.io/jp-lazy-guide/jp-lazy-guide/setupVnOnPC/#clipboard-inserter) is used to copy and paste the text extracted by `Textractor` into a `Texthooker` page where you can use `Yomichan` to scan the words and mine it into `Anki`
 
 ---
 ## Textractor
@@ -11,7 +11,7 @@ Download [Textractor 5.2.0](https://drive.google.com/drive/folders/1HPhYtqcNK66E
 
 - Some versions are messed up so I recommend sticking to this
 
-- (Optional) [VN Texthooker on Phone](https://rentry.co/android-texthook); [Mobile Setup]() is required
+- (Optional) [VN Texthooker on Phone](https://rentry.co/android-texthook); [Mobile Setup](https://xelieu.github.io/jp-lazy-guide/jp-lazy-guide/setupLnOnAndroid/) is required
     - If you don't have 2nd monitor or want to full screen
 
 ---

@@ -13,10 +13,9 @@
 ## Setting Up
 
 
+Wow! Setting up the `Mining` tools is finally done, how about checking Sub Guide?
 
-You now have an XX, next is XX
-
-[Proceed to YY Setup](setupXY.md){ .md-button .md-button }
+[Proceed to Sub Guide](subGuide.md){ .md-button .md-button }
 
 ---
 
