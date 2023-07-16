@@ -40,7 +40,6 @@ theme:
   name: material
   favicon: img/favicon.png
   logo: img/favicon-2.png
-  link: https://xelieu.github.io/jp-lazy-guide/
   features:
     - navigation.tabs
     - navigation.tabs.sticky
@@ -69,6 +68,7 @@ theme:
       accent: indigo
 
 extra:
+  homepage: https://xelieu.github.io/jp-lazy-guide/
   social:
     - icon: fontawesome/brands/github-alt
       link: https://github.com/Xelieu
