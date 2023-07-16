@@ -6,3 +6,5 @@ https://xelieu.github.io/jp-lazy-guide/setup/
 Made in material mkdocs
 
 Any contribution to the site is welcome
+
+You can message me on discord: xelieu
