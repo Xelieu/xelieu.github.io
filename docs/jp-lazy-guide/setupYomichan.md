@@ -65,7 +65,10 @@ Yomichan setup is done, next is ShareX for convenient Mining
 
 ## Extra Info and Tips
 
-??? abstract "Yomichan Dictionary List"
+#### Info 1: Yomichan Dictionary List
+
+??? info "Yomichan Dictionary List <small>(click here)</small>"
+
     - (Monolingual) 旺文社国語辞典 第十一版
     - (Monolingual) 三省堂国語辞典　第七版
     - (Monolingual) 実用日本語表現辞典
@@ -85,34 +88,35 @@ Yomichan setup is done, next is ShareX for convenient Mining
     - (Kanji Forms) Kanjidic (English)
     - (Kanji Forms) TheKanjiMap Kanji Radicals/Composition
 
----
+#### Info 2: Yomichan Local Audio
 
-## Yomichan Local Audio
-- Here's the [source](https://github.com/Aquafina-water-bottle/local-audio-yomichan) for more info or latest updates
-- This might take an hour due to extraction; need Anki 2.1.50+
-- [Yomichan Local Audio Source for Android]() is also available but this(PC) setup is required
+??? info "Yomichan Local Audio <small>(click here)</small>"
 
----
+    - Here's the [source](https://github.com/Aquafina-water-bottle/local-audio-yomichan) for more info or latest updates
+    - This might take an hour due to extraction; need Anki 2.1.50+
+    - [Yomichan Local Audio Source for Android]() is also available but this(PC) setup is required
 
-1. Download everything from [torrent](https://nyaa.si/view/1681655) or [magnet link](magnet:?xt=urn:btih:ef90ec428e6abcd560ffc85a2a1c083e0399d003&dn=local-yomichan-audio-collection-2023-06-11-opus.tar.xz&tr=http%3a%2f%2fanidex.moe%3a6969%2fannounce&tr=http%3a%2f%2fnyaa.tracker.wf%3a7777%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.moeking.me%3a6969%2fannounce&tr=udp%3a%2f%2fopentracker.i2p.rocks%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.zerobytes.xyz%3a1337%2fannounce): `local-yomichan-audio-collection-2023-06-11-opus.tar.xz` file
-    - If you are using `AnkiMobile` on `iOS`, `Android 4`(very unlikely) or `AnkiWeb`: [torrent](https://nyaa.si/view/1681654) or [magnet link](magnet:?xt=urn:btih:5bd0aa89667860e68b31a585dc6e7a2bfc811702&dn=local-yomichan-audio-collection-2023-06-11-mp3.tar.xz&tr=http%3a%2f%2fanidex.moe%3a6969%2fannounce&tr=http%3a%2f%2fnyaa.tracker.wf%3a7777%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.moeking.me%3a6969%2fannounce&tr=udp%3a%2f%2fopentracker.i2p.rocks%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.zerobytes.xyz%3a1337%2fannounce) `local-yomichan-audio-collection-2023-06-11-mp3.tar.xz` file
+    ---
 
-2. Within `Anki`: either `Ctrl + Shift + A` or `Tools` > `Add-ons` > `Get Add-ons...` > `1045800357` > restart `Anki`
+    1. Download everything from [torrent](https://nyaa.si/view/1681655) or [magnet link](magnet:?xt=urn:btih:ef90ec428e6abcd560ffc85a2a1c083e0399d003&dn=local-yomichan-audio-collection-2023-06-11-opus.tar.xz&tr=http%3a%2f%2fanidex.moe%3a6969%2fannounce&tr=http%3a%2f%2fnyaa.tracker.wf%3a7777%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.moeking.me%3a6969%2fannounce&tr=udp%3a%2f%2fopentracker.i2p.rocks%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.zerobytes.xyz%3a1337%2fannounce): `local-yomichan-audio-collection-2023-06-11-opus.tar.xz` file
+        - If you are using `AnkiMobile` on `iOS`, `Android 4`(very unlikely) or `AnkiWeb`: [torrent](https://nyaa.si/view/1681654) or [magnet link](magnet:?xt=urn:btih:5bd0aa89667860e68b31a585dc6e7a2bfc811702&dn=local-yomichan-audio-collection-2023-06-11-mp3.tar.xz&tr=http%3a%2f%2fanidex.moe%3a6969%2fannounce&tr=http%3a%2f%2fnyaa.tracker.wf%3a7777%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.moeking.me%3a6969%2fannounce&tr=udp%3a%2f%2fopentracker.i2p.rocks%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.zerobytes.xyz%3a1337%2fannounce) `local-yomichan-audio-collection-2023-06-11-mp3.tar.xz` file
 
-3. Extract `local-yomichan-audio-collection` and paste the `user_files` folder to:
-On `Add-ons window` > select the `Local Audio Server for Yomichan` > `View Files`
-Or `C:\Users\YourUser\AppData\Roaming\Anki2\addons21\1045800357`
+    2. Within `Anki`: either `Ctrl + Shift + A` or `Tools` > `Add-ons` > `Get Add-ons...` > `1045800357` > restart `Anki`
 
-4. My `local-audio-yomichan` settings OR if you are not using my profile:
+    3. Extract `local-yomichan-audio-collection` and paste the `user_files` folder to:
+    
+    - On `Add-ons window` > select the `Local Audio Server for Yomichan` > `View Files`
+    - Or `C:\Users\YourUser\AppData\Roaming\Anki2\addons21\1045800357`
+
+    4. My `local-audio-yomichan` settings OR if you are not using my profile:
     - Go to `yomichan settings` > `Audio` > `Configure audio playback sources...` > `Add` > `Custom URL (JSON)`
     - Paste `http://localhost:5050/?term={term}&reading={reading}` and make sure it's on the top
 
+#### Info 3: Yomichan Light and Dark Mode
 
----
+??? info "Yomichan Light and Dark Mode <small>(click here)</small>"
 
-## Light and Dark Mode
+    To change the yomichan theme, go to `yomichan settings` > `Appearance` > `Theme`
 
-To change the yomichan theme, go to `yomichan settings` > `Appearance` > `Theme`
-
-![Yomichan Theme](../img/yomichan-theme.png){height=300 width=600}
+    ![Yomichan Theme](../img/yomichan-theme.png){height=300 width=600}
 

@@ -57,35 +57,45 @@ You now have an Anki Template, next is Yomichan
 
 ## Extra Info and Tips
 
-Here's the list of Anki Add-ons:
+#### Info 1: Anki Add-ons List
 
-- You can search them by clicking `View Add-on Page` to know more about them
-- Most of them are in `Tools` in the `Taskbar`
+??? info "Anki Add-ons List <small>(click here)</small>"
 
-![Anki Add-Ons](../img/anki-addons.png){height=250 width=500}
+    Here's the list of Anki Add-ons:
+
+    - You can search them by clicking `View Add-on Page` to know more about them
+    - Most of them are in `Tools` in the `Taskbar`
+
+    ![Anki Add-Ons](../img/anki-addons.png){height=250 width=500}
+
+#### Info 2: Anki Light and Dark Mode
+
+??? info "Anki Light and Dark Mode <small>(click here)</small>"
+
+    To change the anki theme, go to `Tools` > `Preferences` > `Theme`
+
+    ![Anki Theme](../img/anki-theme.png){height=300 width=600}
 
 #### Tip 1: When Reviewing on Anki
 
-- When doing Anki just use `again (1)` or `good (spacebar or 3)` button so you don't have to think about if its `easy (2)` or `hard (4)`
+??? tip "When Reviewing on Anki <small>(click here)</small>"
 
-#### Tip 2: Keyboard Shortcuts
+    - When doing Anki just use `again (1)` or `good (spacebar or 3)` button so you don't have to think about if its `easy (2)` or `hard (4)`
 
-When viewing a card, you can use shortcuts to expand for more info:
+#### Tip 2: Anki Keyboard Shortcuts
 
-- `Q` : `Secondary Definition`
-- `W` : `Extra Definition`
-- `[` : `Extra Info`
+??? tip "Anki Keyboard Shortcuts <small>(click here)</small>"
 
-#### Tip 3: Pitch Accent Color
+    When viewing a card, you can use shortcuts to expand for more info:
 
-When viewing a card, they are color assigned with the following:
+    - `Q` : `Secondary Definition`
+    - `W` : `Extra Definition`
+    - `[` : `Extra Info`
 
-![Pitch Accent Reference](../img/pitch-accent-reference.png){height=250 width=500}
+#### Tip 3: Anki Pitch Accent Color
 
----
+??? tip "Anki Pitch Accent Color <small>(click here)</small>"
 
-## Light and Dark Mode
+    When viewing a card, they are color assigned with the following:
 
-To change the anki theme, go to `Tools` > `Preferences` > `Theme`
-
-![Anki Theme](../img/anki-theme.png){height=300 width=600}
+    ![Pitch Accent Reference](../img/pitch-accent-reference.png){height=250 width=500}

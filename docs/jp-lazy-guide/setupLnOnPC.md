@@ -1,23 +1,60 @@
 # Setup: LN on PC
 
-- XX is a
+- You can read `Light Novel` on `PC` as long as you have `epubs` of the `Light Novel` and a website to use the `epubs` on and use `Yomichan`
 
 ---
 
-## Download and Install
+## Requirements
 
-- Install [XX]()
+- Download `Light Novel` in `epubs` format of your choice
 
 ---
 
 ## Setting Up
 
+1. In your `browser`, go to `https://reader.ttsu.app/`
 
+    ![TTU Reader](../img/ttu-reader.png){height=500 width=1000}
 
-You now have an XX, next is XX
+2. Upload a `File` or `Folder` containing `LN epubs`
 
-[Proceed to YY Setup](setupXY.md){ .md-button .md-button }
+    ![TTU Upload](../img/ttu-upload.png){height=50 width=100}
+
+3. You can now mine using `Yomichan` as usual
+
+    ![TTU Reader PC](../img/ttu-reader-pc.png){height=500 width=1000}
+
+You can now read Light Novels on PC, how about Android?
+
+[Proceed to LN on Android Setup](setupLnOnAndroid.md){ .md-button .md-button }
 
 ---
 
 ## Extra Info and Tips
+
+#### Info 1: My TTU Settings
+
+??? info "My TTU Settings <small>(click here)</small>"
+    Here's my `PC` settings for `TTU`
+
+    ![TTU Settings Android](../img/ttu-settings-pc.png){height=500 width=1000}
+
+#### Info 2: Text Replacement Pattern
+
+??? info "Text Replacement Pattern <small>(click here)</small>"
+
+    Without my settings, you have to manually put this as it is needed to accurately scan text
+
+    1. On `yomichan settings` > turn on `Advanced` settings, either `bottom left` or `scroll down`
+
+    2. On `Translation` > `Configure custom text replacement patterns...`
+
+    3. Copy and paste [this](https://pastebin.com/tzHgVe6V)
+
+#### Tip 1: Getting epubs
+
+??? tip "Getting epubs <small>(click here)</small>"
+
+    To get epubs, search around the web, go to `nyaa` or discord servers that have them or `BUY` and convert them
+
+    - If you pm me, I can give you more details

@@ -35,7 +35,7 @@ If you want to buy me a coffee(Thanks!): [Ko-fi (Xelieu)](https://ko-fi.com/xeli
 #### [Mining Demo](https://youtu.be/seAMOvIiFcw)
 - This is outdated format but pretty much the same method
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/seAMOvIiFcw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/seAMOvIiFcw" title="Mining Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 [Proceed on Setup Guide](setup.md){ .md-button .md-button }

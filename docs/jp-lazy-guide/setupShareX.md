@@ -38,31 +38,39 @@ You are done setting up ShareX, next is Visual Novel for PC
 
 ## Extra Info and Tips
 
-Hotkeys Function:
+??? info "Hotkey Function <small>(click here)</small>"
 
-- `screenshot` and `screenshot nsfw`: Captures your whole main screen
-     - If you want to edit which monitor: `Hotkey settings` > `screenshot` > `Capture` > `Select region...`
-- `screenshot snip` and `screenshot nsfw snip`: Captures the region that you specify, similar to cropping
-- `OCR (manga_ocr)` is used in [Manga OCR]() while `OCR` is your default ShareX OCR
+    - `screenshot` and `screenshot nsfw`: Captures your whole main screen
+        - If you want to edit which monitor: `Hotkey settings` > `screenshot` > `Capture` > `Select region...`
 
-Tip 1: You can skip the audio recording when mining as it is time consuming
+    - `screenshot snip` and `screenshot nsfw snip`: Captures the region that you specify, similar to cropping
 
-- If you also manage to do your Anki Cards below 5s each, you will barely hear the recorded Audio
+    - `OCR (manga_ocr)` is used in [Manga OCR]() while `OCR` is your default ShareX OCR
+
+#### Tip 1: Skip Audio Recording when Mining
+
+??? tip "Skip Audio Recording when Mining <small>(click here)</small>"
+
+    - You can skip the audio recording when mining as it is time consuming
+
+    - If you also manage to do your Anki Cards below 5s each, you will barely hear the recorded Audio
 
 ---
 
 ## One-handed Mining using Mouse
 
-Download and Install [Autohotkey](https://www.autohotkey.com/)
+??? info "One-handed Mining using Mouse <small>(click here)</small>"
 
-Download and Run Hotkeys from [here](https://drive.google.com/drive/folders/1x6pweKLRwLDWvHLV-05QRhOZp5Ob4ZWE?usp=sharing)
+    Download and Install [Autohotkey](https://www.autohotkey.com/)
 
-#### Option 1: Alt + Screenshot Hotkey
+    Download and Run Hotkeys from [here](https://drive.google.com/drive/folders/1x6pweKLRwLDWvHLV-05QRhOZp5Ob4ZWE?usp=sharing)
 
-- Forward Mouse button = ALT for monolingual pop-up
-- Back Mouse button = Screenshot (non nsfw)
+    #### Option 1: Alt + Screenshot Hotkey
 
-#### Option 2: Audio + Screenshot Hotkey
+    - Forward Mouse button = ALT for monolingual pop-up
+    - Back Mouse button = Screenshot (non nsfw)
 
-- Forward Mouse button = Audio recording
-- Back Mouse button = Screenshot (non nsfw)
+    #### Option 2: Audio + Screenshot Hotkey
+
+    - Forward Mouse button = Audio recording
+    - Back Mouse button = Screenshot (non nsfw)

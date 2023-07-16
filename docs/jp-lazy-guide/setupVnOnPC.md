@@ -89,12 +89,24 @@ Now that the Clipboard Inserter is working, let's proceed on knowing how to play
 
 #### Info 1: Finding the proper `texthook`
 
-- Some VNs is hard to hook, messed and/or missing text, on which case **you need to manually find a hook**([video guide](https://www.youtube.com/watch?v=eecEOacF6mw)) or **search the internet for one** (e.g. Riddle Joker hookcode) then `add hook` > `save hook`
+??? info "Finding the proper texthook <small>(click here)</small>"
 
-- Some **VNs problem is the version itself**, you'll be safe using `JP` only version rather than steam/multi-language versions
+    - Some VNs is hard to hook, messed and/or missing text, on which case **you need to manually find a hook**([video guide](https://www.youtube.com/watch?v=eecEOacF6mw)) or **search the internet for one** (e.g. Riddle Joker hookcode) then `add hook` > `save hook`
+
+    - Some **VNs problem is the version itself**, you'll be safe using `JP` only version rather than steam/multi-language versions
 
 #### Info 2: Using Regex to remove unnecessary text
 
-- When all text is present **but there is unnecessary unwanted text**, you need to use [regex filter](https://github.com/Artikash/Textractor/wiki/FAQ#textractor-is-extracting-text-mostly-correctly-but-theres-some-extra-characters-as-markupgarbage-eg-a-n-in-place-of-every-line-break-is-there-a-way-to-clean-the-text) which is usually on the 2nd tab of Textractor
+??? info "Using Regex to remove unnecessary text <small>(click here)</small>"
 
-- For regex you need some techy knowledge or search around for a specific VN
+    - When all text is present **but there is unnecessary unwanted text**, you need to use [regex filter](https://github.com/Artikash/Textractor/wiki/FAQ#textractor-is-extracting-text-mostly-correctly-but-theres-some-extra-characters-as-markupgarbage-eg-a-n-in-place-of-every-line-break-is-there-a-way-to-clean-the-text) which is usually on the 2nd tab of Textractor
+
+    - For regex you need some techy knowledge or search around for a specific VN
+
+#### Tip 1: Getting Visual Novels
+
+??? tip "Getting Visual Novels <small>(click here)</small>"
+
+    To get VNs, search around the web, go to `nyaa` or discord servers that have them or `BUY` them
+
+    - If you pm me, I can give you more details
