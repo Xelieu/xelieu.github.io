@@ -6,7 +6,7 @@ hide:
 
 - Very short straightforward guide to combat other guide with walls of text and links to paid stuff that's unnecessary
 
-- I'm a JLPT N2 Passer, in case there's issue about trusting me
+- I'm a JLPT N2 Passer, in case there's issue on trusting me
 
 ## Tips
 
