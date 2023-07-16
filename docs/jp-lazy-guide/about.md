@@ -7,10 +7,10 @@ hide:
 I made the lazy guide because:
 
 - Back then I just wanted a straightforward all-in-one source for all the latest tech towards setting up JP tools
-    - But everything was scattered and was full of explanation
+    - Everything was scattered and was full of explanation though
 
 - So I took the matters into my own hands and I've been maintaining the Lazy Guide for 2 years now
-    - Updating when there's new tools and at most concise as I can
+    - Updating whenever there's new tools and at most concise as I can
 
 ---
 
