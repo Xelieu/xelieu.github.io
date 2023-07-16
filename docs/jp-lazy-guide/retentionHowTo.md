@@ -26,7 +26,7 @@ This is mostly beginner's pointers
 
 ## Anki Settings
 
-1. Use my settings, you can also try [microstep modified v2](https://imgur.com/K83VV6O) or [microstep modified v1](https://imgur.com/exEo5O6)
+1. Use my settings, you can also try [microstep modified v2](https://github.com/Xelieu/xelieu.github.io/blob/main/docs/img/microstep-v2.png) or [microstep modified v1](https://github.com/Xelieu/xelieu.github.io/blob/main/docs/img/microstep-v1.png)
     - Shift + Click 'options' on your deck to get this window
 
     ??? info "Anki Settings <small>(click here)</small>"
@@ -41,7 +41,7 @@ This is mostly beginner's pointers
 
 2. Lapse, make your `leech threshold` down into `4-6` and `suspend card` instead of tag only
 
-3. Use `micro steps`, my [microstep modified v2](https://imgur.com/K83VV6O) has it, it `eases recognizing new cards`
+3. Use `micro steps`, my [microstep modified v2](https://github.com/Xelieu/xelieu.github.io/blob/main/docs/img/microstep-v2.png) has it, it `eases recognizing new cards`
 
 4. (Worse case scenario) `Decrease your new cards`, usually by `3-5` then `observe for a few weeks`
 
@@ -82,6 +82,6 @@ In your `Deck`'s option:
 
 - I'd recommend getting straight rewards and [AJT Mortician](https://ankiweb.net/shared/info/1255924302)(good for shortening time) if you didn't get my [Anki Add-Ons](https://drive.google.com/drive/folders/1qdElBZ_1CCjyVuKCrxHegtGYludG0HVw?usp=sharing)
 
-- My [microstep modified v2](https://imgur.com/K83VV6O) is a modified version of [microstep modified v1](https://imgur.com/exEo5O6) and [this(original)](https://imgur.com/Q4Rfqjb) from [Micro Steps Guide](https://cademcniven.com/posts/20210410/)
+- My [microstep modified v2](https://github.com/Xelieu/xelieu.github.io/blob/main/docs/img/microstep-v2.png) is a modified version of [microstep modified v1](https://github.com/Xelieu/xelieu.github.io/blob/main/docs/img/microstep-v1.png) and [this(original)](https://github.com/Xelieu/xelieu.github.io/blob/main/docs/img/microstep-v0.png) from [Micro Steps Guide](https://cademcniven.com/posts/20210410/)
 
 - My settings or Animecards settings works best if you are naturally good at memorizing, but if you're here, it probably didn't work
