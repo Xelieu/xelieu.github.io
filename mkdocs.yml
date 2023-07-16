@@ -1,5 +1,5 @@
 site_name: Lazy Guide
-site_url: https://xelieu.github.io/jp-lazy-guide/
+site_url: https://xelieu.github.io/
 site_description: JP Immersion Tool Lazy Guide
 site_author: Xelieu
 nav:
@@ -40,6 +40,7 @@ theme:
   name: material
   favicon: img/favicon.png
   logo: img/favicon-2.png
+  link: https://xelieu.github.io/jp-lazy-guide/
   features:
     - navigation.tabs
     - navigation.tabs.sticky
