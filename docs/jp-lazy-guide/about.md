@@ -4,6 +4,16 @@ hide:
 ---
 # About
 
+I made the lazy guide because:
+
+- Back then I just wanted a straightforward all-in-one source for all the latest tech towards setting up JP tools
+    - But everything was scattered and was full of explanation
+
+- So I took the matters into my own hands and I've been maintaining the Lazy Guide for 2 years now
+    - Updating when there's new tools and at most concise as I can
+
+---
+
 If you want to buy me a coffee(Thanks!): [Ko-fi (Xelieu)](https://ko-fi.com/xelieu)
 
 [Old Lazy Guide](https://rentry.co/lazyXel/) | [Pastebin](https://pastebin.com/u/Xelieu)
