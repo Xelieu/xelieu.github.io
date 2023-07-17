@@ -106,3 +106,13 @@ You now have an Anki Template, next is Yomichan
     When viewing a card, they are color assigned with the following:
 
     ![Pitch Accent Reference](../img/pitch-accent-reference.png){height=250 width=500}
+
+## FAQs
+
+#### Question 1: Where should I put more image aside from screenshot?
+
+??? question "Where should I put more image aside from screenshot <small>(click here)</small>"
+
+    - Put it in `PrimaryDefinitionPicture` in `Anki`
+
+    - You can paste the image while reviewing by going `Edit` mode or `E` shortcut

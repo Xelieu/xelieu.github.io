@@ -126,6 +126,8 @@ Yomichan on PC setup is done, why not check out how to use Yomichan on Android?
 
     ![Yomichan Theme](../img/yomichan-theme.png){height=300 width=600}
 
+---
+
 ## FAQs
 
 #### Question 1: Can I add a yomichan dictionary of my choice?
