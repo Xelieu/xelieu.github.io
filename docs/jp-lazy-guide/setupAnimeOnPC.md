@@ -20,18 +20,20 @@ Requirements
 1. In your browser, go to `chrome://flags` or `edge://flags`
     - Search for `Experimental Web Platform features` > `Enabled`
 
-    ![Enable Experimental Web Platform](../img/enable-experimental-web-platform.png){height=300 width=600}
+    ![Enable Experimental Web Platform PC](../img/enable-experimental-web-platform.png){height=300 width=600}
 
 2. Go to [asbplayer](https://killergerbah.github.io/asbplayer/)
     - Ignore `request permission` to `Anki` and installing of `Chrome extension`
 
 3. Upload your `Anime` and `Subtitle` to the `asbplayer`
 
-    ![Pick Anime & Subtitle](../img/pick-anime-sub.png){height=300 width=600}
+    === "Upload Files"
+        ![Pick Anime PC](../img/pick-anime-pc.png){height=300 width=600}
+    === "Pick Anime and Sub"
+        ![Pick Anime & Subtitle PC](../img/pick-anime-sub.png){height=300 width=600}
 
 4. You can now mine with `Yomichan` and [ShareX](https://xelieu.github.io/jp-lazy-guide/setupShareX/)'s `screenshot` and `audio recording` hotkeys
     - See [Anime Mining Demo](https://xelieu.github.io/jp-lazy-guide/setupAnimeOnPC/#info-1-anime-mining-demo)
-
 
 
 You can now mine Anime on PC, why not do it on Android too? (RIP eyes)

@@ -9,15 +9,15 @@
 ## Download and Install
 Pick a browser
 
-Firefox
+- Firefox
 
-- Download [Yomibaba Firefox](https://github.com/forsakeninfinity/yomibaba/releases/download/22.11.3.3/yomibaba-firefox-signed-22.11.3.3.xpi) and drag it onto your Firefox window, or just double click it
+    - Download [Yomibaba Firefox](https://github.com/forsakeninfinity/yomibaba/releases) on `Assets` and drag it onto your Firefox window, or just double click it
 
-Chrome
+- Chrome
 
-- Download [Yomibaba Chrome](https://github.com/forsakeninfinity/yomibaba/releases/download/22.11.3.3/yomibaba-chrome.zip) and unzip it somewhere
-- Go to `chrome://extensions/` and turn on `developer mode` from the top right
-- Click `Load unpacked` and select the unzipped folder
+    - Download [Yomibaba Chrome](https://github.com/forsakeninfinity/yomibaba/releases) on `Assets` and unzip it somewhere
+    - Go to `chrome://extensions/` and turn on `developer mode` from the top right
+    - Click `Load unpacked` and select the unzipped folder
 
 Download `LazyXel Yomichan Setup` and `Font` from [here](https://drive.google.com/drive/folders/1s_PdQ9HWvpDFXkh_AGGzVgqrFBGhUsbI?usp=sharing) and extract it
 

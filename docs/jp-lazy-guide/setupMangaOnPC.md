@@ -35,13 +35,16 @@ Requirements
     - Make sure Yomichan Search window is opened
     - If you want to `scan using mouse button`, see [Info 2](https://xelieu.github.io/jp-lazy-guide/setupMangaOnPC/#info-2-scan-using-mouse-button)
 
-??? info "Video How-to"
-    <iframe width="560" height="315" src="https://user-images.githubusercontent.com/22717958/150238361-052b95d1-0152-485f-a441-48a957536239.mp4" title="MangaOCR How-to" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    ??? info "Video How-to"
+        <iframe width="560" height="315" src="https://user-images.githubusercontent.com/22717958/150238361-052b95d1-0152-485f-a441-48a957536239.mp4" title="MangaOCR How-to" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-=== "Yomichan Search Page"
-    ![Anki | Dark](../img/yomichan-search-page.png){height=300 width=600}
-=== "CDisplay Manga"
-    ![Anki | Light](../img/cdisplay-manga.png){height=300 width=600}
+    === "Yomichan Search Page"
+        ![Anki | Dark](../img/yomichan-search-page.png){height=300 width=600}
+    === "CDisplay Manga"
+        ![Anki | Light](../img/cdisplay-manga.png){height=300 width=600}
+
+6. See [Reading Processed Manga](https://xelieu.github.io/jp-lazy-guide/setupMangaOnPC/#reading-processed-manga)
+
 
 That's it for MangaOCR!
 
@@ -102,6 +105,8 @@ Choose between 2 options:
     - Specified Manga volume: Type `mokuro F:\Manga\Saenai\Vol3` (Replace full directory, Saenai and volume #)
     - All Manga volumes: Type `mokuro --parent_dir F:\Manga\Saenai` (Replace full directory, Saenai with your manga name)
         - Your vol1, 2, 3, etc. should be inside `Saenai folder` in ascending uniform named order
+
+7. See [Reading Processed Manga](https://xelieu.github.io/jp-lazy-guide/setupMangaOnPC/#reading-processed-manga)
 
 ---
 

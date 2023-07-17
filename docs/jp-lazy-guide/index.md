@@ -56,7 +56,7 @@ If you want to buy me a coffee(Thanks!): [Ko-fi (Xelieu)](https://ko-fi.com/xeli
 ---
 
 ## [Mining Demo](https://youtu.be/seAMOvIiFcw)
-- This is outdated format but pretty much the same method
+- This is outdated `Anki/Yomichan Format` but the method is pretty much the same
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/seAMOvIiFcw" title="Mining Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

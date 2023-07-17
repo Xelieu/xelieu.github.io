@@ -49,7 +49,7 @@ restart the browser if you keep running into issues
 7. Scroll down again, in `Backup` > `Import Settings` > `lazyxel-yomichan-settings` (from the extracted folder)
     - If you are interested on installing [Yomichan Local Audio](https://xelieu.github.io/jp-lazy-guide/setupYomichanOnAndroid/#info-2-android-yomichan-local-audio) pick `lazyXel-local-audio`, otherwise `lazyXel-non-local-audio`
 
-8. Pick `Kiwi for Phone (LN & Manga)` profile(`Default` and `Editing`)
+8. Pick `Kiwi for Phone (LN & Manga)` profile (`Default` and `Editing`)
 
     ![Yomichan Profile](../img/yomichan-profiles.png){align=left height=300 width=600}
 
