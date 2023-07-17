@@ -10,9 +10,7 @@ This is a very `detailed spreadsheet` made in `GSheet`
 
 !!! note "Immersion Data Spreadsheet up to 2035"
 
-    [Clean Sheet](https://docs.google.com/spreadsheets/d/1CYJTt-BikDSH9FaSCOEPrzQk-jotcfhPr-lRxfqMfiU/edit?usp=sharing)
-
-    [Sample Sheet](https://docs.google.com/spreadsheets/d/1rD4kg2blrr0Sn9P6W6sRZy0sYzGp-Pv1VhGOKT7hgmA/edit?usp=sharing)
+    [Clean Sheet](https://docs.google.com/spreadsheets/d/1CYJTt-BikDSH9FaSCOEPrzQk-jotcfhPr-lRxfqMfiU/edit?usp=sharing) | [Sample Sheet](https://docs.google.com/spreadsheets/d/1rD4kg2blrr0Sn9P6W6sRZy0sYzGp-Pv1VhGOKT7hgmA/edit?usp=sharing)
 
 
 1. [Video Guide](https://youtu.be/iklOYoIq7ew) on how to fill-up data
