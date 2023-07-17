@@ -4,6 +4,6 @@ Resources is a separate guide that are unrelated to my Lazy Guide and more of an
 
 For `Modern 2.3K Core Deck` and `Modern Kanken Deck` see [Deck Resources](https://xelieu.github.io/jp-lazy-guide/resourcesDecks/)
 
-![Thumbs up](../img/thumbs-up.jpg){height=500 width=1000}
+![Thumbs up](../img/intro-wallpaper-2.jpg){height=500 width=1000}
 
 [Proceed to Immersion Data Spreadsheet](immersionDataSpreadsheet.md){ .md-button .md-button }

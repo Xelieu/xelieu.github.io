@@ -18,7 +18,7 @@ I've actually tried `asbplayer` on `Android` but its pretty faulty and you canno
 
 - IT WORKS but BARELY, you'd rather not mine
 
-??? note "Alright, show me the abomination! <small>(click here)</small>"
+??? note "Alright, show me the aBOmiNaTIoN! <small>(click here)</small>"
 
     - `asbplayer` is a browser video player that supports uploading of `Anime` and `subtitle` to be able hover over the words to use `Yomichan`
 
