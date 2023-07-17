@@ -123,9 +123,9 @@ You now have an Anki Template, next is Yomichan
 
     - In [JPMN's FAQ & Troubleshooting](https://aquafina-water-bottle.github.io/jp-mining-note/faq/) page, or in [TMW](https://learnjapanese.moe/join/) specifically [#jp-mining-note](https://discord.com/channels/617136488840429598/1041466793094557879) channel
 
-#### Question 3: How to change the styling like font or sizes?
+#### Question 3: How to change the styling like font or size?
 
-??? question "How to change the styling like font or sizes? <small>(click here)</small>"
+??? question "How to change the styling like font or size? <small>(click here)</small>"
 
     - In the same way as `Step 6`, on the card's `styling` tab
 
