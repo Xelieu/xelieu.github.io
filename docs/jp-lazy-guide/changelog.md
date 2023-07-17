@@ -4,6 +4,12 @@ hide:
 ---
 # Changelog
 
+**2023-07-17**
+
+- Added [Setup: Anime](https://xelieu.github.io/jp-lazy-guide/setupAnimeOnPC/)
+
+- Added more info and fix broken links
+
 **2023-07-16**
 
 - Rewrote [Lazy guide](https://xelieu.github.io/jp-lazy-guide/) using material mkdocs
