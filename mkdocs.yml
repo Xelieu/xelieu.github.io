@@ -12,7 +12,8 @@ nav:
     - Setup Introduction: 'jp-lazy-guide/setup.md'
     - Essentials:
       - "Setup: Anki": 'jp-lazy-guide/setupAnki.md'
-      - "Setup: Yomichan": 'jp-lazy-guide/setupYomichan.md'
+      - "Setup: Yomichan PC": 'jp-lazy-guide/setupYomichanOnPC.md'
+      - "Setup: Yomichan Android": 'jp-lazy-guide/setupYomichanOnAndroid.md'
       - "Setup: ShareX": 'jp-lazy-guide/setupShareX.md'
     - Visual Novel:
       - "Setup: VN on PC": 'jp-lazy-guide/setupVnOnPC.md'

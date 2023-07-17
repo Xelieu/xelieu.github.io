@@ -8,6 +8,8 @@
 
 - Download `Light Novel` in `epubs` format of your choice
 
+- [Yomichan On PC](https://xelieu.github.io/jp-lazy-guide/setupYomichanOnPC/) already set-up
+
 ---
 
 ## Setting Up

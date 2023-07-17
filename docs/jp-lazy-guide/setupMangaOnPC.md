@@ -1,8 +1,8 @@
 # Setup: Manga on PC
 
-- [MangaOCR](https://xelieu.github.io/jp-lazy-guide/jp-lazy-guide/setupMangaOnPC/#setup-mangaocr) is a tool used to scan a `Japanese` text and return it to your clipboard which you can scan in `Yomichan`
+- [MangaOCR](https://xelieu.github.io/jp-lazy-guide/setupMangaOnPC/#setup-mangaocr) is a tool used to scan a `Japanese` text and return it to your clipboard which you can scan in `Yomichan`
 
-- (Recommended) [Mokuro Manga](https://xelieu.github.io/jp-lazy-guide/jp-lazy-guide/setupMangaOnPC/#setup-mokuro-manga) is a setup that first processes the `manga` to be able to hover the words and scan them using `Yomichan`
+- (Recommended) [Mokuro Manga](https://xelieu.github.io/jp-lazy-guide/setupMangaOnPC/#setup-mokuro-manga) is a setup that first processes the `manga` to be able to hover the words and scan them using `Yomichan`
 
 ---
 
@@ -12,7 +12,7 @@ Requirements
 
 - Install [CDisplay](https://www.cdisplay.me/)
     - Manga Reader for `PC`
-- [Yomichan](https://xelieu.github.io/jp-lazy-guide/jp-lazy-guide/setupYomichan/) and [ShareX](https://xelieu.github.io/jp-lazy-guide/jp-lazy-guide/setupShareX/) already set-up
+- [Yomichan On PC](https://xelieu.github.io/jp-lazy-guide/setupYomichanOnPC/) and [ShareX](https://xelieu.github.io/jp-lazy-guide/setupShareX/) already set-up
 
 ---
 
@@ -29,11 +29,11 @@ Requirements
     - If `pip3 is not recognized...` then just `uninstall Python` > `restart` > `install Python` (repeat if it didn't work)
 
 4. Either Type `manga_ocr` or `manga_ocr "\path\to\sharex\screenshot\folder"`(OCR from a folder only) to start the program, then just minimize the window
-    - If you want a `shortcut` program see: [Info 1](https://xelieu.github.io/jp-lazy-guide/jp-lazy-guide/setupMangaOnPC/#info-1-mangaocr-shortcut-program)
+    - If you want a `shortcut` program see: [Info 1](https://xelieu.github.io/jp-lazy-guide/setupMangaOnPC/#info-1-mangaocr-shortcut-program)
 
 5. Capture anything using `Shift + Alt + Q` or whatever you set in `OCR (manga_ocr)` hotkey in `ShareX`
     - Make sure Yomichan Search window is opened
-    - If you want to `scan using mouse button`, see [Info 2](https://xelieu.github.io/jp-lazy-guide/jp-lazy-guide/setupMangaOnPC/#info-2-scan-using-mouse-button)
+    - If you want to `scan using mouse button`, see [Info 2](https://xelieu.github.io/jp-lazy-guide/setupMangaOnPC/#info-2-scan-using-mouse-button)
 
 ??? info "Video How-to"
     <iframe width="560" height="315" src="https://user-images.githubusercontent.com/22717958/150238361-052b95d1-0152-485f-a441-48a957536239.mp4" title="MangaOCR How-to" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -51,13 +51,13 @@ That's it for MangaOCR!
 
 Choose between 2 options:
 
-- [Online Processing Method](https://xelieu.github.io/jp-lazy-guide/jp-lazy-guide/setupMangaOnPC/#online-processing-method): ~15mins per 200 manga pages; straightforward guide; doesn't support ZXY fork of mokuro
+- [Online Processing Method](https://xelieu.github.io/jp-lazy-guide/setupMangaOnPC/#online-processing-method): ~15mins per 200 manga pages; straightforward guide; doesn't support ZXY fork of mokuro
 
-- [Local Processing Method](https://xelieu.github.io/jp-lazy-guide/jp-lazy-guide/setupMangaOnPC/#local-processing-method): If you have a `strong PC` this is better; you are also `a know-how`
+- [Local Processing Method](https://xelieu.github.io/jp-lazy-guide/setupMangaOnPC/#local-processing-method): If you have a `strong PC` this is better; you are also `a know-how`
 
 !!! note "Android Mining"
 
-    To be able to mine in `Android` check: [Setup: Manga On Android](https://xelieu.github.io/jp-lazy-guide/jp-lazy-guide/setupMangaOnAndroid/)
+    To be able to mine in `Android` check: [Setup: Manga On Android](https://xelieu.github.io/jp-lazy-guide/setupMangaOnAndroid/)
 
 ---
 
@@ -65,7 +65,7 @@ Choose between 2 options:
 
 1. Follow this [Setup Guide](https://colab.research.google.com/drive/1zT4ubIPs3J93UJ0Di82A1ZimzXYULXNf?usp=sharing)
 
-2. Download the processed `Manga` folder and see [Reading Processed Manga](https://xelieu.github.io/jp-lazy-guide/jp-lazy-guide/setupMangaOnPC/#reading-processed-manga)
+2. Download the processed `Manga` folder and see [Reading Processed Manga](https://xelieu.github.io/jp-lazy-guide/setupMangaOnPC/#reading-processed-manga)
 
 
 ---

@@ -1,4 +1,4 @@
-# Setup Yomichan
+# Setup Yomichan PC
 
 - Yomichan is a mouse hover dictionary for Japanese
 - Used for `mining` to `Anki`
@@ -35,7 +35,7 @@ Download `LazyXel Yomichan Setup` and `Font` from [here](https://drive.google.co
 
     ![Yomichan Font](../img/fonts.png){height=150 width=300}
 
-4. Go to Yomibaba’s settings page (Click on the extension’s icon then click on the cog icon from the popup)
+4. Go to `Yomibaba`’s settings page (Click on the extension’s icon then click on the cog icon from the popup)
 
     ![Yomichan Cog](../img/yomichan-cog.png){height=50 width=100}
 
@@ -50,16 +50,16 @@ restart the browser if you keep running into issues
     ![Dictionary Toggle](../img/dictionary-toggle.png){height=250 width=500}
 
 7. Scroll down again, in `Backup` > `Import Settings` > `lazyxel-yomichan-settings` (from the extracted folder)
-    - If you are interested on installing [Yomichan Local Audio](https://xelieu.github.io/jp-lazy-guide/jp-lazy-guide/setupYomichan/#yomichan-local-audio) pick `lazyXel-local-audio`, otherwise `lazyXel-non-local-audio`
+    - If you are interested on installing [Yomichan Local Audio](https://xelieu.github.io/jp-lazy-guide/setupYomichanOnPC/#yomichan-local-audio) pick `lazyXel-local-audio`, otherwise `lazyXel-non-local-audio`
 
 8. Pick a profile(`Default` and `Editing`), usually between `Monolingual` and `Bilingual` (other profiles will be discussed in other sections)
     - `Bilingual` is default, you can hold `alt` while hovering over a word to use the `Monolingual` profile
 
     ![Yomichan Profile](../img/yomichan-profiles.png){align=left height=300 width=600}
 
-Yomichan setup is done, next is ShareX for convenient Mining
+Yomichan on PC setup is done, why not check out how to use Yomichan on Android?
 
-[Proceed to ShareX Setup](setupShareX.md){ .md-button .md-button }
+[Proceed to Yomichan on Android Setup](setupYomichanOnAndroid.md){ .md-button .md-button }
 
 ---
 
@@ -116,7 +116,7 @@ Yomichan setup is done, next is ShareX for convenient Mining
     
         ![Yomichan Local Audio Check](../img/yomichan-local-audio-check.gif){height=250 width=500}
 
-    DONE!
+        DONE!
 
 #### Info 3: Yomichan Light and Dark Mode
 

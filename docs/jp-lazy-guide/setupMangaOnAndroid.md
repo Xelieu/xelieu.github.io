@@ -16,13 +16,13 @@
 
 Requirements:
 
-- Processed Manga from [Setup: Mokuro Manga](https://xelieu.github.io/jp-lazy-guide/jp-lazy-guide/setupMangaOnPC/#setup-mokuro-manga)
+- Processed Manga from [Setup: Mokuro Manga](https://xelieu.github.io/jp-lazy-guide/setupMangaOnPC/#setup-mokuro-manga)
+
+- [Yomichan On Android](https://xelieu.github.io/jp-lazy-guide/setupYomichanOnAndroid/) already set-up
 
 ---
 
 ## Setting Up
-
-`Yomichan` installed in `Kiwi Browser`, same setup as Chrome [here](https://xelieu.github.io/jp-lazy-guide/jp-lazy-guide/setupYomichan/#download-and-install)
 
 1. Transfer your `Processed Manga` in `~/Android/data/com.rayrtheii.localfileserver/files/`
 

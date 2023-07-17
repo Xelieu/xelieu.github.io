@@ -52,7 +52,7 @@
 
 You now have an Anki Template, next is Yomichan
 
-[Proceed to Yomichan Setup](setupYomichan.md){ .md-button .md-button }
+[Proceed to Yomichan Setup](setupYomichanOnPC.md){ .md-button .md-button }
 
 ---
 

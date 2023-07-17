@@ -10,21 +10,19 @@
 
 - Install [Ankidroid](https://play.google.com/store/apps/details?id=com.ichi2.anki)
 
-- Install [Kiwi Browser](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser&hl=en_US)
-    - (Optional) In `Kiwi Browser` Download [Violentmonkey](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag) and Install [Reading Speed Indicator](https://greasyfork.org/en/scripts/459921-reading-speed-statistics-ttsu-app)
-    - (Optional) In `Kiwi Browser` Download [Fullscreen](https://chrome.google.com/webstore/detail/fullscreen/lbpgkagpackldbkfookmmdpfaolnoged) Extension
+Requirements
+
+- [Yomichan On Android](https://xelieu.github.io/jp-lazy-guide/setupYomichanOnAndroid/) already set-up
 
 ---
 
 ## Setting Up
 
-`Yomichan` installed in `Kiwi Browser`, same setup as Chrome [here](https://xelieu.github.io/jp-lazy-guide/jp-lazy-guide/setupYomichan/#download-and-install)
-
 1. Open `AnkiConnect Android`, start the service
     - Open `Ankidroid` and leave it in the background
 
 2. Open your `Kiwi Browser` > `Yomichan Settings` > `Profile` > `Default` & `Editing` Profile > `Kiwi for Phone (LN & Manga)`
-    - If you are not using my `yomichan settings`, see [Info 1](https://xelieu.github.io/jp-lazy-guide/jp-lazy-guide/setupLnOnAndroid/#info-2-text-replacement-pattern)
+    - If you are not using my `yomichan settings`, see [Info 1](https://xelieu.github.io/jp-lazy-guide/setupLnOnAndroid/#info-2-text-replacement-pattern)
 
     ![Yomichan Profile Phone](../img/yomichan-profile-phone.png){height=250 width=500}
 
@@ -69,7 +67,7 @@ You can now read Light Novels in Android, why not check out the Manga setup?
 
     Requirements:
     
-    - Make sure you have [PC Yomichan Local Audio](https://xelieu.github.io/jp-lazy-guide/jp-lazy-guide/setupYomichan/#info-2-yomichan-local-audio) setup
+    - Make sure you have [PC Yomichan Local Audio](https://xelieu.github.io/jp-lazy-guide/setupYomichanOnPC/#info-2-yomichan-local-audio) setup
 
     - You have [AnkiConnect Android](https://drive.google.com/drive/folders/1LG1e4mUmBivgW_ebaP0M2HljlHVclNEg?usp=sharing) installed
 

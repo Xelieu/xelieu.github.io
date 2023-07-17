@@ -68,7 +68,7 @@ Add-ons required: [AJT Japanese](https://aquafina-water-bottle.github.io/jp-mini
 
 8. Switch to my [Yomichan Setup](https://drive.google.com/drive/folders/1s_PdQ9HWvpDFXkh_AGGzVgqrFBGhUsbI?usp=sharing)
     - `Better Mono` and `updated dicts` that isn't currently compatible on my Lazy Format
-    - Follow [Setup: Yomichan](https://xelieu.github.io/jp-lazy-guide/jp-lazy-guide/setupYomichan/) for easy import of `Dictionaries` and `Settings`
+    - Follow [Yomichan On PC](https://xelieu.github.io/jp-lazy-guide/setupYomichanOnPC/) for easy import of `Dictionaries` and `Settings`
 
 ---
 
