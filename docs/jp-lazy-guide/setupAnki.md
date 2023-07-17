@@ -109,16 +109,27 @@ You now have an Anki Template, next is Yomichan
 
 ## FAQs
 
-#### Question 1: Where can I ask if something is wrong with my JPMN Anki Format?
-
-??? question "Where can I ask if something is wrong with my JPMN Anki Format? <small>(click here)</small>"
-
-    - In [JPMN's FAQ & Troubleshooting](https://aquafina-water-bottle.github.io/jp-mining-note/faq/) page, or in [TMW](https://learnjapanese.moe/join/) specifically [#jp-mining-note](https://discord.com/channels/617136488840429598/1041466793094557879) channel
-
-#### Question 2: Where should I put more image aside from screenshot?
+#### Question 1: Where should I put more image aside from screenshot?
 
 ??? question "Where should I put more image aside from screenshot <small>(click here)</small>"
 
     - Put it in `PrimaryDefinitionPicture` in `Anki`
 
     - You can paste the image while reviewing by going `Edit` mode or `E` shortcut
+
+#### Question 2: Where can I ask if something is wrong with my JPMN Anki Format?
+
+??? question "Where can I ask if something is wrong with my JPMN Anki Format? <small>(click here)</small>"
+
+    - In [JPMN's FAQ & Troubleshooting](https://aquafina-water-bottle.github.io/jp-mining-note/faq/) page, or in [TMW](https://learnjapanese.moe/join/) specifically [#jp-mining-note](https://discord.com/channels/617136488840429598/1041466793094557879) channel
+
+#### Question 3: How to change the styling like font or sizes?
+
+??? question "How to change the styling like font or sizes? <small>(click here)</small>"
+
+    - In the same way as `Step 6`, on the card's `styling` tab
+
+    - Scroll down until you find `/* ================ jp-mining-note: INSERT CUSTOM CSS BELOW ================ */`
+
+    - Changing anything not below that specific `line of code` will be reverted back once you `updated` the `note`
+
