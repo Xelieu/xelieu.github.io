@@ -6,7 +6,7 @@ hide:
 
 **2023-07-16**
 
-- Rewrote [Lazy guide](https://xelieu.github.io/) using material mkdocs
+- Rewrote [Lazy guide](https://xelieu.github.io/jp-lazy-guide/) using material mkdocs
 - Abandoned updating [Rentry Lazy Guide](https://rentry.co/lazyXel/)
 
 **2023-07-04**

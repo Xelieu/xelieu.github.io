@@ -52,7 +52,7 @@ hide:
             ![v3 Scheduler](../img/v3-scheduler.png){height=300 width=600}
 
 
-5. Do the `Core 2.3k deck`, start with `10 new cards/day`(30 max; don't overdo it) along with the `grammar guide` below;
+5. Do the `Core 2.3k deck`, start with `10 new cards/day`(30 max; don't overdo it) along with the `grammar guide` on `step 6`;
     - Kanji is here on the deck; `learn vocab not isolated kanji` is the motto
 
 6. Either [Tae Kim Text Grammar Guide](https://guidetojapanese.org/learn/grammar/basic) or [Cure Dolly's Video Grammar Guide](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj) (First 30 videos only)
@@ -65,7 +65,7 @@ hide:
 8. While immersing you can quickly `check grammar points` from [DoJG](https://core6000.neocities.org/dojg/)(Beginner) and [Nihongokyoshi](https://nihongokyoshi-net.com/jlpt-grammars/)(Intermediate+)
     - `Read/watch what you like`, but only up to medium difficulty, or 4-5/10 on [jpdb](https://jpdb.io/), its going to be a real pain at first, but do it
 
-9. Go to [Lazy Mining Guide](https://xelieu.github.io/jp-lazy-guide/jp-lazy-guide/) I made for easy setup of latest mining tools for whatever media
+9. Go to [Lazy Mining Guide](index.md) I made for easy setup of latest mining tools for whatever media
     - Mining - is the act of `creating cards from media` you immerse on like VN/LN, my tools `provide a single-click mining`
 
 ---

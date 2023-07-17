@@ -43,7 +43,7 @@ You are done setting up ShareX, next is Visual Novel for PC
 
 ??? info "Mining Demo <small>(click here)</small>"
 
-    Don't forget the [Mining Demo](https://xelieu.github.io/jp-lazy-guide/#mining-demo)!
+    Don't forget the Mining Demo!
     
     <iframe width="560" height="315" src="https://www.youtube.com/embed/seAMOvIiFcw" title="Mining Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
