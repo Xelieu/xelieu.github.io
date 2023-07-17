@@ -41,11 +41,11 @@ Requirements:
     ![Manga Android HTML File](../img/android-mokuro-settings.png){height=500 width=1000}
 
     - Uncheck the `show page number` so it doesn't get included on mining
-    - `Export your settings` as every time you have new manga/volume you need to re-import the settings
 
-??? info "Android Manga Mining Demo <small>(click here)</small>"
+6. You can now mine with `Yomichan`, don't forget to click the blue `●` after the `+` to be able to `screenshot`
+    
+    - See [Android Mining Demo](https://xelieu.github.io/jp-lazy-guide/setupMangaOnAndroid/#info-1-android-mining-demo)
 
-    ![Android Manga Mining](../img/android-manga-mining.gif){height=200 width=400}
 
 You are now finally done in setting up Manga Mining in Android, how about checking out Anime Mining?
 
@@ -54,3 +54,17 @@ You are now finally done in setting up Manga Mining in Android, how about checki
 ---
 
 ## Extra Info and Tips
+
+#### Info 1: Android Mining Demo
+
+??? info "Android Mining Demo <small>(click here)</small>"
+
+    - Mining Demo with Manga screenshot
+
+    ![Android Manga Mining](../img/android-manga-mining.gif){height=200 width=400}s
+
+#### Tip 1: Export your Settings
+
+??? tip "Export your settings <small>(click here)</small>"
+
+    - `Export your settings` as every time you have new manga/volume you need to re-import the settings

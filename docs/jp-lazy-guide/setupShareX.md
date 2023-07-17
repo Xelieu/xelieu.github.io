@@ -39,6 +39,16 @@ You are done setting up ShareX, next is Visual Novel for PC
 
 ## Extra Info and Tips
 
+#### Info 1: Mining Demo
+
+??? info "Mining Demo <small>(click here)</small>"
+
+    Don't forget the [Mining Demo](https://xelieu.github.io/jp-lazy-guide/#mining-demo)!
+    
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/seAMOvIiFcw" title="Mining Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+#### Info 2: Hotkey Function
+
 ??? info "Hotkey Function <small>(click here)</small>"
 
     - `screenshot` and `screenshot nsfw`: Captures your whole main screen

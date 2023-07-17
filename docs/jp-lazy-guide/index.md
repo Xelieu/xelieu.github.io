@@ -15,7 +15,7 @@ If you want to buy me a coffee(Thanks!): [Ko-fi (Xelieu)](https://ko-fi.com/xeli
 
 ---
 
-#### [Anki Features](https://aquafina-water-bottle.github.io/jp-mining-note/)
+## Anki and Yomichan Format
 
 - 4 in 1 Profile Support: `Monolingual`, `Bilingual`, `LN & Manga in Android`, `VN in Android`
 
@@ -30,9 +30,30 @@ If you want to buy me a coffee(Thanks!): [Ko-fi (Xelieu)](https://ko-fi.com/xeli
 === "Yomichan Profile"
     ![Yomichan Profile](../img/yomichan-profiles.png){align=left height=300 width=600}
 
+??? note "Anki Features <small>(click here)</small>"
+
+    Here are the demos for `GUI`, `Card Creation` and `Field`:
+        
+    - This is `already configured` and `you don't have to do anything`
+    
+    === "GUI"
+        <video height="300" width="600"  controls>
+        <source src="../vid/jpmn-gui.mp4" type="video/mp4">
+        </video>
+    === "Card Creation"
+        <video height="300" width="600"  controls>
+        <source src="../vid/jpmn-card-creation.mp4" type="video/mp4">
+        </video>
+    === "Field Customization"
+        <video height="300" width="600"  controls>
+        <source src="../vid/jpmn-field.mp4" type="video/mp4">
+        </video>
+    
+    [Source](https://aquafina-water-bottle.github.io/jp-mining-note/)
+
 ---
 
-#### [Mining Demo](https://youtu.be/seAMOvIiFcw)
+## [Mining Demo](https://youtu.be/seAMOvIiFcw)
 - This is outdated format but pretty much the same method
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/seAMOvIiFcw" title="Mining Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
