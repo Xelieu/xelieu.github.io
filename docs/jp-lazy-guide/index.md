@@ -30,6 +30,8 @@ If you want to buy me a coffee(Thanks!): [Ko-fi (Xelieu)](https://ko-fi.com/xeli
 === "Yomichan Profile"
     ![Yomichan Profile](../img/yomichan-profiles.png){align=left height=300 width=600}
 
+#### Anki Featuers
+
 ??? note "Anki Features <small>(click here)</small>"
 
     Here are the demos for `GUI`, `Card Creation` and `Field`:
