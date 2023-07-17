@@ -109,7 +109,13 @@ You now have an Anki Template, next is Yomichan
 
 ## FAQs
 
-#### Question 1: Where should I put more image aside from screenshot?
+#### Question 1: Where can I ask if something is wrong with my JPMN Anki Format?
+
+??? question "Where can I ask if something is wrong with my JPMN Anki Format? <small>(click here)</small>"
+
+    - In [JPMN's FAQ & Troubleshooting](https://aquafina-water-bottle.github.io/jp-mining-note/faq/) page, or in [TMW](https://learnjapanese.moe/join/) specifically [#jp-mining-note](https://discord.com/channels/617136488840429598/1041466793094557879) channel
+
+#### Question 2: Where should I put more image aside from screenshot?
 
 ??? question "Where should I put more image aside from screenshot <small>(click here)</small>"
 
