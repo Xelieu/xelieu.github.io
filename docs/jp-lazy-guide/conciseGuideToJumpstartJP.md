@@ -55,7 +55,7 @@ hide:
 5. Do the `Core 2.3k deck`, start with `10 new cards/day`(30 max; don't overdo it) along with the `grammar guide` below;
     - Kanji is here on the deck; `learn vocab not isolated kanji` is the motto
 
-6. Either `Tae Kim Text Grammar Guide` or `Cure Dolly's Video Grammar Guide` (First 30 videos only)
+6. Either [Tae Kim Text Grammar Guide](https://guidetojapanese.org/learn/grammar/basic) or [Cure Dolly's Video Grammar Guide](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj) (First 30 videos only)
     - No, you do not need to perfect the quizzes, you can `even skip it`
     - What's important is `digest the material properly` or get a glimpse of it which `you will look back on hundreds of times anyways`
 
