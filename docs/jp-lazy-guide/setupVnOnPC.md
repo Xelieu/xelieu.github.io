@@ -36,6 +36,7 @@ Requirements:
     2. Type `intl.cpl` > `enter`
 
     3. `Administrative` > `Change System Locale...` > `Japanese (Japan)` > Restart your `PC`
+        - This doesn't affect your `language` on `PC`
 
         ![System Locale JP](../img/system-locale-jp.png){height=250 width=500}
 
