@@ -76,7 +76,7 @@ Add-ons required: [AJT Japanese](https://aquafina-water-bottle.github.io/jp-mini
 
 This is needed for people that used my Monolingual format or you won't have definitions on JPMN
 
-1. Download and Install [Git](https://github.com/git-for-windows/git/releases/download/v2.40.1.windows.1/Git-2.40.1-64-bit.exe) and [Python](https://www.python.org/ftp/python/3.10.11/python-3.10.11-amd64.exe)
+1. Download and Install [Git](https://github.com/git-for-windows/git/releases/download/v2.40.1.windows.1/Git-2.40.1-64-bit.exe) and [Python](https://www.python.org/ftp/python/3.10.11/python-3.10.11-amd64.exe) (`3.10.xx ONLY`)
     - For `Python`: Check `Add Python to Path`
 
 2. Make a new profile and import the old Mining Deck (The backup)

@@ -18,7 +18,7 @@ Requirements
 
 ## Setup: MangaOCR
 
-1. Download [python](https://www.python.org/downloads/release/python-31011/)
+1. Download [python](https://www.python.org/downloads/release/python-31011/) (`3.10.xx ONLY`)
     - Then choose Windows/mac `INSTALLER (64-bit)` and install
     - Check `Add Python to Path`
 
@@ -75,7 +75,7 @@ Choose between 2 options:
 
 ### Local Processing Method
 
-1. Download [python](https://www.python.org/downloads/release/python-31011/)
+1. Download [python](https://www.python.org/downloads/release/python-31011/) (`3.10.xx ONLY`)
     - Then choose Windows/mac `INSTALLER 64bit` and install
     - Check `Add Python to Path`
 
