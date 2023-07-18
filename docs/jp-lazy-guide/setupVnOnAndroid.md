@@ -108,3 +108,20 @@ You now mine VN on Android, why not check out Mining Light Novel on PC?
 ??? tip "Zoom in your texthooker - android page <small>(click here)</small>"
 
     - If its not big enough for you, on your `PC` > `texthooker - android` page, Zoom in with `Ctrl + Mouse Scroll Wheel` to the `%` that you like
+
+## FAQs
+
+#### Question 1: How to use Monolingual Setup?
+
+??? question "How to use Monolingual Setup? <small>(click here)</small>"
+
+    1. In your `PC`, go to `Yomichan` settings > `Profile (Editing)` > `Android (VN)`
+    
+    2. `Yomichan` settings > `Dictionary` > Enable `all`
+
+        ![Dictionary Toggle](../img/dictionary-toggle.png){height=250 width=500}
+
+    3. `Yomichan` settings > `Anki` > `Configure Anki card templates...`
+        - Switch the `highlighted text` to `monolingual` (case-sensitive)
+
+        ![Dictionary Toggle](../img/switch-to-mono.png){height=250 width=500}

@@ -95,19 +95,32 @@ I've actually tried `asbplayer` on `Android` but its pretty faulty and you canno
 
     ## FAQs
 
-    #### Question 1: Why Enable Experimental Web Platform features?
+    #### Question 1: How to use Monolingual Setup on Android?
+
+    ??? question "How to use Monolingual Setup on Android? <small>(click here)</small>"
+
+        1. Go to your `Yomichan` settings > `Dictionary` > Enable `all`
+
+            ![Dictionary Toggle](../img/dictionary-toggle.png){height=250 width=500}
+
+        2. `Yomichan` settings > `Anki` > `Configure Anki card templates...`
+            - Switch the `highlighted text` to `monolingual` (case-sensitive)
+
+            ![Dictionary Toggle](../img/switch-to-mono.png){height=250 width=500}
+
+    #### Question 2: Why Enable Experimental Web Platform features?
 
     ??? question "Why Enable Experimental Web Platform features? <small>(click here)</small>"
 
         - Some `Anime` have multiple `audio sources` such as `en` and `jp`, by enabling this we can pick `jp` source if its not the default
 
-    #### Question 2: Why Ignore Request Permission to Anki?
+    #### Question 3: Why Ignore Request Permission to Anki?
 
     ??? question "Why Ignore Request Permission to Anki? <small>(click here)</small>"
 
         - Because we are using the normal method where we can use the full features of `Anki` and `Yomichan` setup
 
-    #### Question 3: Why not install the Chrome Extension?
+    #### Question 4: Why not install the Chrome Extension?
 
     ??? question "Why not install the Chrome Extension? <small>(click here)</small>"
 
