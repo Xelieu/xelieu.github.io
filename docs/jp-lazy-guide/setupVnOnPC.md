@@ -11,7 +11,7 @@ Download [Textractor 5.2.0](https://drive.google.com/drive/folders/1HPhYtqcNK66E
 
 - Some versions are messed up so I recommend sticking to this
 
-- (Optional) [VN Texthooker on Phone](https://rentry.co/android-texthook); [Mobile Setup](https://xelieu.github.io/jp-lazy-guide/setupLnOnAndroid/) is required
+- (Optional) [VN Texthooker on Android](https://rentry.co/android-texthook); [Android Setup](https://xelieu.github.io/jp-lazy-guide/setupLnOnAndroid/) is required
     - If you don't have 2nd monitor or want to full screen
 
 ---
