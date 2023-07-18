@@ -21,10 +21,10 @@ Requirements
 1. Open `AnkiConnect Android`, start the service
     - Open `Ankidroid` and leave it in the background
 
-2. Open your `Kiwi Browser` > `Yomichan Settings` > `Profile` > `Default` & `Editing` Profile > `Kiwi for Phone (LN & Manga)`
+2. Open your `Kiwi Browser` > `Yomichan Settings` > `Profile` > `Default` & `Editing` Profile > `Android (LN & Manga)`
     - If you are not using my `yomichan settings`, see [Info 1](https://xelieu.github.io/jp-lazy-guide/setupLnOnAndroid/#info-2-text-replacement-pattern)
 
-    ![Yomichan Profile Phone](../img/yomichan-profile-phone.png){height=250 width=500}
+    ![Yomichan Profile Android](../img/yomichan-profile-android.png){height=250 width=500}
 
 3. In `Kiwi Browser`, open `https://reader.ttsu.app/` and upload your `Light Novel` epubs
 
@@ -83,14 +83,14 @@ You can now read Light Novels in Android, why not check out the Manga setup?
     2. Within `Anki` on `PC`: either `Ctrl + Shift + A` or `Tools` > `Add-ons` > select `Local Audio Server for Yomichan` > `View Files`
         - There will be a file named `android` or `android.db`
 
-    3. On your phone, open `AnkiConnect Android` > `Settings` > `Print Local Audio Directory`
+    3. On your android, open `AnkiConnect Android` > `Settings` > `Print Local Audio Directory`
         - This will show you the path as well as generate the folder
     
     4. On that location from 3rd step, usually: `Android/data/com.kamwithk.ankiconnectandroid/files/`
         - Paste the `android` file ON `files` folder from `PC` (2nd step)
         - The result should be: `Android/data/com.kamwithk.ankiconnectandroid/files/android.db`
     
-    5. My `local-audio-yomichan-settings` profile: `Kiwi for Phone (LN & Manga)`
+    5. My `local-audio-yomichan-settings` profile: `Android (LN & Manga)`
         - OR if you are not using my profile:
             - Go to `yomichan settings` > `Audio` > `Configure audio playback sources...` > `Add` > `Custom URL (JSON)`
             - Paste `http://localhost:8765/localaudio/get/?term={term}&reading={reading}` and make sure it's on the top

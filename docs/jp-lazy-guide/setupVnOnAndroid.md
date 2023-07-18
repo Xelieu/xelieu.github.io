@@ -25,7 +25,7 @@ For `Android`:
 ## Setting Up
 
 1. In your `PC`, open your `Steam Settings` > `Controller` > `Desktop Configuration`
-    - You must have your `Steam Link` opened in your phone
+    - You must have your `Steam Link` opened in your android
 
     ![Steam Settings](../img/steam-settings.png){height=250 width=500}
 
@@ -37,7 +37,7 @@ For `Android`:
 
     ![Steam Link Settings](../img/steam-link-settings.png){height=500 width=1000}
 
-4. Use `Steam link` > `shake your phone`(if icon is not there) > open the `top left icon` > `Touch Controller` ENABLED > `Layout Controls` > add your macros wherever, erase controller buttons as you won't need them
+4. Use `Steam link` > `shake your android`(if icon is not there) > open the `top left icon` > `Touch Controller` ENABLED > `Layout Controls` > add your macros wherever, erase controller buttons as you won't need them
 
     ![Steam Link Macros](../img/steam-link-macros.png){height=500 width=1000}
 
@@ -55,13 +55,13 @@ For `Android`:
 
 ## Yomichan Configuration
 
-1. On `PC`, [Texthooker 5.2.0](https://drive.google.com/drive/folders/1oHdD3DL8BqAxEEvUoSK-ow8snK6_Qn6y?usp=sharing) folder, open `texthooker - phone` page
+1. On `PC`, [Texthooker 5.2.0](https://drive.google.com/drive/folders/1oHdD3DL8BqAxEEvUoSK-ow8snK6_Qn6y?usp=sharing) folder, open `texthooker - android` page
 
-2. In your `texthooker - phone` page, copy the `URL`
+2. In your `texthooker - android` page, copy the `URL`
 
     ![Texthooker URL](../img/texthooker-url.png){height=250 width=500}
 
-3. On `PC`, open `Yomichan Settings` > `Profile` > `Configure Profiles...` > `Phone (VN)` > `Options` > `Edit conditions...`
+3. On `PC`, open `Yomichan Settings` > `Profile` > `Configure Profiles...` > `Android (VN)` > `Options` > `Edit conditions...`
 
     ![Yomichan Profile Option](../img/yomichan-profile-option.png){height=250 width=500}
 
@@ -103,8 +103,8 @@ You now mine VN on Android, why not check out Mining Light Novel on PC?
 
 ## Extra Info and Tips
 
-#### Tip 1: Zoom in your `texthooker - phone` page
+#### Tip 1: Zoom in your `texthooker - android` page
 
-??? tip "Zoom in your texthooker - phone page <small>(click here)</small>"
+??? tip "Zoom in your texthooker - android page <small>(click here)</small>"
 
-    - If its not big enough for you, on your `PC` > `texthooker - phone` page, Zoom in with `Ctrl + Mouse Scroll Wheel` to the `%` that you like
+    - If its not big enough for you, on your `PC` > `texthooker - android` page, Zoom in with `Ctrl + Mouse Scroll Wheel` to the `%` that you like

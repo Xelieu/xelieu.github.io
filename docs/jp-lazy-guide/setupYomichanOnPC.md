@@ -72,12 +72,12 @@ Yomichan on PC setup is done, why not check out how to use Yomichan on Android?
     - (Monolingual) 旺文社国語辞典 第十一版
     - (Monolingual) 三省堂国語辞典　第七版
     - (Monolingual) 実用日本語表現辞典
-    - (Monolingual) 新明解国語辞典　第七版
+    - [Monolingual] 新明解国語辞典 第八版
     - (Monolingual) 明鏡国語辞典 第二版
-    - (Bilingual) JMdict (English)
+    - (Bilingual) JMdict (English-Original)
     - (Variant Forms) JMdict Forms
-    - (Name) JMnedict
-    - (Pitch Accent) アクセント辞典
+    - (Name) JMnedict (No-Kana)
+    - (Pitch Accent) アクセント辞典 v3
     - (Frequency) BCCWJ
     - (Frequency) JPDB
     - (Frequency) ICR

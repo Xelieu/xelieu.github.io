@@ -49,7 +49,7 @@ restart the browser if you keep running into issues
 7. Scroll down again, in `Backup` > `Import Settings` > `lazyxel-yomichan-settings` (from the extracted folder)
     - If you are interested on installing [Yomichan Local Audio](https://xelieu.github.io/jp-lazy-guide/setupYomichanOnAndroid/#info-2-android-yomichan-local-audio) pick `lazyXel-local-audio`, otherwise `lazyXel-non-local-audio`
 
-8. Pick `Kiwi for Phone (LN & Manga)` profile (`Default` and `Editing`)
+8. Pick `Android (LN & Manga)` profile (`Default` and `Editing`)
 
     ![Yomichan Profile](../img/yomichan-profiles.png){align=left height=300 width=600}
 
@@ -68,12 +68,12 @@ Yomichan setup is done, next is ShareX for convenient Mining
     - (Monolingual) 旺文社国語辞典 第十一版
     - (Monolingual) 三省堂国語辞典　第七版
     - (Monolingual) 実用日本語表現辞典
-    - (Monolingual) 新明解国語辞典　第七版
+    - [Monolingual] 新明解国語辞典 第八版
     - (Monolingual) 明鏡国語辞典 第二版
-    - (Bilingual) JMdict (English)
+    - (Bilingual) JMdict (English-Original)
     - (Variant Forms) JMdict Forms
-    - (Name) JMnedict
-    - (Pitch Accent) アクセント辞典
+    - (Name) JMnedict (No-Kana)
+    - (Pitch Accent) アクセント辞典 v3
     - (Frequency) BCCWJ
     - (Frequency) JPDB
     - (Frequency) ICR
@@ -106,14 +106,14 @@ Yomichan setup is done, next is ShareX for convenient Mining
     2. Within `Anki` on `PC`: either `Ctrl + Shift + A` or `Tools` > `Add-ons` > select `Local Audio Server for Yomichan` > `View Files`
         - There will be a file named `android` or `android.db`
 
-    3. On your phone, open `AnkiConnect Android` > `Settings` > `Print Local Audio Directory`
+    3. On your android, open `AnkiConnect Android` > `Settings` > `Print Local Audio Directory`
         - This will show you the path as well as generate the folder
     
     4. On that location from 3rd step, usually: `Android/data/com.kamwithk.ankiconnectandroid/files/`
         - Paste the `android` file ON `files` folder from `PC` (2nd step)
         - The result should be: `Android/data/com.kamwithk.ankiconnectandroid/files/android.db`
     
-    5. My `local-audio-yomichan-settings` profile: `Kiwi for Phone (LN & Manga)`
+    5. My `local-audio-yomichan-settings` profile: `Android (LN & Manga)`
         - OR if you are not using my profile:
             - Go to `yomichan settings` > `Audio` > `Configure audio playback sources...` > `Add` > `Custom URL (JSON)`
             - Paste `http://localhost:8765/localaudio/get/?term={term}&reading={reading}` and make sure it's on the top
