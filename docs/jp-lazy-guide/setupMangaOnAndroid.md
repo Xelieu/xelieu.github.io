@@ -68,3 +68,18 @@ You are now finally done in setting up Manga Mining in Android, how about checki
 ??? tip "Export your settings <small>(click here)</small>"
 
     - `Export your settings` as every time you have new manga/volume you need to re-import the settings
+
+## FAQs
+
+#### Question 1: How to use Monolingual Setup on Android?
+
+??? question "How to use Monolingual Setup on Android? <small>(click here)</small>"
+
+    1. Go to your `Yomichan` settings > `Dictionary` > Enable `all`
+
+        ![Dictionary Toggle](../img/dictionary-toggle.png){height=250 width=500}
+
+    2. `Yomichan` settings > `Anki` > `Configure Anki card templates...`
+        - Switch the `highlighted text` to `monolingual` (case-sensitive)
+
+        ![Dictionary Toggle](../img/switch-to-mono.png){height=250 width=500}

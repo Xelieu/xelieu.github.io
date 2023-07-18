@@ -102,3 +102,18 @@ You can now read Light Novels in Android, why not check out the Manga setup?
         ![Yomichan Local Audio Check](../img/yomichan-local-audio-check.gif){height=250 width=500}
 
         DONE!
+
+## FAQs
+
+#### Question 1: How to use Monolingual Setup on Android?
+
+??? question "How to use Monolingual Setup on Android? <small>(click here)</small>"
+
+    1. Go to your `Yomichan` settings > `Dictionary` > Enable `all`
+
+        ![Dictionary Toggle](../img/dictionary-toggle.png){height=250 width=500}
+
+    2. `Yomichan` settings > `Anki` > `Configure Anki card templates...`
+        - Switch the `highlighted text` to `monolingual` (case-sensitive)
+
+        ![Dictionary Toggle](../img/switch-to-mono.png){height=250 width=500}
