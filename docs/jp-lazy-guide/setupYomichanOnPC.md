@@ -25,7 +25,7 @@ Download `LazyXel Yomichan Setup` and `Font` from [here](https://drive.google.co
 
 ## Setting Up
 
-1. Go to `chrome://extensions` or `edge://extensions` (not needed for firefox) and go to `Yomichan` extension settings
+1. Go to `chrome://extensions` or `edge://extensions` (not needed for firefox) and go to `Yomibaba` extension settings
 
 2. Make sure `Allow access to file URLs` is enabled
 

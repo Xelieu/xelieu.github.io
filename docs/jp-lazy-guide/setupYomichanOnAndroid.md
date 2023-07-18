@@ -22,7 +22,7 @@ Download `LazyXel Yomichan Setup` and `Font` from [here](https://drive.google.co
 
 ## Setting Up
 
-1. Go to `kiwi://extensions` and go to `Yomichan` extension settings
+1. Go to `kiwi://extensions` and go to `Yomibaba` extension settings
 
 2. Make sure `Allow access to file URLs` is enabled
 
