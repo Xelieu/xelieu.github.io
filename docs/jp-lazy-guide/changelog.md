@@ -208,7 +208,7 @@ In [Anki add-ons](https://drive.google.com/drive/u/5/folders/1QSDSkkHnCiHOfNYAVt
 
 **2022-04-03:**
 
-- Updated [Anki](https://rentry.co/lazyXel#anki) format sentence highlight from underline to purple, bilingual highlighted text not showing up fix
+- [Yomichan](https://rentry.co/lazyXel#yomichan) settings, just import it and you're good, mostly minor designs, code cleaning, forvo audio and added [Kiwi for Phone](https://rentry.co/lazyXel#read-light-novel-anywhere-with-yomichan-and-mining) Profile
 
 - [Manga OCR or Manga with Yomichan](https://rentry.co/lazyXel#mangaocr-or-manga-with-yomichan) in replace of Capture2Text (It is inferior)
 
@@ -224,7 +224,7 @@ In [Anki add-ons](https://drive.google.com/drive/u/5/folders/1QSDSkkHnCiHOfNYAVt
 
 **2021-11-27:**
 
-- [Yomichan](https://rentry.co/lazyXel#yomichan) settings, just import it and you're good, mostly minor designs, code cleaning, forvo audio and added [Kiwi for Phone](https://rentry.co/lazyXel#read-light-novel-anywhere-with-yomichan-and-mining) Profile
+- Updated [Anki](https://rentry.co/lazyXel#anki) format sentence highlight from underline to purple, bilingual highlighted text not showing up fix
 
 - Updated my [Immersion Data Spreadsheet(Clean; up to 2022)](https://docs.google.com/spreadsheets/d/1VnPPeWW5pWxDtNDGktyG5_F3JXckMgpJlF3ud5DHVDw/edit?usp=sharing) Overall tab which had formula errors (Just duplicate and replace the specific sheet so you don't have to redo your immersion)
 
