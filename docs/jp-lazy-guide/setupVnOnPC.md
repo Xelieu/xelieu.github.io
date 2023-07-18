@@ -5,14 +5,39 @@
 - [Clipboard Inserter](https://xelieu.github.io/jp-lazy-guide/setupVnOnPC/#clipboard-inserter) is used to copy and paste the text extracted by `Textractor` into a `Texthooker` page where you can use `Yomichan` to scan the words and mine it into `Anki`
 
 ---
-## Textractor
 
-Download [Textractor 5.2.0](https://drive.google.com/drive/folders/1HPhYtqcNK66EvAjQnW3Y7jSUYEkwRAEw?usp=sharing) folder
+Requirements:
 
-- Some versions are messed up so I recommend sticking to this
+[Textractor](https://xelieu.github.io/jp-lazy-guide/setupVnOnPC/#setup-textractor)
 
-- (Optional) [VN Texthooker on Android](https://rentry.co/android-texthook); [Android Setup](https://xelieu.github.io/jp-lazy-guide/setupLnOnAndroid/) is required
-    - If you don't have 2nd monitor or want to full screen
+- Download [Textractor 5.2.0](https://drive.google.com/drive/folders/1HPhYtqcNK66EvAjQnW3Y7jSUYEkwRAEw?usp=sharing) folder
+    
+    - Some versions are messed up so I recommend sticking to this
+    
+    - (Optional) [VN Texthooker on Android](https://rentry.co/android-texthook); [Android Setup](https://xelieu.github.io/jp-lazy-guide/setupLnOnAndroid/) is required
+        - If you don't have 2nd monitor or want to full screen
+
+[Clipboard Inserter](https://xelieu.github.io/jp-lazy-guide/setupVnOnPC/#setup-clipboard-inserter)
+
+- Download `Clipboard Inserter` from [Chrome/Edge](https://chrome.google.com/webstore/detail/clipboard-inserter/deahejllghicakhplliloeheabddjajm) or [Firefox](https://addons.mozilla.org/en-US/firefox/addon/lap-clipboard-inserter/)
+
+- `Clipboard Inserter` with `texthooker` page from the [Textractor 5.2.0](https://drive.google.com/drive/folders/1HPhYtqcNK66EvAjQnW3Y7jSUYEkwRAEw?usp=sharing) folder 
+    - Alternative [Texthooker Page w/ Websocket](https://github.com/Renji-XD/texthooker-ui) (only for know-how)
+
+
+ Set the System Locale - JP
+
+- This is required for `Visual Novel` to `run`
+
+??? note "Set: System Locale - JP <small>(click here)</small>"
+
+    1. In your `PC`, press `Win + R` key
+
+    2. Type `intl.cpl` > `enter`
+
+    3. `Administrative` > `Change System Locale...` > `Japanese (Japan)` > Restart your `PC`
+
+        ![System Locale JP](../img/system-locale-jp.png){height=250 width=500}
 
 ---
 
@@ -45,15 +70,6 @@ Download [Textractor 5.2.0](https://drive.google.com/drive/folders/1HPhYtqcNK66E
     ![Visual Novel Sample](../img/visual-novel-sample.png){height=500 width=1000}
 
 It is now texthooking, proceed to [Clipboard Inserter](https://xelieu.github.io/jp-lazy-guide/setupVnOnPC/#clipboard-inserter) to be able to use the text from `Textractor` and use `Yomichan` on it
-
----
-
-## Clipboard Inserter
-
-- Download `Clipboard Inserter` from [Chrome/Edge](https://chrome.google.com/webstore/detail/clipboard-inserter/deahejllghicakhplliloeheabddjajm) or [Firefox](https://addons.mozilla.org/en-US/firefox/addon/lap-clipboard-inserter/)
-
-- `Clipboard Inserter` with `texthooker` page from the [Textractor 5.2.0](https://drive.google.com/drive/folders/1HPhYtqcNK66EvAjQnW3Y7jSUYEkwRAEw?usp=sharing) folder 
-    - Alternative [Texthooker Page w/ Websocket](https://github.com/Renji-XD/texthooker-ui) (only for know-how)
 
 ---
 
