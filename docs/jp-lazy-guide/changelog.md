@@ -235,3 +235,4 @@ In [Anki add-ons](https://drive.google.com/drive/u/5/folders/1QSDSkkHnCiHOfNYAVt
 **2021-09-27 11:32 UTC**
 
 - #### JP LAZY Guide was made
+	- [Rentry Lazy Guide](https://rentry.co/lazyxel)
