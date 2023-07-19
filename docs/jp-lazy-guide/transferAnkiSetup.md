@@ -6,7 +6,7 @@ hide:
 
 If you've been using my Anki Layout and want to transfer to JPMN
 
-Add-ons required: [AJT Japanese](https://aquafina-water-bottle.github.io/jp-mining-note/setupanki/#ajt-japanese) and [JPMN Manager](https://ankiweb.net/shared/info/1732829476) (already included in my [add-ons](https://drive.google.com/drive/folders/1qdElBZ_1CCjyVuKCrxHegtGYludG0HVw?usp=sharing))
+- Add-ons required: [AJT Japanese](https://aquafina-water-bottle.github.io/jp-mining-note/setupanki/#ajt-japanese) and [JPMN Manager](https://ankiweb.net/shared/info/1732829476) (already included in my [add-ons](https://drive.google.com/drive/folders/1qdElBZ_1CCjyVuKCrxHegtGYludG0HVw?usp=sharing))
 
 ---
 
@@ -67,7 +67,7 @@ Add-ons required: [AJT Japanese](https://aquafina-water-bottle.github.io/jp-mini
 7. `Tools` > `JPMN Manager` > `Run Batch Command` > input `set_pasilence_field`
 
 8. Switch to my [Yomichan Setup](https://drive.google.com/drive/folders/1s_PdQ9HWvpDFXkh_AGGzVgqrFBGhUsbI?usp=sharing)
-    - `Better Mono` and `updated dicts` that isn't currently compatible on my Lazy Format
+    - `Better Mono` and `updated dicts` that isn't currently compatible on my `Lazy` Format
     - Follow [Yomichan On PC](https://xelieu.github.io/jp-lazy-guide/setupYomichanOnPC/) for easy import of `Dictionaries` and `Settings`
 
 ---
@@ -79,7 +79,7 @@ This is needed for people that used my Monolingual format or you won't have defi
 1. Download and Install [Python](https://www.python.org/ftp/python/3.10.11/python-3.10.11-amd64.exe) (`3.10.xx ONLY`) and [Git](https://github.com/git-for-windows/git/releases/download/v2.40.1.windows.1/Git-2.40.1-64-bit.exe)
     - For `Python`: Check `Add Python to Path`
 
-2. Make a new profile and import the old Mining Deck (The backup)
+2. Make a new profile on `Anki` and `import` the old Mining Deck (The backup)
 
 3. Open `command prompt` (cmd)
 
