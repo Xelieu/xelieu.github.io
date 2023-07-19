@@ -8,7 +8,7 @@
 
 ## Download and Install
 
-- Download and Install [Ankiconnect Android](https://github.com/KamWithK/AnkiconnectAndroid/releases/latest) and [Local File Server](https://github.com/Aquafina-water-bottle/LocalFileServerAndroid/releases/latest) in Assets, (`.apk` file)
+- Download and Install [Ankiconnect Android](https://github.com/KamWithK/AnkiconnectAndroid/releases/latest) and [Local File Server](https://github.com/Aquafina-water-bottle/LocalFileServerAndroid/releases/latest) in Assets `.apk` file
 
 - Install [Ankidroid](https://play.google.com/store/apps/details?id=com.ichi2.anki)
 
