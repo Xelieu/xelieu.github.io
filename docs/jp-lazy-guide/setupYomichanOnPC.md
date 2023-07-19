@@ -55,7 +55,15 @@ restart the browser if you keep running into issues
 8. Pick a profile(`Default` and `Editing`), usually between `Monolingual` and `Bilingual` (other profiles will be discussed in other sections)
     - `Bilingual` is default, you can hold `alt` while hovering over a word to use the `Monolingual` profile
 
-    ![Yomichan Profile](../img/yomichan-profiles.png){align=left height=300 width=600}
+        ![Yomichan Profile](../img/yomichan-profiles.png){align=left height=300 width=600}
+
+
+
+9. You should now be able to hover over words!
+    - To change hotkey, `Yomichan` settings > `Scanning` > `Scan modifier key`
+    
+    ![Yomichan Scan Key](../img/yomichan-scan-key.png){align=left height=300 width=600}
+    
 
 Yomichan on PC setup is done, why not check out how to use Yomichan on Android?
 
