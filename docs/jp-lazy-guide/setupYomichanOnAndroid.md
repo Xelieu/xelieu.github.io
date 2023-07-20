@@ -140,6 +140,6 @@ Yomichan setup is done, next is ShareX for convenient Mining
 
 #### Question 1: Can I add a yomichan dictionary of my choice?
 
-??? question "Can I add a yomichan dictionary of my choice? <small>(click here)</small>"
+??? question "Can I add, delete or modify a yomichan dictionary of my choice? <small>(click here)</small>"
 
     - Yes, most dictionary should be compatible with JPMN format
