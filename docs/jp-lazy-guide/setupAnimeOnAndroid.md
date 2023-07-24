@@ -124,7 +124,7 @@ I've actually tried `asbplayer` on `Android` but its pretty faulty and you canno
 
     ??? question "Why not install the Chrome Extension? <small>(click here)</small>"
 
-        - Same as `Question 1`, `asbplayer` has a built-in `Anki` support that lacks the feature of our own `Anki` and `Yomichan` support
+        - Same as `Question 2`, `asbplayer` has a built-in `Anki` support that lacks the feature of our own `Anki` and `Yomichan` support
 
 Wow! Setting up the Mining tools is finally done, how about checking Sub Guide?
 

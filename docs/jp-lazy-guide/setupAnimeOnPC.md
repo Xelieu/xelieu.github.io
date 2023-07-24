@@ -88,4 +88,4 @@ You can now mine Anime on PC, why not do it on Android too? (RIP eyes)
 
 ??? question "Why not install the Chrome Extension? <small>(click here)</small>"
 
-    - Same as `Question 1`, `asbplayer` has a built-in `Anki` support that lacks the feature of our own `Anki` and `Yomichan` support
+    - Same as `Question 2`, `asbplayer` has a built-in `Anki` support that lacks the feature of our own `Anki` and `Yomichan` support
