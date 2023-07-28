@@ -129,3 +129,5 @@ I've actually tried `asbplayer` on `Android` but its pretty faulty and you canno
 Wow! Setting up the Mining tools is finally done, how about checking Sub Guide?
 
 [Proceed to Sub Guide](subGuide.md){ .md-button .md-button }
+
+<small>If you have problems check [FAQs](https://xelieu.github.io/jp-lazy-guide/setupAnimeOnAndroid/#faqs) or contact me on Discord: [xelieu](https://www.discordapp.com/users/719459399168426054)</small>

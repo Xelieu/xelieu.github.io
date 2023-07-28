@@ -51,6 +51,9 @@ restart the browser if you keep running into issues
 
 7. Scroll down again, in `Backup` > `Import Settings` > `lazyxel-yomichan-settings` (from the extracted folder)
     - If you are interested on installing [Yomichan Local Audio](https://xelieu.github.io/jp-lazy-guide/setupYomichanOnPC/#yomichan-local-audio) pick `lazyXel-local-audio`, otherwise `lazyXel-non-local-audio`
+    - `Import` NOT `Sanitize and Import`
+    
+        ![Yomichan Import](../img/yomichan-import.png){height=150 width=300}
 
 8. Pick a profile(`Default` and `Editing`), usually between `Monolingual` and `Bilingual` (other profiles will be discussed in other sections)
     - `Bilingual` is default, you can hold `alt` while hovering over a word to use the `Monolingual` profile
@@ -68,6 +71,8 @@ restart the browser if you keep running into issues
 Yomichan on PC setup is done, why not check out how to use Yomichan on Android?
 
 [Proceed to Yomichan on Android Setup](setupYomichanOnAndroid.md){ .md-button .md-button }
+
+<small>If you have problems check [FAQs](https://xelieu.github.io/jp-lazy-guide/setupYomichanOnPC/#faqs) or contact me on Discord: [xelieu](https://www.discordapp.com/users/719459399168426054)</small>
 
 ---
 
@@ -140,6 +145,6 @@ Yomichan on PC setup is done, why not check out how to use Yomichan on Android?
 
 #### Question 1: Can I add a yomichan dictionary of my choice?
 
-??? question "Can I add a yomichan dictionary of my choice? <small>(click here)</small>"
+??? question "Can I add, delete or modify a yomichan dictionary of my choice? <small>(click here)</small>"
 
     - Yes, most dictionary should be compatible with JPMN format

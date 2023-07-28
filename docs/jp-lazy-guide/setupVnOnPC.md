@@ -100,6 +100,8 @@ Now that the Clipboard Inserter is working, let's proceed on knowing how to play
 
 [Proceed to VN on Android Setup](setupVnOnAndroid.md){ .md-button .md-button }
 
+<small>If you have problems check [FAQs](https://xelieu.github.io/jp-lazy-guide/setupVnOnPC/#faqs) or contact me on Discord: [xelieu](https://www.discordapp.com/users/719459399168426054)</small>
+
 ---
 
 ## Extra Info and Tips
@@ -127,3 +129,7 @@ Now that the Clipboard Inserter is working, let's proceed on knowing how to play
     To get VNs, search around the web, go to `nyaa` or discord servers that have them or `BUY` them
 
     - If you pm me, I can give you more details
+
+---
+
+## FAQs

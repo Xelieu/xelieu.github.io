@@ -35,6 +35,8 @@ You are done setting up ShareX, next is Visual Novel for PC
 
 [Proceed to VN on PC Setup](setupVnOnPC.md){ .md-button .md-button }
 
+<small>If you have problems check [FAQs](https://xelieu.github.io/jp-lazy-guide/setupShareX/#faqs) or contact me on Discord: [xelieu](https://www.discordapp.com/users/719459399168426054)</small>
+
 ---
 
 ## Extra Info and Tips
@@ -85,3 +87,7 @@ You are done setting up ShareX, next is Visual Novel for PC
 
     - Forward Mouse button = Audio recording
     - Back Mouse button = Screenshot (non nsfw)
+
+---
+
+## FAQs

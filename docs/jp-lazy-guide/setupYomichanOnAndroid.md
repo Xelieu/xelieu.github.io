@@ -47,7 +47,10 @@ restart the browser if you keep running into issues
     ![Dictionary Toggle](../img/dictionary-toggle.png){height=250 width=500}
 
 7. Scroll down again, in `Backup` > `Import Settings` > `lazyxel-yomichan-settings` (from the extracted folder)
-    - If you are interested on installing [Yomichan Local Audio](https://xelieu.github.io/jp-lazy-guide/setupYomichanOnAndroid/#info-2-android-yomichan-local-audio) pick `lazyXel-local-audio`, otherwise `lazyXel-non-local-audio`
+    - If you are interested on installing [Yomichan Local Audio](https://xelieu.github.io/jp-lazy-guide/setupYomichanOnPC/#yomichan-local-audio) pick `lazyXel-local-audio`, otherwise `lazyXel-non-local-audio`
+    - `Import` NOT `Sanitize and Import`
+
+        ![Yomichan Import](../img/yomichan-import.png){height=150 width=300}
 
 8. Pick `Android (LN & Manga)` profile (`Default` and `Editing`)
 
@@ -56,6 +59,8 @@ restart the browser if you keep running into issues
 Yomichan setup is done, next is ShareX for convenient Mining
 
 [Proceed to ShareX Setup](setupShareX.md){ .md-button .md-button }
+
+<small>If you have problems check [FAQs](https://xelieu.github.io/jp-lazy-guide/setupYomichanOnAndroid/#faqs) or contact me on Discord: [xelieu](https://www.discordapp.com/users/719459399168426054)</small>
 
 ---
 

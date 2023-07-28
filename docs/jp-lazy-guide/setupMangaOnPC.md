@@ -129,6 +129,8 @@ You can now mine Manga on PC, see how its done in Android!
 
 [Proceed to Manga on Android Setup](setupMangaOnAndroid.md){ .md-button .md-button }
 
+<small>If you have problems check [FAQs](https://xelieu.github.io/jp-lazy-guide/setupMangaOnPC/#faqs) or contact me on Discord: [xelieu](https://www.discordapp.com/users/719459399168426054)</small>
+
 ## Extra Info and Tips
 
 #### Info 1: MangaOCR Shortcut Program
@@ -164,3 +166,7 @@ You can now mine Manga on PC, see how its done in Android!
     To get Processed Manga, check out [TMW](https://learnjapanese.moe/join/) and ask from there
 
     - If you pm me, I can give you more details
+
+---
+
+## FAQs

@@ -54,6 +54,8 @@ You now have an Anki Template, next is Yomichan
 
 [Proceed to Yomichan Setup](setupYomichanOnPC.md){ .md-button .md-button }
 
+<small>If you have problems check [FAQs](https://xelieu.github.io/jp-lazy-guide/setupAnki/#faqs) or contact me on Discord: [xelieu](https://www.discordapp.com/users/719459399168426054)</small>
+
 ---
 
 ## Extra Info and Tips

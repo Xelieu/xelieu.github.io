@@ -30,6 +30,8 @@ You can now read Light Novels on PC, how about Android?
 
 [Proceed to LN on Android Setup](setupLnOnAndroid.md){ .md-button .md-button }
 
+<small>If you have problems check [FAQs](https://xelieu.github.io/jp-lazy-guide/setupLnOnPC/#faqs) or contact me on Discord: [xelieu](https://www.discordapp.com/users/719459399168426054)</small>
+
 ---
 
 ## Extra Info and Tips
@@ -60,3 +62,7 @@ You can now read Light Novels on PC, how about Android?
     To get epubs, search around the web, go to `nyaa` or discord servers that have them or `BUY` and convert them
 
     - If you pm me, I can give you more details
+
+---
+
+## FAQs
