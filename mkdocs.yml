@@ -2,6 +2,8 @@ site_name: Lazy Guide
 site_url: https://xelieu.github.io/
 site_description: JP Immersion Tool Lazy Guide
 site_author: Xelieu
+repo_url: https://ko-fi.com/xelieu
+repo_name: Want to donate?
 nav:
   - Home:
     - Introduction: 'jp-lazy-guide/index.md'
@@ -41,9 +43,10 @@ theme:
   name: material
   favicon: img/favicon.png
   logo: img/favicon-2.png
+  icon:
+    repo: simple/buymeacoffee
   features:
     - navigation.tabs
-    - navigation.tabs.sticky
     - navigation.sections
     - navigation.top
     - navigation.footer
