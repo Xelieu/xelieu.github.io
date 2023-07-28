@@ -51,7 +51,7 @@ You are now finally done in setting up Manga Mining in Android, how about checki
 
 [Proceed to Setup: Anime on PC Setup](setupAnimeOnPC.md){ .md-button .md-button }
 
-<small>If you have problems check [FAQs](https://xelieu.github.io/jp-lazy-guide/setupMangaOnAndroid/#faqs) or contact me on Discord: [xelieu](https://www.discordapp.com/users/719459399168426054)</small>
+<small>If you have any problems check [FAQs](https://xelieu.github.io/jp-lazy-guide/setupMangaOnAndroid/#faqs) or contact me on Discord: [xelieu](https://www.discordapp.com/users/719459399168426054)</small>
 
 ---
 

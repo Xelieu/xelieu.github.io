@@ -40,7 +40,7 @@ You can now mine Anime on PC, why not do it on Android too? (RIP eyes)
 
 [Proceed to Setup: Anime on Android Setup](setupAnimeOnAndroid.md){ .md-button .md-button }
 
-<small>If you have problems check [FAQs](https://xelieu.github.io/jp-lazy-guide/setupAnimeOnPC/#faqs) or contact me on Discord: [xelieu](https://www.discordapp.com/users/719459399168426054)</small>
+<small>If you have any problems check [FAQs](https://xelieu.github.io/jp-lazy-guide/setupAnimeOnPC/#faqs) or contact me on Discord: [xelieu](https://www.discordapp.com/users/719459399168426054)</small>
 
 ---
 

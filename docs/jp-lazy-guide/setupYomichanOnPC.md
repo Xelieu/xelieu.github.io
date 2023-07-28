@@ -72,7 +72,7 @@ Yomichan on PC setup is done, why not check out how to use Yomichan on Android?
 
 [Proceed to Yomichan on Android Setup](setupYomichanOnAndroid.md){ .md-button .md-button }
 
-<small>If you have problems check [FAQs](https://xelieu.github.io/jp-lazy-guide/setupYomichanOnPC/#faqs) or contact me on Discord: [xelieu](https://www.discordapp.com/users/719459399168426054)</small>
+<small>If you have any problems check [FAQs](https://xelieu.github.io/jp-lazy-guide/setupYomichanOnPC/#faqs) or contact me on Discord: [xelieu](https://www.discordapp.com/users/719459399168426054)</small>
 
 ---
 
