@@ -12,9 +12,9 @@
     - (Optional) In `Kiwi Browser` Download [Violentmonkey](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag) and Install [Reading Speed Indicator](https://greasyfork.org/en/scripts/459921-reading-speed-statistics-ttsu-app)
     - (Optional) In `Kiwi Browser` Download [Fullscreen](https://chrome.google.com/webstore/detail/fullscreen/lbpgkagpackldbkfookmmdpfaolnoged) Extension
 
-- Download [Yomibaba Chrome](https://github.com/forsakeninfinity/yomibaba/releases)(crx)
+- Download [Yomibaba Chrome](https://github.com/forsakeninfinity/yomibaba/releases) `(.crx)`
 - In your `Kiwi Browser`, go to `chrome://extensions/` and turn on `developer mode` from the top right
-- Click `Load unpacked` and select the unzipped folder
+- Click `(from .zip/.crx/.user.js)`
 
 Download `LazyXel Yomichan Setup` and `Font` from [here](https://drive.google.com/drive/folders/1s_PdQ9HWvpDFXkh_AGGzVgqrFBGhUsbI?usp=sharing) and extract it
 
