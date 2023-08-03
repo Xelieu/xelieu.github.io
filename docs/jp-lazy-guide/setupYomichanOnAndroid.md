@@ -13,7 +13,7 @@
     - (Optional) In `Kiwi Browser` Download [Fullscreen](https://chrome.google.com/webstore/detail/fullscreen/lbpgkagpackldbkfookmmdpfaolnoged) Extension
 
 - Download [Yomibaba Chrome](https://github.com/forsakeninfinity/yomibaba/releases) and unzip it somewhere
-- In your `Kiwi Browser`, go to `kiwi://extensions/` and turn on `developer mode` from the top right
+- In your `Kiwi Browser`, go to `chrome://extensions/` and turn on `developer mode` from the top right
 - Click `Load unpacked` and select the unzipped folder
 
 Download `LazyXel Yomichan Setup` and `Font` from [here](https://drive.google.com/drive/folders/1s_PdQ9HWvpDFXkh_AGGzVgqrFBGhUsbI?usp=sharing) and extract it
@@ -22,7 +22,7 @@ Download `LazyXel Yomichan Setup` and `Font` from [here](https://drive.google.co
 
 ## Setting Up
 
-1. Go to `kiwi://extensions` and go to `Yomibaba` extension settings
+1. Go to `chrome://extensions` and go to `Yomibaba` extension settings
 
 2. Make sure `Allow access to file URLs` is enabled
 
