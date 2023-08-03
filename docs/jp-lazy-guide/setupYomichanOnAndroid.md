@@ -12,7 +12,7 @@
     - (Optional) In `Kiwi Browser` Download [Violentmonkey](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag) and Install [Reading Speed Indicator](https://greasyfork.org/en/scripts/459921-reading-speed-statistics-ttsu-app)
     - (Optional) In `Kiwi Browser` Download [Fullscreen](https://chrome.google.com/webstore/detail/fullscreen/lbpgkagpackldbkfookmmdpfaolnoged) Extension
 
-- Download [Yomibaba Chrome](https://github.com/forsakeninfinity/yomibaba/releases) and unzip it somewhere
+- Download [Yomibaba Chrome](https://github.com/forsakeninfinity/yomibaba/releases)(crx)
 - In your `Kiwi Browser`, go to `chrome://extensions/` and turn on `developer mode` from the top right
 - Click `Load unpacked` and select the unzipped folder
 
