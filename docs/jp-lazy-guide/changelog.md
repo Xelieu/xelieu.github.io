@@ -16,7 +16,7 @@ hide:
 
 Yomichan: [LazyXel Yomichan Setup](https://drive.google.com/drive/folders/1s_PdQ9HWvpDFXkh_AGGzVgqrFBGhUsbI?usp=sharing) Update
 
-- Updated Dictionaries: `JMdict (English)`, `JMdict Forms`, `アクセント辞典 v3`, `新明解国語辞典 第八版`
+- Updated Dictionary: `新明解国語辞典 第八版`
     - If you updated, please update Card [styling](https://pastebin.com/mu2jrrjB) on `Anki` too
 
 **2023-07-17**

@@ -90,7 +90,7 @@ Yomichan on PC setup is done, why not check out how to use Yomichan on Android?
     - (Bilingual) JMdict (English-Original)
     - (Variant Forms) JMdict Forms
     - (Name) JMnedict (No-Kana)
-    - (Pitch Accent) アクセント辞典 v3
+    - (Pitch Accent) アクセント辞典
     - (Frequency) BCCWJ
     - (Frequency) JPDB
     - (Frequency) ICR
