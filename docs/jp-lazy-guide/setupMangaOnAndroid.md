@@ -25,6 +25,7 @@ Requirements:
 ## Setting Up
 
 1. Transfer your `Processed Manga` in `~/Android/data/com.rayrtheii.localfileserver/files/`
+    - ALL the files, the `manga` itself, `.ocr` and `.html`/`.mobile`
 
 2. Open `Ankiconnect Android` > `settings` > `CORS Host` > `http://localhost:8976`
 
