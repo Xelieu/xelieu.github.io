@@ -33,7 +33,7 @@ Requirements:
 
 3. `Start the Service` on both `AnkiConnect Android` and `Local File Server`
 
-4. Open your `Kiwi Browser` > http://localhost:8976/browse > Manga's `.html` file
+4. Open your `Kiwi Browser` > http://localhost:8976/browse > Manga's `.html`/`.mobile` file
 
     ![Manga Android HTML File](../img/android-html-file.png){height=150 width=300}
 
