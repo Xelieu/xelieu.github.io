@@ -26,13 +26,19 @@
         
     ![jpmn install](../img/jpmn-install.png){height=250 width=500}
 
-5. Go to: `C:\Users\**YourUser**\AppData\Roaming\Anki2\**YourAnkiName**\collection.media`
+5. Rename `JPMN-Examples` to `Mining Deck`
+
+    ![JPMN Rename](../img/jpmn-rename.png){height=250 width=500}
+
+6. Go to: `C:\Users\**YourUser**\AppData\Roaming\Anki2\**YourAnkiName**\collection.media`
     - Search `_jpmn-options`
     - Edit and save this [config](https://pastebin.com/TxbCVQgq) (open in notepad)
 
     ![JPMN Options](../img/jpmn-options.png){height=150 width=300}
 
-6. In Anki: `Browse` > on the left side under `Note Type` > `JP Mining Note` > `Card...` > `Styling` > Scroll down to the bottom
+
+
+7. In Anki: `Browse` > on the left side under `Note Type` > `JP Mining Note` > `Card...` > `Styling` > Scroll down to the bottom
 	- Paste [this](https://pastebin.com/mu2jrrjB) AFTER the `INSERT CUSTOM CSS BELOW` line
     - Editing only 1 card is enough for this to take effect to everything
 
