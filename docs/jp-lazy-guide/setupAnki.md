@@ -49,14 +49,14 @@
 8. Go to your `Deck`'s option then copy the `settings` below
     - `Tools` > `Preferences` and turn on `v3 scheduler`
 
-=== "Settings 1"
-    ![Anki Settings 1](../img/anki-settings-1.png){height=300 width=600}
-=== "Settings 2"
-    ![Anki Settings 2](../img/anki-settings-2.png){height=300 width=600}
-=== "Settings 3"
-    ![Anki Settings 3](../img/anki-settings-3.png){height=300 width=600}
-=== "Anki Preference Settings"
-    ![v3 Scheduler](../img/v3-scheduler.png){height=300 width=600}
+    === "Settings 1"
+        ![Anki Settings 1](../img/anki-settings-1.png){height=300 width=600}
+    === "Settings 2"
+        ![Anki Settings 2](../img/anki-settings-2.png){height=300 width=600}
+    === "Settings 3"
+        ![Anki Settings 3](../img/anki-settings-3.png){height=300 width=600}
+    === "Anki Preference Settings"
+        ![v3 Scheduler](../img/v3-scheduler.png){height=300 width=600}
 
 9. Restart your `Anki` and it should be good to go
 
