@@ -21,7 +21,7 @@
 
     ![ShareX Hotkeys](../img/sharex-hotkeys.png){height=300 width=600}
 
-3. `Hotkey Settings` > `screenshot`, `screenshot snip`, `screenshot nsfw`, `screenshot nsfw snip` and `audio` > `override screenshot folder` > change the `path` for each one
+3. `Hotkey Settings` > `screenshot`, `screenshot snip`, `screenshot nsfw`, `screenshot nsfw snip` and `audio` > Click the `COG` icon > `override screenshot folder` > change the `path` for each one
     - Change the `Xelieu` with your Anki profile name: `%ApplicationData%\Anki2\**YourAnkiProfileName**\collection.media`
 
     ![ShareX Path](../img/sharex-path.png){height=150 width=300}
