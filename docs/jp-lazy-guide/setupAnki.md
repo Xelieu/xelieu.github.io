@@ -26,7 +26,7 @@
         
     ![jpmn install](../img/jpmn-install.png){height=250 width=500}
 
-5. Rename `JPMN-Examples` to `Mining Deck` ([Important](https://xelieu.github.io/jp-lazy-guide/setupAnki/#question-4-can-i-rename-the-deck))
+5. Rename `JPMN-Examples` to `Mining Deck`
 
     ![JPMN Rename](../img/jpmn-rename.png){height=250 width=500}
 
