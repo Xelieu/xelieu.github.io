@@ -3,7 +3,7 @@ site_url: https://xelieu.github.io/
 site_description: JP Immersion Tool Lazy Guide
 site_author: Xelieu
 repo_url: https://ko-fi.com/xelieu
-repo_name: Want to donate?
+repo_name: Want to buy me a coffee?
 nav:
   - Home:
     - Introduction: 'jp-lazy-guide/index.md'
