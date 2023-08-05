@@ -141,3 +141,8 @@ You now have an Anki Template, next is Yomichan
 
     - Changing anything not below that specific `line of code` will be reverted back once you `updated` the `note`
 
+#### Question 4: Can I rename the deck?
+
+??? question "Can I rename the deck? <small>(click here)</small>"
+
+    - Technically yes, but I wouldn't recommend, you have to resetup Yomichan's `Anki Card Format` and Anki's Add-on `AutoReorder`
