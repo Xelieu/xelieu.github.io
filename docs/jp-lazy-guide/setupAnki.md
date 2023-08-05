@@ -56,6 +56,8 @@
 === "Anki Preference Settings"
     ![v3 Scheduler](../img/v3-scheduler.png){height=300 width=600}
 
+9. Restart your `Anki` and it should be good to go
+
 You now have an Anki Template, next is Yomichan
 
 [Proceed to Yomichan Setup](setupYomichanOnPC.md){ .md-button .md-button }
