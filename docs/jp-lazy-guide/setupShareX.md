@@ -31,6 +31,8 @@
     - Video source: `none`
     - Audio source: `virtual-audio-capturer`
 
+5. Add the `word` first before `screenshot` or `audio record`
+
 You are done setting up ShareX, next is Visual Novel for PC
 
 [Proceed to VN on PC Setup](setupVnOnPC.md){ .md-button .md-button }
