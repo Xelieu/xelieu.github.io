@@ -8,12 +8,14 @@
 
 ## Download and Install
 
-- Install [Anki 2.1.64 Qt6](https://github.com/ankitects/anki/releases/tag/2.1.64) (Please don't use Qt5)
+- Install [Anki 2.1.64 Qt6](https://github.com/ankitects/anki/releases/tag/2.1.64) (Please don't use `Qt5`)
 - Download [Anki addons](https://drive.google.com/drive/folders/1qdElBZ_1CCjyVuKCrxHegtGYludG0HVw?usp=sharing)
 
 ---
 ## Setting Up
-1. Open Anki and create an account and profile
+1. Open Anki and create an account and profile by clicking the `Sync` button
+
+    ![Anki Sync](../img/anki-sync.png){height=250 width=500}
 
 2. Extract `Anki addons21.7z` and paste the `addons21` folder to `C:\Users\**YourUser**\AppData\Roaming\Anki2`
     
