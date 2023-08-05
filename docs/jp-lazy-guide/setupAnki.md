@@ -147,4 +147,4 @@ You now have an Anki Template, next is Yomichan
 
 ??? question "Can I rename the deck? <small>(click here)</small>"
 
-    - Technically yes, but I wouldn't recommend, you have to resetup Yomichan's `Anki Card Format` and Anki's Add-on `AutoReorder`
+    - Technically yes, but I wouldn't recommend; you have to resetup Yomichan's `Anki Card Format` and Anki's Add-on `AutoReorder`
