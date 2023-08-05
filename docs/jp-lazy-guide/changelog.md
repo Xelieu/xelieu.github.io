@@ -10,6 +10,14 @@ hide:
 
 ---
 
+### August
+
+**2023-08-05**
+
+- Added a **VERY IMPORTANT** instruction: After installing `JPMN`, Rename `JPMN-Examples` to `Mining Deck` or it won't work at all
+
+---
+
 ### July
 
 **2023-07-18**
