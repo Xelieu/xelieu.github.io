@@ -3,6 +3,7 @@
 - Anki is a SRS flash card program for card reviewing and the due dates are decided by the algorithm
 - Mobile is supported
 - Anki [Light](../img/jpmn-light.png) | [Dark](../img/jpmn-dark.png) Mode
+- Transferring from other Anki Format? Check [Transfer Existing Notes](https://aquafina-water-bottle.github.io/jp-mining-note/importing/) or [Transfer Lazy Format to JPMN](https://xelieu.github.io/jp-lazy-guide/transferAnkiSetup/)
 
 ---
 
