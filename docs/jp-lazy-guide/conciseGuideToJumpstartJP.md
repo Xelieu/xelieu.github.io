@@ -17,7 +17,7 @@ hide:
 
     - Just do it, `many others spend more time figuring out than actually doing`, you will never be ready if you never do it
 
-    - `Time/Number listed is not strict`, even if it takes you x10 longer or lesser day/minimum of what I listed, its only average
+    - `Time/Number listed is not strict`, even if it takes you x10 longer or lesser day/minimum of what I listed, its only a baseline
 
     - No, `you are not stupid/too old`, if you can learn your native, you can learn other language, even parrots learned
 
