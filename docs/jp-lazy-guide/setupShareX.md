@@ -31,7 +31,7 @@
     - Video source: `none`
     - Audio source: `virtual-audio-capturer`
 
-5. Add the `word` first before `screenshot` or `audio record`
+5. Add the `word`(mine it `（＋）`) first before `screenshot` or `audio record` using `ShareX`
 
 You are done setting up ShareX, next is Visual Novel for PC
 
