@@ -11,6 +11,8 @@ JP Lazy Guide is for:
 
 New to Japanese and want to immerse quickly? see [Concise Guide to Jumpstart Japanese](conciseGuideToJumpstartJP.md)
 
+If you want to buy me a coffee(Thanks!): [Ko-fi (Xelieu)](https://ko-fi.com/xelieu)
+
 ---
 
 ## Anki and Yomichan Format
