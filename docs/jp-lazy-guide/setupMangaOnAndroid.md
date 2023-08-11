@@ -43,7 +43,7 @@ Requirements:
 
     - Uncheck the `show page number` so it doesn't get included on mining
 
-6. You can now mine with `Yomichan`, don't forget to click the blue `●` after the `+` to be able to `screenshot`
+6. You can now mine with `Yomichan`, mine `+` the word first before clicking the blue `●` to be able to `screenshot`
     
     - See [Android Mining Demo](https://xelieu.github.io/jp-lazy-guide/setupMangaOnAndroid/#info-1-android-mining-demo)
 
