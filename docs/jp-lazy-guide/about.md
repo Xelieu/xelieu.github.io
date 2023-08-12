@@ -28,3 +28,5 @@ My Immersion links:
 - Anime/Manga: [Anilist](https://anilist.co/user/Xelieu/)
 - Light Novel: [Bookmeter](https://bookmeter.com/users/1277906)
 - Visual Novel: [VNDB](https://vndb.org/u192242)
+
+If I suddenly poof you can continue my guide by forking the [repository](https://github.com/Xelieu/xelieu.github.io)
