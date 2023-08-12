@@ -65,7 +65,7 @@ restart the browser if you keep running into issues
 9. You should now be able to hover over words!
     - To change hotkey, `Yomichan` settings > `Scanning` > `Scan modifier key`
     
-    ![Yomichan Scan Key](../img/yomichan-scan-key.png){align=left height=300 width=600}
+        ![Yomichan Scan Key](../img/yomichan-scan-key.png){align=left height=300 width=600}
     
 
 Yomichan on PC setup is done, why not check out how to use Yomichan on Android?
