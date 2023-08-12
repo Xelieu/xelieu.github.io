@@ -35,17 +35,183 @@
 
 6. Go to: `C:\Users\**YourUser**\AppData\Roaming\Anki2\**YourAnkiName**\collection.media`
     - Search `_jpmn-options`
-    - Edit and save this [config](https://pastebin.com/TxbCVQgq) (open in notepad)
 
-    ![JPMN Options](../img/jpmn-options.png){height=150 width=300}
+        ![JPMN Options](../img/jpmn-options.png){height=150 width=300}
 
+    - Edit and save the config below (open in notepad)
 
+        ??? examplecode "_jpmn-options config <small>(click here)</small>"
+
+            ```
+            window.JPMNOptions = {
+
+                // Insert any runtime options here! They should be of the form:
+                //
+                //     "key": value,
+                //
+                // Some common examples are shown below.
+
+                // Enables colored pitch accent
+                "autoPitchAccent.coloredPitchAccent.enabled": true,
+
+                // Enables image blur
+                "imgStylizer.mainImage.blur.enabled": true,
+
+                // Hides the first line of most definitions, as well as the number in the list
+                "blockquotes.simplifyDefinitions.enabled": true,
+            
+            // ==========================================================================
+                // = keybinds =
+            // ==========================================================================
+
+                // RESERVED KEYS (by anki):
+                // - e (edit)
+                // - r (replay)
+                // - t (stats)
+                // - y (sync)
+                // - i (card info)
+                // - o (options)
+                // - a (add)
+                // - s (idk exactly what this does tbh)
+                // - d (deck)
+                // - f (filtered deck options)
+                // - v (play recorded voice)
+                // - b (browse)
+                // - m (menu)
+                // - 1, 2, 3, 4 (again, hard, good, easy)
+                // - 5 (pause audio)
+                // - 6 (audio -5s)
+                // - 7 (audio +5s)
+                // - space (good)
+                // - enter (good)
+                //
+                // RESERVED KEYS (by AJT Flexible grading):
+                // - u (undo)
+                // - h, j, k, l: hard / again / good / easy
+                //
+                // FREE KEYS:
+                // - (left)  q w g z x c
+                // - (right) p n 8 9 0 , . ; ' [ ]
+                //
+                // If you want to customize the keybinds, you must find the exact key code
+                // that corresponds to your key. To do so, set "debug-level" to 0, press the
+                // desired key(s), and look at the bottom of the debug log (under the info
+                // circle) within the note. You may need to scroll down.
+
+                "keybinds.enabled": true,
+
+                // Keybind to toggle between showing the sentence and word on click and hover cards.
+                // Equivalent to either clicking on the sentence/word on a click card,
+                // or hovering over the word on a hover card.
+                "keybinds.toggleHybridSentence": ["KeyN"],
+
+                // Keybind to toggle between showing the tested word in a raw sentence card.
+                // Equivalent to clicking on the "show" button.
+                // This is the same as the above because both should never happen at the same time.
+                "keybinds.toggleHighlightWord": ["KeyN"],
+
+                // Keybind to toggle a vocab card's full sentence display (front side).
+                // Techinically can be Shift / n as it doesn't interfere with the other two above.
+                "keybinds.toggleFrontFullSentenceDisplay": ["Quote"],
+
+                "keybinds.playSentenceAudio": ["KeyP"],
+
+                "keybinds.playWordAudio": ["KeyR"],
+
+                // Equivalent to toggling the hint show/hide
+                "keybinds.toggleHintDisplay": ["Period"],
+
+                "keybinds.toggleSecondaryDefinitionsDisplay": ["KeyQ"],
+
+                "keybinds.toggleAdditionalNotesDisplay": ["BracketRight"],
+
+                "keybinds.toggleExtraDefinitionsDisplay": ["KeyW"],
+
+                "keybinds.toggleExtraInfoDisplay": ["BracketLeft"],
+            }
+            ```
 
 7. In Anki: `Browse` > on the left side under `Note Type` > `JP Mining Note` > `Card...` > `Styling` > Scroll down to the bottom
-	- Paste [this](https://pastebin.com/mu2jrrjB) AFTER the `INSERT CUSTOM CSS BELOW` line
-    - Editing only 1 card is enough for this to take effect to everything
+	- Paste The Anki `Styling` config AFTER the `INSERT CUSTOM CSS BELOW` line
+        - Editing only 1 card is enough for this to take effect on everything
 
     ![Custom CSS](../img/custom-css.png){height=250 width=500}
+
+    ??? examplecode "Anki Styling config <small>(click here)</small>"
+
+        ```
+        .glossary-text ol li[data-details="旺文社国語辞典 第十一版"] .dict-group__tag-list {
+            display: none;
+        }
+        .glossary-text ol li[data-details="旺文社国語辞典 第十一版"] .dict-group__glossary--first-line {
+            display: none;
+        }
+        .glossary-text ol li[data-details="旺文社国語辞典 第十一版"] .dict-group__glossary--first-line-break {
+            display: none;
+        }
+
+
+        .glossary-text ol li[data-details="三省堂国語辞典　第七版"] .dict-group__tag-list {
+            display: none;
+        }
+        .glossary-text ol li[data-details="三省堂国語辞典　第七版"] .dict-group__glossary--first-line {
+            display: none;
+        }
+        .glossary-text ol li[data-details="三省堂国語辞典　第七版"] .dict-group__glossary--first-line-break {
+            display: none;
+        }
+
+
+        .glossary-text ol li[data-details="実用日本語表現辞典"] .dict-group__tag-list {
+            display: none;
+        }
+        .glossary-text ol li[data-details="実用日本語表現辞典"] .dict-group__glossary--first-line {
+            display: none;
+        }
+        .glossary-text ol li[data-details="実用日本語表現辞典"] .dict-group__glossary--first-line-break {
+            display: none;
+        }
+
+
+        .glossary-text ol li[data-details="新明解国語辞典　第八版"] .dict-group__tag-list {
+            display: none;
+        }
+        .glossary-text ol li[data-details="新明解国語辞典　第八版"] .dict-group__glossary--first-line {
+            display: none;
+        }
+        .glossary-text ol li[data-details="新明解国語辞典　第八版"] .dict-group__glossary--first-line-break {
+            display: none;
+        }
+
+
+        .glossary-text ol li[data-details="明鏡国語辞典 第二版"] .dict-group__tag-list {
+            display: none;
+        }
+        .glossary-text ol li[data-details="明鏡国語辞典 第二版"] .dict-group__glossary--first-line {
+            display: none;
+        }
+        .glossary-text ol li[data-details="明鏡国語辞典 第二版"] .dict-group__glossary--first-line-break {
+            display: none;
+        }
+
+
+        .glossary-text ol li[data-details="JMdict (English)"] .dict-group__tag-list {
+            display: none;
+        }
+        .glossary-text ol li[data-details="JMdict (English)"] .dict-group__glossary--first-line {
+            display: none;
+        }
+        .glossary-text ol li[data-details="JMdict (English)"] .dict-group__glossary--first-line-break {
+            display: none;
+        }
+
+
+        .glossary-text--primary-definition ol {
+            list-style: none;
+            padding-left: 0em;
+        }
+        ```
+
 
 8. Go to your `Deck`'s option then copy the `settings` below
     - `Tools` > `Preferences` and turn on `v3 scheduler`
