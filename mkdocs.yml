@@ -64,7 +64,7 @@ theme:
         name: Switch to dark mode
       primary: indigo
       accent: indigo
-    - scheme: slate 
+    - scheme: slate
       toggle:
         icon: material/white-balance-sunny
         name: Switch to light mode    
