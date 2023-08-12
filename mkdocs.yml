@@ -58,13 +58,15 @@ theme:
     - content.tabs.link
   language: en
   palette:
-    - scheme: default
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
       primary: indigo
       accent: indigo
-    - scheme: slate
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
       toggle:
         icon: material/white-balance-sunny
         name: Switch to light mode    
