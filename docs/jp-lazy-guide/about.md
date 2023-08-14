@@ -6,11 +6,9 @@ hide:
 
 I made the lazy guide because:
 
-- Back then I just wanted a straightforward all-in-one source for all the latest tech towards setting up JP tools
-    - Everything was scattered and was full of explanation though
+- Back then I just wanted a straightforward all-in-one source for all the latest tech towards setting up JP tools, everything was scattered and was full of explanation though, so I took the matters into my own hands and I've been maintaining the Lazy Guide for 2 years now
 
-- So I took the matters into my own hands and I've been maintaining the Lazy Guide for 2 years now
-    - Updating whenever there's new tools and at most concise as I can
+- My goal is to update whenever there are newer tools around and I'll write it at the clearest/most concise possible
 
 ---
 
