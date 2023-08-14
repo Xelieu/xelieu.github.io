@@ -78,9 +78,16 @@ extra:
   social:
     - icon: fontawesome/brands/github-alt
       link: https://github.com/Xelieu
+      name: Github - Xelieu
     - icon: fontawesome/brands/discord
       link: https://www.discordapp.com/users/719459399168426054
-      name: xelieu
+      name: Discord - xelieu
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/@xelieu
+      name: Youtube - Xelieu      
+    - icon: fontawesome/solid/mug-hot
+      link: https://ko-fi.com/xelieu
+      name: Ko-Fi - Xelieu
   analytics:
     provider: google
     property: G-GMJZ3SM36S
