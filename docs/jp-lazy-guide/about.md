@@ -29,5 +29,6 @@ My Immersion links:
 - Light Novel: [Bookmeter](https://bookmeter.com/users/1277906)
 - Visual Novel: [VNDB](https://vndb.org/u192242)
 
-If I'm gone for a long time(6 months+) consider it abandoned, anyone can continue my guide from here: [repository](https://github.com/Xelieu/xelieu.github.io), see [License](https://github.com/Xelieu/xelieu.github.io/blob/main/LICENSE)
-  - No plans to abandon right now, this is an in-case matter
+If I'm gone for a long time(6 months+) consider it abandoned, anyone can continue my guide from here: [Repository](https://github.com/Xelieu/xelieu.github.io) | [License](https://github.com/Xelieu/xelieu.github.io/blob/main/LICENSE)
+
+- No plans to abandon right now, this is an in-case matter
