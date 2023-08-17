@@ -35,7 +35,7 @@ hide:
     - Extract the `Anki add-ons` and Paste it to `C:\Users\YourUser\AppData\Roaming\Anki2`
     - Restart your `Anki`
 
-3. Download [(Modern) Core 2.3k Deck](https://drive.google.com/drive/folders/17qxBZMmqNbDui1Ec6AP8HQnIUOvPSq8Y?usp=sharing) open it
+3. Download [(Modern) Core 2.3k Vocab Deck](https://drive.google.com/drive/folders/17qxBZMmqNbDui1Ec6AP8HQnIUOvPSq8Y?usp=sharing) open it
     - Just use `again (1)` or `good (spacebar or 3)` button when doing the deck so you don't have to think about if its `easy (2)` or `hard (4)`
 
 4. Go to your `Deck`'s option then copy the `settings` below
@@ -52,7 +52,7 @@ hide:
             ![v3 Scheduler](../img/v3-scheduler.png){height=300 width=600}
 
 
-5. Do the `Core 2.3k deck`, start with `10 new cards/day`(30 max; don't overdo it) along with the `grammar guide` on `step 6`;
+5. Do the `Core 2.3k Vocab deck`, start with `10 new cards/day`(30 max; don't overdo it) along with the `grammar guide` on `step 6`;
     - Kanji is here on the deck; `learn vocab not isolated kanji` is the motto
 
 6. Either [Tae Kim Text Grammar Guide](https://guidetojapanese.org/learn/grammar/basic) or [Cure Dolly's Video Grammar Guide](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj) (First 34 videos only)
