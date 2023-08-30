@@ -87,7 +87,7 @@ Yomichan
 
 	- Changed `Frequency sorting dictionary` to `CC100` (top results' reading is more accurate)
 
-	- To accomodate `Title` field
+	- To accommodate `Title` field
 
 Anki
 

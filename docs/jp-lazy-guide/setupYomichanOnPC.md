@@ -147,4 +147,4 @@ Yomichan on PC setup is done, why not check out how to use Yomichan on Android?
 
 ??? question "Can I add, delete or modify a yomichan dictionary of my choice? <small>(click here)</small>"
 
-    - Yes, most dictionary should be compatible with JPMN format
+    - Yes, most dictionaries should be compatible with the JPMN format
