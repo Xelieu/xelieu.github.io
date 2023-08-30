@@ -123,7 +123,7 @@ Yomichan setup is done, next is ShareX for convenient Mining
             - Go to `yomichan settings` > `Audio` > `Configure audio playback sources...` > `Add` > `Custom URL (JSON)`
             - Paste `http://localhost:8765/localaudio/get/?term={term}&reading={reading}` and make sure it's on the top
     
-    6. To ensure its working, check that all sources are present
+    6. To ensure it's working, check that all sources are present
         - If it doesn't work, make sure AnkiConnect Android `Start Service` is running
         - Battery saving/optimization is off for AnkiConnect Android, Ankidroid and Kiwi Browser
 

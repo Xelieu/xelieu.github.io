@@ -109,7 +109,7 @@ You now mine VN on Android, why not check out Mining Light Novel on PC?
 
 ??? tip "Zoom in your texthooker - android page <small>(click here)</small>"
 
-    - If its not big enough for you, on your `PC` > `texthooker - android` page, Zoom in with `Ctrl + Mouse Scroll Wheel` to the `%` that you like
+    - If it's not big enough for you, on your `PC` > `texthooker - android` page, Zoom in with `Ctrl + Mouse Scroll Wheel` to the `%` that you like
 
 ## FAQs
 

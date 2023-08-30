@@ -25,7 +25,7 @@ Requirements
 2. Open `command prompt` by winkey/search > cmd
 
 3. Type `pip3 install manga-ocr`
-    - Then just let it download/install for a few mins until its done and you can type again
+    - Then just let it download/install for a few mins until it's done and you can type again
     - If `pip3 is not recognized...` then just `uninstall Python` > `restart` > `install Python` (repeat if it didn't work)
 
 4. Either Type `manga_ocr` or `manga_ocr "\path\to\sharex\screenshot\folder"`(OCR from a folder only) to start the program, then just minimize the window
@@ -84,8 +84,8 @@ Choose between 2 options:
 3. Open `command prompt` by winkey/search > cmd
 
 4. Type `pip install git+https://github.com/ZXY101/mokuro.git@master`
-    - Then just let it download/install for a few mins until its done and you can type again
-    - If `pip3 is not recognized...` then just uninstall > restart > install Python repeatedly (I know its dumb but that's how)
+    - Then just let it download/install for a few mins until it's done and you can type again
+    - If `pip3 is not recognized...` then just uninstall > restart > install Python repeatedly (I know it's dumb but that's how)
 
 5. (Optional) Use `GPU CUDA`
     - Check if your GPU is [CUDA compatible](https://developer.nvidia.com/cuda-gpus)
@@ -94,12 +94,12 @@ Choose between 2 options:
 
     ![Installing Torch](../img/installing-torch.png){height=300 width=600}
 
-    - To check if its existing, type `python` > `import torch` > `torch.cuda.is_available()`
+    - To check if it's existing, type `python` > `import torch` > `torch.cuda.is_available()`
 
         ![Torch if available](../img/torch-if-available.png){height=150 width=300}
 
     - If it redirects you to Microsoft Store: Open `Windows Powershell` > `input Remove-Item $env:USERPROFILE\AppData\Local\Microsoft\WindowsApps\python*.exe` > `enter`
-    - If problem occurs reinstall pytorch by `pip uninstall torch` then redo the step above and update to the latest if its after `CUDA 11.7`, if still failed, go [here](https://pytorch.org/get-started/locally/#windows-verification)
+    - If problem occurs reinstall pytorch by `pip uninstall torch` then redo the step above and update to the latest if it's after `CUDA 11.7`, if still failed, go [here](https://pytorch.org/get-started/locally/#windows-verification)
 
 6. Two options to process, go to `cmd` then:
     - Specified Manga volume: Type `mokuro F:\Manga\Saenai\Vol3` (Replace full directory, Saenai and volume #)
@@ -125,7 +125,7 @@ Choose between 2 options:
 
     ocr files is optional but recommended to keep
 
-You can now mine Manga on PC, see how its done in Android!
+You can now mine Manga on PC, see how it's done in Android!
 
 [Proceed to Manga on Android Setup](setupMangaOnAndroid.md){ .md-button .md-button }
 

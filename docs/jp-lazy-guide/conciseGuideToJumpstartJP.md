@@ -17,7 +17,7 @@ hide:
 
     - Just do it, `many others spend more time figuring out than actually doing`, you will never be ready if you never do it
 
-    - `Time/Number listed is not strict`, even if it takes you x10 longer or lesser day/minimum of what I listed, its only a baseline
+    - `Time/Number listed is not strict`, even if it takes you x10 longer or lesser day/minimum of what I listed, it's only a baseline
 
     - No, `you are not stupid/too old`, if you can learn your native, you can learn other language, even parrots learned
 
@@ -36,7 +36,7 @@ hide:
     - Restart your `Anki`
 
 3. Download [(Modern) Core 2.3k Vocab Deck](https://drive.google.com/drive/folders/17qxBZMmqNbDui1Ec6AP8HQnIUOvPSq8Y?usp=sharing) open it
-    - Just use `again (1)` or `good (spacebar or 3)` button when doing the deck so you don't have to think about if its `easy (2)` or `hard (4)`
+    - Just use `again (1)` or `good (spacebar or 3)` button when doing the deck so you don't have to think about if it's `easy (2)` or `hard (4)`
 
 4. Go to your `Deck`'s option then copy the `settings` below
     - `Tools` > `Preferences` and turn on `v3 scheduler`
@@ -63,7 +63,7 @@ hide:
     - This `should take 2-4 months` depending on your effort to be able to start immersing
 
 8. While immersing you can quickly `check grammar points` from [DoJG](https://core6000.neocities.org/dojg/)(Beginner) and [Nihongokyoshi](https://nihongokyoshi-net.com/jlpt-grammars/)(Intermediate+)
-    - `Read/watch what you like`, but only up to medium difficulty, or 4-5/10 on [jpdb](https://jpdb.io/), its going to be a real pain at first, but do it
+    - `Read/watch what you like`, but only up to medium difficulty, or 4-5/10 on [jpdb](https://jpdb.io/), it's going to be a real pain at first, but do it
 
 9. Go to [Lazy Mining Guide](index.md) I made for easy setup of latest mining tools for whatever media
     - Mining - is the act of `creating cards from media` you immerse on like VN/LN, my tools `provide a single-click mining`

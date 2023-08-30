@@ -125,7 +125,7 @@ Yomichan on PC setup is done, why not check out how to use Yomichan on Android?
     - Go to `yomichan settings` > `Audio` > `Configure audio playback sources...` > `Add` > `Custom URL (JSON)`
     - Paste `http://localhost:5050/?term={term}&reading={reading}` and make sure it's on the top
 
-    5. Check if its working:
+    5. Check if it's working:
     
         ![Yomichan Local Audio Check](../img/yomichan-local-audio-check.gif){height=250 width=500}
 
