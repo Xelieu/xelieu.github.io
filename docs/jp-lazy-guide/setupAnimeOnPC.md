@@ -78,7 +78,7 @@ You can now mine Anime on PC, why not do it on Android too? (RIP eyes)
 
 ??? question "Why Enable Experimental Web Platform features? <small>(click here)</small>"
 
-    - Some `Anime` have multiple `audio sources` such as `en` and `jp`, by enabling this we can pick `jp` source if its not the default
+    - Some `Anime` have multiple `audio sources` such as `en` and `jp`, by enabling this we can pick `jp` source if it's not the default
 
 #### Question 2: Why Ignore Request Permission to Anki?
 

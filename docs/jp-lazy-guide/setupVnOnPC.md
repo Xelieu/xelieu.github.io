@@ -63,7 +63,7 @@ Requirements:
 4. On your `Visual Novel`, play it so it can generate the text from the game, after 1-2 dialogues, check back on your `Texthooker` and find a `suitable hooked text` from the drop-down menu
     - Check [Extra Info and Tips](https://xelieu.github.io/jp-lazy-guide/setupVnOnPC/#extra-info-and-tips) if you have trouble finding the proper hook or the text is messy
 
-5. If its working properly it should look like this:
+5. If it's working properly it should look like this:
 
 === "Textractor and Regex Filter"
     ![Textractor Working](../img/textractor-working.png){height=300 width=600}

@@ -14,7 +14,7 @@ The nearest tool is: [Jidoujisho](https://github.com/lrorpilla/jidoujisho/releas
 
 ## Do you still persist?
 
-I've actually tried `asbplayer` on `Android` but its pretty faulty and you cannot `screenshot`
+I've actually tried `asbplayer` on `Android` but it's pretty faulty and you cannot `screenshot`
 
 - IT WORKS but BARELY, you'd rather not mine
 
@@ -112,7 +112,7 @@ I've actually tried `asbplayer` on `Android` but its pretty faulty and you canno
 
     ??? question "Why Enable Experimental Web Platform features? <small>(click here)</small>"
 
-        - Some `Anime` have multiple `audio sources` such as `en` and `jp`, by enabling this we can pick `jp` source if its not the default
+        - Some `Anime` have multiple `audio sources` such as `en` and `jp`, by enabling this we can pick `jp` source if it's not the default
 
     #### Question 3: Why Ignore Request Permission to Anki?
 

@@ -40,7 +40,7 @@ Download `LazyXel Yomichan Setup` and `Font` from [here](https://drive.google.co
 
     ![Dictionary Import](../img/import-dictionary.png){height=250 width=500}
 
-6. Wait for the import to finish then turn all the dictionaries on from the `Dictionaries` > `Configure installed and enbaled dictionaries...`
+6. Wait for the import to finish then turn all the dictionaries on from the `Dictionaries` > `Configure installed and enabled dictionaries...`
     - Refresh the browser tab to see the dictionaries in effect,
 restart the browser if you keep running into issues
 
@@ -123,7 +123,7 @@ Yomichan setup is done, next is ShareX for convenient Mining
             - Go to `yomichan settings` > `Audio` > `Configure audio playback sources...` > `Add` > `Custom URL (JSON)`
             - Paste `http://localhost:8765/localaudio/get/?term={term}&reading={reading}` and make sure it's on the top
     
-    6. To ensure its working, check that all sources are present
+    6. To ensure it's working, check that all sources are present
         - If it doesn't work, make sure AnkiConnect Android `Start Service` is running
         - Battery saving/optimization is off for AnkiConnect Android, Ankidroid and Kiwi Browser
 
@@ -147,4 +147,4 @@ Yomichan setup is done, next is ShareX for convenient Mining
 
 ??? question "Can I add, delete or modify a yomichan dictionary of my choice? <small>(click here)</small>"
 
-    - Yes, most dictionary should be compatible with JPMN format
+    - Yes, most dictionaries should be compatible with the JPMN format

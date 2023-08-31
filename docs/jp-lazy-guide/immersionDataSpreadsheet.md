@@ -48,6 +48,6 @@ At the time of writing, `2035` is the limit and already existing
     - `You can update it yourself after the latest year` by just duplicating `Template sheet`(on Hidden Sheets)
     
     - Duplicate into `12 months of that year`, e.g. Jan-2023
-        - (make sure its `3 letter per month` with capital on the first letter, Mon-YYYY)
+        - (make sure it's `3 letter per month` with capital on the first letter, Mon-YYYY)
     
     - Update formula in `Overall`, `Formula` and `Graph Tracker` sheet by adding the additional year on top of previous year

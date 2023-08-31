@@ -63,7 +63,7 @@ You can now read Light Novels in Android, why not check out the Manga setup?
 
     3. Copy and paste [this](https://pastebin.com/tzHgVe6V)
 
-#### Info 3: Android Yoomichan Local Audio
+#### Info 3: Android Yomichan Local Audio
 
 ??? info "Android Yomichan Local Audio <small>(click here)</small>"
 
@@ -97,7 +97,7 @@ You can now read Light Novels in Android, why not check out the Manga setup?
             - Go to `yomichan settings` > `Audio` > `Configure audio playback sources...` > `Add` > `Custom URL (JSON)`
             - Paste `http://localhost:8765/localaudio/get/?term={term}&reading={reading}` and make sure it's on the top
     
-    6. To ensure its working, check that all sources are present
+    6. To ensure it's working, check that all sources are present
         - If it doesn't work, make sure AnkiConnect Android `Start Service` is running
         - Battery saving/optimization is off for AnkiConnect Android, Ankidroid and Kiwi Browser
 

@@ -15,7 +15,7 @@
 ## Setting Up
 
 1. In `ShareX` > `Application Settings` > `Settings` > `Import` > `lazyXel-ShareX-15.0.0-backup`
-    - Ignore the random name files(its empty), its a residue files that can't be removed upon export
+    - Ignore the random name files(it's empty), it's residue files that can't be removed upon export
 
 2. In `ShareX` > `Hotkey Settings` > Change the keybinds/name if you like
 
