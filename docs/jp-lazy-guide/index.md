@@ -9,7 +9,7 @@ JP Lazy Guide is for:
 - For people who want an all-in-one source compared to other fully detailed guides but scattered tools
 - You want an import everything and done
 
-New to Japanese and want to immerse quickly? see [Concise Guide to Jumpstart Japanese](conciseGuideToJumpstartJP.md)
+New to Japanese and want to immerse quickly? See [Concise Guide to Jumpstart Japanese](conciseGuideToJumpstartJP.md)
 
 If you want to buy me a coffee(Thanks!): [Ko-fi (Xelieu)](https://ko-fi.com/xelieu)
 
