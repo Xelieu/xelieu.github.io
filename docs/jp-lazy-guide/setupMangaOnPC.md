@@ -28,10 +28,15 @@ Requirements
     - Then just let it download/install for a few mins until it's done and you can type again
     - If `pip3 is not recognized...` then just `uninstall Python` > `restart` > `install Python` (repeat if it didn't work)
 
-4. Either Type `manga_ocr` or `manga_ocr "\path\to\sharex\screenshot\folder"`(OCR from a folder only) to start the program, then just minimize the window
+4. `Hotkey Settings` > `OCR (manga_ocr)` > Click the `COG` icon > `override screenshot folder` > change the `path` to a specified `OCR` folder of your choice
+
+    ![ShareX Path](../img/sharex-path.png){height=150 width=300}
+
+5. Type `manga_ocr "\path\to\sharex\screenshot\folder"`(step 4 specified `path`) to start the program, then just minimize the window
+    - Typing `manga_ocr` by itself without a path also works; it will `scan` from everywhere
     - If you want a `shortcut` program see: [Info 1](https://xelieu.github.io/jp-lazy-guide/setupMangaOnPC/#info-1-mangaocr-shortcut-program)
 
-5. Capture anything using `Shift + Alt + Q` or whatever you set in `OCR (manga_ocr)` hotkey in `ShareX`
+6. Capture anything using `Shift + Alt + Q` or whatever you set in `OCR (manga_ocr)` hotkey in `ShareX`
     - Make sure Yomichan Search window is opened
     - If you want to `scan using mouse button`, see [Info 2](https://xelieu.github.io/jp-lazy-guide/setupMangaOnPC/#info-2-scan-using-mouse-button)
 
