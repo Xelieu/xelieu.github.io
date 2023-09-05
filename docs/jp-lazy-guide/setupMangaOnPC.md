@@ -104,7 +104,7 @@ Choose between 2 options:
         ![Torch if available](../img/torch-if-available.png){height=150 width=300}
 
     - If it redirects you to Microsoft Store: Open `Windows Powershell` > `input Remove-Item $env:USERPROFILE\AppData\Local\Microsoft\WindowsApps\python*.exe` > `enter`
-    - If problem occurs reinstall pytorch by `pip uninstall torch` then redo the step above and update to the latest if it's after `CUDA 11.7`, if still failed, go [here](https://pytorch.org/get-started/locally/#windows-verification)
+    - If problem occurs reinstall pytorch by `pip uninstall torch` then redo the step above, if it still failed, go [here](https://pytorch.org/get-started/locally/#windows-verification)
 
 6. Two options to process, go to `cmd` then:
     - Specified Manga volume: Type `mokuro F:\Manga\Saenai\Vol3` (Replace full directory, Saenai and volume #)
