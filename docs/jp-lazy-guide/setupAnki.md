@@ -215,6 +215,8 @@
 
 8. Go to your `Deck`'s option then copy the `settings` below
     - `Tools` > `Preferences` and turn on `v3 scheduler`
+    - `Shift` + `Left Click` on the `option` cog settings of the `deck` for `Rewards` Tab, since it doesn't save on the modern UI
+        - Multiply the values you input by `100` for the old UI
 
     === "Settings 1"
         ![Anki Settings 1](../img/anki-settings-1.png){height=300 width=600}
