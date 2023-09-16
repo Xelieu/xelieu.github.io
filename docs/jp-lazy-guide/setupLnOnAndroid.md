@@ -92,6 +92,7 @@ You can now read Light Novels in Android, why not check out the Manga setup?
         - Paste the `android` file ON `files` folder from `PC` (2nd step)
         - The result should be: `Android/data/com.kamwithk.ankiconnectandroid/files/android.db`
         - Alternatively, use [MiXplorer](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/#post-23109280) file manager if you only have android device
+            - Only `Copy` from your download folder not `Cut`, otherwise it will not `Paste`
     
     5. My `local-audio-yomichan-settings` profile: `Android (LN & Manga)`
         - OR if you are not using my profile:
