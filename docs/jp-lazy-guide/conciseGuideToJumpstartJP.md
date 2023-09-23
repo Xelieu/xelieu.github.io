@@ -28,7 +28,7 @@ hide:
 1. Learn `Kana`; [Hiragana](https://www.tofugu.com/japanese/learn-hiragana/)(first) and [Katakana](https://www.tofugu.com/japanese/learn-katakana/)(second)
     - `Do 15 new Kana/day`
     - Skip worksheets and long paragraphs details and `go straight to the guide`
-    - Just do the Kana Quiz `each time you learn +5 kana` and put a gap between reviews, e.g. 15mins/30mins/1hr/8hrs
+    - Just do the [Kana Quiz](https://kana-quiz.tofugu.com/) `each time you learn +5 kana` and put a gap between reviews, e.g. 15mins/30mins/1hr/8hrs
     - This should take up to 2 weeks
 
 2. Download [Anki](https://apps.ankiweb.net/) Qt6 and my [Anki add-ons](https://drive.google.com/drive/folders/1qdElBZ_1CCjyVuKCrxHegtGYludG0HVw?usp=sharing)
