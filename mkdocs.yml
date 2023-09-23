@@ -127,5 +127,8 @@ plugins:
         - en
         - ja
 
+extra_css:
+  - stylesheets/extra.css
+
 copyright: |
   &copy; 2023 <a href="https://github.com/Xelieu/xelieu.github.io/blob/main/LICENSE"  target="_blank" rel="noopener">Xelieu</a>
