@@ -35,7 +35,7 @@ hide:
     - Extract the `Anki add-ons` and Paste it to `C:\Users\YourUser\AppData\Roaming\Anki2`
     - Restart your `Anki`
 
-3. Download [(Modern) Core 2.3k Vocab Deck](https://drive.google.com/drive/folders/17qxBZMmqNbDui1Ec6AP8HQnIUOvPSq8Y?usp=sharing) and open it
+3. Download [(Modern) Core 2.3k Vocab Deck](https://drive.google.com/drive/folders/17qxBZMmqNbDui1Ec6AP8HQnIUOvPSq8Y?usp=sharing) then open it
     - Just use `again (1)` or `good (spacebar or 3)` button when doing the deck so you don't have to think about if it's `easy (2)` or `hard (4)`
 
 4. Go to your `Deck`'s option then copy the `settings` below
