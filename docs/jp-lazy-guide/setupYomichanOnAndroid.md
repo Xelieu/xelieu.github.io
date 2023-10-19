@@ -16,7 +16,7 @@
 - In your `Kiwi Browser`, go to `chrome://extensions/` and turn on `developer mode` from the top right
 - Click `(from .zip/.crx/.user.js)`
 
-Download `LazyXel Yomichan Setup` and `Font` from [here](https://drive.google.com/drive/folders/1s_PdQ9HWvpDFXkh_AGGzVgqrFBGhUsbI?usp=sharing) and extract it
+Download `LazyXel Yomichan Setup`(`settings` included here) and `Font` from [here](https://drive.google.com/drive/folders/1s_PdQ9HWvpDFXkh_AGGzVgqrFBGhUsbI?usp=sharing) and extract it
 
 ---
 
