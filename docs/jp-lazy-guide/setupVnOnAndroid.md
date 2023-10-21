@@ -25,7 +25,7 @@ For `Android`:
 ## Setting Up
 
 1. In your `PC`, open your `Steam Settings` > `Controller` > `Desktop Configuration`
-    - You must have your `Steam Link` opened in your android
+    - You must have your `Steam Link` connected and opened in your android while doing this on your PC
 
     ![Steam Settings](../img/steam-settings.png){height=250 width=500}
 
