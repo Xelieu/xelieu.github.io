@@ -20,7 +20,10 @@ Requirements
 
 1. Download [python](https://www.python.org/downloads/release/python-31011/) (`3.10.xx ONLY`)
     - Then choose Windows/mac `INSTALLER (64-bit)` and install
-    - Check `Add Python to Path`
+    
+    ??? note "Check 'Add Python to PATH' <small>(click here)</small>"
+
+        ![Add Python to PATH](../img/add-python-to-path.png){height=300 width=600}
 
 2. Open `command prompt` by winkey/search > cmd
 
@@ -82,7 +85,10 @@ Choose between 2 options:
 
 1. Download [python](https://www.python.org/downloads/release/python-31011/) (`3.10.xx ONLY`)
     - Then choose Windows/mac `INSTALLER 64bit` and install
-    - Check `Add Python to Path`
+        
+    ??? note "Check 'Add Python to PATH' <small>(click here)</small>"
+
+        ![Add Python to PATH](../img/add-python-to-path.png){height=300 width=600}
 
 2. Download and Install [Git](https://github.com/git-for-windows/git/releases/download/v2.40.1.windows.1/Git-2.40.1-64-bit.exe)
 

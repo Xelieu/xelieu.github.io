@@ -77,7 +77,10 @@ If you've been using my Anki Layout and want to transfer to JPMN
 This is needed for people that used my Monolingual format or you won't have definitions on JPMN
 
 1. Download and Install [Python](https://www.python.org/ftp/python/3.10.11/python-3.10.11-amd64.exe) (`3.10.xx ONLY`) and [Git](https://github.com/git-for-windows/git/releases/download/v2.40.1.windows.1/Git-2.40.1-64-bit.exe)
-    - For `Python`: Check `Add Python to Path`
+
+    ??? note "Check 'Add Python to PATH' <small>(click here)</small>"
+
+        ![Add Python to PATH](../img/add-python-to-path.png){height=300 width=600}
 
 2. Make a new profile on `Anki` and `import` the old Mining Deck (The backup)
 

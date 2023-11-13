@@ -16,7 +16,11 @@
 - Download [Anki addons](https://drive.google.com/drive/folders/1qdElBZ_1CCjyVuKCrxHegtGYludG0HVw?usp=sharing)
 - Download [python](https://www.python.org/downloads/release/python-31011/) (`3.10.xx ONLY`) located at the bottom of the page
     - Then choose Windows/mac `INSTALLER 64bit` and install
-    - Check `Add Python to Path`
+    
+    ??? note "Check 'Add Python to PATH' <small>(click here)</small>"
+
+        ![Add Python to PATH](../img/add-python-to-path.png){height=300 width=600}
+
 
 ---
 ## Setting Up
