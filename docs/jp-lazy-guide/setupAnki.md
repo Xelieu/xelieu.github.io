@@ -22,10 +22,11 @@
     
     ![Anki Addons](../img/addons-directory.png){height=150 width=300}
 
-3. Restart your Anki
+3. Restart your Anki, then `Ctrl + Shift + A` OR `Tools` > `Add-ons` > `Check for add-ons update`
+
+    ![Anki Addons Update](../img/addons-update.png){height=250 width=500}
 
 4. In Anki: `Tools` > `JPMN Manager` > `Install jp-mining-note`
-	- `Ctrl + Shift + A` or `Tools` > `Add-ons` > `Check for add-ons update` (important for [JPMN Manager](https://ankiweb.net/shared/info/1732829476))
         
     ![jpmn install](../img/jpmn-install.png){height=250 width=500}
 
