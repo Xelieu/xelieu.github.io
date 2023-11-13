@@ -7,7 +7,7 @@ repo_name: Want to buy me a coffee?
 nav:
   - Home:
     - Introduction: 'jp-lazy-guide/index.md'
-    - Changelog (2023-08-05): 'jp-lazy-guide/changelog.md'
+    - Changelog (2023-11-13): 'jp-lazy-guide/changelog.md'
     - About: 'jp-lazy-guide/about.md'
     - Credits: 'jp-lazy-guide/credits.md'
   - Setup:
@@ -31,6 +31,9 @@ nav:
       - "Setup: Anime on Android": 'jp-lazy-guide/setupAnimeOnAndroid.md'
     - Miscellaneous:
       - "Transfer Lazy Setup to JPMN": 'jp-lazy-guide/transferAnkiSetup.md'
+      - "Update: Anki JPMN Fork": 'jp-lazy-guide/updateAnkiJPMNFork.md'
+    - Archive:
+      - "Setup: Anki (Old)": 'jp-lazy-guide/setupAnkiOld.md'
   - Sub Guide:
     - Sub Guide Introduction: 'jp-lazy-guide/subGuide.md'
     - Concise Guide to Jumpstart JP: 'jp-lazy-guide/conciseGuideToJumpstartJP.md'

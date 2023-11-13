@@ -4,6 +4,9 @@
 - Mobile is supported
 - Anki [Light](../img/jpmn-light.png) | [Dark](../img/jpmn-dark.png) Mode
 - Transferring from other Anki Format? Check [Transfer Existing Notes](https://aquafina-water-bottle.github.io/jp-mining-note/importing/) or [Transfer Lazy Format to JPMN](https://xelieu.github.io/jp-lazy-guide/transferAnkiSetup/)
+- Updating your existing `JPMN Format` from the old [JPMN Manager](https://xelieu.github.io/jp-lazy-guide/setupAnkiOld/) method?
+    - Go to [Update: Anki JPMN Fork](https://xelieu.github.io/jp-lazy-guide/updateAnkiJPMNFork/)
+    - This should only be followed if you installed `JPMN Note` before `2023-11-13`
 
 ---
 
@@ -11,6 +14,9 @@
 
 - Install [Anki 23.10.1 Qt6](https://github.com/ankitects/anki/releases/tag/23.10.1) (Please don't use `Qt5`)
 - Download [Anki addons](https://drive.google.com/drive/folders/1qdElBZ_1CCjyVuKCrxHegtGYludG0HVw?usp=sharing)
+- Download [python](https://www.python.org/downloads/release/python-31011/) (`3.10.xx ONLY`) located at the bottom of the page
+    - Then choose Windows/mac `INSTALLER 64bit` and install
+    - Check `Add Python to Path`
 
 ---
 ## Setting Up
@@ -23,12 +29,41 @@
     ![Anki Addons](../img/addons-directory.png){height=150 width=300}
 
 3. Restart your Anki, then `Ctrl + Shift + A` OR `Tools` > `Add-ons` > `Check for add-ons update`
+    - Update the `addons` then restart it again
 
     ![Anki Addons Update](../img/addons-update.png){height=250 width=500}
 
-4. In Anki: `Tools` > `JPMN Manager` > `Install jp-mining-note`
-        
-    ![jpmn install](../img/jpmn-install.png){height=250 width=500}
+4. Open command prompt by `windows key` or `search bar` > Type `cmd` or `command prompt`
+    - Click the `Copy` button and simply `Paste` this into `command prompt` then enter
+
+    ??? examplecode "Command Line <small>(click here)</small>"
+
+        === "Windows"
+            ```
+            git clone "https://github.com/arbyste/jp-mining-note.git"
+            cd jp-mining-note
+            git checkout dev
+
+            :: Ensure you have Anki open, and with Anki-Connect running
+            :: Also ensure that you have python 3.9+ installed.
+            :: It *MAY* work with lower versions of python, but I make no such guarantee. ;)
+            python tools\install.py
+
+            ```
+        === "macOS & Linux"
+            ```
+            git clone "https://github.com/arbyste/jp-mining-note.git"
+            cd jp-mining-note
+            git checkout dev
+
+            # Ensure you have Anki open, and with Anki-Connect running
+            # Also ensure that you have python 3.9+ installed.
+            # It *MAY* work with lower versions of python, but I make no such guarantee. ;)
+
+            # You may have to use `python3` instead of `python`.
+            python tools/install.py
+            ```
+
 
 5. Rename `JPMN-Examples` to `Mining Deck`
 
