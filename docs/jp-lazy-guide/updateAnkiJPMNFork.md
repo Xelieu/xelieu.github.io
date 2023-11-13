@@ -20,6 +20,7 @@
 
 1. Open command prompt by `windows key` or `search bar` > Type `cmd` or `command prompt`
     - Click the `Copy` button and simply `Paste` this into `command prompt` then enter
+    - If you encounter a problem, delete the `jpmn-mining-note` folder that is usually located in `C:\Users\**YOUR NAME**` and re-do this step
 
     ??? examplecode "Command Line <small>(click here)</small>"
 
