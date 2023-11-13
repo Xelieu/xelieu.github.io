@@ -88,7 +88,7 @@ Choose between 2 options:
 
 3. Open `command prompt` by winkey/search > cmd
 
-4. Type `pip install git+https://github.com/ZXY101/mokuro.git@master`
+4. Type `pip install git+https://github.com/kha-white/mokuro.git@web-reader`
     - Then just let it download/install for a few mins until it's done and you can type again
     - If `pip3 is not recognized...` then just uninstall > restart > install Python repeatedly (I know it's dumb but that's how)
 
@@ -117,14 +117,45 @@ Choose between 2 options:
 
 ### Reading Processed Manga
 
-1. In your `Manga` folder after and open the `.html` file
+1. In your Anki, `Ctrl + Shift + A` or `Tools` > `Add-ons`
+    - Select `AnkiConnect` > `Config`
+    - Under `webCorsOriginList` paste `https://reader.mokuro.app` or copy config below:
 
-    ![Mokuro HTML File](../img/mokuro-html-file.png){height=150 width=300}
+    ??? examplecode "AnkiConnect Config <small>(click here)</small>"
 
-2. You can now hover over the `words` to use `Yomichan` like usual
-    - Use `ShareX` hotkeys to `screenshot`
+        ```
+        {
+            "apiKey": null,
+            "apiLogPath": null,
+            "ignoreOriginList": [],
+            "webBindAddress": "127.0.0.1",
+            "webBindPort": 8765,
+            "webCorsOriginList": [
+                "http://localhost",
+                "https://reader.mokuro.app"
+                ]
+        }
+        ```
 
-    ![Mokuro PC](../img/mokuro-pc.png){height=300 width=600}
+    ![AnkiConnect PC](../img/ankiconnect-pc.png){height=150 width=300}
+
+2. Go to [Mokuro Reader](https://reader.mokuro.app/) > `Upload` Icon (top right) > `choose directory`
+    - Select the `Manga` folder that contains the manga, mokuro'd files and .mokuro
+    - Click `Upload`
+
+    ![Mokuro upload](../img/mokuro-upload.png){height=300 width=600}
+
+3. In the top right, go to `settings` > `Profile` > `Select a File` > [Mokuro Profile](https://drive.google.com/drive/folders/1vX40zrvkGN13o_3WRYzqP1-L0F8mX6JJ?usp=sharing) > `Import Profiles` > Select `PC Profle`
+    - Alternatively you can make your own profile just make sure to set-up everything on `Anki Connect` portion
+
+    ![Mokuro Settings](../img/mokuro-settings.png){height=50 width=100}
+
+4. To be able to mine, simply add the word using `yomichan`
+    - To screenshot, make sure to double click/tap inside the `text border` (its invisible by default)
+
+    ![Mokuro Settings](../img/mokuro-yomichan.png){height=400 width=800}
+
+5. You should now be able to mine and screenshot in your Manga with ease
 
 !!! note "_ocr folder"
 

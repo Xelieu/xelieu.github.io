@@ -8,7 +8,7 @@
 
 ## Download and Install
 
-- Download and Install [Ankiconnect Android](https://drive.google.com/drive/folders/1LG1e4mUmBivgW_ebaP0M2HljlHVclNEg?usp=sharing) and [Local File Server](https://github.com/Aquafina-water-bottle/LocalFileServerAndroid/releases/latest) in Assets `.apk` file
+- Download and Install [Ankiconnect Android](https://github.com/KamWithK/AnkiconnectAndroid/releases/latest/) in Assets `.apk` file
 
 - Install [Ankidroid](https://play.google.com/store/apps/details?id=com.ichi2.anki)
 
@@ -20,33 +20,38 @@ Requirements:
 
 - [Yomichan On Android](https://xelieu.github.io/jp-lazy-guide/setupYomichanOnAndroid/) already set-up
 
+- File compressor such as [7z](https://www.7-zip.org/)
+
 ---
 
 ## Setting Up
 
-1. Transfer your `Processed Manga` in `~/Android/data/com.rayrtheii.localfileserver/files/`
-    - ALL the files, the `manga` itself, `.ocr` and `.html`/`.mobile`
+1. Compress your Manga files(the one that contain img or .png files) into `.zip` format (NOT .7z)
 
-2. Open `Ankiconnect Android` > `settings` > `CORS Host` > `http://localhost:8976`
+2. Transfer your `Processed Manga` to your `Android` Device
+    - ALL the files, the compressed `manga` .zip file itself, `_ocr` and `.mokuro` file
+
+2. Open `Ankiconnect Android` > `settings` > `CORS Host` > `https://reader.mokuro.app`
 
     ![CORS Host](../img/cors-host.png){height=200 width=400}
 
-3. `Start the Service` on both `AnkiConnect Android` and `Local File Server`
+3. `Start the Service` on `AnkiConnect Android` and make sure `AnkiDroid` is also opened
 
-4. Open your `Kiwi Browser` > http://localhost:8976/browse > Manga's `.html`/`.mobile` file
+4. Open your `Kiwi Browser` > go to [Mokuro Reader](https://reader.mokuro.app/) > `Upload` icon (top right) > `choose files`
+    - Go to the directory of your manga and upload everything or the `manga` .zip and `.mokuro` file
+    - Click `Upload`
 
-    ![Manga Android HTML File](../img/android-html-file.png){height=150 width=300}
+    ![Mokuro Android Upload](../img/mokuro-upload-android.png){height=150 width=300}
 
-5. Go to `settings` > `advanced settings` then copy this:
+5. In the top right, go to `settings` > `Profile` > `Select a File` > [Mokuro Profile](https://drive.google.com/drive/folders/1vX40zrvkGN13o_3WRYzqP1-L0F8mX6JJ?usp=sharing) > `Import Profiles` > Select `Mobile Profle`
+    - Alternatively you can make your own profile just make sure to set-up everything on `Anki Connect` portion
 
-    ![Manga Android HTML File](../img/android-mokuro-settings.png){height=500 width=1000}
+6. To be able to mine, simply add the word using `yomichan`
+    - To screenshot, make sure to double click/tap inside the `text border` (its invisible by default)
 
-    - Uncheck the `show page number` so it doesn't get included on mining
+    ![Mokuro Settings](../img/mokuro-yomichan.png){height=400 width=800}
 
-6. You can now mine with `Yomichan`, mine `+` the word first before clicking the blue `●` to be able to `screenshot`
-    
-    - See [Android Mining Demo](https://xelieu.github.io/jp-lazy-guide/setupMangaOnAndroid/#info-1-android-mining-demo)
-
+7. You should now be able to mine and screenshot in your Manga with ease
 
 You are now finally done in setting up Manga Mining in Android, how about checking out Anime Mining?
 
@@ -63,6 +68,8 @@ You are now finally done in setting up Manga Mining in Android, how about checki
 ??? info "Android Mining Demo <small>(click here)</small>"
 
     - Mining Demo with Manga screenshot
+    - This is `outdated` but shows the fundamental function
+    - To actually screenshot you need to double tap or hold tap on the `text border`
 
     ![Android Manga Mining](../img/android-manga-mining.gif){height=200 width=400}s
 

@@ -14,9 +14,13 @@ hide:
 
 **2023-11-13**
 
-- Updated [Setup: Anki](https://xelieu.github.io/jp-lazy-guide/setupAnki/) because Aquafina and we can't update using `JPMN Manager` anymore
+- Updated [Setup: Anki](https://xelieu.github.io/jp-lazy-guide/setupAnki/) because Aquafina is missing and we can't update using `JPMN Manager` anymore
 	- For existing users that installed before `2023-11-13`, go to: [Update: Anki JPMN Fork](https://xelieu.github.io/jp-lazy-guide/updateAnkiJPMNFork/)
 	- Archived [Setup: Anki (Old)](https://xelieu.github.io/jp-lazy-guide/setupAnkiOld/) in case we can re-use `JPMN Manager` in the future
+
+- Updated [Mokuro Setup (Local Processing Method)](https://xelieu.github.io/jp-lazy-guide/setupMangaOnPC/#local-processing-method)
+	- For existing users, simply paste this into cmd to update: `pip install git+https://github.com/ZXY101/mokuro.git@master`
+	- Updated Reading Processed Manga in both [PC](https://xelieu.github.io/jp-lazy-guide/setupMangaOnPC/#reading-processed-manga) and [Android](https://xelieu.github.io/jp-lazy-guide/setupMangaOnAndroid/#setting-up)
 
 ---
 
