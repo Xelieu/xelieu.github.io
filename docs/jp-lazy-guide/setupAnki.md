@@ -254,18 +254,18 @@
 
 
 8. Go to your `Deck`'s option then copy the `settings` below
-    - `Tools` > `Preferences` and turn on `v3 scheduler`
-    - `Shift` + `Left Click` on the `option` cog settings of the `deck` for `Rewards` Tab(Settings 3), since it doesn't save on the modern UI
-        - Multiply the values you input by `100` for the old UI
+    - (Top left) `Tools` > `Preferences` and set the settings accordingly
+    - Turn on `FSRS` with a minimum desired and SM2 retention of `0.80`, then use `Optimize FSRS Parameters` every month
+        - `Tools` > `FSRS4Anki Helper` for more personalized settings
 
+    === "Anki Preference Settings"
+        ![Anki Preference Settings](../img/anki-preference-settings.png){height=300 width=600}
     === "Settings 1"
         ![Anki Settings 1](../img/anki-settings-1.png){height=300 width=600}
     === "Settings 2"
         ![Anki Settings 2](../img/anki-settings-2.png){height=300 width=600}
     === "Settings 3"
         ![Anki Settings 3](../img/anki-settings-3.png){height=300 width=600}
-    === "Anki Preference Settings"
-        ![v3 Scheduler](../img/v3-scheduler.png){height=300 width=600}
 
 9. Restart your `Anki` and it should be good to go
 
