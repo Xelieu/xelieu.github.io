@@ -69,7 +69,7 @@
             ```
 
 
-5. Rename `JPMN-Examples` to `Mining Deck`
+5. In Anki after reinstalling, rename `JPMN-Examples` to `Mining Deck`
 
     ![JPMN Rename](../img/jpmn-rename.png){height=250 width=500}
 
@@ -78,7 +78,7 @@
 
         ![JPMN Options](../img/jpmn-options.png){height=150 width=300}
 
-    - Edit and save the config below (open in notepad)
+    - Edit and replace the config with the one below (open in notepad)
 
         ??? examplecode "_jpmn-options config <small>(click here)</small>"
 
@@ -255,7 +255,7 @@
 
 8. Go to your `Deck`'s option then copy the `settings` below
     - (Top left) `Tools` > `Preferences` and set the settings accordingly
-    - Turn on `FSRS` with a minimum desired and SM2 retention of `0.80`, then use `Optimize FSRS Parameters` every month
+    - (Settings 3) Turn on `FSRS` with a minimum desired and SM2 retention of `0.80`, then use `Optimize FSRS Parameters` every month
         - `Tools` > `FSRS4Anki Helper` for more personalized settings
 
     === "Anki Preference Settings"
