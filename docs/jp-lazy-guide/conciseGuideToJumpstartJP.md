@@ -47,14 +47,14 @@ hide:
 
             - Multiply the values you input by `100` for the old UI
     
+        === "Anki Preference Settings"
+            ![Anki Preference Settings](../img/anki-preference-settings.png){height=300 width=600}
         === "Settings 1"
             ![Anki Settings 1](../img/anki-settings-1.png){height=300 width=600}
         === "Settings 2"
             ![Anki Settings 2](../img/anki-settings-2.png){height=300 width=600}
         === "Settings 3"
             ![Anki Settings 3](../img/anki-settings-3.png){height=300 width=600}
-        === "Anki Preference Settings"
-            ![v3 Scheduler](../img/v3-scheduler.png){height=300 width=600}
 
 
 5. Do the `Core 2.3k Vocab deck`, start with `10 new cards/day`(30 max; don't overdo it) along with the `grammar guide` on `step 6`;
