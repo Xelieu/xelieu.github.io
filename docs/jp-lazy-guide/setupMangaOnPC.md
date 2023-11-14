@@ -90,7 +90,7 @@ Choose between 2 options:
 
         ![Add Python to PATH](../img/add-python-to-path.png){height=300 width=600}
 
-2. Download and Install [Git](https://github.com/git-for-windows/git/releases/download/v2.40.1.windows.1/Git-2.40.1-64-bit.exe)
+2. Download and Install [Git](https://git-scm.com/downloads) > 64-bit setup
 
 3. Open `command prompt` by winkey/search > cmd
 
