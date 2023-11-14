@@ -14,6 +14,7 @@
 
 - Install [Anki 23.10.1 Qt6](https://github.com/ankitects/anki/releases/tag/23.10.1) (Please don't use `Qt5`)
 - Download [Anki addons](https://drive.google.com/drive/folders/1qdElBZ_1CCjyVuKCrxHegtGYludG0HVw?usp=sharing)
+- Download and Install [Git](https://github.com/git-for-windows/git/releases/download/v2.40.1.windows.1/Git-2.40.1-64-bit.exe)
 - Download [python](https://www.python.org/downloads/release/python-31011/) (`3.10.xx ONLY`) located at the bottom of the page
     - Then choose Windows/mac `INSTALLER 64bit` and install
     
