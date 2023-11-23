@@ -14,9 +14,7 @@ hide:
 
 **2023-11-16**
 
-- Updated and fixed [ShareX](https://drive.google.com/drive/folders/1WGmVeT6pdip-LK8asqi_cF3OC0lvNylL?usp=sharing) settings for an audio bug that sometimes cause a blank
-
-- Fixed Share
+- Updated and fixed [ShareX](https://drive.google.com/drive/folders/1WGmVeT6pdip-LK8asqi_cF3OC0lvNylL?usp=sharing) settings for an audio bug that sometimes cause a blank file
 
 **2023-11-13**
 
