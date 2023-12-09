@@ -21,7 +21,7 @@ hide:
 	- Updated [Yomitan Settings](https://drive.google.com/drive/folders/1s_PdQ9HWvpDFXkh_AGGzVgqrFBGhUsbI?usp=sharing)
 		- If you switch to Yomitan please update to this
 
-- Miscellaneous minor additional images/better writing
+- Miscellaneous minor changes like additional images/better writing
 
 ---
 
