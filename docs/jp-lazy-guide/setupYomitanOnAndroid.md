@@ -22,36 +22,32 @@
 
 ## Setting Up
 
-1. On `Yomitan`'s welcome page > `Permissions page` > enable `clipboardRead` and `nativeMessaging`
+1. Go to `chrome://extensions` and go to `Yomitan` extension settings
 
-    ![Yomitan Permission Page](../img/yomitan-permission.png){height=250 width=500}
-
-2. Go to `chrome://extensions` and go to `Yomitan` extension settings
-
-3. Make sure `Allow access to file URLs` is enabled
+2. Make sure `Allow access to file URLs` is enabled
 
     ![Yomitan URL Access](../img/url-access.png){height=150 width=300}
 
-4. Install the `Fonts` by opening them from the `Font` folder
+3. Install the `Fonts` by opening them from the `Font` folder
 
     ![Yomitan Font](../img/fonts.png){height=150 width=300}
 
-5. Go to `Yomitan`’s settings page (Click on the extension’s icon then click on the cog icon from the popup)
+4. Go to `Yomitan`’s settings page (Click on the extension’s icon then click on the cog icon from the popup)
 
     ![Yomitan Cog](../img/yomitan-cog.png){height=50 width=100}
 
-6. Go to `Dictionary` > `Configure installed and enabled dictionaries...` > `Import`
+5. Go to `Dictionary` > `Configure installed and enabled dictionaries...` > `Import`
     - Import all the dictionaries from `yomitan dictionary` folder (You can select them all and import all at once)
 
     ![Dictionary Import](../img/yomitan-dictionary-import.png){height=250 width=500}
 
-7. Then Scroll down, in `Backup` > `Import Settings` > `lazyxel-yomitan-settings` (from the extracted folder)
+6. Then Scroll down, in `Backup` > `Import Settings` > `lazyxel-yomitan-settings` (from the extracted folder)
     - If you are interested on installing [Yomitan Local Audio](https://xelieu.github.io/jp-lazy-guide/setupyomitanOnPC/#yomitan-local-audio) pick `lazyXel-local-audio`, otherwise `lazyXel-non-local-audio`
     - `Import` NOT `Sanitize and Import`
     
         ![Yomitan Import](../img/yomitan-import.png){height=150 width=300}
 
-8. Pick `Android (LN & Manga)` profile (`Default` and `Editing`)
+7. Pick `Android (LN & Manga)` profile (`Default` and `Editing`)
 
     ![Yomitan Profile](../img/yomitan-profiles.png){align=left height=300 width=600}
 
