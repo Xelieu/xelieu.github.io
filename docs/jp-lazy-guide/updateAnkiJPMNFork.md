@@ -29,34 +29,22 @@
 
         === "Windows"
             ```
-            :: assuming you are at the root of the repo, i.e. after the following commands:
-            ::  $ git clone https://github.com/arbyste/jp-mining-note.git
-            ::  $ cd jp-mining-note
+            $ git clone https://github.com/arbyste/jp-mining-note.git
+            $ cd jp-mining-note
 
-            :: Since we are using the prerelease version, make sure you switch
-            :: to the dev branch
             git checkout dev
-            :: grabs the latest version of the dev branch
             git pull --force
 
-            :: Make sure you have Anki open and Anki-Connect installed!
-            :: Also ensure that your python version is 3.9 or higher.
             python tools\install.py --update
             ```
         === "macOS & Linux"
             ```
-            # assuming you are at the root of the repo, i.e. after the following commands:
-            #  $ git clone https://github.com/arbyste/jp-mining-note.git
-            #  $ cd jp-mining-note
+            $ git clone https://github.com/arbyste/jp-mining-note.git
+            $ cd jp-mining-note
 
-            # Since we are using the prerelease version, make sure you switch
-            # to the dev branch
             git checkout dev
-            # grabs the latest version of the dev branch
             git pull --force
 
-            # Make sure you have Anki open and Anki-Connect installed!
-            # Also ensure that your python version is 3.9 or higher.
             python3 tools/install.py --update
             ```
 

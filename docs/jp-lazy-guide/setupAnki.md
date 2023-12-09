@@ -49,9 +49,6 @@
             cd jp-mining-note
             git checkout dev
 
-            :: Ensure you have Anki open, and with Anki-Connect running
-            :: Also ensure that you have python 3.9+ installed.
-            :: It *MAY* work with lower versions of python, but I make no such guarantee. ;)
             python tools\install.py
 
             ```
@@ -60,10 +57,6 @@
             git clone "https://github.com/arbyste/jp-mining-note.git"
             cd jp-mining-note
             git checkout dev
-
-            # Ensure you have Anki open, and with Anki-Connect running
-            # Also ensure that you have python 3.9+ installed.
-            # It *MAY* work with lower versions of python, but I make no such guarantee. ;)
 
             # You may have to use `python3` instead of `python`.
             python tools/install.py
