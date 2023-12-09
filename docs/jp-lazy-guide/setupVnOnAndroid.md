@@ -53,7 +53,7 @@ For `Android`:
 
 ---
 
-## Yomichan Configuration
+## Yomitan Configuration
 
 1. On `PC`, [Texthooker 5.2.0](https://drive.google.com/drive/folders/1oHdD3DL8BqAxEEvUoSK-ow8snK6_Qn6y?usp=sharing) folder, open `texthooker - android` page
 
@@ -61,13 +61,13 @@ For `Android`:
 
     ![Texthooker URL](../img/texthooker-url.png){height=250 width=500}
 
-3. On `PC`, open `Yomichan Settings` > `Profile` > `Configure Profiles...` > `Android (VN)` > `Options` > `Edit conditions...`
+3. On `PC`, open `Yomitan Settings` > `Profile` > `Configure Profiles...` > `Android (VN)` > `Options` > `Edit conditions...`
 
-    ![Yomichan Profile Option](../img/yomichan-profile-option.png){height=250 width=500}
+    ![Yomitan Profile Option](../img/yomitan-profile-option.png){height=250 width=500}
 
 4. Set it to `If URL` and `Matches RegExp` and paste the `URL` on the `3rd box` from `step 2`
 
-    ![Yomichan Profile Condition](../img/yomichan-profile-condition.png){height=250 width=500}
+    ![Yomitan Profile Condition](../img/yomitan-profile-condition.png){height=250 width=500}
 
 ---
 
@@ -77,7 +77,7 @@ For `Android`:
 
 2. `TAP` your screen to switch monitor
 
-3. `Add Yomichan` word like usual
+3. `Add Yomitan` word like usual
 
 4. `Use the macros` that you've set for screenshot/audio (`ShareX`)
 
@@ -89,9 +89,9 @@ Macros on my Steam Link:
 
 ![Steam Link Macros 2](../img/steam-link-macros-2.png){height=500 width=1000}
 
-Yomichan on my Android:
+Yomitan on my Android:
 
-![VN on Android Yomichan](../img/vn-android-yomichan.png){height=500 width=1000}
+![VN on Android Yomitan](../img/vn-android-yomitan.png){height=500 width=1000}
 
 
 
@@ -117,13 +117,13 @@ You now mine VN on Android, why not check out Mining Light Novel on PC?
 
 ??? question "How to use Monolingual Setup? <small>(click here)</small>"
 
-    1. In your `PC`, go to `Yomichan` settings > `Profile (Editing)` > `Android (VN)`
+    1. In your `PC`, go to `Yomitan` settings > `Profile (Editing)` > `Android (VN)`
     
-    2. `Yomichan` settings > `Dictionary` > Enable `all`
+    2. `Yomitan` settings > `Dictionary` > Enable `all`
 
         ![Dictionary Toggle](../img/dictionary-toggle.png){height=250 width=500}
 
-    3. `Yomichan` settings > `Anki` > `Configure Anki card templates...`
+    3. `Yomitan` settings > `Anki` > `Configure Anki card templates...`
         - Switch the `highlighted text` to `monolingual` (case-sensitive)
 
         ![Dictionary Toggle](../img/switch-to-mono.png){height=250 width=500}

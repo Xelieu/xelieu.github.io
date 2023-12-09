@@ -20,7 +20,7 @@ This is mostly beginner's pointers
 
 2. Try `avoiding rare words/very specific vocab words`(e.g. fantasy settings, if you know you won't read it again)
 
-3. Usually, you can rep with just yomichan in the very common vocabs, try avoiding mining that, unless it took you ages and you still confuse it
+3. Usually, you can rep with just yomitan in the very common vocabs, try avoiding mining that, unless it took you ages and you still confuse it
 
 ---
 
@@ -30,14 +30,14 @@ This is mostly beginner's pointers
     - Shift + Click 'options' on your deck to get this window
 
     ??? info "Anki Settings <small>(click here)</small>"
+        === "Anki Preference Settings"
+            ![Anki Preference Settings](../img/anki-preference-settings.png){height=300 width=600}
         === "Settings 1"
             ![Anki Settings 1](../img/anki-settings-1.png){height=300 width=600}
         === "Settings 2"
             ![Anki Settings 2](../img/anki-settings-2.png){height=300 width=600}
         === "Settings 3"
             ![Anki Settings 3](../img/anki-settings-3.png){height=300 width=600}
-        === "Anki Preference Settings"
-            ![v3 Scheduler](../img/v3-scheduler.png){height=300 width=600}
 
 2. Lapse, make your `leech threshold` down into `4-6` and `suspend card` instead of tag only
 

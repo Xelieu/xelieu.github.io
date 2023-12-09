@@ -7,15 +7,15 @@ repo_name: Want to buy me a coffee?
 nav:
   - Home:
     - Introduction: 'jp-lazy-guide/index.md'
-    - Changelog (2023-11-16): 'jp-lazy-guide/changelog.md'
+    - Changelog (2023-12-09): 'jp-lazy-guide/changelog.md'
     - About: 'jp-lazy-guide/about.md'
     - Credits: 'jp-lazy-guide/credits.md'
   - Setup:
     - Setup Introduction: 'jp-lazy-guide/setup.md'
     - Essentials:
       - "Setup: Anki": 'jp-lazy-guide/setupAnki.md'
-      - "Setup: Yomichan PC": 'jp-lazy-guide/setupYomichanOnPC.md'
-      - "Setup: Yomichan Android": 'jp-lazy-guide/setupYomichanOnAndroid.md'
+      - "Setup: Yomitan PC": 'jp-lazy-guide/setupYomitanOnPC.md'
+      - "Setup: Yomitan Android": 'jp-lazy-guide/setupYomitanOnAndroid.md'
       - "Setup: ShareX": 'jp-lazy-guide/setupShareX.md'
     - Visual Novel:
       - "Setup: VN on PC": 'jp-lazy-guide/setupVnOnPC.md'
@@ -34,6 +34,8 @@ nav:
       - "Update: Anki JPMN Fork": 'jp-lazy-guide/updateAnkiJPMNFork.md'
     - Archive:
       - "Setup: Anki (Old)": 'jp-lazy-guide/setupAnkiOld.md'
+      - "Setup: Yomitan PC (Old)": 'jp-lazy-guide/setupYomitanOnPCOld.md'
+      - "Setup: Yomitan Android (Old)": 'jp-lazy-guide/setupYomitanOnAndroidOld.md'
   - Sub Guide:
     - Sub Guide Introduction: 'jp-lazy-guide/subGuide.md'
     - Concise Guide to Jumpstart JP: 'jp-lazy-guide/conciseGuideToJumpstartJP.md'

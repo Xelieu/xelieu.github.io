@@ -226,20 +226,20 @@
         - `Shift` + `Left Click` on the `option` cog settings of the `deck` for `Rewards` Tab(Settings 3), since it doesn't save on the modern UI
             - Multiply the values you input by `100` for the old UI
 
+        === "Anki Preference Settings"
+            ![Anki Preference Settings](../img/anki-preference-settings.png){height=300 width=600}
         === "Settings 1"
             ![Anki Settings 1](../img/anki-settings-1.png){height=300 width=600}
         === "Settings 2"
             ![Anki Settings 2](../img/anki-settings-2.png){height=300 width=600}
         === "Settings 3"
             ![Anki Settings 3](../img/anki-settings-3.png){height=300 width=600}
-        === "Anki Preference Settings"
-            ![v3 Scheduler](../img/v3-scheduler.png){height=300 width=600}
 
     9. Restart your `Anki` and it should be good to go
 
-    You now have an Anki Template, next is Yomichan
+    You now have an Anki Template, next is Yomitan
 
-    [Proceed to Yomichan Setup](setupYomichanOnPC.md){ .md-button .md-button }
+    [Proceed to Yomitan Setup](setupYomitanOnPC.md){ .md-button .md-button }
 
     <small>If you have any problems check [FAQs](https://xelieu.github.io/jp-lazy-guide/setupAnki/#faqs) or contact me on Discord: [xelieu](https://www.discordapp.com/users/719459399168426054)</small>
 
@@ -326,4 +326,4 @@
 
     ??? question "Can I rename the deck? <small>(click here)</small>"
 
-        - Technically yes, but I wouldn't recommend; you have to resetup Yomichan's `Anki Card Format` and Anki's Add-on `AutoReorder`
+        - Technically yes, but I wouldn't recommend; you have to resetup Yomitan's `Anki Card Format` and Anki's Add-on `AutoReorder`

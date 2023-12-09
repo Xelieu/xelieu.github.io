@@ -10,6 +10,21 @@ hide:
 
 ---
 
+### December
+
+**2023-12-09**
+
+- Switched `Yomichan` to `Yomitan`
+	- Yes you need to `reimport` everything
+	- Yomichan(Yomibaba) has been sunsetted since February 2023, Yomitan is the successor
+		- You can keep using yomichan/yomibaba until one day the browser just stops supporting the old version
+	- Updated [Yomitan Settings](https://drive.google.com/drive/folders/1s_PdQ9HWvpDFXkh_AGGzVgqrFBGhUsbI?usp=sharing)
+		- If you switch to Yomitan please update to this
+
+- Miscellaneous minor additional images/better writing
+
+---
+
 ### November
 
 **2023-11-16**

@@ -1,6 +1,6 @@
 # Setup: LN on Android
 
-- You can use your `Android` to read `Light Novel` using `Kiwi Browser` to scan words using `Yomichan` on it
+- You can use your `Android` to read `Light Novel` using `Kiwi Browser` to scan words using `yomitan` on it
 
 ---
 
@@ -12,7 +12,7 @@
 
 Requirements
 
-- [Yomichan On Android](https://xelieu.github.io/jp-lazy-guide/setupYomichanOnAndroid/) already set-up
+- [Yomitan On Android](https://xelieu.github.io/jp-lazy-guide/setupyomitanOnAndroid/) already set-up
 
 ---
 
@@ -21,10 +21,10 @@ Requirements
 1. Open `AnkiConnect Android`, start the service
     - Open `Ankidroid` and leave it in the background
 
-2. Open your `Kiwi Browser` > `Yomichan Settings` > `Profile` > `Default` & `Editing` Profile > `Android (LN & Manga)`
-    - If you are not using my `yomichan settings`, see [Info 1](https://xelieu.github.io/jp-lazy-guide/setupLnOnAndroid/#info-2-text-replacement-pattern)
+2. Open your `Kiwi Browser` > `Yomitan Settings` > `Profile` > `Default` & `Editing` Profile > `Android (LN & Manga)`
+    - If you are not using my `Yomitan settings`, see [Info 1](https://xelieu.github.io/jp-lazy-guide/setupLnOnAndroid/#info-2-text-replacement-pattern)
 
-    ![Yomichan Profile Android](../img/yomichan-profile-android.png){height=250 width=500}
+    ![Yomitan Profile Android](../img/yomitan-profile-android.png){height=250 width=500}
 
 3. In `Kiwi Browser`, open `https://reader.ttsu.app/` and upload your `Light Novel` epubs
 
@@ -57,19 +57,19 @@ You can now read Light Novels in Android, why not check out the Manga setup?
 
     Without my settings, you have to manually put this as it is needed to accurately scan text
 
-    1. On `yomichan settings` > turn on `Advanced` settings, either `bottom left` or `scroll down`
+    1. On `Yomitan settings` > turn on `Advanced` settings, either `bottom left` or `scroll down`
 
     2. On `Translation` > `Configure custom text replacement patterns...`
 
     3. Copy and paste [this](https://pastebin.com/tzHgVe6V)
 
-#### Info 3: Android Yomichan Local Audio
+#### Info 3: Android Yomitan Local Audio
 
-??? info "Android Yomichan Local Audio <small>(click here)</small>"
+??? info "Android Yomitan Local Audio <small>(click here)</small>"
 
     Requirements:
     
-    - Make sure you have [PC Yomichan Local Audio](https://xelieu.github.io/jp-lazy-guide/setupYomichanOnPC/#info-2-yomichan-local-audio) setup
+    - Make sure you have [PC Yomitan Local Audio](https://xelieu.github.io/jp-lazy-guide/setupyomitanOnPC/#info-2-yomitan-local-audio) setup
 
     - You have [Ankiconnect Android](https://github.com/KamWithK/AnkiconnectAndroid/releases/latest) installed
 
@@ -82,7 +82,7 @@ You can now read Light Novels in Android, why not check out the Manga setup?
     1. Within `Anki` on `PC`: `Tools` > `Local Audio Server` > `Generate Android database`
         - This would take 30mins+ (Anki will be unuseable but you can mine)
     
-    2. Within `Anki` on `PC`: either `Ctrl + Shift + A` or `Tools` > `Add-ons` > select `Local Audio Server for Yomichan` > `View Files`
+    2. Within `Anki` on `PC`: either `Ctrl + Shift + A` or `Tools` > `Add-ons` > select `Local Audio Server for Yomitan` > `View Files`
         - There will be a file named `android` or `android.db`
 
     3. On your android, open `AnkiConnect Android` > `Settings` > `Print Local Audio Directory`
@@ -94,16 +94,16 @@ You can now read Light Novels in Android, why not check out the Manga setup?
         - Alternatively, use [MiXplorer](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/#post-23109280) file manager if you only have android device
             - Only `Copy` from your download folder not `Cut`, otherwise it will not `Paste`
     
-    5. My `local-audio-yomichan-settings` profile: `Android (LN & Manga)`
+    5. My `local-audio-yomitan-settings` profile: `Android (LN & Manga)`
         - OR if you are not using my profile:
-            - Go to `yomichan settings` > `Audio` > `Configure audio playback sources...` > `Add` > `Custom URL (JSON)`
+            - Go to `Yomitan settings` > `Audio` > `Configure audio playback sources...` > `Add` > `Custom URL (JSON)`
             - Paste `http://localhost:8765/localaudio/get/?term={term}&reading={reading}` and make sure it's on the top
     
     6. To ensure it's working, check that all sources are present
         - If it doesn't work, make sure AnkiConnect Android `Start Service` is running
         - Battery saving/optimization is off for AnkiConnect Android, Ankidroid and Kiwi Browser
 
-        ![Yomichan Local Audio Check](../img/yomichan-local-audio-check.gif){height=250 width=500}
+        ![Yomitan Local Audio Check](../img/yomitan-local-audio-check.gif){height=250 width=500}
 
         DONE!
 
@@ -113,11 +113,11 @@ You can now read Light Novels in Android, why not check out the Manga setup?
 
 ??? question "How to use Monolingual Setup on Android? <small>(click here)</small>"
 
-    1. Go to your `Yomichan` settings > `Dictionary` > Enable `all`
+    1. Go to your `Yomitan` settings > `Dictionary` > Enable `all`
 
         ![Dictionary Toggle](../img/dictionary-toggle.png){height=250 width=500}
 
-    2. `Yomichan` settings > `Anki` > `Configure Anki card templates...`
+    2. `Yomitan` settings > `Anki` > `Configure Anki card templates...`
         - Switch the `highlighted text` to `monolingual` (case-sensitive)
 
         ![Dictionary Toggle](../img/switch-to-mono.png){height=250 width=500}

@@ -1,6 +1,6 @@
 # Setup: Anime on PC
 
-- `asbplayer` is a browser video player that supports uploading of `Anime` and `subtitle` to be able hover over the words to use `Yomichan`
+- `asbplayer` is a browser video player that supports uploading of `Anime` and `subtitle` to be able hover over the words to use `yomitan`
 
 ---
 
@@ -11,7 +11,7 @@
 
 Requirements
 
-- [Yomichan on PC](https://xelieu.github.io/jp-lazy-guide/setupYomichanOnPC/) and [ShareX](https://xelieu.github.io/jp-lazy-guide/setupShareX/) already set-up
+- [Yomitan on PC](https://xelieu.github.io/jp-lazy-guide/setupyomitanOnPC/) and [ShareX](https://xelieu.github.io/jp-lazy-guide/setupShareX/) already set-up
 
 ---
 
@@ -32,7 +32,7 @@ Requirements
     === "Pick Anime and Sub"
         ![Pick Anime & Subtitle PC](../img/pick-anime-sub.png){height=300 width=600}
 
-4. You can now mine with `Yomichan` and [ShareX](https://xelieu.github.io/jp-lazy-guide/setupShareX/)'s `screenshot` and `audio recording` hotkeys
+4. You can now mine with `Yomitan` and [ShareX](https://xelieu.github.io/jp-lazy-guide/setupShareX/)'s `screenshot` and `audio recording` hotkeys
     - See [Anime Mining Demo](https://xelieu.github.io/jp-lazy-guide/setupAnimeOnPC/#info-1-anime-mining-demo)
 
 
@@ -84,10 +84,10 @@ You can now mine Anime on PC, why not do it on Android too? (RIP eyes)
 
 ??? question "Why Ignore Request Permission to Anki? <small>(click here)</small>"
 
-    - Because we are using the normal method where we can use the full features of `Anki` and `Yomichan` setup
+    - Because we are using the normal method where we can use the full features of `Anki` and `Yomitan` setup
 
 #### Question 3: Why not install the Chrome Extension?
 
 ??? question "Why not install the Chrome Extension? <small>(click here)</small>"
 
-    - Same as `Question 2`, `asbplayer` has a built-in `Anki` support that lacks the feature of our own `Anki` and `Yomichan` support
+    - Same as `Question 2`, `asbplayer` has a built-in `Anki` support that lacks the feature of our own `Anki` and `Yomitan` support

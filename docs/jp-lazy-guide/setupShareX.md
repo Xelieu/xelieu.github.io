@@ -31,7 +31,7 @@
     - Video source: `none`
     - Audio source: `virtual-audio-capturer`
 
-5. Add/Mine the `word` on `Yomichan` first before using `screenshot` or `audio record` hotkey using `ShareX`
+5. Add/Mine the `word` on `Yomitan` first before using `screenshot` or `audio record` hotkey using `ShareX`
 
 You are done setting up ShareX, next is Visual Novel for PC
 

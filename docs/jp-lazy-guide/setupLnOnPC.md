@@ -1,6 +1,6 @@
 # Setup: LN on PC
 
-- You can read `Light Novel` on `PC` as long as you have `epubs` of the `Light Novel` and a website to use the `epubs` on and use `Yomichan`
+- You can read `Light Novel` on `PC` as long as you have `epubs` of the `Light Novel` and a website to use the `epubs` on and use `yomitan`
 
 ---
 
@@ -8,7 +8,7 @@
 
 - Download `Light Novel` in `epubs` format of your choice
 
-- [Yomichan On PC](https://xelieu.github.io/jp-lazy-guide/setupYomichanOnPC/) already set-up
+- [Yomitan On PC](https://xelieu.github.io/jp-lazy-guide/setupyomitanOnPC/) already set-up
 
 ---
 
@@ -22,7 +22,7 @@
 
     ![TTU Upload](../img/ttu-upload.png){height=50 width=100}
 
-3. You can now mine using `Yomichan` as usual
+3. You can now mine using `Yomitan` as usual
 
     ![TTU Reader PC](../img/ttu-reader-pc.png){height=500 width=1000}
 
@@ -49,7 +49,7 @@ You can now read Light Novels on PC, how about Android?
 
     Without my settings, you have to manually put this as it is needed to accurately scan text
 
-    1. On `yomichan settings` > turn on `Advanced` settings, either `bottom left` or `scroll down`
+    1. On `Yomitan settings` > turn on `Advanced` settings, either `bottom left` or `scroll down`
 
     2. On `Translation` > `Configure custom text replacement patterns...`
 

@@ -2,7 +2,7 @@
 
 - [Textractor](https://xelieu.github.io/jp-lazy-guide/setupVnOnPC/#textractor) is a tool used to extract `text` from `Visual Novels`
 
-- [Clipboard Inserter](https://xelieu.github.io/jp-lazy-guide/setupVnOnPC/#clipboard-inserter) is used to copy and paste the text extracted by `Textractor` into a `Texthooker` page where you can use `Yomichan` to scan the words and mine it into `Anki`
+- [Clipboard Inserter](https://xelieu.github.io/jp-lazy-guide/setupVnOnPC/#clipboard-inserter) is used to copy and paste the text extracted by `Textractor` into a `Texthooker` page where you can use `Yomitan` to scan the words and mine it into `Anki`
 
 ---
 
@@ -70,7 +70,7 @@ Requirements:
 === "Visual Novel Sample"
     ![Visual Novel Sample](../img/visual-novel-sample.png){height=500 width=1000}
 
-It is now texthooking, proceed to [Clipboard Inserter](https://xelieu.github.io/jp-lazy-guide/setupVnOnPC/#clipboard-inserter) to be able to use the text from `Textractor` and use `Yomichan` on it
+It is now texthooking, proceed to [Clipboard Inserter](https://xelieu.github.io/jp-lazy-guide/setupVnOnPC/#clipboard-inserter) to be able to use the text from `Textractor` and use `Yomitan` on it
 
 ---
 
@@ -91,7 +91,7 @@ It is now texthooking, proceed to [Clipboard Inserter](https://xelieu.github.io/
     ![Clipboard Inserter](../img/clipboard-inserter.png){height=50 width=100}
 
 5. If working as intended it should paste anything you copy or from textractor:
-    - You can now use yomichan on it
+    - You can now use Yomitan on it
 
     ![Texthooker Working](../img/texthooker-paste.png){height=300 width=600}
 

@@ -4,7 +4,7 @@
 
 There is still no proper tools to mine `Anime` automatically with `screenshot` and `audio` straight into `Anki` that can fully make use of `JPMN` Anki Format features
 
-The nearest tool is: [Jidoujisho](https://github.com/lrorpilla/jidoujisho/releases/latest/), but you won't be able to use the `JPMN` Anki Features as it doesn't support `Yomichan Handlebar`
+The nearest tool is: [Jidoujisho](https://github.com/lrorpilla/jidoujisho/releases/latest/), but you won't be able to use the `JPMN` Anki Features as it doesn't support `yomitan Handlebar`
 
 - I don't have `lazy guide` for this one as I refuse to mine without the full features of `JPMN` Anki Format
 
@@ -20,7 +20,7 @@ I've actually tried `asbplayer` on `Android` but it's pretty faulty and you cann
 
 ??? note "Alright, show me the aBOmiNaTIoN! <small>(click here)</small>"
 
-    - `asbplayer` is a browser video player that supports uploading of `Anime` and `subtitle` to be able hover over the words to use `Yomichan`
+    - `asbplayer` is a browser video player that supports uploading of `Anime` and `subtitle` to be able hover over the words to use `Yomitan`
 
     ---
 
@@ -31,7 +31,7 @@ I've actually tried `asbplayer` on `Android` but it's pretty faulty and you cann
 
     Requirements
 
-    - [Yomichan on Android](https://xelieu.github.io/jp-lazy-guide/setupYomichanOnAndroid/) already set-up
+    - [Yomitan on Android](https://xelieu.github.io/jp-lazy-guide/setupyomitanOnAndroid/) already set-up
 
     ---
 
@@ -54,7 +54,7 @@ I've actually tried `asbplayer` on `Android` but it's pretty faulty and you cann
 
     4. `Landscape` your `Android` to have a proper view of the `asbplayer`
 
-    5. You can now mine with `Yomichan`
+    5. You can now mine with `Yomitan`
         - See [Anime Mining Demo](https://xelieu.github.io/jp-lazy-guide/setupAnimeOnPC/#info-1-anime-mining-demo)
         - Unfortunately, to get `Picture`, `screenshot` manually and upload it to your card details in `Ankidroid`
 
@@ -99,11 +99,11 @@ I've actually tried `asbplayer` on `Android` but it's pretty faulty and you cann
 
     ??? question "How to use Monolingual Setup on Android? <small>(click here)</small>"
 
-        1. Go to your `Yomichan` settings > `Dictionary` > Enable `all`
+        1. Go to your `Yomitan` settings > `Dictionary` > Enable `all`
 
             ![Dictionary Toggle](../img/dictionary-toggle.png){height=250 width=500}
 
-        2. `Yomichan` settings > `Anki` > `Configure Anki card templates...`
+        2. `Yomitan` settings > `Anki` > `Configure Anki card templates...`
             - Switch the `highlighted text` to `monolingual` (case-sensitive)
 
             ![Dictionary Toggle](../img/switch-to-mono.png){height=250 width=500}
@@ -118,13 +118,13 @@ I've actually tried `asbplayer` on `Android` but it's pretty faulty and you cann
 
     ??? question "Why Ignore Request Permission to Anki? <small>(click here)</small>"
 
-        - Because we are using the normal method where we can use the full features of `Anki` and `Yomichan` setup
+        - Because we are using the normal method where we can use the full features of `Anki` and `Yomitan` setup
 
     #### Question 4: Why not install the Chrome Extension?
 
     ??? question "Why not install the Chrome Extension? <small>(click here)</small>"
 
-        - Same as `Question 2`, `asbplayer` has a built-in `Anki` support that lacks the feature of our own `Anki` and `Yomichan` support
+        - Same as `Question 2`, `asbplayer` has a built-in `Anki` support that lacks the feature of our own `Anki` and `Yomitan` support
 
 Wow! Setting up the Mining tools is finally done, how about checking Sub Guide?
 

@@ -1,8 +1,8 @@
 # Setup: Manga on PC
 
-- [MangaOCR](https://xelieu.github.io/jp-lazy-guide/setupMangaOnPC/#setup-mangaocr) is a tool used to scan a `Japanese` text and return it to your clipboard which you can scan in `Yomichan`
+- [MangaOCR](https://xelieu.github.io/jp-lazy-guide/setupMangaOnPC/#setup-mangaocr) is a tool used to scan a `Japanese` text and return it to your clipboard which you can scan in `Yomitan`
 
-- (Recommended) [Mokuro Manga](https://xelieu.github.io/jp-lazy-guide/setupMangaOnPC/#setup-mokuro-manga) is a setup that first processes the `manga` to be able to hover the words and scan them using `Yomichan`
+- (Recommended) [Mokuro Manga](https://xelieu.github.io/jp-lazy-guide/setupMangaOnPC/#setup-mokuro-manga) is a setup that first processes the `manga` to be able to hover the words and scan them using `Yomitan`
 
 ---
 
@@ -12,7 +12,7 @@ Requirements
 
 - Install [CDisplay](https://www.cdisplay.me/)
     - Manga Reader for `PC`
-- [Yomichan On PC](https://xelieu.github.io/jp-lazy-guide/setupYomichanOnPC/) and [ShareX](https://xelieu.github.io/jp-lazy-guide/setupShareX/) already set-up
+- [Yomitan On PC](https://xelieu.github.io/jp-lazy-guide/setupyomitanOnPC/) and [ShareX](https://xelieu.github.io/jp-lazy-guide/setupShareX/) already set-up
 
 ---
 
@@ -33,21 +33,21 @@ Requirements
 
 4. `Hotkey Settings` > `OCR (manga_ocr)` > Click the `COG` icon > `override screenshot folder` > change the `path` to a specified `OCR` folder of your choice
 
-    ![ShareX Path](../img/sharex-path.png){height=150 width=300}
+    ![ShareX OCR Path](../img/sharex-ocr-path.png){height=150 width=300}
 
-5. Type `manga_ocr "\path\to\sharex\screenshot\folder"`(step 4 specified `path`) to start the program, then just minimize the window
+5. In `command prompt`, type `manga_ocr "\path\to\sharex\screenshot\folder"`(copy the `path` that YOU specified in step 4) to start the program, then just minimize the window
     - Typing `manga_ocr` by itself without a path also works; it will `scan` from everywhere
     - If you want a `shortcut` program see: [Info 1](https://xelieu.github.io/jp-lazy-guide/setupMangaOnPC/#info-1-mangaocr-shortcut-program)
 
 6. Capture anything using `Shift + Alt + Q` or whatever you set in `OCR (manga_ocr)` hotkey in `ShareX`
-    - Make sure Yomichan Search window is opened
+    - Make sure Yomitan Search window is opened
     - If you want to `scan using mouse button`, see [Info 2](https://xelieu.github.io/jp-lazy-guide/setupMangaOnPC/#info-2-scan-using-mouse-button)
 
     ??? info "Video How-to <small>(click here)</small>"
         <iframe width="560" height="315" src="https://user-images.githubusercontent.com/22717958/150238361-052b95d1-0152-485f-a441-48a957536239.mp4" title="MangaOCR How-to" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-    === "Yomichan Search Page"
-        ![Anki | Dark](../img/yomichan-search-page.png){height=300 width=600}
+    === "Yomitan Search Page"
+        ![Anki | Dark](../img/yomitan-search-page.png){height=300 width=600}
     === "CDisplay Manga"
         ![Anki | Light](../img/cdisplay-manga.png){height=300 width=600}
 
@@ -156,10 +156,10 @@ Choose between 2 options:
 
     ![Mokuro Settings](../img/mokuro-settings.png){height=50 width=100}
 
-4. To be able to mine, simply add the word using `yomichan`
+4. To be able to mine, simply add the word using `Yomitan`
     - To screenshot, make sure to double click/tap inside the `text border` (its invisible by default)
 
-    ![Mokuro Settings](../img/mokuro-yomichan.png){height=400 width=800}
+    ![Mokuro Settings](../img/mokuro-yomitan.png){height=400 width=800}
 
 5. You should now be able to mine and screenshot in your Manga with ease
 

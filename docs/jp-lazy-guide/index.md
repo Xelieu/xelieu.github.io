@@ -15,7 +15,7 @@ If you want to buy me a coffee(Thanks!): [Ko-fi (Xelieu)](https://ko-fi.com/xeli
 
 ---
 
-## Anki and Yomichan Format
+## Anki and Yomitan Format
 
 - 4 in 1 Profile Support: `Monolingual`, `Bilingual`, `LN & Manga in Android`, `VN in Android`
 
@@ -23,12 +23,12 @@ If you want to buy me a coffee(Thanks!): [Ko-fi (Xelieu)](https://ko-fi.com/xeli
     ![Anki | Dark](../img/jpmn-dark.png){height=300 width=600}
 === "Anki | Light"
     ![Anki | Light](../img/jpmn-light.png){height=300 width=600}
-=== "Yomichan | Dark"
-    ![Yomichan | Dark](../img/yomichan-dark.png){height=300 width=600}
-=== "Yomichan | Light"
-    ![Yomichan | Light](../img/yomichan-light.png){height=300 width=600}
-=== "Yomichan Profile"
-    ![Yomichan Profile](../img/yomichan-profiles.png){align=left height=300 width=600}
+=== "Yomitan | Dark"
+    ![Yomitan | Dark](../img/yomitan-dark.png){height=300 width=600}
+=== "Yomitan | Light"
+    ![Yomitan | Light](../img/yomitan-light.png){height=300 width=600}
+=== "Yomitan Profile"
+    ![Yomitan Profile](../img/yomitan-profiles.png){align=left height=300 width=600}
 
 #### Anki Features
 
@@ -56,7 +56,7 @@ If you want to buy me a coffee(Thanks!): [Ko-fi (Xelieu)](https://ko-fi.com/xeli
 ---
 
 ## [Mining Demo](https://youtu.be/seAMOvIiFcw)
-- This is outdated `Anki/Yomichan Format` but the method is pretty much the same
+- This is outdated `Anki/Yomitan Format` but the method is pretty much the same
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/seAMOvIiFcw" title="Mining Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

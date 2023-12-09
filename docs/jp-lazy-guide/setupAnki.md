@@ -258,6 +258,7 @@
     - (Top left) `Tools` > `Preferences` and set the settings accordingly
     - (Settings 3) Turn on `FSRS` with a minimum desired and SM2 retention of `0.80`, then use `Optimize FSRS Parameters` every month
         - `Tools` > `FSRS4Anki Helper` for more personalized settings
+        - Until `1000 reviews`, you can't generate your own parameters and you will be using the defaults
 
     === "Anki Preference Settings"
         ![Anki Preference Settings](../img/anki-preference-settings.png){height=300 width=600}
@@ -270,9 +271,9 @@
 
 9. Restart your `Anki` and it should be good to go
 
-You now have an Anki Template, next is Yomichan
+You now have an Anki Template, next is Yomitan
 
-[Proceed to Yomichan Setup](setupYomichanOnPC.md){ .md-button .md-button }
+[Proceed to Yomitan Setup](setupYomitanOnPC.md){ .md-button .md-button }
 
 <small>If you have any problems check [FAQs](https://xelieu.github.io/jp-lazy-guide/setupAnki/#faqs) or contact me on Discord: [xelieu](https://www.discordapp.com/users/719459399168426054)</small>
 
@@ -359,4 +360,4 @@ You now have an Anki Template, next is Yomichan
 
 ??? question "Can I rename the deck? <small>(click here)</small>"
 
-    - Technically yes, but I wouldn't recommend; you have to resetup Yomichan's `Anki Card Format` and Anki's Add-on `AutoReorder`
+    - Technically yes, but I wouldn't recommend; you have to resetup Yomitan's `Anki Card Format` and Anki's Add-on `AutoReorder`

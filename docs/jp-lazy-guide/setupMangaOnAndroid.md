@@ -1,6 +1,6 @@
 # Setup: Manga on Android
 
-- You can use your `Android` to read `Manga` using `Kiwi Browser` to scan words using `Yomichan` on it
+- You can use your `Android` to read `Manga` using `Kiwi Browser` to scan words using `yomitan` on it
 
 - This includes automated `Manga` screenshot even if you are in `Android`
 
@@ -18,7 +18,7 @@ Requirements:
 
 - Processed Manga from [Setup: Mokuro Manga](https://xelieu.github.io/jp-lazy-guide/setupMangaOnPC/#setup-mokuro-manga)
 
-- [Yomichan On Android](https://xelieu.github.io/jp-lazy-guide/setupYomichanOnAndroid/) already set-up
+- [Yomitan On Android](https://xelieu.github.io/jp-lazy-guide/setupyomitanOnAndroid/) already set-up
 
 - File compressor such as [7z](https://www.7-zip.org/)
 
@@ -46,10 +46,10 @@ Requirements:
 5. In the top right, go to `settings` > `Profile` > `Select a File` > [Mokuro Profile](https://drive.google.com/drive/folders/1vX40zrvkGN13o_3WRYzqP1-L0F8mX6JJ?usp=sharing) > `Import Profiles` > Select `Mobile Profle`
     - Alternatively you can make your own profile just make sure to set-up everything on `Anki Connect` portion
 
-6. To be able to mine, simply add the word using `yomichan`
+6. To be able to mine, simply add the word using `Yomitan`
     - To screenshot, make sure to double click/tap inside the `text border` (its invisible by default)
 
-    ![Mokuro Settings](../img/mokuro-yomichan.png){height=400 width=800}
+    ![Mokuro Settings](../img/mokuro-yomitan.png){height=400 width=800}
 
 7. You should now be able to mine and screenshot in your Manga with ease
 
@@ -85,11 +85,11 @@ You are now finally done in setting up Manga Mining in Android, how about checki
 
 ??? question "How to use Monolingual Setup on Android? <small>(click here)</small>"
 
-    1. Go to your `Yomichan` settings > `Dictionary` > Enable `all`
+    1. Go to your `Yomitan` settings > `Dictionary` > Enable `all`
 
         ![Dictionary Toggle](../img/dictionary-toggle.png){height=250 width=500}
 
-    2. `Yomichan` settings > `Anki` > `Configure Anki card templates...`
+    2. `Yomitan` settings > `Anki` > `Configure Anki card templates...`
         - Switch the `highlighted text` to `monolingual` (case-sensitive)
 
         ![Dictionary Toggle](../img/switch-to-mono.png){height=250 width=500}
