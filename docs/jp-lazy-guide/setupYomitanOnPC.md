@@ -18,7 +18,7 @@
 
 ## Setting Up
 
-1. On `Yomitan`'s welcome page > `Permissions page` > enable `clipboardRead` and `nativeMessaging`
+1. On `Yomitan`'s welcome page, scroll down > `Permissions page` > enable `clipboardRead` and `nativeMessaging`
 
     ![Yomitan Permission Page](../img/yomitan-permission.png){height=250 width=500}
 
