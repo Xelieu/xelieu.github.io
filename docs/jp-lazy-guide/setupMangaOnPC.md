@@ -12,7 +12,7 @@ Requirements
 
 - Install [CDisplay](https://www.cdisplay.me/)
     - Manga Reader for `PC`
-- [Yomitan On PC](https://xelieu.github.io/jp-lazy-guide/setupyomitanOnPC/) and [ShareX](https://xelieu.github.io/jp-lazy-guide/setupShareX/) already set-up
+- [Yomitan On PC](https://xelieu.github.io/jp-lazy-guide/setupYomitanOnPC/) and [ShareX](https://xelieu.github.io/jp-lazy-guide/setupShareX/) already set-up
 
 ---
 

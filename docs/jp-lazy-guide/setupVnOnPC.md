@@ -8,6 +8,8 @@
 
 Requirements:
 
+- [Yomitan On PC](https://xelieu.github.io/jp-lazy-guide/setupYomitanOnPC/) already set-up
+
 [Textractor](https://xelieu.github.io/jp-lazy-guide/setupVnOnPC/#setup-textractor)
 
 - Download [Textractor 5.2.0](https://drive.google.com/drive/folders/1HPhYtqcNK66EvAjQnW3Y7jSUYEkwRAEw?usp=sharing) folder

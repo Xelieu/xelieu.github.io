@@ -18,7 +18,7 @@ Requirements:
 
 - Processed Manga from [Setup: Mokuro Manga](https://xelieu.github.io/jp-lazy-guide/setupMangaOnPC/#setup-mokuro-manga)
 
-- [Yomitan On Android](https://xelieu.github.io/jp-lazy-guide/setupyomitanOnAndroid/) already set-up
+- [Yomitan On Android](https://xelieu.github.io/jp-lazy-guide/setupYomitanOnAndroid/) already set-up
 
 - File compressor such as [7z](https://www.7-zip.org/)
 

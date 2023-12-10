@@ -10,6 +10,8 @@
 
 For `PC`:
 
+- [Yomitan On PC](https://xelieu.github.io/jp-lazy-guide/setupYomitanOnPC/) already set-up
+
 - Running `Anki`, `Steam` and `Texthooker` page
 
 For `Android`:

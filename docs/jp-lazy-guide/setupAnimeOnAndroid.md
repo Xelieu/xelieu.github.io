@@ -31,7 +31,7 @@ I've actually tried `asbplayer` on `Android` but it's pretty faulty and you cann
 
     Requirements
 
-    - [Yomitan on Android](https://xelieu.github.io/jp-lazy-guide/setupyomitanOnAndroid/) already set-up
+    - [Yomitan on Android](https://xelieu.github.io/jp-lazy-guide/setupYomitanOnAndroid/) already set-up
 
     ---
 

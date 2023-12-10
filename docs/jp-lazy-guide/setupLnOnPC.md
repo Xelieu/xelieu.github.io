@@ -8,7 +8,7 @@
 
 - Download `Light Novel` in `epubs` format of your choice
 
-- [Yomitan On PC](https://xelieu.github.io/jp-lazy-guide/setupyomitanOnPC/) already set-up
+- [Yomitan On PC](https://xelieu.github.io/jp-lazy-guide/setupYomitanOnPC/) already set-up
 
 ---
 

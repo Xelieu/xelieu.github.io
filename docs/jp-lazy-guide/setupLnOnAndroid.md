@@ -12,7 +12,7 @@
 
 Requirements
 
-- [Yomitan On Android](https://xelieu.github.io/jp-lazy-guide/setupyomitanOnAndroid/) already set-up
+- [Yomitan On Android](https://xelieu.github.io/jp-lazy-guide/setupYomitanOnAndroid/) already set-up
 
 ---
 
