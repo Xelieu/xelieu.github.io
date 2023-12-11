@@ -43,7 +43,7 @@ Requirements
     - Make sure Yomitan Search window is opened
     - If you want to `scan using mouse button`, see [Info 2](https://xelieu.github.io/jp-lazy-guide/setupMangaOnPC/#info-2-scan-using-mouse-button)
 
-7. You can now start reading using MangaOCR!
+7. You can now start reading using MangaOCR
 
     ??? info "Video How-to <small>(click here)</small>"
         <iframe width="560" height="315" src="https://user-images.githubusercontent.com/22717958/150238361-052b95d1-0152-485f-a441-48a957536239.mp4" title="MangaOCR How-to" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -53,7 +53,7 @@ Requirements
     === "CDisplay Manga"
         ![Anki | Light](../img/cdisplay-manga.png){height=300 width=600}
 
-That's it for MangaOCR!
+You might also want to check [Mokuro Manga](https://xelieu.github.io/jp-lazy-guide/setupMangaOnPC/#setup-mokuro-manga)
 
 ---
 
