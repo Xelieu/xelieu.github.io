@@ -43,6 +43,8 @@ Requirements
     - Make sure Yomitan Search window is opened
     - If you want to `scan using mouse button`, see [Info 2](https://xelieu.github.io/jp-lazy-guide/setupMangaOnPC/#info-2-scan-using-mouse-button)
 
+7. You can now start reading using MangaOCR!
+
     ??? info "Video How-to <small>(click here)</small>"
         <iframe width="560" height="315" src="https://user-images.githubusercontent.com/22717958/150238361-052b95d1-0152-485f-a441-48a957536239.mp4" title="MangaOCR How-to" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -50,9 +52,6 @@ Requirements
         ![Anki | Dark](../img/yomitan-search-page.png){height=300 width=600}
     === "CDisplay Manga"
         ![Anki | Light](../img/cdisplay-manga.png){height=300 width=600}
-
-6. See [Reading Processed Manga](https://xelieu.github.io/jp-lazy-guide/setupMangaOnPC/#reading-processed-manga)
-
 
 That's it for MangaOCR!
 
@@ -124,7 +123,7 @@ Choose between 2 options:
 ### Reading Processed Manga
 
 1. In your Anki, `Ctrl + Shift + A` or `Tools` > `Add-ons`
-    - Select `AnkiConnect` > `Config`
+    - Select [AnkiConnect](https://ankiweb.net/shared/info/2055492159) > `Config`
     - Under `webCorsOriginList` paste `https://reader.mokuro.app` or copy config below:
 
     ??? examplecode "AnkiConnect Config <small>(click here)</small>"
