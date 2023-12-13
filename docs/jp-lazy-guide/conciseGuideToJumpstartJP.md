@@ -39,13 +39,9 @@ hide:
     - Just use `again (1)` or `good (spacebar or 3)` button when doing the deck so you don't have to think about if it's `easy (2)` or `hard (4)`
 
 4. Go to your `Deck`'s option then copy the `settings` below
-    - `Tools` > `Preferences` and turn on `v3 scheduler`
+    - (Top left) `Tools` > `Preferences` and set the settings accordingly
 
     ??? info "Anki Settings <small>(click here)</small>"
-
-        - `Shift` + `Left Click` on the `option` cog settings of the `deck` for `Rewards` Tab(Settings 3), since it doesn't save on the modern UI
-
-            - Multiply the values you input by `100` for the old UI
     
         === "Anki Preference Settings"
             ![Anki Preference Settings](../img/anki-preference-settings.png){height=300 width=600}
@@ -53,8 +49,6 @@ hide:
             ![Anki Settings 1](../img/anki-settings-1.png){height=300 width=600}
         === "Settings 2"
             ![Anki Settings 2](../img/anki-settings-2.png){height=300 width=600}
-        === "Settings 3"
-            ![Anki Settings 3](../img/anki-settings-3.png){height=300 width=600}
 
 
 5. Do the `Core 2.3k Vocab deck`, start with `10 new cards/day`(30 max; don't overdo it) along with the `grammar guide` on `step 6`;
