@@ -5,7 +5,7 @@
 ### Update Watcher
 
 - If you didn't update on or before the following dates, please update:
-    - `JPMN Note`: 2023-11-13
+    - `JPMN Note`: 2023-12-14
     - `AJT Japanese`: 2023-11-13
 
 ---
@@ -31,8 +31,8 @@
 
         === "Windows"
             ```
-            $ git clone https://github.com/arbyste/jp-mining-note.git
-            $ cd jp-mining-note
+            git clone https://github.com/arbyste/jp-mining-note.git
+            cd jp-mining-note
 
             git checkout dev
             git pull --force
@@ -41,8 +41,8 @@
             ```
         === "macOS & Linux"
             ```
-            $ git clone https://github.com/arbyste/jp-mining-note.git
-            $ cd jp-mining-note
+            git clone https://github.com/arbyste/jp-mining-note.git
+            cd jp-mining-note
 
             git checkout dev
             git pull --force
