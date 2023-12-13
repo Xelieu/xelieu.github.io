@@ -31,7 +31,7 @@ nav:
       - "Setup: Anime on Android": 'jp-lazy-guide/setupAnimeOnAndroid.md'
     - Miscellaneous:
       - "Transfer Lazy Setup to JPMN": 'jp-lazy-guide/transferAnkiSetup.md'
-      - "Update: Anki JPMN Fork": 'jp-lazy-guide/updateAnkiJPMNFork.md'
+      - "Updating: Anki JPMN Note": 'jp-lazy-guide/updatingAnkiJPMNNote.md'
     - Archive:
       - "Setup: Anki (Old)": 'jp-lazy-guide/setupAnkiOld.md'
       - "Setup: Yomitan PC (Old)": 'jp-lazy-guide/setupYomitanOnPCOld.md'

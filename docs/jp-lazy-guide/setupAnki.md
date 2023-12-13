@@ -3,10 +3,13 @@
 - Anki is a SRS flash card program for card reviewing and the due dates are decided by the algorithm
 - Mobile is supported
 - Anki [Light](../img/jpmn-light.png) | [Dark](../img/jpmn-dark.png) Mode
-- Transferring from other Anki Format? Check [Transfer Existing Notes](https://aquafina-water-bottle.github.io/jp-mining-note/importing/) or [Transfer Lazy Format to JPMN](https://xelieu.github.io/jp-lazy-guide/transferAnkiSetup/)
-- Updating your existing `JPMN Format` from the old [JPMN Manager](https://xelieu.github.io/jp-lazy-guide/setupAnkiOld/) method?
-    - Go to [Update: Anki JPMN Fork](https://xelieu.github.io/jp-lazy-guide/updateAnkiJPMNFork/)
-    - This should only be followed if you installed `JPMN Note` before `2023-11-13`
+
+---
+
+- Transferring from other Anki Format? 
+    - Check [Transfer Existing Notes](https://aquafina-water-bottle.github.io/jp-mining-note/importing/) or [Transfer Lazy Format to JPMN](https://xelieu.github.io/jp-lazy-guide/transferAnkiSetup/)
+- Updating your existing JPMN Format?
+    - Go to [Updating: Anki JPMN Note](https://xelieu.github.io/jp-lazy-guide/updateAnkiJPMNFork/)
 
 ---
 

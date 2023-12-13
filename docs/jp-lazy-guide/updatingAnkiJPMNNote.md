@@ -1,10 +1,12 @@
-# Update: Anki JPMN Fork
+# Updating: Anki JPMN Note
 
-- This is an update to fix `AJT Japanese` addon bug while Aquafina is gone, hence we cannot use the `JPMN Manager` to update the Anki Format
-- If you didn't update, then the following features will be missing:
-    - Automatically generated furigana
-    - Devoiced and nasal information to pitch accents
-    - Less coverage on pitch accents
+- This is how to manually update `JPMN Note` bugs while Aquafina is gone, hence we cannot use the `JPMN Manager` to update the Anki Format
+
+### Update Watcher
+
+- If you didn't update on or before the following dates, please update:
+    - `JPMN Note`: 2023-11-13
+    - `AJT Japanese`: 2023-11-13
 
 ---
 
@@ -48,7 +50,12 @@
             python3 tools/install.py --update
             ```
 
-2. Restart your Anki, then `Ctrl + Shift + A` OR `Tools` > `Add-ons` > `AJT Japanese` > `Config` then copy and paste the config below:
+---
+
+## Updating AJT Japanese
+
+1. In your Anki `Ctrl + Shift + A` OR `Tools` > `Add-ons` > `AJT Japanese` > `Config` then copy and paste the config below:
+    - Make sure to restart your Anki if you just updated `JPMN Note`
 
     ??? examplecode "AJT Japanese Config <small>(click here)</small>"
 
@@ -208,17 +215,24 @@
         }
         ```
 
-3. AGAIN, restart your Anki (I know xD), then `Tools` > `JPMN Manager` > `Run batch command` > Paste the `command` below:
+2. AGAIN, restart your Anki (I know xD), then `Tools` > `JPMN Manager` > `Run batch command` > Paste the `command` below:
 
     ```
     empty_field AJTWordPitch
     ```
 
-4. In your Anki's Main Window > `Browse`
+3. In your Anki's Main Window > `Browse`
     - In the left side under `Note Types`, Click on `JP Mining Note`
     - Select all cards by clicking on 1 card and then `Ctrl + A`
 
-5. In the toolbar on the top left, select `Edit` > `AJT: Bulk-generate`
+4. In the toolbar on the top left, select `Edit` > `AJT: Bulk-generate`
     - Wait for the process to finish
 
-6. Done! To check if the card has no problem, view a card > check if the ! icon on the top left isn't red
+5. Done! To check if the card has no problem, view a card > check if the `!` icon on the top left isn't red
+
+??? danger "If you didn't update then the following features will be missing: <small>(click here)</small>"
+
+    - If you didn't update, then the following features will be missing:
+        - Automatically generated furigana
+        - Devoiced and nasal information to pitch accents
+        - Less coverage on pitch accents
