@@ -232,7 +232,6 @@
 
 ??? danger "If you didn't update then the following features will be missing: <small>(click here)</small>"
 
-    - If you didn't update, then the following features will be missing:
-        - Automatically generated furigana
-        - Devoiced and nasal information to pitch accents
-        - Less coverage on pitch accents
+    - Automatically generated furigana
+    - Devoiced and nasal information to pitch accents
+    - Less coverage on pitch accents
