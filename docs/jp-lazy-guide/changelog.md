@@ -15,7 +15,8 @@ hide:
 **2023-12-14**
 
 - Fixed a bug in JPMN note that prevents displaying hyperlinked [image] from a dictionary entry that is mined from Yomitan
-	- To update please refer to [Updating: Anki JPMN Note](https://xelieu.github.io/jp-lazy-guide/updatingAnkiJPMNNote/#updating-the-jpmn-format)
+	- To update please refer to [Updating: Anki JPMN Note](https://xelieu.github.io/jp-lazy-guide/updatingAnkiJPMNNote/)
+	- The bug was simply renaming Yomichan > Yomitan into the JPMN code and that everything should be okay now
 
 **2023-12-09**
 
