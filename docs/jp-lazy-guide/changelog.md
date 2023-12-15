@@ -17,7 +17,7 @@ hide:
 - Miscellaneous:
 	- Added instructions for firefox
 	- Added image for Anki Mobile format
-	- Added links to mobile versions of anki
+	- Added links to mobile versions of Anki
 	- Updated image in various pages
 	- Updated the handlebars to v1.0.11 in [Yomitan Settings](https://drive.google.com/drive/folders/1s_PdQ9HWvpDFXkh_AGGzVgqrFBGhUsbI?usp=sharing)
 		- Just added more dict supports, nothing too important, if you use default lazy setup you can skip this
