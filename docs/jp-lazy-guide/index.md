@@ -20,10 +20,10 @@ If you want to buy me a coffee(Thanks!): [Ko-fi (Xelieu)](https://ko-fi.com/xeli
 - 4 in 1 Profile Support: `Monolingual`, `Bilingual`, `LN & Manga in Android`, `VN in Android`
 
 === "Anki"
-    === "Anki | Dark"
-        ![Anki | Dark](../img/jpmn-dark.png){height=300 width=600}
-    === "Anki | Light"
-        ![Anki | Light](../img/jpmn-light.png){height=300 width=600}
+    === "PC | Dark"
+        ![PC | Dark](../img/jpmn-dark.png){height=300 width=600}
+    === "PC | Light"
+        ![PC | Light](../img/jpmn-light.png){height=300 width=600}
     === "Mobile | Dark"
         ![Mobile | Dark](../img/mobile-jpmn-dark.png){height=600 width=350}
     === "Mobile | Light"
