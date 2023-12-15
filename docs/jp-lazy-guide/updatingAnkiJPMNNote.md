@@ -54,7 +54,9 @@
 
 ## Updating AJT Japanese
 
-1. In your Anki `Ctrl + Shift + A` OR `Tools` > `Add-ons` > `AJT Japanese` > `Config` then copy and paste the config below:
+1. In your Anki, then `Ctrl + Shift + A` OR `Tools` > `Add-ons` > `Check for add-ons update` > if there's update, restart Anki
+
+2. Again, `Ctrl + Shift + A` OR `Tools` > `Add-ons` > `AJT Japanese` > `Config` then copy and paste the config below:
     - Make sure to restart your Anki if you just updated `JPMN Note`
 
     ??? examplecode "AJT Japanese Config <small>(click here)</small>"
@@ -215,20 +217,20 @@
         }
         ```
 
-2. AGAIN, restart your Anki (I know xD), then `Tools` > `JPMN Manager` > `Run batch command` > Paste the `command` below:
+3. AGAIN, restart your Anki (I know xD), then `Tools` > `JPMN Manager` > `Run batch command` > Paste the `command` below:
 
     ```
     empty_field AJTWordPitch
     ```
 
-3. In your Anki's Main Window > `Browse`
+4. In your Anki's Main Window > `Browse`
     - In the left side under `Note Types`, Click on `JP Mining Note`
     - Select all cards by clicking on 1 card and then `Ctrl + A`
 
-4. In the toolbar on the top left, select `Edit` > `AJT: Bulk-generate`
+5. In the toolbar on the top left, select `Edit` > `AJT: Bulk-generate`
     - Wait for the process to finish
 
-5. Done! To check if the card has no problem, view a card > check if the `!` icon on the top left isn't red
+6. Done! To check if the card has no problem, view a card > check if the `!` icon on the top left isn't red
 
 ??? danger "If you didn't update then the following features will be missing: <small>(click here)</small>"
 
