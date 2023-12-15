@@ -14,7 +14,11 @@ hide:
 
 **2023-12-15**
 
-- Misc: Added instructions for firefox
+- Miscellaneous:
+	- Added instructions for firefox
+	- Added image for Anki Mobile format
+	- Added links to mobile versions of anki
+	- Updated image in various pages
 
 **2023-12-14**
 

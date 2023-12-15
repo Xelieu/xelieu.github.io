@@ -19,16 +19,22 @@ If you want to buy me a coffee(Thanks!): [Ko-fi (Xelieu)](https://ko-fi.com/xeli
 
 - 4 in 1 Profile Support: `Monolingual`, `Bilingual`, `LN & Manga in Android`, `VN in Android`
 
-=== "Anki | Dark"
-    ![Anki | Dark](../img/jpmn-dark.png){height=300 width=600}
-=== "Anki | Light"
-    ![Anki | Light](../img/jpmn-light.png){height=300 width=600}
-=== "Yomitan | Dark"
-    ![Yomitan | Dark](../img/yomitan-dark.png){height=300 width=600}
-=== "Yomitan | Light"
-    ![Yomitan | Light](../img/yomitan-light.png){height=300 width=600}
-=== "Yomitan Profile"
-    ![Yomitan Profile](../img/yomitan-profiles.png){align=left height=300 width=600}
+=== "Anki"
+    === "Anki | Dark"
+        ![Anki | Dark](../img/jpmn-dark.png){height=300 width=600}
+    === "Anki | Light"
+        ![Anki | Light](../img/jpmn-light.png){height=300 width=600}
+    === "Mobile | Dark"
+        ![Mobile | Dark](../img/mobile-jpmn-dark.png){height=600 width=350}
+    === "Mobile | Light"
+        ![Mobile | Light](../img/mobile-jpmn-light.png){height=600 width=350}
+=== "Yomitan"
+    === "Yomitan | Dark"
+        ![Yomitan | Dark](../img/yomitan-dark.png){height=300 width=600}
+    === "Yomitan | Light"
+        ![Yomitan | Light](../img/yomitan-light.png){height=300 width=600}
+    === "Yomitan Profile"
+        ![Yomitan Profile](../img/yomitan-profiles.png){height=300 width=600}
 
 #### Anki Features
 

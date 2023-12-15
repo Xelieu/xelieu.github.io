@@ -15,7 +15,8 @@
 
 ## Download and Install
 
-- Install [Anki 23.10.1 Qt6](https://github.com/ankitects/anki/releases/tag/23.10.1) (Please don't use `Qt5`)
+- Install `PC` [Anki 23.10.1 Qt6](https://github.com/ankitects/anki/releases/tag/23.10.1) (Please don't use `Qt5`)
+    - [Android](https://play.google.com/store/apps/details?id=com.ichi2.anki&hl=en_US) | [iOS](https://apps.apple.com/us/app/ankimobile-flashcards/id373493387) (Install guide is for `PC` only but you can use it on mobile afterwards)
 - Download [Anki addons](https://drive.google.com/drive/folders/1qdElBZ_1CCjyVuKCrxHegtGYludG0HVw?usp=sharing)
 - Download and Install [Git](https://git-scm.com/downloads) > 64-bit setup
 - Download [python](https://www.python.org/downloads/release/python-31011/) (`3.10.xx ONLY`) located at the bottom of the page
