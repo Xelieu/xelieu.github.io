@@ -54,7 +54,7 @@
 
 ## Updating AJT Japanese
 
-1. In your Anki, then `Ctrl + Shift + A` OR `Tools` > `Add-ons` > `Check for add-ons update` > if there's update, restart Anki
+1. In your Anki `Ctrl + Shift + A` OR `Tools` > `Add-ons` > `Check for add-ons update` > if there's update, restart Anki
 
 2. Again, `Ctrl + Shift + A` OR `Tools` > `Add-ons` > `AJT Japanese` > `Config` then copy and paste the config below:
     - Make sure to restart your Anki if you just updated `JPMN Note`
