@@ -78,11 +78,16 @@ It is now texthooking, proceed to [Clipboard Inserter](https://xelieu.github.io/
 
 ## Setup: Clipboard Inserter
 
-1. Go to `chrome://extensions` or `edge://extensions` (not needed for firefox) and go to `Clipboard Inserter` extension settings
+1. Go to `chrome://extensions` or `edge://extensions` or `about:addons`(firefox) and go to `Clipboard Inserter` extension settings
 
-2. Make sure `Allow access to file URLs` is enabled
+2. Make sure for:
+    - Chrome/Edge: `Allow access to file URLs` is enabled
+    - Firefox: `Access your data for all websites` is enabled
 
-    ![Clipboard Inserter URL Access](../img/url-access.png){height=150 width=300}
+    === "Chrome/Edge"
+        ![Chrome/Edge URL Access](../img/chromium-url-access.png){height=150 width=300}
+    === "Firefox"
+        ![Firefox Yomitan Access to all websites](../img/firefox-url-access.png){height=300 width=600}
 
 3. Go to `Textractor 5.2.0` folder and open `texthooker` page
 

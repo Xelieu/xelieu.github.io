@@ -12,6 +12,10 @@ hide:
 
 ### December
 
+**2023-12-15**
+
+- Misc: Added instructions for firefox
+
 **2023-12-14**
 
 - Fixed a bug in JPMN note that prevents displaying hyperlinked [image] from a dictionary entry that is mined from Yomitan

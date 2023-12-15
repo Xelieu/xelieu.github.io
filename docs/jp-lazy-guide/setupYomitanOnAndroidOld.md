@@ -31,7 +31,7 @@
 
     3. Make sure `Allow access to file URLs` is enabled
 
-        ![Yomitan URL Access](../img/url-access.png){height=150 width=300}
+        ![Yomitan URL Access](../img/chromium-url-access.png){height=150 width=300}
 
     4. Install the `Fonts` by opening them from the `Font` folder
 

@@ -22,11 +22,16 @@
 
     ![Yomitan Permission Page](../img/yomitan-permission.png){height=250 width=500}
 
-2. Go to `chrome://extensions` or `edge://extensions` (not needed for firefox) and go to `Yomitan` extension settings
+2. Go to `chrome://extensions` or `edge://extensions` or `about:addons`(firefox) and go to `Yomitan` extension settings
 
-3. Make sure `Allow access to file URLs` is enabled
+3. Make sure for:
+    - Chrome/Edge: `Allow access to file URLs` is enabled
+    - Firefox: `Access your data for all websites` is enabled
 
-    ![Yomitan URL Access](../img/url-access.png){height=150 width=300}
+    === "Chrome/Edge"
+        ![Chrome/Edge URL Access](../img/chromium-url-access.png){height=150 width=300}
+    === "Firefox"
+        ![Firefox Yomitan Access to all websites](../img/firefox-url-access.png){height=300 width=600}
 
 4. Install the `Fonts` by opening them from the `Font` folder
 
