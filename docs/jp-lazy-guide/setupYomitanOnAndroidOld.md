@@ -52,7 +52,7 @@
         ![Dictionary Toggle](../img/dictionary-toggle.png){height=250 width=500}
 
     8. Scroll down again, in `Backup` > `Import Settings` > `lazyxel-yomitan-settings` (from the extracted folder)
-        - If you are interested on installing [Yomitan Local Audio](https://xelieu.github.io/jp-lazy-guide/setupyomitanOnPC/#yomitan-local-audio) pick `lazyXel-local-audio`, otherwise `lazyXel-non-local-audio`
+        - If you are interested on installing [Yomitan Local Audio](https://xelieu.github.io/jp-lazy-guide/setupYomitanOnPC/#yomitan-local-audio) pick `lazyXel-local-audio`, otherwise `lazyXel-non-local-audio`
         - `Import` NOT `Sanitize and Import`
 
             ![Yomitan Import](../img/yomitan-import.png){height=150 width=300}
