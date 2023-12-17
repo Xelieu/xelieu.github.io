@@ -67,7 +67,7 @@
             ```
 
 
-5. In Anki after reinstalling, rename `JPMN-Examples` to `Mining Deck`
+5. In Anki after installing the deck, rename `JPMN-Examples` to `Mining Deck`
 
     ![JPMN Rename](../img/jpmn-rename.png){height=250 width=500}
 
