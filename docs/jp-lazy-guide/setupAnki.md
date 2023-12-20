@@ -341,7 +341,7 @@ You now have an Anki Template, next is Yomitan
 
 ??? question "Where can I ask if something is wrong with my JPMN Anki Format? <small>(click here)</small>"
 
-    - In [JPMN's FAQ & Troubleshooting](https://aquafina-water-bottle.github.io/jp-mining-note/faq/) page, or in [TMW](https://learnjapanese.moe/join/) specifically [#jp-mining-note](https://discord.com/channels/617136488840429598/1041466793094557879) channel
+    - In [JPMN's FAQ & Troubleshooting](https://aquafina-water-bottle.github.io/jp-mining-note/faq/) page
 
 #### Question 3: How to change the styling like font or size?
 

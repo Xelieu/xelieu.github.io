@@ -19,7 +19,6 @@ If you want to buy me a coffee(Thanks!): [Ko-fi (Xelieu)](https://ko-fi.com/xeli
 My contact:
 
 - Discord: [xelieu](https://www.discordapp.com/users/719459399168426054)
-- Discord Server: [TMW](https://learnjapanese.moe/join/)
 
 My Immersion links:
 
