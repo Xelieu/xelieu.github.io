@@ -204,8 +204,6 @@ You can now mine Manga on PC, see how it's done in Android!
 
     To get epubs, search around the web, go to `nyaa` or discord servers that have them or `BUY` and convert them
 
-    To get Processed Manga, check out [TMW](https://learnjapanese.moe/join/) and ask from there
-
     - If you pm me, I can give you more details
 
 ---
