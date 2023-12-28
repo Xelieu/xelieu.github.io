@@ -30,10 +30,86 @@ If you've been using my Anki Layout and want to transfer to JPMN
     ![JPMN Options](../img/jpmn-options.png){height=150 width=300}
 
 5. In Anki: `Browse` > on the left side under `Note Type` > `JP Mining Note` > `Card...` > `Styling` > Scroll down to the bottom
-	- Paste [this](https://pastebin.com/mu2jrrjB) AFTER the `INSERT CUSTOM CSS BELOW` line
+	- Paste the `Styling config` AFTER the `INSERT CUSTOM CSS BELOW` line
     - Editing only 1 card is enough for this to take effect to everything
 
+
     ![Custom CSS](../img/custom-css.png){height=250 width=500}
+
+    ??? examplecode "Anki Styling config <small>(click here)</small>"
+
+        ```
+        .glossary-text ol li[data-details="旺文社国語辞典 第十一版"] .dict-group__tag-list {
+            display: none;
+        }
+        .glossary-text ol li[data-details="旺文社国語辞典 第十一版"] .dict-group__glossary--first-line {
+            display: none;
+        }
+        .glossary-text ol li[data-details="旺文社国語辞典 第十一版"] .dict-group__glossary--first-line-break {
+            display: none;
+        }
+
+
+        .glossary-text ol li[data-details="三省堂国語辞典　第七版"] .dict-group__tag-list {
+            display: none;
+        }
+        .glossary-text ol li[data-details="三省堂国語辞典　第七版"] .dict-group__glossary--first-line {
+            display: none;
+        }
+        .glossary-text ol li[data-details="三省堂国語辞典　第七版"] .dict-group__glossary--first-line-break {
+            display: none;
+        }
+
+
+        .glossary-text ol li[data-details="実用日本語表現辞典"] .dict-group__tag-list {
+            display: none;
+        }
+        .glossary-text ol li[data-details="実用日本語表現辞典"] .dict-group__glossary--first-line {
+            display: none;
+        }
+        .glossary-text ol li[data-details="実用日本語表現辞典"] .dict-group__glossary--first-line-break {
+            display: none;
+        }
+
+
+        .glossary-text ol li[data-details="新明解国語辞典　第八版"] .dict-group__tag-list {
+            display: none;
+        }
+        .glossary-text ol li[data-details="新明解国語辞典　第八版"] .dict-group__glossary--first-line {
+            display: none;
+        }
+        .glossary-text ol li[data-details="新明解国語辞典　第八版"] .dict-group__glossary--first-line-break {
+            display: none;
+        }
+
+
+        .glossary-text ol li[data-details="明鏡国語辞典 第二版"] .dict-group__tag-list {
+            display: none;
+        }
+        .glossary-text ol li[data-details="明鏡国語辞典 第二版"] .dict-group__glossary--first-line {
+            display: none;
+        }
+        .glossary-text ol li[data-details="明鏡国語辞典 第二版"] .dict-group__glossary--first-line-break {
+            display: none;
+        }
+
+
+        .glossary-text ol li[data-details="JMdict (English)"] .dict-group__tag-list {
+            display: none;
+        }
+        .glossary-text ol li[data-details="JMdict (English)"] .dict-group__glossary--first-line {
+            display: none;
+        }
+        .glossary-text ol li[data-details="JMdict (English)"] .dict-group__glossary--first-line-break {
+            display: none;
+        }
+
+
+        .glossary-text--primary-definition ol {
+            list-style: none;
+            padding-left: 0em;
+        }
+        ```
 
 ---
 
