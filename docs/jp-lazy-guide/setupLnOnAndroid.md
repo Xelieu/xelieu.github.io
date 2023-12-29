@@ -22,7 +22,7 @@ Requirements
     - Open `Ankidroid` and leave it in the background
 
 2. Open your `Kiwi Browser` > `Yomitan Settings` > `Profile` > `Default` & `Editing` Profile > `Android (LN & Manga)`
-    - If you are not using my `Yomitan settings`, see [Info 1](https://xelieu.github.io/jp-lazy-guide/setupLnOnAndroid/#info-2-text-replacement-pattern)
+    - If you are not using my `Yomitan settings`, see [Info 2](https://xelieu.github.io/jp-lazy-guide/setupLnOnAndroid/#info-2-text-replacement-pattern)
 
     ![Yomitan Profile Android](../img/yomitan-profile-android.png){height=250 width=500}
 
