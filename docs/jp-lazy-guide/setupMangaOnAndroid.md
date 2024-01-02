@@ -26,7 +26,7 @@ Requirements:
 
 ## Setting Up
 
-1. Compress your Manga files(the one that contain `img` or `.png` files) into `.zip` format NOT `.7z`
+1. Compress your Manga files(the one that contain `img` or `.png` files) into `.zip` format (NOT `.7z`)
     - To compress, `Right click` on the folder > `7-Zip` > `Compress...` > `Archive Format: .zip` > `OK`
 
 2. Transfer your `Processed Manga` to your `Android` Device
@@ -38,7 +38,7 @@ Requirements:
 
 4. `Start the Service` on `AnkiConnect Android` and make sure `AnkiDroid` is also opened
 
-5. Open your `Kiwi Browser` > go to [Mokuro Reader](https://reader.mokuro.app/) > `Upload` icon (top right) > `choose files`
+5. Open your `Kiwi Browser` > go to [Mokuro Reader](https://reader.mokuro.app/) > `Upload` icon (top right) > `choose files` (NOT `choose directory`)
     - Go to the directory of your manga and upload `.html`, `.mokuro` and `.zip` files (from `Step 2`)
 
     ![Mokuro Android Upload](../img/mokuro-upload-android.png){height=150 width=300}
