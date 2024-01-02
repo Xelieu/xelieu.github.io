@@ -26,32 +26,31 @@ Requirements:
 
 ## Setting Up
 
-1. Compress your Manga files(the one that contain img or .png files) into `.zip` format (NOT .7z)
+1. Compress your Manga files(the one that contain img or .png files) into `.zip` format NOT `.7z`
 
 2. Transfer your `Processed Manga` to your `Android` Device
     - ALL the files, the compressed `manga` .zip file itself, `_ocr` and `.mokuro` file
 
-2. Open `Ankiconnect Android` > `settings` > `CORS Host` > `https://reader.mokuro.app`
+3. Open `Ankiconnect Android` > `settings` > `CORS Host` > `https://reader.mokuro.app`
 
     ![CORS Host](../img/cors-host.png){height=200 width=400}
 
-3. `Start the Service` on `AnkiConnect Android` and make sure `AnkiDroid` is also opened
+4. `Start the Service` on `AnkiConnect Android` and make sure `AnkiDroid` is also opened
 
-4. Open your `Kiwi Browser` > go to [Mokuro Reader](https://reader.mokuro.app/) > `Upload` icon (top right) > `choose files`
-    - Go to the directory of your manga and upload everything or the `manga` .zip and `.mokuro` file
-    - Click `Upload`
+5. Open your `Kiwi Browser` > go to [Mokuro Reader](https://reader.mokuro.app/) > `Upload` icon (top right) > `choose files`
+    - Go to the directory of your manga and upload `.html`, `.mokuro` and `.zip` files (from `Step 2`)
 
     ![Mokuro Android Upload](../img/mokuro-upload-android.png){height=150 width=300}
 
-5. In the top right, go to `settings` > `Profile` > `Select a File` > [Mokuro Profile](https://drive.google.com/drive/folders/1vX40zrvkGN13o_3WRYzqP1-L0F8mX6JJ?usp=sharing) > `Import Profiles` > Select `Mobile Profle`
+6. In the top right, go to `settings` > `Profile` > `Select a File` > [Mokuro Profile](https://drive.google.com/drive/folders/1vX40zrvkGN13o_3WRYzqP1-L0F8mX6JJ?usp=sharing) > `Import Profiles` > Select `Mobile Profle`
     - Alternatively you can make your own profile just make sure to set-up everything on `Anki Connect` portion
 
-6. To be able to mine, simply add the word using `Yomitan`
+7. To be able to mine, simply add the word using `Yomitan`
     - To screenshot, make sure to double click/tap inside the `text border` (its invisible by default)
 
     ![Mokuro Settings](../img/mokuro-yomitan.png){height=400 width=800}
 
-7. You should now be able to mine and screenshot in your Manga with ease
+8. You should now be able to mine and screenshot in your Manga with ease
 
 You are now finally done in setting up Manga Mining in Android, how about checking out Anime Mining?
 
