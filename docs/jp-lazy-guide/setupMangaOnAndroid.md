@@ -26,7 +26,8 @@ Requirements:
 
 ## Setting Up
 
-1. Compress your Manga files(the one that contain img or .png files) into `.zip` format NOT `.7z`
+1. Compress your Manga files(the one that contain `img` or `.png` files) into `.zip` format NOT `.7z`
+    - To compress, `Right click` on the folder > `7-Zip` > `Compress...` > `Archive Format: .zip` > `OK`
 
 2. Transfer your `Processed Manga` to your `Android` Device
     - ALL the files, the compressed `manga` .zip file itself, `_ocr` and `.mokuro` file
