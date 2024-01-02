@@ -43,6 +43,19 @@ Requirements:
 
     ![Mokuro Android Upload](../img/mokuro-upload-android.png){height=150 width=300}
 
+    ??? examplecode "Folder Structure <small>(click here)</small>"
+        
+        ```
+        ├── Manga Folder
+        │   ├── _ocr folder
+        │   ├── .html
+        │   ├── .mokuro
+        │   └── .zip
+        │    │    └── manga img file (.jpg/.png)
+        ```
+
+
+
 6. In the top right, go to `settings` > `Profile` > `Select a File` > [Mokuro Profile](https://drive.google.com/drive/folders/1vX40zrvkGN13o_3WRYzqP1-L0F8mX6JJ?usp=sharing) > `Import Profiles` > Select `Mobile Profle`
     - Alternatively you can make your own profile just make sure to set-up everything on `Anki Connect` portion
 
