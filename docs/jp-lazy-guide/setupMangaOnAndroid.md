@@ -29,7 +29,7 @@ Requirements:
 1. Compress your Manga files(the one that contain `img` or `.png` files) into `.zip` format (NOT `.7z`)
     - To compress, `Right click` on the folder > `7-Zip` > `Compress...` > `Archive Format: .zip` > `OK`
 
-2. Transfer your `Processed Manga` to your `Android` Device
+2. Transfer your `Processed Manga` to your `Android` device
     - ALL the files: the compressed `manga` .zip file itself, `_ocr` and `.mokuro` file
 
 3. Open `Ankiconnect Android` > `settings` > `CORS Host` > `https://reader.mokuro.app`
