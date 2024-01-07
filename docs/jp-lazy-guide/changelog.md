@@ -4,6 +4,22 @@ hide:
 ---
 # Changelog
 
+
+---
+
+## 2024
+
+---
+
+### January
+
+**2024-01-07**
+
+- Yomitan:
+	- Updated [Yomitan Settings](https://drive.google.com/drive/folders/1s_PdQ9HWvpDFXkh_AGGzVgqrFBGhUsbI?usp=sharing)
+		- Yomitan release 23.12.29.0 broke `Frequency` handling that caused frequency to be always `0` and is fixed with this settings
+		- If you don't want something breaking from your setup you can disable extensions auto-update by searching how on google (its not just a switch toggle)
+
 ---
 
 ## 2023

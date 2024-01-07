@@ -59,7 +59,7 @@ Requirements:
 6. In the top right, go to `settings` > `Profile` > `Select a File` > [Mokuro Profile](https://drive.google.com/drive/folders/1vX40zrvkGN13o_3WRYzqP1-L0F8mX6JJ?usp=sharing) > `Import Profiles` > Select `Mobile Profile`
     - Alternatively you can make your own profile just make sure to set-up everything on `Anki Connect` portion
 
-7. To be able to mine, simply add the word using `Yomitan`
+7. To be able to mine, simply add the word using `Yomitan` by `Tap Holding` to scan the word
     - To screenshot, make sure to double click/tap inside the `text border` (its invisible by default)
 
     ![Mokuro Settings](../img/mokuro-yomitan.png){height=400 width=800}
