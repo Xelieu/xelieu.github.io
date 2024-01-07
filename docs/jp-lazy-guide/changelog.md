@@ -19,6 +19,10 @@ hide:
 	- Updated [Yomitan Settings](https://drive.google.com/drive/folders/1s_PdQ9HWvpDFXkh_AGGzVgqrFBGhUsbI?usp=sharing)
 		- Yomitan release 23.12.29.0 broke `Frequency` handling that caused frequency to be always `0` and is fixed with this settings
 		- If you don't want something breaking from your setup you can disable extensions auto-update by searching how on google (its not just a switch toggle)
+		- Updated `Sentence Terminator` to avoid mining `Volume` word to be included in `Sentence` field when mining from Manga
+
+- Mobile Mining:
+	- Since Yomitan update has fixed some word scanning, you can now finally hold the word to scan it (to avoid accidental scanning)
 
 ---
 
