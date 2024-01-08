@@ -26,7 +26,7 @@
 1. Open command prompt by `windows key` or `search bar` > Type `cmd` or `command prompt`
     - Click the `Copy` button and simply `Paste` this into `command prompt` then enter
     - If you encounter a problem/version is still the same, delete the `jpmn-mining-note` folder that is usually located in `C:\Users\**YOUR NAME**` and re-do this step
-        - On card preview, look at the top right and you will see `jp-mining-note` version
+        - On card preview, look at the top left and you will see `jp-mining-note` version
 
     ??? examplecode "Command Line <small>(click here)</small>"
 
