@@ -142,7 +142,9 @@ If you've been using my Anki Layout and want to transfer to JPMN
 
 7. `Tools` > `JPMN Manager` > `Run Batch Command` > input `set_pasilence_field`
 
-8. Switch to my [Yomitan Setup](https://drive.google.com/drive/folders/1s_PdQ9HWvpDFXkh_AGGzVgqrFBGhUsbI?usp=sharing)
+8. After that you can now follow [Updating: Anki JPMN Note](https://xelieu.github.io/jp-lazy-guide/updatingAnkiJPMNNote/) to get the latest bug fixes
+
+9. Switch to my [Yomitan Setup](https://drive.google.com/drive/folders/1s_PdQ9HWvpDFXkh_AGGzVgqrFBGhUsbI?usp=sharing)
     - `Better Mono` and `updated dicts` that isn't currently compatible on my `Lazy` Format
     - Follow [Yomitan On PC](https://xelieu.github.io/jp-lazy-guide/setupyomitanOnPC/) for easy import of `Dictionaries` and `Settings`
 
