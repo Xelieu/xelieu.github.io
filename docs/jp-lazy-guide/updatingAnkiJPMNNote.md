@@ -6,7 +6,7 @@
 
 - If you didn't update on or before the following dates, please update:
     - `JPMN Note`: 2023-12-14 - jp-mining-note: v0.12.0.0-prerelease-14
-    - `AJT Japanese`: 2023-11-13
+    - `AJT Japanese`: 2024-01-19
 
 ---
 
