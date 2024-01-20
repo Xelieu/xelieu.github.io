@@ -57,10 +57,9 @@
 
 1. In your Anki `Ctrl + Shift + A` OR `Tools` > `Add-ons` > `Check for add-ons update` > if there's update, restart Anki
 
-2. Again, `Ctrl + Shift + A` OR `Tools` > `Add-ons` > `AJT Japanese` > `View Files
+2. Again, `Ctrl + Shift + A` OR `Tools` > `Add-ons` > `AJT Japanese` > `View Files`
 
 3. Open the `config.json`(edit with notepad) then copy and paste the config below:
-    - Make sure to restart your Anki if you just updated `JPMN Note`
 
     ??? examplecode "AJT Japanese Config <small>(click here)</small>"
 
