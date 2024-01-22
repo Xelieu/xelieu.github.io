@@ -17,7 +17,7 @@ hide:
 
 - Yomitan:
 	- Updated [Yomitan Settings](https://drive.google.com/drive/folders/1s_PdQ9HWvpDFXkh_AGGzVgqrFBGhUsbI?usp=sharing)
-		- This is still an issue due to Yomitan release 23.12.29.0 that was only later discovered
+		- This updates the `Handlebar` and is still an issue due to Yomitan release 23.12.29.0 that was only later discovered
 		- Again, you can stop yomitan updates for now(google how to stop extensions from updating) if you don't like issues like this (I know the feeling)
 
 	- Updated [AJT Japanese](http://127.0.0.1:8000/jp-lazy-guide/updatingAnkiJPMNNote/#updating-ajt-japanese) config
