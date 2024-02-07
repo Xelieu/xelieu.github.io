@@ -44,6 +44,7 @@
 
 4. Open command prompt by `windows key` or `search bar` > Type `cmd` or `command prompt`
     - Click the `Copy` button and simply `Paste` this into `command prompt` then enter
+    - Make sure to have `Anki` opened
 
     ??? examplecode "Command Line <small>(click here)</small>"
 
