@@ -6,7 +6,7 @@ hide:
 JP Lazy Guide is for:
 
 - People who don't want to bother customizing their settings or knowing stuff technically
-- For people who want an all-in-one import and everythign and done compared to other fully detailed guides but scattered tools
+- For people who want an all-in-one import and everything and done compared to other fully detailed guides but scattered tools
 - You want stable tools that lasts forever (If you don't update nothing will break)
 
 New to Japanese and want to immerse quickly? See [Concise Guide to Jumpstart Japanese](conciseGuideToJumpstartJP.md)
