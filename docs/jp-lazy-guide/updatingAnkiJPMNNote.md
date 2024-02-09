@@ -5,7 +5,7 @@
 ### Update Watcher
 
 - If you didn't update on or before the following dates, please update:
-    - `JPMN Note`: 2023-12-14 - jp-mining-note: v0.12.0.0-prerelease-14
+    - `JPMN Note`: 2024-02-09 - jp-mining-note: v0.12.0.0-prerelease-15
     - `AJT Japanese`: 2024-01-19
 
 ---
@@ -24,6 +24,7 @@
 ## Updating the JPMN Format
 
 1. Open command prompt by `windows key` or `search bar` > Type `cmd` or `command prompt`
+    - Make sure to have `Anki` opened
     - Click the `Copy` button and simply `Paste` this into `command prompt` then enter
     - If you encounter a problem/version is still the same, delete the `jpmn-mining-note` folder that is usually located in `C:\Users\**YOUR NAME**` and re-do this step
         - On card preview, look at the top left and you will see `jp-mining-note` version
