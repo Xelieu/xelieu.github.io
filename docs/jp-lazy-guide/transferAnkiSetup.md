@@ -146,7 +146,7 @@ If you've been using my Anki Layout and want to transfer to JPMN
 
 9. Switch to my [Yomitan Setup](https://drive.google.com/drive/folders/1s_PdQ9HWvpDFXkh_AGGzVgqrFBGhUsbI?usp=sharing)
     - `Better Mono` and `updated dicts` that isn't currently compatible on my `Lazy` Format
-    - Follow [Yomitan On PC](https://xelieu.github.io/jp-lazy-guide/setupyomitanOnPC/) for easy import of `Dictionaries` and `Settings`
+    - Follow [Yomitan On PC](https://xelieu.github.io/jp-lazy-guide/setupYomitanOnPC/) for easy import of `Dictionaries` and `Settings`
 
 ---
 
