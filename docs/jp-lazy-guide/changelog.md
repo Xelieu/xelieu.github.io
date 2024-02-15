@@ -11,6 +11,18 @@ hide:
 
 ---
 
+### February
+
+**2024-02-16**
+
+- Anki:
+	- Updated the install process back to the `JPMN Manager` add-on method
+		- Existing users: delete `JPMN Manager with prereleases` on add-ons tab then install the new [JPMN Manager](https://ankiweb.net/shared/info/301910299)
+			- More detailed instructions [here](https://xelieu.github.io/jp-lazy-guide/updatingAnkiJPMNNote/)
+		- You also have the option to not do anything and the note will work just fine, alternatively I put the manual update method to [Archive](https://xelieu.github.io/jp-lazy-guide/updatingAnkiJPMNNoteOld/)
+
+---
+
 ### January
 
 **2024-01-19**

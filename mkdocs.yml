@@ -7,7 +7,7 @@ repo_name: Want to buy me a coffee?
 nav:
   - Home:
     - Introduction: 'jp-lazy-guide/index.md'
-    - Changelog (2024-01-19): 'jp-lazy-guide/changelog.md'
+    - Changelog (2024-02-16): 'jp-lazy-guide/changelog.md'
     - About: 'jp-lazy-guide/about.md'
     - Credits: 'jp-lazy-guide/credits.md'
   - Setup:
@@ -36,6 +36,7 @@ nav:
       - "Setup: Anki (Old)": 'jp-lazy-guide/setupAnkiOld.md'
       - "Setup: Yomitan PC (Old)": 'jp-lazy-guide/setupYomitanOnPCOld.md'
       - "Setup: Yomitan Android (Old)": 'jp-lazy-guide/setupYomitanOnAndroidOld.md'
+      - "Updating: Anki JPMN Note (Old)": 'jp-lazy-guide/updatingAnkiJPMNNoteOld.md'
   - Sub Guide:
     - Sub Guide Introduction: 'jp-lazy-guide/subGuide.md'
     - Concise Guide to Jumpstart JP: 'jp-lazy-guide/conciseGuideToJumpstartJP.md'

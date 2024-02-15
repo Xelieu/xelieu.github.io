@@ -1,6 +1,6 @@
 # Updating: Anki JPMN Note
 
-- This is how to update `JPMN Note` to fix bugs or just get an actual update
+- This is how to manually update `JPMN Note` bugs while Aquafina is gone, hence we cannot use the `JPMN Manager` to update the Anki Format
 
 ### Update Watcher
 
@@ -12,26 +12,45 @@
 
 ## Download and Install
 
-1. In your Anki: `Ctrl + Shift + A` OR `Tools` > `Add-ons` > `Check for add-ons update`
-    - Make sure [JPMN Manager](https://ankiweb.net/shared/info/301910299) and [AJT Japanese](https://ankiweb.net/shared/info/1344485230) is updated
-    - If there's an `update`, restart your Anki
+- Download [python](https://www.python.org/downloads/release/python-31011/) (`3.10.xx ONLY`) located at the bottom of the page
+    - Then choose Windows/mac `INSTALLER 64bit` and install
+    
+    ??? note "Check 'Add Python to PATH' <small>(click here)</small>"
 
-    ![Anki Addons Update](../img/addons-update.png){height=250 width=500}
-
-!!! danger "Make sure you're using the proper JPMN Manager"
-
-    - Make sure you have the new version: `JPMN Manager with prereleases New Version`
-    - Remove the old version: `JPMN Manager with prereleases`
+        ![Add Python to PATH](../img/add-python-to-path.png){height=300 width=600}
 
 ---
 
 ## Updating the JPMN Format
 
-1. In your Anki's toolbar: `Tools` > `JPMN Manager` > `Check for note updates` > Follow the instructions
+1. Open command prompt by `windows key` or `search bar` > Type `cmd` or `command prompt`
+    - Make sure to have `Anki` opened
+    - Click the `Copy` button and simply `Paste` this into `command prompt` then enter
+    - If you encounter a problem/version is still the same, delete the `jpmn-mining-note` folder that is usually located in `C:\Users\**YOUR NAME**` and re-do this step
+        - On card preview, look at the top left and you will see `jp-mining-note` version
 
-    ![JPMN Note Update](../img/jpmn-manager-update.png){height=250 width=500}
+    ??? examplecode "Command Line <small>(click here)</small>"
 
-2. Done
+        === "Windows"
+            ```
+            git clone https://github.com/arbyste/jp-mining-note.git
+            cd jp-mining-note
+
+            git checkout dev
+            git pull --force
+
+            python tools\install.py --update
+            ```
+        === "macOS & Linux"
+            ```
+            git clone https://github.com/arbyste/jp-mining-note.git
+            cd jp-mining-note
+
+            git checkout dev
+            git pull --force
+
+            python3 tools/install.py --update
+            ```
 
 ---
 

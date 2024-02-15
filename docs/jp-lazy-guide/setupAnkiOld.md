@@ -1,7 +1,7 @@
 # Setup: Anki
 
 
-- This is an archive for when Aquafina actually returns and we can use of `JPMN Manager` again to setup our Anki
+- This is an archive for when we need to manually update `JPMN Note` again to setup our Anki
 
 ---
 
@@ -9,14 +9,29 @@
     - Anki is a SRS flash card program for card reviewing and the due dates are decided by the algorithm
     - Mobile is supported
     - Anki [Light](../img/jpmn-light.png) | [Dark](../img/jpmn-dark.png) Mode
-    - Transferring from other Anki Format? Check [Transfer Existing Notes](https://aquafina-water-bottle.github.io/jp-mining-note/importing/) or [Transfer Lazy Format to JPMN](https://xelieu.github.io/jp-lazy-guide/transferAnkiSetup/)
+
+    ---
+
+    - Transferring from other Anki Format? 
+        - Check [Transfer Existing Notes](https://aquafina-water-bottle.github.io/jp-mining-note/importing/) or [Transfer Lazy Format to JPMN](https://xelieu.github.io/jp-lazy-guide/transferAnkiSetup/)
+    - Updating your existing JPMN Format?
+        - Go to [Updating: Anki JPMN Note](https://xelieu.github.io/jp-lazy-guide/updateAnkiJPMNFork/)
 
     ---
 
     ## Download and Install
 
-    - Install [Anki 23.10.1 Qt6](https://github.com/ankitects/anki/releases/tag/23.10.1) (Please don't use `Qt5`)
+    - Install `PC` [Anki 23.12.1 Qt6](https://github.com/ankitects/anki/releases/tag/23.12.1) (Please don't use `Qt5`)
+        - [Android](https://play.google.com/store/apps/details?id=com.ichi2.anki&hl=en_US) | [iOS](https://apps.apple.com/us/app/ankimobile-flashcards/id373493387) (Install guide is for `PC` only but you can use it on mobile afterwards)
     - Download [Anki addons](https://drive.google.com/drive/folders/1qdElBZ_1CCjyVuKCrxHegtGYludG0HVw?usp=sharing)
+    - Download and Install [Git](https://git-scm.com/downloads) > 64-bit setup
+    - Download [python](https://www.python.org/downloads/release/python-31011/) (`3.10.xx ONLY`) located at the bottom of the page
+        - Then choose Windows/mac `INSTALLER 64bit` and install
+        
+        ??? note "Check 'Add Python to PATH' <small>(click here)</small>"
+
+            ![Add Python to PATH](../img/add-python-to-path.png){height=300 width=600}
+
 
     ---
     ## Setting Up
@@ -33,11 +48,33 @@
 
         ![Anki Addons Update](../img/addons-update.png){height=250 width=500}
 
-    4. In Anki: `Tools` > `JPMN Manager` > `Install jp-mining-note`
-            
-        ![jpmn install](../img/jpmn-install.png){height=250 width=500}
+    4. Open command prompt by `windows key` or `search bar` > Type `cmd` or `command prompt`
+        - Click the `Copy` button and simply `Paste` this into `command prompt` then enter
+        - Make sure to have `Anki` opened
 
-    5. Rename `JPMN-Examples` to `Mining Deck`
+        ??? examplecode "Command Line <small>(click here)</small>"
+
+            === "Windows"
+                ```
+                git clone "https://github.com/arbyste/jp-mining-note.git"
+                cd jp-mining-note
+                git checkout dev
+
+                python tools\install.py
+
+                ```
+            === "macOS & Linux"
+                ```
+                git clone "https://github.com/arbyste/jp-mining-note.git"
+                cd jp-mining-note
+                git checkout dev
+
+                # You may have to use `python3` instead of `python`.
+                python tools/install.py
+                ```
+
+
+    5. In Anki after installing the deck, rename `JPMN-Examples` to `Mining Deck`
 
         ![JPMN Rename](../img/jpmn-rename.png){height=250 width=500}
 
@@ -46,7 +83,7 @@
 
             ![JPMN Options](../img/jpmn-options.png){height=150 width=300}
 
-        - Edit and save the config below (open in notepad)
+        - Edit and replace the config with the one below (open in notepad)
 
             ??? examplecode "_jpmn-options config <small>(click here)</small>"
 
@@ -222,9 +259,10 @@
 
 
     8. Go to your `Deck`'s option then copy the `settings` below
-        - `Tools` > `Preferences` and turn on `v3 scheduler`
-        - `Shift` + `Left Click` on the `option` cog settings of the `deck` for `Rewards` Tab(Settings 3), since it doesn't save on the modern UI
-            - Multiply the values you input by `100` for the old UI
+        - (Top left) `Tools` > `Preferences` and set the settings accordingly
+        - (Settings 3) Turn on `FSRS` with a minimum desired and SM2 retention of `0.80`, then use `Optimize FSRS Parameters` every month
+            - `Tools` > `FSRS4Anki Helper` for more personalized options like `Load Balancer`
+            - Until `1000 reviews`, you can't generate your own parameters and you will be using the defaults
 
         === "Anki Preference Settings"
             ![Anki Preference Settings](../img/anki-preference-settings.png){height=300 width=600}
