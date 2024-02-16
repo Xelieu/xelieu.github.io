@@ -223,9 +223,10 @@
 
 
 8. Go to your `Deck`'s option then copy the `settings` below
-    - `Tools` > `Preferences` and turn on `v3 scheduler`
-    - `Shift` + `Left Click` on the `option` cog settings of the `deck` for `Rewards` Tab(Settings 3), since it doesn't save on the modern UI
-        - Multiply the values you input by `100` for the old UI
+    - (Top left) `Tools` > `Preferences` and set the settings accordingly
+    - (Settings 3) Turn on `FSRS` with a minimum desired and SM2 retention of `0.80`, then use `Optimize FSRS Parameters` and `Compute Optimal Retention` every month
+        - `Tools` > `FSRS4Anki Helper` for more personalized options like `Load Balancer`
+        - Until `1000 reviews`, you can't generate your own parameters and you will be using the defaults
 
     === "Anki Preference Settings"
         ![Anki Preference Settings](../img/anki-preference-settings.png){height=300 width=600}
