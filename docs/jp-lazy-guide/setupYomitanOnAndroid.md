@@ -12,8 +12,8 @@
 
 - Install [Yomitan Chrome](https://chrome.google.com/webstore/detail/yomitan/likgccmbimhjbgkjambclfkhldnlhbnn) in your `Kiwi Browser`
 
-- Download `yomitan dictionary`, `lazyXel-yomitan-settings`(download both) and `Font` from [here](https://drive.google.com/drive/folders/1s_PdQ9HWvpDFXkh_AGGzVgqrFBGhUsbI?usp=sharing)
-    - Extract `Font.7z` and `yomitan dictionary.7z`
+- Download `yomitan dictionary` and `lazyXel-yomitan-settings`(download both) from [here](https://drive.google.com/drive/folders/1s_PdQ9HWvpDFXkh_AGGzVgqrFBGhUsbI?usp=sharing)
+    - Extract `yomitan dictionary.7z`
     - `yomitan dictionary.7z` should only be extracted once, `don't extract the dictionary` itself
 
 ---
@@ -26,26 +26,22 @@
 
     ![Yomitan URL Access](../img/chromium-url-access.png){height=150 width=300}
 
-3. Install the `Fonts` by opening them from the `Font` folder
-
-    ![Yomitan Font](../img/fonts.png){height=150 width=300}
-
-4. Go to `Yomitan`’s settings page (Click on the extension’s icon then click on the cog icon from the popup)
+3. Go to `Yomitan`’s settings page (Click on the extension’s icon then click on the cog icon from the popup)
 
     ![Yomitan Cog](../img/yomitan-cog.png){height=50 width=100}
 
-5. Go to `Dictionary` > `Configure installed and enabled dictionaries...` > `Import`
+4. Go to `Dictionary` > `Configure installed and enabled dictionaries...` > `Import`
     - Import all the dictionaries from `yomitan dictionary` folder (You can select them all and import all at once)
 
     ![Dictionary Import](../img/yomitan-dictionary-import.png){height=250 width=500}
 
-6. Then Scroll down, in `Backup` > `Import Settings` > `lazyxel-yomitan-settings` (from the extracted folder)
+5. Then Scroll down, in `Backup` > `Import Settings` > `lazyxel-yomitan-settings` (from the extracted folder)
     - If you are interested on installing [Yomitan Local Audio](https://xelieu.github.io/jp-lazy-guide/setupYomitanOnAndroid/#info-2-android-yomitan-local-audio) pick `lazyXel-local-audio`, otherwise `lazyXel-non-local-audio`
     - `Import` NOT `Sanitize and Import`
     
         ![Yomitan Import](../img/yomitan-import.png){height=150 width=300}
 
-7. Pick `Android (LN & Manga)` profile (`Default` and `Editing`)
+6. Pick `Android (LN & Manga)` profile (`Default` and `Editing`)
 
     ![Yomitan Profile](../img/yomitan-profiles.png){align=left height=300 width=600}
 
