@@ -35,7 +35,7 @@ hide:
     - Extract the `Anki add-ons` and Paste it to `C:\Users\YourUser\AppData\Roaming\Anki2`
     - Restart your `Anki`
 
-3. Download [Kaishi 1.5k - Basic Japanese Vocabulary](https://ankiweb.net/shared/info/1196762551) then open it
+3. Download [Kaishi.1.5k.apkg](https://github.com/donkuri/Kaishi/releases/latest)(`1.5k vocab deck`) then open it
     - Just use `again (1)` or `good (spacebar or 3)` button when doing the deck so you don't have to think about if it's `easy (2)` or `hard (4)`
 
 4. Go to your `Deck`'s option then copy the `settings` below
