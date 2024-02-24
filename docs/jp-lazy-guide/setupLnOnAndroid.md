@@ -28,7 +28,7 @@ Requirements
 
 3. In `Kiwi Browser`, open `https://reader.ttsu.app/` and upload your `Light Novel` epubs
 
-4. You can now `mine` in `Android` by `Tap Holding` to scan the word
+4. You can now `mine` in `Android` by `tapping` to scan the word
 
     ![TTU Android](../img/ttu-android.png){height=150 width=300}
 

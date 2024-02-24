@@ -13,6 +13,10 @@ hide:
 
 ### February
 
+**2024-02-24**
+
+- In [Concise Guide to Jumpstart Japanese](conciseGuideToJumpstartJP.md) changed the starter deck from `Core 2.3k vocab deck` to `Kaishi 1.5k - Basic Japanese Vocabulary` deck
+
 **2024-02-16**
 
 - Anki:
@@ -41,9 +45,6 @@ hide:
 		- Yomitan release 23.12.29.0 broke `Frequency` handling that caused frequency to be always `0` and is fixed with this settings
 		- If you don't want something breaking from your setup you can disable extensions auto-update by searching how on google (its not just a switch toggle)
 		- Updated `Sentence Terminator` to avoid mining `Volume` word to be included in `Sentence` field when mining from Manga
-
-- Mobile Mining:
-	- Since Yomitan update has fixed some word scanning, you can now finally hold the word to scan it (to avoid accidental scanning)
 
 ---
 

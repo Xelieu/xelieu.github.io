@@ -5,7 +5,7 @@
 ### Update Watcher
 
 - If you didn't update on or before the following dates, please update:
-    - `JPMN Note`: 2024-02-09 - jp-mining-note: v0.12.0.0-prerelease-15
+    - `JPMN Note`: 2024-02-18 - jp-mining-note: v0.12.0.0-prerelease-16
     - `AJT Japanese`: 2024-01-19
 
 ---
@@ -27,7 +27,7 @@
 
 ## Updating the JPMN Format
 
-1. In your Anki's toolbar: `Tools` > `JPMN Manager` > `Check for note updates` > Follow the instructions
+1. In your Anki's toolbar: `Tools` > `JPMN Manager` > `Check for note updates` (If there is) > Update jp-mining-note (Follow the instructions)
 
     ![JPMN Note Update](../img/jpmn-manager-update.png){height=250 width=500}
 
