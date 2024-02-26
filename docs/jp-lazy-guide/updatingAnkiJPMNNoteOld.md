@@ -1,247 +1,244 @@
 # Updating: Anki JPMN Note
 
-- This is how to manually update `JPMN Note` bugs while Aquafina is gone, hence we cannot use the `JPMN Manager` to update the Anki Format
-
-### Update Watcher
-
-- If you didn't update on or before the following dates, please update:
-    - `JPMN Note`: 2024-02-09 - jp-mining-note: v0.12.0.0-prerelease-15
-    - `AJT Japanese`: 2024-01-19
+- This is how to manually update `JPMN Note` if you don't want to use the `JPMN Manager` to update the Anki Format
 
 ---
 
-## Download and Install
+??? note "Show Archive <small>(click here)</small>"
 
-- Download [python](https://www.python.org/downloads/release/python-31011/) (`3.10.xx ONLY`) located at the bottom of the page
-    - Then choose Windows/mac `INSTALLER 64bit` and install
-    
-    ??? note "Check 'Add Python to PATH' <small>(click here)</small>"
+    ## Download and Install
 
-        ![Add Python to PATH](../img/add-python-to-path.png){height=300 width=600}
+    - Download [python](https://www.python.org/downloads/release/python-31011/) (`3.10.xx ONLY`) located at the bottom of the page
+        
+        - Then choose Windows/mac `INSTALLER 64bit` and install
+        
+        ??? note "Check 'Add Python to PATH' <small>(click here)</small>"
 
----
+            ![Add Python to PATH](../img/add-python-to-path.png){height=300 width=600}
 
-## Updating the JPMN Format
+    ---
 
-1. Open command prompt by `windows key` or `search bar` > Type `cmd` or `command prompt`
-    - Make sure to have `Anki` opened
-    - Click the `Copy` button and simply `Paste` this into `command prompt` then enter
-    - If you encounter a problem/version is still the same, delete the `jpmn-mining-note` folder that is usually located in `C:\Users\**YOUR NAME**` and re-do this step
-        - On card preview, look at the top left and you will see `jp-mining-note` version
+    ## Updating the JPMN Format
 
-    ??? examplecode "Command Line <small>(click here)</small>"
+    1. Open command prompt by `windows key` or `search bar` > Type `cmd` or `command prompt`
+        - Make sure to have `Anki` opened
+        - Click the `Copy` button and simply `Paste` this into `command prompt` then enter
+        - If you encounter a problem/version is still the same, delete the `jpmn-mining-note` folder that is usually located in `C:\Users\**YOUR NAME**` and re-do this step
+            - On card preview, look at the top left and you will see `jp-mining-note` version
 
-        === "Windows"
+        ??? examplecode "Command Line <small>(click here)</small>"
+
+            === "Windows"
+                ```
+                git clone https://github.com/arbyste/jp-mining-note.git
+                cd jp-mining-note
+
+                git checkout dev
+                git pull --force
+
+                python tools\install.py --update
+                ```
+            === "macOS & Linux"
+                ```
+                git clone https://github.com/arbyste/jp-mining-note.git
+                cd jp-mining-note
+
+                git checkout dev
+                git pull --force
+
+                python3 tools/install.py --update
+                ```
+
+    ---
+
+    ## Updating AJT Japanese
+
+    1. In your Anki `Ctrl + Shift + A` OR `Tools` > `Add-ons` > `Check for add-ons update` > if there's update, restart Anki
+
+    2. Again, `Ctrl + Shift + A` OR `Tools` > `Add-ons` > `AJT Japanese` > `View Files`
+
+    3. Open the `config.json`(edit with notepad) then copy and paste the config below:
+
+        ??? examplecode "AJT Japanese Config <small>(click here)</small>"
+
             ```
-            git clone https://github.com/arbyste/jp-mining-note.git
-            cd jp-mining-note
-
-            git checkout dev
-            git pull --force
-
-            python tools\install.py --update
-            ```
-        === "macOS & Linux"
-            ```
-            git clone https://github.com/arbyste/jp-mining-note.git
-            cd jp-mining-note
-
-            git checkout dev
-            git pull --force
-
-            python3 tools/install.py --update
-            ```
-
----
-
-## Updating AJT Japanese
-
-1. In your Anki `Ctrl + Shift + A` OR `Tools` > `Add-ons` > `Check for add-ons update` > if there's update, restart Anki
-
-2. Again, `Ctrl + Shift + A` OR `Tools` > `Add-ons` > `AJT Japanese` > `View Files`
-
-3. Open the `config.json`(edit with notepad) then copy and paste the config below:
-
-    ??? examplecode "AJT Japanese Config <small>(click here)</small>"
-
-        ```
-        {
-            "cache_lookups": 1024,
-            "last_file_save_location": "",
-            "profiles": [ 
-                {
-                    "name": "Add furigana for sentence",
-                    "note_type": "JP Mining Note",
-                    "source": "Sentence",
-                    "destination": "SentenceReading",
-                    "mode": "furigana",
-                    "split_morphemes": true,
-                    "triggered_by": "focus_lost,toolbar_button,note_added,bulk_add",
-                    "overwrite_destination": false
+            {
+                "cache_lookups": 1024,
+                "last_file_save_location": "",
+                "profiles": [ 
+                    {
+                        "name": "Add furigana for sentence",
+                        "note_type": "JP Mining Note",
+                        "source": "Sentence",
+                        "destination": "SentenceReading",
+                        "mode": "furigana",
+                        "split_morphemes": true,
+                        "triggered_by": "focus_lost,toolbar_button,note_added,bulk_add",
+                        "overwrite_destination": false
+                    },
+                    {
+                        "name": "Add furigana for word -- UNUSED BY jp-mining-note",
+                        "note_type": "AJT_JAPANESE_IGNORE_PROFILE",
+                        "source": "VocabKanji",
+                        "destination": "VocabFurigana",
+                        "mode": "furigana",
+                        "split_morphemes": false,
+                        "triggered_by": "focus_lost,toolbar_button,note_added,bulk_add",
+                        "overwrite_destination": false
+                    },
+                    {
+                        "name": "Add pitch accent for word",
+                        "note_type": "JP Mining Note",
+                        "source": "Word",
+                        "destination": "AJTWordPitch",
+                        "mode": "pitch",
+                        "split_morphemes": false,
+                        "output_format": "html",
+                        "triggered_by": "focus_lost,toolbar_button,note_added,bulk_add",
+                        "overwrite_destination": false
+                    },
+                    {
+                        "name": "Add audio for word -- UNUSED BY jp-mining-note",
+                        "note_type": "AJT_JAPANESE_IGNORE_PROFILE",
+                        "source": "VocabKanji",
+                        "destination": "VocabAudio",
+                        "mode": "audio",
+                        "split_morphemes": false,
+                        "triggered_by": "focus_lost,toolbar_button,note_added,bulk_add",
+                        "overwrite_destination": false
+                    }
+                ],
+                "pitch_accent": {
+                    "lookup_shortcut": "Ctrl+8",
+                    "output_hiragana": false,
+                    "kana_lookups": true,
+                    "skip_numbers": true,
+                    "reading_separator": "・", 
+                    "word_separator": "、",
+                    "blocklisted_words": "こと,へ,か,よ,ん,だ,び,の,や,ね,ば,て,と,た,が,に,な,は,も,ます,から,いる,たち,てる,う,ましょ,たい,する,です,ない",
+                    "maximum_results": 100, 
+                    "discard_mode": "discard_extra",
+                    "style": "none" 
                 },
-                {
-                    "name": "Add furigana for word -- UNUSED BY jp-mining-note",
-                    "note_type": "AJT_JAPANESE_IGNORE_PROFILE",
+                "furigana": {
+                    "skip_numbers": true,
+                    "prefer_literal_pronunciation": false,
+                    "reading_separator": ", ",
+                    "blocklisted_words": "人",
+                    "mecab_only": "彼,猫,首,母,顔,木,頭,私,弟,空,体,行く",
+                    "maximum_results": 1, 
+                    "discard_mode": "discard_extra"
+                },
+                "context_menu": {
+                    "generate_furigana": true,
+                    "to_katakana": true,
+                    "to_hiragana": true,
+                    "literal_pronunciation": true,
+                    "look_up_word": true
+                },
+                "toolbar": { 
+                    "generate_all_button": {
+                        "enabled": false,
+                        "shortcut": "Alt+P",
+                        "text": "入"
+                    },
+                    "regenerate_all_button": {
+                        "enabled": false,
+                        "shortcut": "Alt+;",
+                        "text": "再"
+                    },
+                    "furigana_button": {
+                        "enabled": false,
+                        "shortcut": "",
+                        "text": "振"
+                    },
+                    "hiragana_button": {
+                        "enabled": false,
+                        "shortcut": "",
+                        "text": "平"
+                    },
+                    "clean_furigana_button": {
+                        "enabled": false,
+                        "shortcut": "",
+                        "text": "削"
+                    },
+                    "audio_search_button": {
+                        "enabled": false,
+                        "shortcut": "",
+                        "text": "検"
+                    },
+                    "add_definition_button": {
+                        "enabled": false,
+                        "shortcut": "",
+                        "text": "意"
+                    }
+                },
+                "audio_sources": [
+                    {
+                        "enabled": false, 
+                        "name": "NHK-2016",
+                        "url": "https://github.com/Ajatt-Tools/nhk_2016_pronunciations_index/releases/download/v1.2/NHK_main.zip"
+                    },
+                    {
+                        "enabled": false,
+                        "name": "NHK-1998",
+                        "url": "https://github.com/Ajatt-Tools/nhk_1998_pronunciations_index/releases/download/v1.1/NHK_main.zip"
+                    },
+                    {
+                        "enabled": false,
+                        "name": "Shinmeikai-8",
+                        "url": "https://github.com/Ajatt-Tools/shinmeikai_8_pronunciations_index/releases/download/v1.5/Shinmeikai-8_main.zip"
+                    },
+                    {
+                        "enabled": false,
+                        "name": "Daijisen",
+                        "url": "https://github.com/Ajatt-Tools/daijisen_pronunciations_index/releases/download/v1.0/Daijisen_main.zip"
+                    },
+                    {
+                        "enabled": false,
+                        "name": "TAAS",
+                        "url": "https://github.com/Ajatt-Tools/taas_pronunciations_index/releases/download/v1.0/TAAS_main.zip"
+                    }
+                ],
+                "audio_settings": {
+                    "dictionary_download_timeout": 30,
+                    "audio_download_timeout": 6,
+                    "attempts": 4,
+                    "maximum_results": 99,
+                    "ignore_inflections": false,
+                    "stop_if_one_source_has_results": false,
+                    "search_dialog_field_name": "VocabAudio",
+                    "tag_separator": "<br>"
+                },
+                "definitions": {
+                    "timeout": 10,
+                    "remove_marks": true,
+                    "dict_name": "meikyou",
+                    "search_type": "exact",
                     "source": "VocabKanji",
-                    "destination": "VocabFurigana",
-                    "mode": "furigana",
-                    "split_morphemes": false,
-                    "triggered_by": "focus_lost,toolbar_button,note_added,bulk_add",
-                    "overwrite_destination": false
-                },
-                {
-                    "name": "Add pitch accent for word",
-                    "note_type": "JP Mining Note",
-                    "source": "Word",
-                    "destination": "AJTWordPitch",
-                    "mode": "pitch",
-                    "split_morphemes": false,
-                    "output_format": "html",
-                    "triggered_by": "focus_lost,toolbar_button,note_added,bulk_add",
-                    "overwrite_destination": false
-                },
-                {
-                    "name": "Add audio for word -- UNUSED BY jp-mining-note",
-                    "note_type": "AJT_JAPANESE_IGNORE_PROFILE",
-                    "source": "VocabKanji",
-                    "destination": "VocabAudio",
-                    "mode": "audio",
-                    "split_morphemes": false,
-                    "triggered_by": "focus_lost,toolbar_button,note_added,bulk_add",
-                    "overwrite_destination": false
+                    "destination": "VocabDef",
+                    "behavior": "append"
                 }
-            ],
-            "pitch_accent": {
-                "lookup_shortcut": "Ctrl+8",
-                "output_hiragana": false,
-                "kana_lookups": true,
-                "skip_numbers": true,
-                "reading_separator": "・", 
-                "word_separator": "、",
-                "blocklisted_words": "こと,へ,か,よ,ん,だ,び,の,や,ね,ば,て,と,た,が,に,な,は,も,ます,から,いる,たち,てる,う,ましょ,たい,する,です,ない",
-                "maximum_results": 100, 
-                "discard_mode": "discard_extra",
-                "style": "none" 
-            },
-            "furigana": {
-                "skip_numbers": true,
-                "prefer_literal_pronunciation": false,
-                "reading_separator": ", ",
-                "blocklisted_words": "人",
-                "mecab_only": "彼,猫,首,母,顔,木,頭,私,弟,空,体,行く",
-                "maximum_results": 1, 
-                "discard_mode": "discard_extra"
-            },
-            "context_menu": {
-                "generate_furigana": true,
-                "to_katakana": true,
-                "to_hiragana": true,
-                "literal_pronunciation": true,
-                "look_up_word": true
-            },
-            "toolbar": { 
-                "generate_all_button": {
-                    "enabled": false,
-                    "shortcut": "Alt+P",
-                    "text": "入"
-                },
-                "regenerate_all_button": {
-                    "enabled": false,
-                    "shortcut": "Alt+;",
-                    "text": "再"
-                },
-                "furigana_button": {
-                    "enabled": false,
-                    "shortcut": "",
-                    "text": "振"
-                },
-                "hiragana_button": {
-                    "enabled": false,
-                    "shortcut": "",
-                    "text": "平"
-                },
-                "clean_furigana_button": {
-                    "enabled": false,
-                    "shortcut": "",
-                    "text": "削"
-                },
-                "audio_search_button": {
-                    "enabled": false,
-                    "shortcut": "",
-                    "text": "検"
-                },
-                "add_definition_button": {
-                    "enabled": false,
-                    "shortcut": "",
-                    "text": "意"
-                }
-            },
-            "audio_sources": [
-                {
-                    "enabled": false, 
-                    "name": "NHK-2016",
-                    "url": "https://github.com/Ajatt-Tools/nhk_2016_pronunciations_index/releases/download/v1.2/NHK_main.zip"
-                },
-                {
-                    "enabled": false,
-                    "name": "NHK-1998",
-                    "url": "https://github.com/Ajatt-Tools/nhk_1998_pronunciations_index/releases/download/v1.1/NHK_main.zip"
-                },
-                {
-                    "enabled": false,
-                    "name": "Shinmeikai-8",
-                    "url": "https://github.com/Ajatt-Tools/shinmeikai_8_pronunciations_index/releases/download/v1.5/Shinmeikai-8_main.zip"
-                },
-                {
-                    "enabled": false,
-                    "name": "Daijisen",
-                    "url": "https://github.com/Ajatt-Tools/daijisen_pronunciations_index/releases/download/v1.0/Daijisen_main.zip"
-                },
-                {
-                    "enabled": false,
-                    "name": "TAAS",
-                    "url": "https://github.com/Ajatt-Tools/taas_pronunciations_index/releases/download/v1.0/TAAS_main.zip"
-                }
-            ],
-            "audio_settings": {
-                "dictionary_download_timeout": 30,
-                "audio_download_timeout": 6,
-                "attempts": 4,
-                "maximum_results": 99,
-                "ignore_inflections": false,
-                "stop_if_one_source_has_results": false,
-                "search_dialog_field_name": "VocabAudio",
-                "tag_separator": "<br>"
-            },
-            "definitions": {
-                "timeout": 10,
-                "remove_marks": true,
-                "dict_name": "meikyou",
-                "search_type": "exact",
-                "source": "VocabKanji",
-                "destination": "VocabDef",
-                "behavior": "append"
             }
-        }
+            ```
+
+    4. AGAIN, restart your Anki (I know xD), then `Tools` > `JPMN Manager` > `Run batch command` > Paste the `command` below:
+
+        ```
+        empty_field AJTWordPitch
         ```
 
-4. AGAIN, restart your Anki (I know xD), then `Tools` > `JPMN Manager` > `Run batch command` > Paste the `command` below:
+    5. In your Anki's Main Window > `Browse`
+        - In the left side under `Note Types`, Click on `JP Mining Note`
+        - Select all cards by clicking on 1 card and then `Ctrl + A`
 
-    ```
-    empty_field AJTWordPitch
-    ```
+    6. In the toolbar on the top left, select `Edit` > `AJT: Bulk-generate`
+        - Wait for the process to finish
 
-5. In your Anki's Main Window > `Browse`
-    - In the left side under `Note Types`, Click on `JP Mining Note`
-    - Select all cards by clicking on 1 card and then `Ctrl + A`
+    7. Done! To check if the card has no problem, view a card > check if the `!` icon on the top left isn't red
 
-6. In the toolbar on the top left, select `Edit` > `AJT: Bulk-generate`
-    - Wait for the process to finish
+    ??? danger "If you didn't update then the following features will be missing: <small>(click here)</small>"
 
-7. Done! To check if the card has no problem, view a card > check if the `!` icon on the top left isn't red
-
-??? danger "If you didn't update then the following features will be missing: <small>(click here)</small>"
-
-    - Automatically generated furigana
-    - Devoiced and nasal information to pitch accents
-    - Less coverage on pitch accents
+        - Automatically generated furigana
+        - Devoiced and nasal information to pitch accents
+        - Less coverage on pitch accents
