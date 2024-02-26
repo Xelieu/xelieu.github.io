@@ -25,7 +25,7 @@ Requirements
 2. Go to [asbplayer](https://killergerbah.github.io/asbplayer/)
     - Ignore `request permission` to `Anki` and installing of `Chrome extension`
 
-3. Upload your `Anime` and `Subtitle` to the `asbplayer`
+3. Upload your `Anime` and `Subtitle` to the `asbplayer` by clicking the `folder` icon on the top left
 
     === "Upload Files"
         ![Pick Anime PC](../img/pick-anime-pc.png){height=300 width=600}
