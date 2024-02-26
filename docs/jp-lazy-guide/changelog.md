@@ -13,6 +13,10 @@ hide:
 
 ### February
 
+**2024-02-26**
+
+- The [Setup: Anime on Android](https://xelieu.github.io/jp-lazy-guide/setupAnimeOnAndroid/) actually now works properly as the dev [fixed the issue](https://github.com/killergerbah/asbplayer/issues/249#issuecomment-1962753049)
+
 **2024-02-24**
 
 - In [Concise Guide to Jumpstart Japanese](conciseGuideToJumpstartJP.md) changed the starter deck from `Core 2.3k vocab deck` to `Kaishi 1.5k - Basic Japanese Vocabulary` deck
