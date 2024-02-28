@@ -6,6 +6,7 @@
 
 - If you didn't update on or before the following dates, please update:
     - `JPMN Note`: 2024-02-18 - jp-mining-note: v0.12.0.0-prerelease-16
+        - Delete old JPMN Manager, install the [new one](https://ankiweb.net/shared/info/301910299)
     - `AJT Japanese`: 2024-01-19
 
 ---
