@@ -354,7 +354,7 @@
 
     ??? question "How to change the styling like font or size? <small>(click here)</small>"
 
-        - In the same way as `Step 6`, on the card's `styling` tab
+        - In the same way as `Step 7`, on the card's `styling` tab
 
         - Scroll down until you find `/* ================ jp-mining-note: INSERT CUSTOM CSS BELOW ================ */`
 

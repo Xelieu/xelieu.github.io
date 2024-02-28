@@ -110,7 +110,7 @@ Wow! Setting up the Mining tools is finally done, how about checking Sub Guide?
 
 ??? question "Why not install the Chrome Extension? <small>(click here)</small>"
 
-    - Same as `Question 2`, `asbplayer` has a built-in `Anki` support that lacks the feature of our own `Anki` and `Yomitan` support
+    - Same as `Question 3`, `asbplayer` has a built-in `Anki` support that lacks the feature of our own `Anki` and `Yomitan` support
 
 Wow! Setting up the Mining tools is finally done, how about checking Sub Guide?
 
