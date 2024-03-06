@@ -19,7 +19,7 @@ hide:
 
 **2024-02-24**
 
-- In [Concise Guide to Jumpstart Japanese](conciseGuideToJumpstartJP.md) changed the starter deck from `Core 2.3k vocab deck` to `Kaishi 1.5k - Basic Japanese Vocabulary` deck
+- In [Concise Guide to Jumpstart Japanese](conciseGuideToJumpstartJP.md) changed the starter deck from `Core 2.3k Vocab Deck` to `Kaishi 1.5k - Basic Japanese Vocabulary deck`
 
 **2024-02-16**
 
