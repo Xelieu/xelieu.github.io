@@ -10,7 +10,7 @@
 
 Requirements
 
-- Install [CDisplay](https://www.cdisplay.me/)
+- Install [CDisplayEx](https://www.cdisplayex.com/desktop/)
     - Manga Reader for `PC`
 - [Yomitan On PC](https://xelieu.github.io/jp-lazy-guide/setupYomitanOnPC/) and [ShareX](https://xelieu.github.io/jp-lazy-guide/setupShareX/) already set-up
 
@@ -50,7 +50,7 @@ Requirements
 
     === "Yomitan Search Page"
         ![Anki | Dark](../img/yomitan-search-page.png){height=300 width=600}
-    === "CDisplay Manga"
+    === "CDisplayEx Manga"
         ![Anki | Light](../img/cdisplay-manga.png){height=300 width=600}
 
 You might also want to check [Mokuro Manga](https://xelieu.github.io/jp-lazy-guide/setupMangaOnPC/#setup-mokuro-manga)
