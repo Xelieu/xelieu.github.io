@@ -11,6 +11,12 @@ hide:
 
 ---
 
+### May
+
+- There's really not much changes aside from updating the links or information
+
+- I'm still alive, there's just not much to update, any suggestion to put/change message me on discord: xelieu
+
 ### February
 
 **2024-02-26**
