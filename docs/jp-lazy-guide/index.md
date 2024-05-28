@@ -3,17 +3,23 @@ hide:
   - footer
 ---
 
-JP Lazy Guide is for:
+Lazy Guide is based on a **plug-and-play** philosophy, designed for—
 
 - People who don't want to bother customizing their settings or knowing stuff technically
 - For people who want an all-in-one import and everything and done compared to other fully detailed guides but scattered tools
-- You want stable tools that lasts forever (If you don't update nothing will break)
+- You want stable tools that last forever (If you don't update nothing will break)
 
 New to Japanese and want to immerse quickly? See [Concise Guide to Jumpstart Japanese](conciseGuideToJumpstartJP.md)
 
-If you want to buy me a coffee(Thanks!): [Ko-fi (Xelieu)](https://ko-fi.com/xelieu)
+If you want to buy me a coffee (Thanks!): [Ko-fi (Xelieu)](https://ko-fi.com/xelieu)
 
-Have any questions? Contact me at Discord: [xelieu](https://www.discordapp.com/users/719459399168426054)
+Have any questions? Contact me or Ruri at Discord: [xelieu](https://www.discordapp.com/users/719459399168426054), [bewiz_]()
+> **NOTE**: Neither Xelieu nor Ruri will entertain any questions that can be solved/answered by simply reading the guide. READ before asking. However, any suggestions and/or genuine questions will as always, be answered 😊
+
+
+*Co-authored by Xelieu and Ruri* 瑠璃
+
+> 📢: This setup works on <img src="../img/windows.png" height="20px" width="20px" alt="Windows"/>, <img src="../img/linux.png" height="20px" width="20px" alt="Linux"/> and <img src="../img/android.png" height="20px" width="20px" alt="Android"/>, compatibility with <img src="../img/macos.png" height="20px" width="20px" alt="MacOS"/> cannot be guaranteed.
 
 ---
 
@@ -23,50 +29,55 @@ Have any questions? Contact me at Discord: [xelieu](https://www.discordapp.com/u
 
 === "Anki"
     === "PC | Dark"
-        ![PC | Dark](../img/jpmn-dark.png){height=300 width=600}
+        ![PC | Dark](../img/rudnamNoteDark.png)
     === "PC | Light"
-        ![PC | Light](../img/jpmn-light.png){height=300 width=600}
+        ![PC | Light](../img/rudnamNoteLight.png)
     === "Mobile | Dark"
-        ![Mobile | Dark](../img/mobile-jpmn-dark.png){height=600 width=350}
+        ![Mobile | Dark](../img/rudnamNoteDarkMobile.png){height=600 width=350}
     === "Mobile | Light"
-        ![Mobile | Light](../img/mobile-jpmn-light.png){height=600 width=350}
+        ![Mobile | Light](../img/rudnamNoteLightMobile.png){height=600 width=350}
+    > Note orignally made by [rudnam](https://github.com/rudnam) modified by Ruri to be more flexible and support [JPMN Handlebars](https://arbyste.github.io/jp-mining-note-prerelease/jpmnhandlebars/)
 === "Yomitan"
-    === "Yomitan | Dark"
-        ![Yomitan | Dark](../img/yomitan-dark.png){height=300 width=600}
-    === "Yomitan | Light"
-        ![Yomitan | Light](../img/yomitan-light.png){height=300 width=600}
-    === "Yomitan Profile"
-        ![Yomitan Profile](../img/yomitan-profiles.png){height=300 width=600}
+    === "Yomitan | Monolingual"
+        ![Yomitan | Monolingual](../img/yomitanMonolingual.png){height=500 width=700}
+    === "Yomitan | Bilingual"
+        ![Yomitan | Bilingual](../img/yomitanBilingual.png){height=500 width=700}
 
-#### Anki Features
 
-??? note "Anki Features <small>(click here)</small>"
+#### Notetype Features
 
-    Here are the demos for `GUI`, `Card Creation` and `Field`:
-        
-    - This is `already configured` and `you don't have to do anything`
-    
+??? note "Notetype Features <small>(click here)</small>"
+
+    Here are the demos for `GUI` and `Field Customization`:
+
+    - This comes `pre-configured` with the card and `you don't have to do anything`
+
     === "GUI"
         <video height="300" width="600"  controls>
-        <source src="../vid/jpmn-gui.mp4" type="video/mp4">
-        </video>
-    === "Card Creation"
-        <video height="300" width="600"  controls>
-        <source src="../vid/jpmn-card-creation.mp4" type="video/mp4">
-        </video>
+        <source src="../vid/rudnamGUI.mp4" type="video/mp4">
+        </video><br>
+        <ul>
+          <li>`Hover over` any kanji in the word to see it's `definition and readings`</li>
+          <li>Click on the `left` and `right` edges of the definition to `cycle` through your `MainDefinition`,`AuxiliaryDefinition` & `FullDefinition`</li>
+          <li>Click on the `MainDefinitionPicture` or `Picture` to enlargen the image</li>
+          <li>Click on `Show Translation` below the sentence to see it's translation (if applicable)</li>
+          <li>See the `source material` of that card in the bottom</li>
+          <li>Click on the `checkbox` in the `bottom-right` to reveal more details</li>
+        </ul>
     === "Field Customization"
         <video height="300" width="600"  controls>
-        <source src="../vid/jpmn-field.mp4" type="video/mp4">
+        <source src="../vid/rudnamFieldCustomization.mp4" type="video/mp4">
         </video>
-    
-    [Source](https://aquafina-water-bottle.github.io/jp-mining-note/)
-
+        <li>By default the card is a `Vocab` Card
+          <ul><li>Word on Front, Everything else on the Back</li></ul>
+        </li>
+        <li>Fill the `IsSentenceCard` field to make it a `Sentence` Card
+          <ul><li>Sentence on Front, Everything else on the Back</li></ul>
+        </li>
+        <li>Fill the `IsHintCard` field to make it a `Hint/Kaishi` Card
+          <ul><li>Word/Sentence as Hint on Front, Everything else on the Back</li></ul>
+          <ul><li>This `card type` recommended to use for your Anki Reviews</li></ul>
+        </li>
 ---
-
-## [Mining Demo](https://youtu.be/seAMOvIiFcw)
-- This is outdated `Anki/Yomitan Format` but the method is pretty much the same
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/seAMOvIiFcw" title="Mining Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 
 [Proceed on Setup Guide](setup.md){ .md-button .md-button }

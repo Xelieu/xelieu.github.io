@@ -1,7 +1,7 @@
 site_name: Lazy Guide
 site_url: https://xelieu.github.io/
 site_description: JP Immersion Tool Lazy Guide
-site_author: Xelieu
+site_author: 'Xelieu'
 repo_url: https://ko-fi.com/xelieu
 repo_name: Want to buy me a coffee?
 nav:
@@ -13,15 +13,17 @@ nav:
   - Setup:
     - Setup Introduction: 'jp-lazy-guide/setup.md'
     - Essentials:
-      - "Setup: Anki": 'jp-lazy-guide/setupAnki.md'
-      - "Setup: Yomitan PC": 'jp-lazy-guide/setupYomitanOnPC.md'
+      - "Setup: Anki": 'jp-lazy-guide/setupAnkiOnPC.md'
+      - "Setup: Yomitan Browser": 'jp-lazy-guide/setupYomitanOnPC.md'
       - "Setup: Yomitan Android": 'jp-lazy-guide/setupYomitanOnAndroid.md'
       - "Setup: ShareX": 'jp-lazy-guide/setupShareX.md'
+      - "Setup: Flameshot/Ames Linux": 'jp-lazy-guide/setupFlames.md'
     - Visual Novel:
       - "Setup: VN on PC": 'jp-lazy-guide/setupVnOnPC.md'
+      - "Setup: VN on Linux": 'jp-lazy-guide/setupVnOnLinux.md'
       - "Setup: VN on Android": 'jp-lazy-guide/setupVnOnAndroid.md'
     - Light Novel:
-      - "Setup: LN on PC": 'jp-lazy-guide/setupLnOnPC.md'
+      - "Setup: LN on Browser": 'jp-lazy-guide/setupLnOnPC.md'
       - "Setup: LN on Android": 'jp-lazy-guide/setupLnOnAndroid.md'
     - Manga:
       - "Setup: Manga on PC": 'jp-lazy-guide/setupMangaOnPC.md'
@@ -29,19 +31,17 @@ nav:
     - Anime:
       - "Setup: Anime on PC": 'jp-lazy-guide/setupAnimeOnPC.md'
       - "Setup: Anime on Android": 'jp-lazy-guide/setupAnimeOnAndroid.md'
+    - Web:
+      - "Setup: YT/Anime on Browser": 'jp-lazy-guide/setupASBPlayer.md'
+    - Audio:
+      - "Setup: Audiobooks on PC": 'jp-lazy-guide/setupAudiobooksOnPC.md'
     - Miscellaneous:
-      - "Transfer Lazy Setup to JPMN": 'jp-lazy-guide/transferAnkiSetup.md'
-      - "Updating: Anki JPMN Note": 'jp-lazy-guide/updatingAnkiJPMNNote.md'
-    - Archive:
-      - "Setup: Anki (Old)": 'jp-lazy-guide/setupAnkiOld.md'
-      - "Setup: Yomitan PC (Old)": 'jp-lazy-guide/setupYomitanOnPCOld.md'
-      - "Setup: Yomitan Android (Old)": 'jp-lazy-guide/setupYomitanOnAndroidOld.md'
-      - "Updating: Anki JPMN Note (Old)": 'jp-lazy-guide/updatingAnkiJPMNNoteOld.md'
+      - "Transfer JPMN To Lazy": 'jp-lazy-guide/transferJPMNToLazy.md'
   - Sub Guide:
     - Sub Guide Introduction: 'jp-lazy-guide/subGuide.md'
     - Concise Guide to Jumpstart JP: 'jp-lazy-guide/conciseGuideToJumpstartJP.md'
     - Retention How-To: 'jp-lazy-guide/retentionHowTo.md'
-  - Resources: 
+  - Resources:
     - Resources Introduction: 'jp-lazy-guide/resources.md'
     - Immersion Data Spreadsheet: 'jp-lazy-guide/immersionDataSpreadsheet.md'
     - Deck Resources: 'jp-lazy-guide/resourcesDecks.md'
@@ -75,9 +75,12 @@ theme:
       scheme: slate
       toggle:
         icon: material/white-balance-sunny
-        name: Switch to light mode    
+        name: Switch to light mode
       primary: indigo
       accent: indigo
+  font:
+    text: Lato
+    code: Roboto Mono
 
 extra:
   homepage: https://xelieu.github.io/jp-lazy-guide/
@@ -90,7 +93,7 @@ extra:
       name: Discord - xelieu
     - icon: fontawesome/brands/youtube
       link: https://www.youtube.com/@xelieu
-      name: Youtube - Xelieu      
+      name: Youtube - Xelieu
     - icon: fontawesome/solid/mug-hot
       link: https://ko-fi.com/xelieu
       name: Ko-Fi - Xelieu
@@ -98,7 +101,7 @@ extra:
     provider: google
     property: G-GMJZ3SM36S
   generator: false
-  
+
 markdown_extensions:
   - admonition
   - attr_list
@@ -122,7 +125,7 @@ markdown_extensions:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
   - pymdownx.tabbed:
-      alternate_style: true 
+      alternate_style: true
   - pymdownx.tasklist:
       custom_checkbox: true
 
