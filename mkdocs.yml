@@ -79,8 +79,8 @@ theme:
       primary: indigo
       accent: indigo
   font:
-    text: Lato
-    code: Roboto Mono
+    text: Noto Sans
+    code: Noto Sans Mono
 
 extra:
   homepage: https://xelieu.github.io/jp-lazy-guide/
