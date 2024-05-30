@@ -19,7 +19,7 @@ Requirements
 
 ## Setting Up
 
-1. In your browser, go to `kiwi://flags`
+1. In your browser, go to `chrome://flags`
     - Search for `Experimental Web Platform features` > `Enabled`
 
     ![Enable Experimental Web Platform Android](../img/enable-experimental-web-platform-android.png){height=200 width=400}
