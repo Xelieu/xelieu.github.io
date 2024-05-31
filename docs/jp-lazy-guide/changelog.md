@@ -11,6 +11,12 @@ hide:
 
 ---
 
+### June
+
+**2024-06-01**
+
+- There's JPMN update to prerelease-17, how-to update [here](updatingAnkiJPMNNote.md)
+
 ### May
 
 **2024-05-09**
