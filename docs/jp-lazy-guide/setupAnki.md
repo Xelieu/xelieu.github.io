@@ -9,7 +9,7 @@
 - Transferring from other Anki Format? 
     - Check [Transfer Existing Notes](https://aquafina-water-bottle.github.io/jp-mining-note/importing/) or [Transfer Lazy Format to JPMN](https://xelieu.github.io/jp-lazy-guide/transferAnkiSetup/)
 - Updating your existing JPMN Format?
-    - Go to [Updating: Anki JPMN Note](https://xelieu.github.io/jp-lazy-guide/updateAnkiJPMNNote/)
+    - Go to [Updating: Anki JPMN Note](https://xelieu.github.io/jp-lazy-guide/updatingAnkiJPMNNote/)
 
 ---
 
