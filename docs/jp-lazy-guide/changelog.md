@@ -110,7 +110,7 @@ hide:
 **2023-11-13**
 
 - Updated [Setup: Anki](https://xelieu.github.io/jp-lazy-guide/setupAnki/) because Aquafina is missing and we can't update using `JPMN Manager` anymore
-	- For existing users that installed before `2023-11-13`, go to: [Update: Anki JPMN Fork](https://xelieu.github.io/jp-lazy-guide/updateAnkiJPMNFork/)
+	- For existing users that installed before `2023-11-13`, go to: [Update: Anki JPMN Fork](https://xelieu.github.io/jp-lazy-guide/updatingAnkiJPMNNoteOld/)
 	- Archived [Setup: Anki (Old)](https://xelieu.github.io/jp-lazy-guide/setupAnkiOld/) in case we can re-use `JPMN Manager` in the future
 	- Updated Anki [addons](https://drive.google.com/drive/folders/1qdElBZ_1CCjyVuKCrxHegtGYludG0HVw?usp=sharing) and set `FSRS` as default
 
