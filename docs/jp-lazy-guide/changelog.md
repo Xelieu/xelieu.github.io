@@ -13,6 +13,10 @@ hide:
 
 ### June
 
+**2024-06-14**
+
+- on [Anki add-ons](https://drive.google.com/drive/folders/1qdElBZ_1CCjyVuKCrxHegtGYludG0HVw?usp=sharing), changed [AJT Japanese](https://ankiweb.net/shared/info/200813220) to Arbyste's version, it is more stable and it will only update once its compatible with `JPMN Note`
+
 **2024-06-01**
 
 - There's JPMN update to prerelease-17, how-to update [here](updatingAnkiJPMNNote.md)
