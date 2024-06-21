@@ -100,7 +100,7 @@ Yomitan on PC setup is done, why not check out how to use Yomitan on Android?
 
 ??? info "Yomitan Local Audio <small>(click here)</small>"
 
-    - Here's the [source](https://github.com/Aquafina-water-bottle/local-audio-yomitan) for more info or latest updates
+    - Here's the [source](https://github.com/themoeway/local-audio-yomichan) for more info or latest updates
     - This might take an hour due to extraction; need Anki 2.1.50+
     - [Yomitan Local Audio Source for Android](https://github.com/KamWithK/AnkiconnectAndroid#additional-instructions-local-audio) is also available but this(PC) setup is required
 
