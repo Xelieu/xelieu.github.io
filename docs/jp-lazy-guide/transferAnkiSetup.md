@@ -6,7 +6,7 @@ hide:
 
 If you've been using my Anki Layout and want to transfer to JPMN
 
-- Add-ons required: [AJT Japanese](https://ankiweb.net/shared/info/200813220) and [JPMN Manager](https://ankiweb.net/shared/info/1732829476) (already included in my [add-ons](https://drive.google.com/drive/folders/1qdElBZ_1CCjyVuKCrxHegtGYludG0HVw?usp=sharing))
+- Add-ons required: [AJT Japanese](https://ankiweb.net/shared/info/1344485230) and [JPMN Manager](https://ankiweb.net/shared/info/301910299) (already included in my [add-ons](https://drive.google.com/drive/folders/1qdElBZ_1CCjyVuKCrxHegtGYludG0HVw?usp=sharing))
 
 ---
 
