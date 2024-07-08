@@ -93,14 +93,14 @@ Choose between 2 options:
 
 3. Open `command prompt` by winkey/search > cmd
 
-4. Type `pip install git+https://github.com/kha-white/mokuro.git@web-reader`
+4. Type `pip install git+https://github.com/kha-white/mokuro.git`
     - Then just let it download/install for a few mins until it's done and you can type again
     - If `pip3 is not recognized...` then just uninstall > restart > install Python repeatedly (I know it's dumb but that's how)
 
 5. (Optional) Use `GPU CUDA`
     - Check if your GPU is [CUDA compatible](https://developer.nvidia.com/cuda-gpus)
-    - Download [CUDA package](https://developer.nvidia.com/cuda-downloads)
-    - Type `pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118` in `cmd` (stick to `CUDA 11.8`)
+    - Download [CUDA Toolkit 11.8.0](https://developer.nvidia.com/cuda-toolkit-archive) for your operating system and version
+    - Type `pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118` in `cmd` (stick to `CUDA 11.8`)
 
     ![Installing Torch](../img/installing-torch.png){height=300 width=600}
 
