@@ -228,7 +228,7 @@
         - Put `Desired Retention` of `0.80`
         - `Tools` > `FSRS4Anki Helper` > `Load Balance when rescheduling`
     
-    - Until after 1 month, use `default parameters`; after that:
+    - (Settings 2) Until after 1 month, use `default parameters`; after that:
         - Use `Optimize` and `Compute minimum recommended retention` every month
         - Replace the `Desired retention` after the computation
         - (Optional) `Tools` > `FSRS4Anki Helper` > `Reschedule all Cards`
