@@ -314,7 +314,7 @@
 
     ??? tip "When Reviewing on Anki <small>(click here)</small>"
 
-        - When doing Anki just use `again (1)` or `good (spacebar or 3)` button so you don't have to think about if it's `easy (2)` or `hard (4)`
+    - Just use `again (1 = I don't know the answer)` or `good (spacebar or 3 = I know the answer)` button when doing the deck so you don't have to think about if it's `easy (2)` or `hard (4)`
 
     #### Tip 2: Anki Keyboard Shortcuts
 

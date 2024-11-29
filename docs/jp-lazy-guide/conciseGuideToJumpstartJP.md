@@ -36,7 +36,7 @@ hide:
     - Restart your `Anki`
 
 3. Download [Kaishi.1.5k.apkg](https://github.com/donkuri/Kaishi/releases/latest)(`1.5k vocab deck`) then open it
-    - Just use `again (1)` or `good (spacebar or 3)` button when doing the deck so you don't have to think about if it's `easy (2)` or `hard (4)`
+    - Just use `again (1 = I don't know the answer)` or `good (spacebar or 3 = I know the answer)` button when doing the deck so you don't have to think about if it's `easy (2)` or `hard (4)`
 
 4. Go to your `Deck`'s option then copy the `settings` below
     - (Top left) `Tools` > `Preferences` and set the settings accordingly
