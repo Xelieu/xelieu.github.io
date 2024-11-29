@@ -224,7 +224,7 @@
 
 8. Go to your `Deck`'s option then copy the `settings` below
     - (Top left) `Tools` > `Preferences` and set the settings accordingly
-    - (Settings 3) Turn on `FSRS`
+    - (Settings 2) Turn on `FSRS`
         - Put `Desired Retention` of `0.80`
         - `Tools` > `FSRS4Anki Helper` > `Load Balance when rescheduling`
     
