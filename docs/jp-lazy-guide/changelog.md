@@ -11,6 +11,18 @@ hide:
 
 ---
 
+### November
+
+**2024-11-30**
+
+- Anki [settings](setupAnki.md/#__tabbed_1_2) updated
+	- [Anki 24.11](https://apps.ankiweb.net/) is now available with `FSRS 5` update
+	- For existing users, all the changes are: 
+		- `Learning Steps` and `Relearning Steps` is now `Empty`
+		- `Review Sort Order: Descending retrievability`
+		- Yes, you need to `Optimize` again and `reschedule all cards`
+		- For `Ankidroid` users, please wait `2 weeks` or so later to get the `FSRS 5` update
+
 ### September
 
 **2024-09-27**

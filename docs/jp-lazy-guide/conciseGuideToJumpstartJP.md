@@ -48,7 +48,11 @@ hide:
         === "Settings 1"
             ![Anki Settings 1](../img/anki-settings-1.png){height=300 width=600}
         === "Settings 2"
-            ![Anki Settings 2](../img/anki-settings-2.png){height=300 width=600}
+            ![Anki Settings 2](../img/anki-settings-2-tutorial.png){height=300 width=600}
+        === "Settings 3"
+            ![Anki Settings 3](../img/anki-settings-3.png){height=300 width=600}
+        === "Settings 4"
+            ![Anki Settings 4](../img/anki-settings-4.png){height=300 width=600}
 
 
 5. Do the `Kaishi 1.5k Vocab deck`, start with `10 new cards/day`(30 max; don't overdo it) along with the `grammar guide` on `step 6`;

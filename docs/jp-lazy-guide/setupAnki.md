@@ -228,7 +228,7 @@
         - Put `Desired Retention` of `0.80`
         - `Tools` > `FSRS4Anki Helper` > `Load Balance when rescheduling`
     
-    - Until `1000 reviews`, you can't generate your own parameters and you will be using the defaults; after that:
+    - Until after 1 month, use `default parameters`; after that:
         - Use `Optimize` and `Compute minimum recommended retention` every month
         - Replace the `Desired retention` after the computation
         - (Optional) `Tools` > `FSRS4Anki Helper` > `Reschedule all Cards`
@@ -241,6 +241,8 @@
         ![Anki Settings 2](../img/anki-settings-2.png){height=300 width=600}
     === "Settings 3"
         ![Anki Settings 3](../img/anki-settings-3.png){height=300 width=600}
+    === "Settings 4"
+        ![Anki Settings 4](../img/anki-settings-4.png){height=300 width=600}
 
 9. Restart your `Anki` and it should be good to go
 

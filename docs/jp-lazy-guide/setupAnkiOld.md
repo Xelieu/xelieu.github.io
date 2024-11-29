@@ -272,6 +272,8 @@
             ![Anki Settings 2](../img/anki-settings-2.png){height=300 width=600}
         === "Settings 3"
             ![Anki Settings 3](../img/anki-settings-3.png){height=300 width=600}
+        === "Settings 4"
+            ![Anki Settings 4](../img/anki-settings-4.png){height=300 width=600}
 
     9. Restart your `Anki` and it should be good to go
 

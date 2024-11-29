@@ -40,6 +40,8 @@ This is mostly beginner's pointers
             ![Anki Settings 2](../img/anki-settings-2.png){height=300 width=600}
         === "Settings 3"
             ![Anki Settings 3](../img/anki-settings-3.png){height=300 width=600}
+        === "Settings 4"
+            ![Anki Settings 4](../img/anki-settings-4.png){height=300 width=600}
 
 2. Lapse, make your `leech threshold` down into `4-6` and `suspend card` instead of tag only
 
