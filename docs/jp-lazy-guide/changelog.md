@@ -18,7 +18,7 @@ hide:
 - Anki [settings](setupAnki.md/#__tabbed_1_2) updated
 	- [Anki 24.11](https://apps.ankiweb.net/) is now available with `FSRS 5` update
 	- For existing users:
-		- Recommended to `Optimize` again to accomodate `FSRS 5` parameters
+		- Recommended to `Optimize` again to accommodate `FSRS 5` parameters
 		- For `Ankidroid` users, please wait around `2 weeks` or so later to get the `FSRS 5` update
 
 ### September
