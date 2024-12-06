@@ -60,7 +60,7 @@ hide:
 
 6. Either [Tae Kim Text Grammar Guide](https://guidetojapanese.org/learn/grammar/basic) or [Cure Dolly's Video Grammar Guide](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj) (First 34 videos only)
     - No, you do not need to perfect the quizzes, you can `even skip it`
-    - What's important is `digest the material properly` or get a glimpse of it which `you will look back on hundreds of times anyways`
+    - What's important is to `digest the material properly` or get a glimpse of it which `you will look back on hundreds of times anyways`
 
 7. Once you've `finished grammar guide` and at least `done 1k-1.5k cards`, you can now `start mining` and` do actual immersion` early on
     - This `should take 2-4 months` depending on your effort to be able to start immersing
