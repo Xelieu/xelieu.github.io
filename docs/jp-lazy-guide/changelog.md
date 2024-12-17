@@ -19,7 +19,7 @@ hide:
 	- [Anki 24.11](https://apps.ankiweb.net/) is now available with `FSRS 5` update
 	- For existing users:
 		- Recommended to `Optimize` again to accommodate `FSRS 5` parameters
-		- For `Ankidroid` users, please wait around `2 weeks` or so later to get the `FSRS 5` update
+		- For `Ankidroid` users, download [here](https://play.google.com/store/apps/details?id=com.ichi2.anki)
 
 ### September
 
