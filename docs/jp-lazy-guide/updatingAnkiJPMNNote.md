@@ -6,9 +6,11 @@
 ### Update Watcher
 
 - If you didn't update on or before the following dates, please update:
-    - `JPMN Note`: 2024-11-11 - jp-mining-note: v0.12.0.0-prerelease-18
+    - `JPMN Note`: 2025-01-01 - jp-mining-note: v0.12.0.0-prerelease-19
         - Delete old JPMN Manager, install the [new one](https://ankiweb.net/shared/info/301910299)
     - `AJT Japanese`: 2024-01-19
+
+- This is just to confirm you are at the latest, you can always update anytime regardless of what is written here
 
 ---
 
