@@ -65,7 +65,7 @@ hide:
 7. Once you've finished `Kaishi 1.5k Vocab Deck` and `Text OR Video Grammar Guide`, you can now `start mining` and `do actual immersion` early on
     - This `should take 2-4 months` depending on your effort to be able to start immersing
 
-8. While immersing you can quickly `check grammar points` from [DoJG](https://core6000.neocities.org/dojg/)(Beginner) and [Nihongokyoshi](https://nihongokyoshi-net.com/jlpt-grammars/)(Intermediate+)
+8. While immersing you can quickly `check grammar points` from [DoJG](https://dojglite.github.io/main/)(Beginner) and [Nihongokyoshi](https://nihongokyoshi-net.com/jlpt-grammars/)(Intermediate+)
     - `Read/watch what you like`, but only up to medium difficulty, or 4-5/10 on [jpdb](https://jpdb.io/), it's going to be a real pain at first, but do it
 
 9. Go to [Lazy Mining Guide](index.md) I made for easy setup of latest mining tools for whatever media
