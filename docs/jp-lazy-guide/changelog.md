@@ -12,7 +12,7 @@ hide:
 
 ### February
 
-**2024-02-09**
+**2025-02-09**
 
 - Anki:
 	- Anki format changed from [JPMN to Lapis](https://xelieu.github.io/jp-lazy-guide/#anki-and-yomitan-format) | [WHY?](transferJPMNToLapis.md/#question-2-why-update-from-jpmn-to-lapis)
