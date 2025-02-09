@@ -112,17 +112,7 @@ You now have an Anki Template, next is Yomitan
 
     - Just use `again (1 = I don't know the answer)` or `good (spacebar or 3 = I know the answer)` button when doing the deck so you don't have to think about if it's `easy (2)` or `hard (4)`
 
-#### Tip 2: Anki Keyboard Shortcuts
-
-??? tip "Anki Keyboard Shortcuts <small>(click here)</small>"
-
-    When viewing a card, you can use shortcuts to expand for more info:
-
-    - `Q` : `Secondary Definition`
-    - `W` : `Extra Definition`
-    - `[` : `Extra Info`
-
-#### Tip 3: Anki Pitch Accent Color
+#### Tip 2: Anki Pitch Accent Color
 
 ??? tip "Anki Pitch Accent Color <small>(click here)</small>"
 
