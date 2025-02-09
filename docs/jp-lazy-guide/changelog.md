@@ -15,7 +15,7 @@ hide:
 **2024-02-09**
 
 - Anki:
-	- Anki format changed from [JPMN to Lapis](home page link ss) | [WHY?](transferJPMNToLapis.md/#question-2-why-update-from-jpmn-to-lapis)
+	- Anki format changed from [JPMN to Lapis](https://xelieu.github.io/jp-lazy-guide/#anki-and-yomitan-format) | [WHY?](transferJPMNToLapis.md/#question-2-why-update-from-jpmn-to-lapis)
 	- [Anki addons](https://drive.google.com/drive/folders/1qdElBZ_1CCjyVuKCrxHegtGYludG0HVw?usp=sharing) package: Updated `AJT Japanese` config and Removed `JPMN Manager` (JPMN Users ignore this)
 
 - Yomitan:
