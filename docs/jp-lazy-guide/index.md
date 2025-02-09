@@ -3,7 +3,7 @@ hide:
   - footer
 ---
 
-??? note "What is the purpose of JP Lazy Guide? <small>(click here)</small>"
+??? note "What's the purpose of JP Lazy Guide? <small>(click here)</small>"
 
     - People who don't want to bother customizing their settings or knowing stuff technically
     - For people who want an all-in-one import and everything and done compared to other fully detailed guides but scattered tools
