@@ -3,11 +3,15 @@ hide:
   - footer
 ---
 
-JP Lazy Guide is for:
+??? note "What is the purpose of JP Lazy Guide? <small>(click here)</small>"
 
-- People who don't want to bother customizing their settings or knowing stuff technically
-- For people who want an all-in-one import and everything and done compared to other fully detailed guides but scattered tools
-- You want stable tools that lasts forever (If you don't update nothing will break)
+    - People who don't want to bother customizing their settings or knowing stuff technically
+    - For people who want an all-in-one import and everything and done compared to other fully detailed guides but scattered tools
+    - You want stable tools that lasts forever (If you don't update nothing will break)
+
+    Do you want a very detailed guide instead of being spoonfed? Go to [Donkuri's Guide](https://donkuri.github.io/learn-japanese/)
+
+---
 
 New to Japanese and want to immerse quickly? See [Concise Guide to Jumpstart Japanese](conciseGuideToJumpstartJP.md)
 
@@ -20,16 +24,17 @@ Have any questions? Contact me at Discord: [xelieu](https://www.discordapp.com/u
 ## Anki and Yomitan Format
 
 - 4 in 1 Profile Support: `Monolingual`, `Bilingual`, `LN & Manga in Android`, `VN in Android`
+- [Anki Features](https://github.com/donkuri/lapis?tab=readme-ov-file#why-was-lapis-created)
 
 === "Anki"
     === "PC | Dark"
-        ![PC | Dark](../img/jpmn-dark.png){height=300 width=600}
+        ![PC | Dark](../img/anki-pc-dark.png){height=300 width=600}
     === "PC | Light"
-        ![PC | Light](../img/jpmn-light.png){height=300 width=600}
+        ![PC | Light](../img/anki-pc-light.png){height=300 width=600}
     === "Mobile | Dark"
-        ![Mobile | Dark](../img/mobile-jpmn-dark.png){height=600 width=350}
+        ![Mobile | Dark](../img/anki-mobile-dark.png){height=600 width=350}
     === "Mobile | Light"
-        ![Mobile | Light](../img/mobile-jpmn-light.png){height=600 width=350}
+        ![Mobile | Light](../img/anki-mobile-light.png){height=600 width=350}
 === "Yomitan"
     === "Yomitan | Dark"
         ![Yomitan | Dark](../img/yomitan-dark.png){height=300 width=600}
@@ -37,29 +42,6 @@ Have any questions? Contact me at Discord: [xelieu](https://www.discordapp.com/u
         ![Yomitan | Light](../img/yomitan-light.png){height=300 width=600}
     === "Yomitan Profile"
         ![Yomitan Profile](../img/yomitan-profiles.png){height=300 width=600}
-
-#### Anki Features
-
-??? note "Anki Features <small>(click here)</small>"
-
-    Here are the demos for `GUI`, `Card Creation` and `Field`:
-        
-    - This is `already configured` and `you don't have to do anything`
-    
-    === "GUI"
-        <video height="300" width="600"  controls>
-        <source src="../vid/jpmn-gui.mp4" type="video/mp4">
-        </video>
-    === "Card Creation"
-        <video height="300" width="600"  controls>
-        <source src="../vid/jpmn-card-creation.mp4" type="video/mp4">
-        </video>
-    === "Field Customization"
-        <video height="300" width="600"  controls>
-        <source src="../vid/jpmn-field.mp4" type="video/mp4">
-        </video>
-    
-    [Source](https://aquafina-water-bottle.github.io/jp-mining-note/)
 
 ---
 

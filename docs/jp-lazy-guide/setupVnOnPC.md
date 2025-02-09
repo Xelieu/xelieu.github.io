@@ -1,8 +1,8 @@
 # Setup: VN on PC
 
-- [Textractor](setupVnOnPC.md/#textractor) is a tool used to extract `text` from `Visual Novels`
+- [Textractor](setupVnOnPC.md/#setup-textractor) is a tool used to extract `text` from `Visual Novels`
 
-- [Clipboard Inserter](setupVnOnPC.md/#clipboard-inserter) is used to copy and paste the text extracted by `Textractor` into a `Texthooker` page where you can use `Yomitan` to scan the words and mine it into `Anki`
+- [Clipboard Inserter](setupVnOnPC.md/#setup-clipboard-inserter) is used to copy and paste the text extracted by `Textractor` into a `Texthooker` page where you can use `Yomitan` to scan the words and mine it into `Anki`
 
 ---
 
@@ -72,7 +72,7 @@ Requirements:
 === "Visual Novel Sample"
     ![Visual Novel Sample](../img/visual-novel-sample.png){height=500 width=1000}
 
-It is now texthooking, proceed to [Clipboard Inserter](setupVnOnPC.md/#clipboard-inserter) to be able to use the text from `Textractor` and use `Yomitan` on it
+It is now texthooking, proceed to [Clipboard Inserter](setupVnOnPC.md/#setup-clipboard-inserter) to be able to use the text from `Textractor` and use `Yomitan` on it
 
 ---
 

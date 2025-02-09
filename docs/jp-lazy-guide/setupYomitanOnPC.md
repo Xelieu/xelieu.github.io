@@ -78,16 +78,16 @@ Yomitan on PC setup is done, why not check out how to use Yomitan on Android?
 ??? info "Yomitan Dictionary List <small>(click here)</small>"
 
     - (Monolingual) 旺文社国語辞典 第十一版
-    - (Monolingual) 三省堂国語辞典　第七版
+    - (Monolingual) 三省堂国語辞典　第八版
     - (Monolingual) 実用日本語表現辞典
     - (Monolingual) 新明解国語辞典 第八版
     - (Monolingual) 明鏡国語辞典 第二版
-    - (Bilingual) JMdict (English-Original)
+    - (Bilingual) Jitendex
     - (Variant Forms) JMdict Forms
     - (Name) JMnedict (No-Kana)
     - (Pitch Accent) アクセント辞典
+    - (Frequency) JPDBv2
     - (Frequency) BCCWJ
-    - (Frequency) JPDB
     - (Frequency) ICR
     - (Frequency) Narou
     - (Frequency) VN
@@ -141,7 +141,11 @@ Yomitan on PC setup is done, why not check out how to use Yomitan on Android?
 
 ??? question "Can I add, delete or modify a Yomitan dictionary of my choice? <small>(click here)</small>"
 
-    - Yes, most dictionaries should be compatible with the JPMN format
+    - Yes, most dictionaries should be compatible with the Lapis format
+
+    - You might need to edit on `Yomitan settings` > `Anki` > `Configure Anki card format...` > `MainDefinition` > open dropdown menu, search for the `single-glossary-YOUR-CHOICE`
+
+    - If you changed `MainDefinition`, you need to edit every `Yomitan Profile`
 
 #### Question 2: How can I use sentence card?
 

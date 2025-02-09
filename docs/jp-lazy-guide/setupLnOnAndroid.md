@@ -10,7 +10,7 @@
 
 - Install [Ankidroid](https://play.google.com/store/apps/details?id=com.ichi2.anki)
 
-Requirements
+Requirements:
 
 - [Yomitan On Android](setupYomitanOnAndroid.md) already set-up
 

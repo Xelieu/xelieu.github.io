@@ -2,14 +2,14 @@
 
 - Anki is a SRS flash card program for card reviewing and the due dates are decided by the algorithm
 - Mobile is supported
-- Anki [Light](../img/jpmn-light.png) | [Dark](../img/jpmn-dark.png) Mode
+- Anki [Light](../img/anki-pc-light.png) | [Dark](../img/anki-pc-dark.png) Mode
 
 ---
 
-- Transferring from other Anki Format? 
-    - Check [Transfer Existing Notes](https://aquafina-water-bottle.github.io/jp-mining-note/importing/) or [Transfer Lazy Format to JPMN](transferAnkiSetup.md)
-- Updating your existing JPMN Format?
-    - Go to [Updating: Anki JPMN Note](updatingAnkiJPMNNote.md)
+- Transferring from JPMN Format?
+    - Check [Transfer: JPMN to Lapis](transferJPMNToLapis.md)
+- Updating your existing Lapis Format?
+    - Go to [Updating: Lapis Format](updatingAnkiLapisFormat.md)
 
 ---
 
@@ -34,195 +34,20 @@
 
     ![Anki Addons Update](../img/addons-update.png){height=250 width=500}
 
-4. In Anki: `Tools` > `JPMN Manager` > `Install jp-mining-note`
-        
-    ![jpmn install](../img/jpmn-install.png){height=250 width=500}
+4. Download [Lapis](https://github.com/donkuri/lapis/releases/latest) format
+    - Scroll down to Assets, and look for `Lapis.apkg`
+    
+    ![lapis apkg](../img/lapis-apkg.png){height=150 width=300}
 
-5. Rename `JPMN-Examples` to `Mining Deck`
+5. Import `Lapis.apkg` to Anki
 
-    ![JPMN Rename](../img/jpmn-rename.png){height=250 width=500}
+    ![lapis import](../img/lapis-import.png){height=300 width=600}
 
-6. Go to: `C:\Users\**YourUser**\AppData\Roaming\Anki2\**YourAnkiName**\collection.media`
-    - Search `_jpmn-options`
+6. Rename `Lapis` to `Mining Deck`
 
-        ![JPMN Options](../img/jpmn-options.png){height=150 width=300}
+    ![Deck rename](../img/deck-rename.png){height=250 width=500}
 
-    - Edit(using notepad) and replace everything with the config below
-
-        ??? examplecode "_jpmn-options config <small>(click here)</small>"
-
-            ```
-            window.JPMNOptions = {
-
-                // Insert any runtime options here! They should be of the form:
-                //
-                //     "key": value,
-                //
-                // Some common examples are shown below.
-
-                // Enables colored pitch accent
-                "autoPitchAccent.coloredPitchAccent.enabled": true,
-
-                // Enables image blur
-                "imgStylizer.mainImage.blur.enabled": true,
-
-                // Hides the first line of most definitions, as well as the number in the list
-                "blockquotes.simplifyDefinitions.enabled": true,
-            
-            // ==========================================================================
-                // = keybinds =
-            // ==========================================================================
-
-                // RESERVED KEYS (by anki):
-                // - e (edit)
-                // - r (replay)
-                // - t (stats)
-                // - y (sync)
-                // - i (card info)
-                // - o (options)
-                // - a (add)
-                // - s (idk exactly what this does tbh)
-                // - d (deck)
-                // - f (filtered deck options)
-                // - v (play recorded voice)
-                // - b (browse)
-                // - m (menu)
-                // - 1, 2, 3, 4 (again, hard, good, easy)
-                // - 5 (pause audio)
-                // - 6 (audio -5s)
-                // - 7 (audio +5s)
-                // - space (good)
-                // - enter (good)
-                //
-                // RESERVED KEYS (by AJT Flexible grading):
-                // - u (undo)
-                // - h, j, k, l: hard / again / good / easy
-                //
-                // FREE KEYS:
-                // - (left)  q w g z x c
-                // - (right) p n 8 9 0 , . ; ' [ ]
-                //
-                // If you want to customize the keybinds, you must find the exact key code
-                // that corresponds to your key. To do so, set "debug-level" to 0, press the
-                // desired key(s), and look at the bottom of the debug log (under the info
-                // circle) within the note. You may need to scroll down.
-
-                "keybinds.enabled": true,
-
-                // Keybind to toggle between showing the sentence and word on click and hover cards.
-                // Equivalent to either clicking on the sentence/word on a click card,
-                // or hovering over the word on a hover card.
-                "keybinds.toggleHybridSentence": ["KeyN"],
-
-                // Keybind to toggle between showing the tested word in a raw sentence card.
-                // Equivalent to clicking on the "show" button.
-                // This is the same as the above because both should never happen at the same time.
-                "keybinds.toggleHighlightWord": ["KeyN"],
-
-                // Keybind to toggle a vocab card's full sentence display (front side).
-                // Techinically can be Shift / n as it doesn't interfere with the other two above.
-                "keybinds.toggleFrontFullSentenceDisplay": ["Quote"],
-
-                "keybinds.playSentenceAudio": ["KeyP"],
-
-                "keybinds.playWordAudio": ["KeyR"],
-
-                // Equivalent to toggling the hint show/hide
-                "keybinds.toggleHintDisplay": ["Period"],
-
-                "keybinds.toggleSecondaryDefinitionsDisplay": ["KeyQ"],
-
-                "keybinds.toggleAdditionalNotesDisplay": ["BracketRight"],
-
-                "keybinds.toggleExtraDefinitionsDisplay": ["KeyW"],
-
-                "keybinds.toggleExtraInfoDisplay": ["BracketLeft"],
-            }
-            ```
-
-7. In Anki: `Browse` > on the left side under `Note Type` > `JP Mining Note` > `Card...` > `Styling` > Scroll down to the bottom
-    - Paste The Anki `Styling` config AFTER the `INSERT CUSTOM CSS BELOW` line
-        - Editing only 1 card is enough for this to take effect on everything
-
-    ![Custom CSS](../img/custom-css.png){height=250 width=500}
-
-    ??? examplecode "Anki Styling config <small>(click here)</small>"
-
-        ```
-        .glossary-text ol li[data-details="旺文社国語辞典 第十一版"] .dict-group__tag-list {
-            display: none;
-        }
-        .glossary-text ol li[data-details="旺文社国語辞典 第十一版"] .dict-group__glossary--first-line {
-            display: none;
-        }
-        .glossary-text ol li[data-details="旺文社国語辞典 第十一版"] .dict-group__glossary--first-line-break {
-            display: none;
-        }
-
-
-        .glossary-text ol li[data-details="三省堂国語辞典　第七版"] .dict-group__tag-list {
-            display: none;
-        }
-        .glossary-text ol li[data-details="三省堂国語辞典　第七版"] .dict-group__glossary--first-line {
-            display: none;
-        }
-        .glossary-text ol li[data-details="三省堂国語辞典　第七版"] .dict-group__glossary--first-line-break {
-            display: none;
-        }
-
-
-        .glossary-text ol li[data-details="実用日本語表現辞典"] .dict-group__tag-list {
-            display: none;
-        }
-        .glossary-text ol li[data-details="実用日本語表現辞典"] .dict-group__glossary--first-line {
-            display: none;
-        }
-        .glossary-text ol li[data-details="実用日本語表現辞典"] .dict-group__glossary--first-line-break {
-            display: none;
-        }
-
-
-        .glossary-text ol li[data-details="新明解国語辞典　第八版"] .dict-group__tag-list {
-            display: none;
-        }
-        .glossary-text ol li[data-details="新明解国語辞典　第八版"] .dict-group__glossary--first-line {
-            display: none;
-        }
-        .glossary-text ol li[data-details="新明解国語辞典　第八版"] .dict-group__glossary--first-line-break {
-            display: none;
-        }
-
-
-        .glossary-text ol li[data-details="明鏡国語辞典 第二版"] .dict-group__tag-list {
-            display: none;
-        }
-        .glossary-text ol li[data-details="明鏡国語辞典 第二版"] .dict-group__glossary--first-line {
-            display: none;
-        }
-        .glossary-text ol li[data-details="明鏡国語辞典 第二版"] .dict-group__glossary--first-line-break {
-            display: none;
-        }
-
-
-        .glossary-text ol li[data-details="JMdict (English)"] .dict-group__tag-list {
-            display: none;
-        }
-        .glossary-text ol li[data-details="JMdict (English)"] .dict-group__glossary--first-line {
-            display: none;
-        }
-        .glossary-text ol li[data-details="JMdict (English)"] .dict-group__glossary--first-line-break {
-            display: none;
-        }
-
-
-        .glossary-text--primary-definition ol {
-            list-style: none;
-            padding-left: 0em;
-        }
-        ```
-
-
-8. Go to your `Deck`'s option then copy the `settings` below
+7. Go to your `Deck`'s option then copy the `settings` below
     - (Top left) `Tools` > `Preferences` and set the settings accordingly
     - (Settings 2) Turn on `FSRS`
         - Put `Desired Retention` of `0.80`
@@ -244,7 +69,7 @@
     === "Settings 4"
         ![Anki Settings 4](../img/anki-settings-4.png){height=300 width=600}
 
-9. Restart your `Anki` and it should be good to go
+8. Restart your `Anki` and it should be good to go
 
 You now have an Anki Template, next is Yomitan
 
@@ -311,25 +136,21 @@ You now have an Anki Template, next is Yomitan
 
 ??? question "Where should I put more image aside from screenshot <small>(click here)</small>"
 
-    - Put it in `PrimaryDefinitionPicture` in `Anki`
+    - You can put multiple pictures in `Picture` in `Anki` > `Browse` > Select a `Card`
 
     - You can paste the image while reviewing by going `Edit` mode or `E` shortcut
 
-#### Question 2: Where can I ask if something is wrong with my JPMN Anki Format?
+#### Question 2: Where can I ask if something is wrong with my Lapis Anki Format?
 
-??? question "Where can I ask if something is wrong with my JPMN Anki Format? <small>(click here)</small>"
+??? question "Where can I ask if something is wrong with my Lapis Anki Format? <small>(click here)</small>"
 
-    - In [JPMN's FAQ & Troubleshooting](https://aquafina-water-bottle.github.io/jp-mining-note/faq/) page
+    - In [Lapis' FAQ](https://github.com/donkuri/lapis?tab=readme-ov-file#faq) page
 
 #### Question 3: How to change the styling like font or size?
 
 ??? question "How to change the styling like font or size? <small>(click here)</small>"
 
-    - In the same way as `Step 7`, on the card's `styling` tab
-
-    - Scroll down until you find `/* ================ jp-mining-note: INSERT CUSTOM CSS BELOW ================ */`
-
-    - Changing anything not below that specific `line of code` will be reverted back once you `updated` the `note`
+    - Refer [here](https://github.com/donkuri/lapis?tab=readme-ov-file#how-can-i-change-the-font-size)
 
 #### Question 4: Can I rename the deck?
 
@@ -338,7 +159,6 @@ You now have an Anki Template, next is Yomitan
     - Technically yes, but I wouldn't recommend; you have to resetup Yomitan's `Anki Card Format` and Anki's Add-on `AutoReorder`
 
 #### Question 5: How can I use sentence card?
-
 
 ??? question "How can I use sentence card? <small>(click here)</small>"
 

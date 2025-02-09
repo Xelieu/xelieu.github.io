@@ -1,7 +1,7 @@
 # Updating: Anki JPMN Note
 
 - This is how to update `JPMN Note` to fix bugs or just get an actual update
-- If you are updating from base `Aquafina JPMN` version, see [Transfer Lazy Setup to JPMN](transferAnkiSetup.md)
+- If you are updating from base `Aquafina JPMN` version, see [Transfer Lazy Setup to JPMN](transferLazyToJPMN.md)
 
 ### Update Watcher
 

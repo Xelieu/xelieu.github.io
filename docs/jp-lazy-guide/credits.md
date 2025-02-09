@@ -5,6 +5,8 @@ hide:
 # Thanks to these guides and people!
 Please reference here for fully explained stuff for learning Japanese, Anki, add-ons, or any technicalities.
 
+[Donkuri Guide](https://donkuri.github.io/learn-japanese/) - Very detailed modern guide
+
 [AnimeCards](https://animecards.site/) - Knowledgeable details about anki and add-ons and a compact guide for everything
 
 [My Mining Setup](https://rentry.co/mining) - GOOD guide about mining setup and automated things.
@@ -28,5 +30,9 @@ Please reference here for fully explained stuff for learning Japanese, Anki, add
 **medamayaki** - I completely referenced his deck design from his grammar deck on my old mining setup
 
 **Aquafina** - The Anki format now is based on his format, also helped me a ton in miscellaneous things!
+
+**Kuri** - The guy who made [Donkuri Guide](https://donkuri.github.io/learn-japanese/), [Lapis](https://github.com/donkuri/lapis) and [Kaishi 1.5K](https://github.com/donkuri/Kaishi)
+
+**Ruri** - Helped made the [Lapis](https://github.com/donkuri/lapis) Format
 
 All my anki related content are a mixed of guides/people who helped me towards my settings.

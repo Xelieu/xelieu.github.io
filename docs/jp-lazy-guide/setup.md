@@ -2,9 +2,9 @@
 
 If you are a fresh setup, please follow the guide from top to bottom as some of the guides are needed to be in chronological order.
 
-This guide is a Hybrid Setup of [JP Mining Note](https://aquafina-water-bottle.github.io/jp-mining-note/), my Anki Add-ons, yomitan and my tools settings
+This guide is a Hybrid Setup of [Lapis](https://github.com/donkuri/lapis), my Anki Add-ons, yomitan and my tools settings
 
-If you are coming from my old [Anki Mining Setup](https://rentry.co/lazyXel#anki), see [Transfer Lazy Setup to JPMN](transferAnkiSetup.md)
+If you are coming from [JPMN Format](setupAnkiOld.md), see [Transfer: JPMN to Lapis](transferJPMNToLapis.md)
 
 ![Intro Wallpaper](../img/intro-wallpaper-1.jpg){height=500 width=1000}
 

@@ -4,6 +4,32 @@ hide:
 ---
 # Changelog
 
+---
+
+## 2025
+
+---
+
+### February
+
+**2024-02-09**
+
+- Anki:
+	- Anki format changed from [JPMN to Lapis](home page link ss) | [WHY?](transferJPMNToLapis.md/#question-2-why-update-from-jpmn-to-lapis)
+	- [Anki addons](https://drive.google.com/drive/folders/1qdElBZ_1CCjyVuKCrxHegtGYludG0HVw?usp=sharing) package: Updated `AJT Japanese` config and Removed `JPMN Manager` (JPMN Users ignore this)
+
+- Yomitan:
+	- Updated Yomitan settings to accommodate [Lapis](https://github.com/donkuri/lapis) format transition (Do not use on JPMN format)
+	- [Updated Dictionary](https://drive.google.com/drive/folders/1s_PdQ9HWvpDFXkh_AGGzVgqrFBGhUsbI?usp=sharing): `三省堂国語辞典　第八版`, `JPDBv2`
+	- Replaced `JMDict` with `Jitendex` (Don't use Jitendex with JPMN; bad styling)
+	- Changed Sorting Dictionary to JPDBv2
+	- Edited the spacing styling a bit
+
+- Changes on the guide:
+	- Added: Transfer and Updating Lapis Format pages
+	- Archived: JPMN pages
+	- Home/Setup pages updated to Lapis
+	- Updated infos, links and screenshots
 
 ---
 
@@ -85,7 +111,7 @@ hide:
 	- Updated the install process back to the `JPMN Manager` add-on method
 		- Existing users: delete `JPMN Manager with prereleases` on add-ons tab then install the new [JPMN Manager](https://ankiweb.net/shared/info/301910299)
 			- More detailed instructions [here](updatingAnkiJPMNNote.md)
-		- You also have the option to not do anything and the note will work just fine, alternatively I put the manual update method to [Archive](updatingAnkiJPMNNoteOld.md)
+		- You also have the option to not do anything and the note will work just fine, alternatively I put the manual update method to Archive
 
 ---
 
@@ -154,7 +180,7 @@ hide:
 **2023-11-13**
 
 - Updated [Setup: Anki](setupAnki.md) because Aquafina is missing and we can't update using `JPMN Manager` anymore
-	- For existing users that installed before `2023-11-13`, go to: [Update: Anki JPMN Fork](updatingAnkiJPMNNoteOld.md)
+	- For existing users that installed before `2023-11-13`, go to: Update: Anki JPMN Fork
 	- Archived [Setup: Anki (Old)](setupAnkiOld.md) in case we can re-use `JPMN Manager` in the future
 	- Updated Anki [addons](https://drive.google.com/drive/folders/1qdElBZ_1CCjyVuKCrxHegtGYludG0HVw?usp=sharing) and set `FSRS` as default
 

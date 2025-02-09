@@ -12,13 +12,11 @@
 
 - Install [Ankidroid](https://play.google.com/store/apps/details?id=com.ichi2.anki)
 
-- Install [Kiwi Browser](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser&hl=en_US)
-
 Requirements:
 
-- Processed Manga from [Setup: Mokuro Manga](setupMangaOnPC.md/#setup-mokuro-manga)
-
 - [Yomitan On Android](setupYomitanOnAndroid.md) already set-up
+
+- Processed Manga from [Setup: Mokuro Manga](setupMangaOnPC.md/#setup-mokuro-manga)
 
 - File compressor such as [7z](https://www.7-zip.org/)
 
