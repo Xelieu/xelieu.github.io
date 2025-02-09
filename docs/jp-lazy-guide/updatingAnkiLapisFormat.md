@@ -1,3 +1,7 @@
+---
+hide:
+  - footer
+---
 # Updating: Lapis Format
 
 - This is how to update `Lapis` Format to fix bugs or just get an actual update

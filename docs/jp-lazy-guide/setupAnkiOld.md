@@ -1,3 +1,7 @@
+---
+hide:
+  - footer
+---
 # Setup: Anki
 
 - Anki is a SRS flash card program for card reviewing and the due dates are decided by the algorithm
