@@ -50,7 +50,7 @@ If you've been using `JPMN` Format and want to transfer to `Lapis`
 
 ??? question "How can I use sentence card? <small>(click here)</small>"
 
-    If you haven't yet, please setup [Yomitan](setupYomitanOnPC.md) first (The next guide after this)
+    If you haven't yet, please setup [Yomitan](setupYomitanOnPC.md) first
 
     ??? info "Okay, I've already set it up! <small>(click here)</small>"
 
