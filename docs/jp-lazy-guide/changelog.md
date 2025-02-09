@@ -26,6 +26,7 @@ hide:
 	- Edited the spacing styling a bit
 
 - Changes on the guide:
+	- Setup: Anki has been greatly shortened
 	- Added: Transfer and Updating Lapis Format pages
 	- Archived: JPMN pages
 	- Home/Setup pages updated to Lapis
