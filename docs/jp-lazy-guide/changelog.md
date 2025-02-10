@@ -12,6 +12,14 @@ hide:
 
 ### February
 
+**2025-02-10**
+
+- Yomitan:
+	- Updated [settings](https://drive.google.com/drive/folders/1s_PdQ9HWvpDFXkh_AGGzVgqrFBGhUsbI?usp=sharing)
+	- Fixed a long time bug regarding scrollbar since yomichan > yomitan transition
+	- Fixed a spacing bug that overlaps with other styling
+	
+
 **2025-02-09**
 
 - Anki:
