@@ -2,7 +2,7 @@
 
 - Yomitan is a word hover dictionary for Japanese
 - Used for `mining` to `Anki`
-- Yomitan [Light](../img/yomitan-light.png) | [Dark](../img/yomitan-dark.png) Mode
+- Yomitan [Light](../img/yomitan-light.png) | [Dark](../img/yomitan-dark.png) Mode ([CSS](https://pastebin.com/F2tEkJpi))
 
 ---
 
