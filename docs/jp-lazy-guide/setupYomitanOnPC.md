@@ -141,13 +141,21 @@ Yomitan on PC setup is done, why not check out how to use Yomitan on Android?
 
 ??? question "Can I add, delete or modify a Yomitan dictionary of my choice? <small>(click here)</small>"
 
-    - Yes, most dictionaries should be compatible with the Lapis format
+    - Yes, most dictionaries should be compatible with the Anki format
 
     - You might need to edit on `Yomitan settings` > `Anki` > `Configure Anki card format...` > `MainDefinition` > open dropdown menu, search for the `single-glossary-YOUR-CHOICE`
 
     - If you changed `MainDefinition`, you need to edit every `Yomitan Profile`
 
-#### Question 2: How can I use sentence card?
+#### Question 2: When will you update the dictionaries/should I do it myself?
+
+??? question "When will you update the dictionaries/should I do it myself? <small>(click here)</small>"
+
+    - I will seldomly update; no need to stress over the latest one; it barely changes its content as a dictionary
+        - My goal is longterm stability without worrying about updates
+        - You can update it youself if you want to chase the latest fad
+
+#### Question 3: How can I use sentence card?
 
 ??? question "How can I use sentence card? <small>(click here)</small>"
 
