@@ -43,9 +43,9 @@ If you've been using `JPMN` Format and want to transfer to `Lapis`
     
     ![card tag edit](../img/card-tag-edit.png){height=150 width=300}
 
-6. Make sure to import the new [Yomitan Settings](https://drive.google.com/drive/folders/1s_PdQ9HWvpDFXkh_AGGzVgqrFBGhUsbI?usp=sharing) then restart your browser
+7. Make sure to import the new [Yomitan Settings](https://drive.google.com/drive/folders/1s_PdQ9HWvpDFXkh_AGGzVgqrFBGhUsbI?usp=sharing) then restart your browser
 
-7. Done! You can now safely delete `Lapis` deck as it was already transferred to your original `Mining Deck`
+8. Done! You can now safely delete `Lapis` deck as it was already transferred to your original `Mining Deck`
 
 
 
