@@ -23,6 +23,7 @@ hide:
 	- [Updated Dictionary](https://drive.google.com/drive/folders/1s_PdQ9HWvpDFXkh_AGGzVgqrFBGhUsbI?usp=sharing): `三省堂国語辞典　第八版`, `JPDBv2`
 	- Replaced `JMDict` with `Jitendex` (Don't use Jitendex with JPMN; bad styling)
 	- Changed Sorting Dictionary to JPDBv2
+	- Removed `yomichan` card tagging
 	- Edited the spacing styling a bit
 
 - ShareX:
