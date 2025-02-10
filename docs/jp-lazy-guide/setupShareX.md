@@ -8,7 +8,7 @@
 ## Download and Install
 
 - Install [ShareX](https://getsharex.com/)
-- Download [lazyXel-ShareX-15.0.0-settings](https://drive.google.com/drive/folders/1WGmVeT6pdip-LK8asqi_cF3OC0lvNylL?usp=sharing)
+- Download [lazyXel-settings-ShareX-17.0.0](https://drive.google.com/drive/folders/1WGmVeT6pdip-LK8asqi_cF3OC0lvNylL?usp=sharing)
     - Works on newer ShareX Versions
 
 ---

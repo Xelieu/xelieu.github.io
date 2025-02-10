@@ -25,6 +25,9 @@ hide:
 	- Changed Sorting Dictionary to JPDBv2
 	- Edited the spacing styling a bit
 
+- ShareX:
+	- Updated the [settings](https://drive.google.com/drive/folders/1WGmVeT6pdip-LK8asqi_cF3OC0lvNylL?usp=sharing): `screenshot-nsfw` command to generate `NSFW` tag uppercase instead; Lapis styling is uppercase only
+
 - Changes on the guide:
 	- Setup: Anki has been greatly shortened
 	- Added: Transfer and Updating Lapis Format pages

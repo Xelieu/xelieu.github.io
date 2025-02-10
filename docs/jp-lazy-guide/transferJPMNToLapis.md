@@ -36,6 +36,11 @@ If you've been using `JPMN` Format and want to transfer to `Lapis`
 
     ![jpmn to lapis change notetype](../img/jpmn-to-lapis-change-notetype.png){height=300 width=400}
 
+6. Again on your Anki, go to `Browse` > `Tags` (at the left side) > right click on `nsfw` and rename it to `NSFW` (If you have it)
+    - Update [ShareX settings](https://drive.google.com/drive/folders/1WGmVeT6pdip-LK8asqi_cF3OC0lvNylL?usp=sharing) to accomodate uppercase `NSFW` tagging for Lapis
+    
+    ![nsfw rename](../img/nsfw-rename.png){height=150 width=300}
+
 6. Make sure to import the new [Yomitan Settings](https://drive.google.com/drive/folders/1s_PdQ9HWvpDFXkh_AGGzVgqrFBGhUsbI?usp=sharing) then restart your browser
 
 7. Done! You can now safely delete `Lapis` deck as it was already transferred to your original `Mining Deck`
