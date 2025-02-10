@@ -24,7 +24,6 @@ Have any questions? Contact me at Discord: [xelieu](https://www.discordapp.com/u
 ## Anki and Yomitan Format
 
 - 4 in 1 Profile Support: `Monolingual`, `Bilingual`, `LN & Manga in Android`, `VN in Android`
-- [Anki Features](https://github.com/donkuri/lapis?tab=readme-ov-file#why-was-lapis-created)
 
 === "Anki"
     === "PC | Dark"
