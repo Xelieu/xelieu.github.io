@@ -7,6 +7,8 @@ hide:
 If you've been using `JPMN` Format and want to transfer to `Lapis`
 
 !!!Warning Make sure to backup your cards first
+    You must `backup` your deck just to be safe
+
     1. On Anki, right click your `deck`
     2. Select `Export`
     3. Make sure these options are checked: `Include scheduling information`, `Include Deck presets`, `Include Media`
