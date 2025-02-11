@@ -98,6 +98,11 @@ You are done setting up ShareX, next is Visual Novel for PC
     - Forward Mouse button = Audio recording
     - Back Mouse button = Screenshot (non nsfw)
 
+    #### Option 3: Screenshot (NSFW) + Screenshot (non nsfw) Hotkey
+
+    - Forward Mouse button = Screenshot
+    - Back Mouse button = Screenshot (non nsfw)
+
 ---
 
 ## FAQs
