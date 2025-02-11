@@ -35,6 +35,7 @@ nav:
       - "Updating: Lapis Format": 'jp-lazy-guide/updatingAnkiLapisFormat.md'
     - Archive:
       - "Setup: Anki (JPMN)": 'jp-lazy-guide/setupAnkiOld.md'
+      - "Setup: Yomitan (JPMN)": 'jp-lazy-guide/setupYomitanOld.md'
       - "Transfer: Lazy Setup to JPMN": 'jp-lazy-guide/transferLazyToJPMN.md'
       - "Updating: Anki JPMN Note": 'jp-lazy-guide/updatingAnkiJPMNNote.md'
   - Sub Guide:
