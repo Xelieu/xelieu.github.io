@@ -129,6 +129,13 @@ Now that the Clipboard Inserter is working, let's proceed on knowing how to play
 
     - For regex you need some techy knowledge or search around for a specific VN
 
+#### Info 3: Setting the dialogue speed to max to prevent missing text
+
+??? info "Setting the dialogue speed to max to prevent missing text <small>(click here)</small>"
+
+    - Some Visual Novels are sensitive, and that it will only textract a portion of its text since the dialogue appeared slowly
+        - Max up the dialogue speed in the VN settings
+
 #### Tip 1: Getting Visual Novels
 
 ??? tip "Getting Visual Novels <small>(click here)</small>"
