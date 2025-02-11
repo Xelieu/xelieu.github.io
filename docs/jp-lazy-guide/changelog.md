@@ -12,7 +12,7 @@ hide:
 
 ### February
 
-**2025-02-10**
+**2025-02-11**
 
 - Yomitan:
 	- Updated [settings](https://drive.google.com/drive/folders/1_fyeMaldky38dGXbOZAMB7BII_wx0kPU?usp=sharing) for JPMN format
