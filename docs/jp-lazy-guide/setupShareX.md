@@ -8,14 +8,14 @@
 ## Download and Install
 
 - Install [ShareX](https://getsharex.com/)
-- Download [lazyXel-settings-ShareX-17.0.0](https://drive.google.com/drive/folders/1WGmVeT6pdip-LK8asqi_cF3OC0lvNylL?usp=sharing)
+- Download [lazyXel-ShareX-settings-17.0.0](https://drive.google.com/drive/folders/1WGmVeT6pdip-LK8asqi_cF3OC0lvNylL?usp=sharing)
     - Works on newer ShareX Versions
 
 ---
 
 ## Setting Up
 
-1. In `ShareX` > `Application Settings` > `Settings` > `Import` > `lazyXel-ShareX-15.0.0-backup`
+1. In `ShareX` > `Application Settings` > `Settings` > `Import` > `lazyXel-ShareX-settings`
     - Ignore the random name files(it's empty), it's residue files that can't be removed upon export
 
 2. In `ShareX` > `Hotkey Settings` > Change the keybinds/name if you like
@@ -33,6 +33,7 @@
     - Audio source: `virtual-audio-capturer`
 
 5. Add/Mine the `word` on `Yomitan` first before using `screenshot` or `audio record` hotkey using `ShareX`
+    - Check out the [Mining Demo](index.md/#mining-demo)!
 
 You are done setting up ShareX, next is Visual Novel for PC
 

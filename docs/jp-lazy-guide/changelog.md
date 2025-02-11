@@ -78,7 +78,7 @@ hide:
 
 **2024-08-08**
 
-- Put the instructions on how to setup Sentence Card in [Setup: Anki](setupAnki.md/#question-5-how-can-i-use-sentence-card) and [Setup: Yomitan](setupYomitanOnPC.md/#question-2-how-can-i-use-sentence-card)
+- Put the instructions on how to setup Sentence Card in [Setup: Anki](setupAnki.md/#question-5-how-can-i-use-sentence-card) and [Setup: Yomitan](setupYomitanOnPC.md/#question-3-how-can-i-use-sentence-card)
 
 - Updated the [Setup: Anki](setupAnki.md) `FSRS` instruction and images
 
