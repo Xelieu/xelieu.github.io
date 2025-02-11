@@ -47,10 +47,11 @@
     ![Dictionary Import](../img/yomitan-dictionary-import.png){height=250 width=500}
 
 7. Then Scroll down, in `Backup` > `Import Settings` > `lazyxel-yomitan-settings` (from the extracted folder)
-    - If you are interested on installing [Yomitan Local Audio](setupYomitanOnPC.md/#info-2-yomitan-local-audio) pick `lazyXel-local-audio-yomitan-settings`, otherwise `lazyXel-non-local-audio-yomitan-settings`
-    - `Import` NOT `Sanitize and Import`
-    
-        ![Yomitan Import](../img/yomitan-import.png){height=150 width=300}
+    - Pick either:
+        - `lazyXel-local-audio-yomitan-settings` (Install: [Yomitan Local Audio](setupYomitanOnPC.md/#info-2-yomitan-local-audio))
+        - `lazyXel-non-local-audio-yomitan-settings`
+
+        ![Yomitan Import Settings](../img/yomitan-import-settings.png){align=left height=300 width=600}
 
 8. Pick a profile(`Default` and `Editing`), usually between `Monolingual` and `Bilingual` (other profiles will be discussed in other sections)
     - `Bilingual` is default, you can hold `alt` while hovering over a word to use the `Monolingual` profile
@@ -167,6 +168,6 @@ Yomitan on PC setup is done, why not check out how to use Yomitan on Android?
 
     ![Sentence Card Instruction 2](../img/sentence-card-instruction-2.png){height=300 width=600}
 
-    Now apply it on every profile under `Editing Profile` and make sure `Monolingual`, `Bilingual`, `Android (LN & Manga)` and `Android (VN)` got their config changed
+    Now apply it on every profile under `Editing Profile` and make sure `Monolingual`, `Bilingual`, `Android (Anime, LN & Manga)` and `Android (VN)` got their config changed
 
     ![Yomitan Profile](../img/yomitan-profiles.png){align=left height=300 width=600}

@@ -21,7 +21,7 @@ Requirements:
 1. Open `AnkiConnect Android`, start the service
     - Open `Ankidroid` and leave it in the background
 
-2. Open your `Kiwi Browser` > `Yomitan Settings` > `Profile` > `Default` & `Editing` Profile > `Android (LN & Manga)`
+2. Open your `Kiwi Browser` > `Yomitan Settings` > `Profile` > `Default` & `Editing` Profile > `Android (Anime, LN & Manga)`
     - If you are not using my `Yomitan settings`, see [Info 2](setupLnOnAndroid.md/#info-2-text-replacement-pattern)
 
     ![Yomitan Profile Android](../img/yomitan-profile-android.png){height=250 width=500}
@@ -94,7 +94,7 @@ You can now read Light Novels in Android, why not check out the Manga setup?
         - Alternatively, use [MiXplorer](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/#post-23109280) file manager if you only have android device
             - Only `Copy` from your download folder not `Cut`, otherwise it will not `Paste`
     
-    5. My `local-audio-yomitan-settings` profile: `Android (LN & Manga)`
+    5. My `local-audio-yomitan-settings` profile: `Android (Anime, LN & Manga)`
         - OR if you are not using my profile:
             - Go to `Yomitan settings` > `Audio` > `Configure audio playback sources...` > `Add` > `Custom URL (JSON)`
             - Paste `http://localhost:8765/localaudio/get/?term={term}&reading={reading}` and make sure it's on the top

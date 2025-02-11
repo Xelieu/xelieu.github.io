@@ -35,15 +35,16 @@
 
     ![Dictionary Import](../img/yomitan-dictionary-import.png){height=250 width=500}
 
-5. Then Scroll down, in `Backup` > `Import Settings` > `lazyxel-yomitan-settings` (from the extracted folder)
-    - If you are interested on installing [Yomitan Local Audio](setupYomitanOnAndroid.md/#info-2-android-yomitan-local-audio) pick `lazyXel-local-audio-yomitan-settings`, otherwise `lazyXel-non-local-audio-yomitan-settings`
-    - `Import` NOT `Sanitize and Import`
-    
-        ![Yomitan Import](../img/yomitan-import.png){height=150 width=300}
+7. Then Scroll down, in `Backup` > `Import Settings` > `lazyxel-yomitan-settings` (from the extracted folder)
+    - Pick either:
+        - `lazyXel-local-audio-yomitan-settings` (Install: [Yomitan Local Audio](setupYomitanOnAndroid.md/#info-2-android-yomitan-local-audio))
+        - `lazyXel-non-local-audio-yomitan-settings`
 
-6. Pick `Android (LN & Manga)` profile (`Default` and `Editing`)
+        ![Yomitan Import Settings](../img/yomitan-import-settings.png){align=left height=300 width=600}
 
-    ![Yomitan Profile](../img/yomitan-profiles.png){align=left height=300 width=600}
+6. Pick `Android (Anime, LN & Manga)` profile (`Default` and `Editing`)
+
+    ![Yomitan Profile](../img/yomitan-profile-android.png){align=left height=300 width=600}
 
 Yomitan setup is done, next is ShareX for convenient Mining
 
@@ -107,7 +108,7 @@ Yomitan setup is done, next is ShareX for convenient Mining
         - Paste the `android` file ON `files` folder from `PC` (2nd step)
         - The result should be: `Android/data/com.kamwithk.ankiconnectandroid/files/android.db`
     
-    5. My `local-audio-yomitan-settings` profile: `Android (LN & Manga)`
+    5. My `local-audio-yomitan-settings` profile: `Android (Anime, LN & Manga)`
         - OR if you are not using my profile:
             - Go to `Yomitan settings` > `Audio` > `Configure audio playback sources...` > `Add` > `Custom URL (JSON)`
             - Paste `http://localhost:8765/localaudio/get/?sources=jpod,jpod_alternate,nhk16,forvo&term={term}&reading={reading}` and make sure it's on the top

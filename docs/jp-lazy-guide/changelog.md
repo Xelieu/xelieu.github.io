@@ -15,6 +15,12 @@ hide:
 **2025-02-10**
 
 - Yomitan:
+	- Updated [settings](https://drive.google.com/drive/folders/1_fyeMaldky38dGXbOZAMB7BII_wx0kPU?usp=sharing) for JPMN format
+	- Last update for the design; nothing's broken
+
+**2025-02-10**
+
+- Yomitan:
 	- Updated [settings](https://drive.google.com/drive/folders/1s_PdQ9HWvpDFXkh_AGGzVgqrFBGhUsbI?usp=sharing)
 	- Fixed a long time bug regarding scrollbar since yomichan > yomitan transition
 	- Fixed a spacing bug that overlaps with other styling

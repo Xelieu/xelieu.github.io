@@ -358,6 +358,6 @@ You now have an Anki Template, next is Yomitan
 
         ![Sentence Card Instruction 2](../img/sentence-card-instruction-2.png){height=300 width=600}
 
-        Now apply it on every profile under `Editing Profile` and make sure `Monolingual`, `Bilingual`, `Android (LN & Manga)` and `Android (VN)` got their config changed
+        Now apply it on every profile under `Editing Profile` and make sure `Monolingual`, `Bilingual`, `Android (Anime, LN & Manga)` and `Android (VN)` got their config changed
 
         ![Yomitan Profile](../img/yomitan-profiles.png){align=left height=300 width=600}

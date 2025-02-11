@@ -7,7 +7,7 @@ repo_name: Want to buy me a coffee?
 nav:
   - Home:
     - Introduction: 'jp-lazy-guide/index.md'
-    - Changelog (2025-02-10): 'jp-lazy-guide/changelog.md'
+    - Changelog (2025-02-11): 'jp-lazy-guide/changelog.md'
     - About: 'jp-lazy-guide/about.md'
     - Credits: 'jp-lazy-guide/credits.md'
     - Want to contribute?: 'jp-lazy-guide/wantToContribute.md'

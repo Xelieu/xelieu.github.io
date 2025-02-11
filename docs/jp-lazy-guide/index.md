@@ -23,7 +23,7 @@ Have any questions? Contact me at Discord: [xelieu](https://www.discordapp.com/u
 
 ## Anki and Yomitan Format
 
-- 4 in 1 Profile Support: `Monolingual`, `Bilingual`, `LN & Manga in Android`, `VN in Android`
+- 4 in 1 Profile Support: `Monolingual`, `Bilingual`, `Android (Anime, LN & Manga)`, `Android (VN)`
 
 === "Anki"
     === "PC | Dark"
