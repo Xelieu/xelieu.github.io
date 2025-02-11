@@ -22,10 +22,16 @@
 
     ![ShareX Hotkeys](../img/sharex-hotkeys.png){height=300 width=600}
 
-3. `Hotkey Settings` > `screenshot`, `screenshot snip`, `screenshot nsfw`, `screenshot nsfw snip` and `audio` > Click the `COG` icon > `override screenshot folder` > change the `path` for each one
-    - Change the `Xelieu` with your Anki profile name: `%ApplicationData%\Anki2\**YourAnkiProfileName**\collection.media`
+3. On your `Hotkey Settings` look for:
+    - `screenshot`
+    - `screenshot snip`
+    - `screenshot nsfw`
+    - `screenshot nsfw snip`
+    - `audio`
+        - Then for each one: click the `COG` icon > `override screenshot folder` > change the `path`
+        - Change the `Xelieu` with your Anki profile name: `%ApplicationData%\Anki2\**YourAnkiProfileName**\collection.media`
 
-    ![ShareX Path](../img/sharex-path.png){height=150 width=300}
+            ![ShareX Path](../img/sharex-path.png){height=150 width=300}
 
 4. For `audio`: `Hotkey settings` > `audio` > `screen recorder` > `screen recorder options`
     - Install `recorder devices`
