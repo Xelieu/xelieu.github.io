@@ -16,7 +16,7 @@ hide:
 
 - Yomitan:
 	- Updated [settings](https://drive.google.com/drive/folders/1_fyeMaldky38dGXbOZAMB7BII_wx0kPU?usp=sharing) for JPMN format
-	- Last update for the design; nothing's broken
+	- Nothing's broken; just updated the design for JPMN for the last time
 
 **2025-02-10**
 
