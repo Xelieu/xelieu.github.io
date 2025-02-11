@@ -113,7 +113,7 @@ Now that the Clipboard Inserter is working, let's proceed on knowing how to play
 
 ## Extra Info and Tips
 
-#### Info 1: Finding the proper `texthook`
+#### Info 1: Finding the proper texthook
 
 ??? info "Finding the proper texthook <small>(click here)</small>"
 
