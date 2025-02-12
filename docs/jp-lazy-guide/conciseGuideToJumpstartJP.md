@@ -62,7 +62,7 @@ hide:
     - No, you do not need to perfect the quizzes, you can `even skip it`
     - What's important is to `digest the material properly` or get a glimpse of it which `you will look back on hundreds of times anyways`
 
-7. Once you've finished `Kaishi 1.5k Vocab Deck` and `Text OR Video Grammar Guide`, you can now `start mining` and `do actual immersion` early on
+7. Once you've finished `Kaishi 1.5k Vocab Deck` and `Text Grammar Guide` or `Video Grammar Guide`, you can now `start mining` and `do actual immersion` early on
     - This `should take 2-4 months` depending on your effort to be able to start immersing
 
 8. While immersing you can quickly `check grammar points` from [DoJG](https://dojglite.github.io/main/)(Beginner) and [Nihongokyoshi](https://nihongokyoshi-net.com/jlpt-grammars/)(Intermediate+)
