@@ -60,17 +60,16 @@ Yomitan setup is done, next is ShareX for convenient Mining
 
 ??? info "Yomitan Dictionary List <small>(click here)</small>"
 
+    - (Bilingual) Jitendex
     - (Monolingual) 旺文社国語辞典 第十一版
-    - (Monolingual) 三省堂国語辞典　第七版
+    - (Monolingual) 三省堂国語辞典　第八版
     - (Monolingual) 実用日本語表現辞典
     - (Monolingual) 新明解国語辞典 第八版
     - (Monolingual) 明鏡国語辞典 第二版
-    - (Bilingual) JMdict (English-Original)
-    - (Variant Forms) JMdict Forms
     - (Name) JMnedict (No-Kana)
     - (Pitch Accent) アクセント辞典
+    - (Frequency) JPDBv2
     - (Frequency) BCCWJ
-    - (Frequency) JPDB
     - (Frequency) ICR
     - (Frequency) Narou
     - (Frequency) VN
@@ -159,6 +158,6 @@ Yomitan setup is done, next is ShareX for convenient Mining
 
     ![Sentence Card Instruction 2](../img/sentence-card-instruction-2.png){height=300 width=600}
 
-    Now apply it on every profile under `Editing Profile` and make sure `Monolingual`, `Bilingual`, `Android (LN & Manga)` and `Android (VN)` got their config changed
+    Now apply it on every profile under `Editing Profile` and make sure `Monolingual`, `Bilingual`, `Android (Anime, LN & Manga)` and `Android (VN)` got their config changed
 
     ![Yomitan Profile](../img/yomitan-profiles.png){align=left height=300 width=600}

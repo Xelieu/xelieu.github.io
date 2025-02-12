@@ -78,13 +78,12 @@ Yomitan on PC setup is done, why not check out how to use Yomitan on Android?
 
 ??? info "Yomitan Dictionary List <small>(click here)</small>"
 
+    - (Bilingual) Jitendex
     - (Monolingual) 旺文社国語辞典 第十一版
     - (Monolingual) 三省堂国語辞典　第八版
     - (Monolingual) 実用日本語表現辞典
     - (Monolingual) 新明解国語辞典 第八版
     - (Monolingual) 明鏡国語辞典 第二版
-    - (Bilingual) Jitendex
-    - (Variant Forms) JMdict Forms
     - (Name) JMnedict (No-Kana)
     - (Pitch Accent) アクセント辞典
     - (Frequency) JPDBv2
