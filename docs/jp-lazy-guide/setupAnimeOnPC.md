@@ -7,7 +7,7 @@
 ## Download and Install
 
 - Download your `Anime` and `JP Subtitle`
-    - To get `JP subtitles` go to [kitsunekko](https://kitsunekko.net/dirlist.php?dir=subtitles%2Fjapanese%2F)
+    - To get `JP subtitles` go to [Jimaku](https://jimaku.cc/)
 
 - (Optional) For streaming video, download [asbplayer](https://chromewebstore.google.com/detail/asbplayer-language-learni/hkledmpjpaehamkiehglnbelcpdflcab) extension
 
