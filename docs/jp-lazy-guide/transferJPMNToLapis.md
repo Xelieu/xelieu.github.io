@@ -4,9 +4,9 @@ hide:
 ---
 # Transfer JPMN Setup to Lapis
 
-If you've been using `JPMN` Format and want to transfer to `Lapis`
+- If you've been using `JPMN` Format and want to transfer to `Lapis`
 
-!!!Warning Make sure to backup your cards first
+!!!warning Make sure to backup your cards first
     You must `backup` your deck just to be safe
 
     1. On Anki, right click your `deck`

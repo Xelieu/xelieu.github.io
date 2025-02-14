@@ -3,7 +3,7 @@ hide:
   - footer
 ---
 
-I recommend you to follow the current guide that's not on the Archive
+- I recommend you to follow the current guide that's not on the Archive
 
 ??? danger "I'm aware that this is an Archive <small>(click here)</small>"
 
