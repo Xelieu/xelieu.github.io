@@ -117,7 +117,7 @@ Choose between 2 options:
 6. Two options to process, go to `cmd` then:
     - Specified Manga volume: 
         - Paste: `mokuro F:\Manga\Saenai\Vol3`
-            - Replace full directory, Saenai and volume #
+            - Replace full directory, Saenai with your manga name and volume #
     - All Manga volumes: 
         - Paste: `mokuro --parent_dir F:\Manga\Saenai`
             - Replace full directory, Saenai with your manga name
