@@ -239,3 +239,5 @@ I recommend you to follow the current guide that's not on the Archive
         - Automatically generated furigana
         - Devoiced and nasal information to pitch accents
         - Less coverage on pitch accents
+
+    <small>If you have any problems you can contact me on Discord: [xelieu](https://www.discordapp.com/users/719459399168426054)</small>

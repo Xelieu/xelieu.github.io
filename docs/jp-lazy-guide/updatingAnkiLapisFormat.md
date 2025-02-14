@@ -20,3 +20,5 @@ hide:
     ![lapis import update](../img/lapis-import-update.png){height=300 width=600}
 
 3. Done!
+
+<small>If you have any problems you can contact me on Discord: [xelieu](https://www.discordapp.com/users/719459399168426054)</small>

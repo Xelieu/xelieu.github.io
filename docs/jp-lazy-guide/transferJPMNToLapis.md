@@ -52,7 +52,7 @@ If you've been using `JPMN` Format and want to transfer to `Lapis`
 
 9. Done! You can now safely delete `Lapis` deck as it was already transferred to your original `Mining Deck`
 
-
+<small>If you have any problems check [FAQs](transferJPMNToLapis.md/#faqs) or contact me on Discord: [xelieu](https://www.discordapp.com/users/719459399168426054)</small>
 
 ---
 

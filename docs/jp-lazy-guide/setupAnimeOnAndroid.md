@@ -49,6 +49,8 @@ Wow! Setting up the Mining tools is finally done, how about checking Sub Guide?
 
 [Proceed to Sub Guide](subGuide.md){ .md-button .md-button }
 
+<small>If you have any problems check [FAQs](setupAnimeOnAndroid.md/#faqs) or contact me on Discord: [xelieu](https://www.discordapp.com/users/719459399168426054)</small>
+
 ---
 
 ## Extra Info and Tips
@@ -111,9 +113,3 @@ Wow! Setting up the Mining tools is finally done, how about checking Sub Guide?
 ??? question "Why not install the Chrome Extension? <small>(click here)</small>"
 
     - Same as `Question 3`, `asbplayer` has a built-in `Anki` support that lacks the feature of our own `Anki` and `Yomitan` support
-
-Wow! Setting up the Mining tools is finally done, how about checking Sub Guide?
-
-[Proceed to Sub Guide](subGuide.md){ .md-button .md-button }
-
-<small>If you have any problems check [FAQs](setupAnimeOnAndroid.md/#faqs) or contact me on Discord: [xelieu](https://www.discordapp.com/users/719459399168426054)</small>
