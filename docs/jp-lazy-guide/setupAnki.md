@@ -15,7 +15,7 @@
 
 ## Download and Install
 
-- Install `PC` [Anki Qt6](https://apps.ankiweb.net/)
+- Install `PC` [Anki](https://apps.ankiweb.net/)
     - [Android](https://play.google.com/store/apps/details?id=com.ichi2.anki&hl=en_US) | [iOS](https://apps.apple.com/us/app/ankimobile-flashcards/id373493387) (Install guide is for `PC` only but you can use it on mobile afterwards)
 - Download [Anki addons](https://drive.google.com/drive/folders/1qdElBZ_1CCjyVuKCrxHegtGYludG0HVw?usp=sharing)
 
