@@ -19,28 +19,30 @@ Requirements
 ## Setup: MangaOCR
 
 1. Download [python](https://www.python.org/downloads/release/python-31011/) (`3.10.xx ONLY`)
-    - Then choose Windows/mac `INSTALLER (64-bit)` and install
-    
-    ??? note "Check 'Add Python to PATH' <small>(click here)</small>"
+    - (Scroll down) Then choose Windows/mac `INSTALLER (64-bit)` and install
+    - Check `Add Python to PATH`
 
-        ![Add Python to PATH](../img/add-python-to-path.png){height=300 width=600}
+    ![Add Python to PATH](../img/add-python-to-path.png){height=300 width=600}
 
-2. Open `command prompt` by winkey/search > cmd
+2. Open `command prompt` by winkey/search > `cmd`
 
 3. Type `pip3 install manga-ocr`
     - Then just let it download/install for a few mins until it's done and you can type again
-    - If `pip3 is not recognized...` then just `uninstall Python` > `restart` > `install Python` (repeat if it didn't work)
+    - If `pip3 is not recognized...` then:
+        - Uninstall `Python`(step 1) > Restart the pc > reinstall `Python` (repeat if it didn't work; I know its dumb)
 
-4. `Hotkey Settings` > `OCR (manga_ocr)` > Click the `COG` icon > `override screenshot folder` > change the `path` to a specified `OCR` folder of your choice
+4. `Hotkey Settings`([ShareX](setupShareX.md)) > `OCR (manga_ocr)` > Click the `COG` icon > `override screenshot folder` > change the `path` to a specified `OCR` folder of your choice
 
     ![ShareX OCR Path](../img/sharex-ocr-path.png){height=150 width=300}
 
-5. In `command prompt`, type `manga_ocr "\path\to\sharex\screenshot\folder"`(copy the `path` that YOU specified in step 4) to start the program, then just minimize the window
-    - Typing `manga_ocr` by itself without a path also works; it will `scan` from everywhere
+5. In `command prompt` type:
+    - `manga_ocr "\path\to\sharex\screenshot\folder"`
+        - Copy the `path` that YOU specified in `step 4` to start the program, then just minimize the window
+    - Typing `manga_ocr` by itself without a path also works; it will `OCR`(scan) from everywhere
     - If you want a `shortcut` program see: [Info 1](setupMangaOnPC.md/#info-1-mangaocr-shortcut-program)
 
-6. Capture anything using `Shift + Alt + Q` or whatever you set in `OCR (manga_ocr)` hotkey in `ShareX`
-    - Make sure Yomitan Search window is opened
+6. Capture anything using `Shift + Alt + Q` or whatever you set in `OCR (manga_ocr)` hotkey in ([ShareX](setupShareX.md))
+    - Make sure [Yomitan Search Page](setupMangaOnPC.md/#__tabbed_1_1) is opened
     - If you want to `scan using mouse button`, see [Info 2](setupMangaOnPC.md/#info-2-scan-using-mouse-button)
 
 7. You can now start reading using MangaOCR
@@ -83,19 +85,19 @@ Choose between 2 options:
 ### Local Processing Method
 
 1. Download [python](https://www.python.org/downloads/release/python-31011/) (`3.10.xx ONLY`)
-    - Then choose Windows/mac `INSTALLER 64bit` and install
-        
-    ??? note "Check 'Add Python to PATH' <small>(click here)</small>"
+    - (Scroll down) Then choose Windows/mac `INSTALLER (64-bit)` and install
+    - Check `Add Python to PATH`
 
-        ![Add Python to PATH](../img/add-python-to-path.png){height=300 width=600}
+    ![Add Python to PATH](../img/add-python-to-path.png){height=300 width=600}
 
 2. Download and Install [Git](https://git-scm.com/downloads) > 64-bit setup
 
-3. Open `command prompt` by winkey/search > cmd
+3. Open `command prompt` by winkey/search > `cmd`
 
-4. Type `pip3 install mokuro`
+4. Type `pip3 install manga-ocr`
     - Then just let it download/install for a few mins until it's done and you can type again
-    - If `pip3 is not recognized...` then just uninstall > restart > install Python repeatedly (I know it's dumb but that's how)
+    - If `pip3 is not recognized...` then:
+        - Uninstall `Python`(step 1) > Restart the pc > reinstall `Python` (repeat if it didn't work; I know its dumb)
 
 5. (Optional) Use `GPU CUDA`
     - Check if your GPU is [CUDA compatible](https://developer.nvidia.com/cuda-gpus)
@@ -108,13 +110,18 @@ Choose between 2 options:
 
         ![Torch if available](../img/torch-if-available.png){height=150 width=300}
 
-    - If it redirects you to Microsoft Store: Open `Windows Powershell` > `input Remove-Item $env:USERPROFILE\AppData\Local\Microsoft\WindowsApps\python*.exe` > `enter`
-    - If problem occurs reinstall pytorch by `pip uninstall torch` then redo the step above, if it still failed, go [here](https://pytorch.org/get-started/locally/#windows-verification)
+    - If it redirects you to Microsoft Store: 
+        - Open `Windows Powershell` > paste `input Remove-Item $env:USERPROFILE\AppData\Local\Microsoft\WindowsApps\python*.exe` > then `enter`
+    - If problem occurs reinstall pytorch by `pip uninstall torch` in `cmd` then redo the step above, if it still failed, go check [here](https://pytorch.org/get-started/locally/#windows-verification) for other ways to verify
 
 6. Two options to process, go to `cmd` then:
-    - Specified Manga volume: Type `mokuro F:\Manga\Saenai\Vol3` (Replace full directory, Saenai and volume #)
-    - All Manga volumes: Type `mokuro --parent_dir F:\Manga\Saenai` (Replace full directory, Saenai with your manga name)
-        - Your vol1, 2, 3, etc. should be inside `Saenai folder` in ascending uniform named order
+    - Specified Manga volume: 
+        - Paste: `mokuro F:\Manga\Saenai\Vol3`
+            - Replace full directory, Saenai and volume #
+    - All Manga volumes: 
+        - Paste: `mokuro --parent_dir F:\Manga\Saenai`
+            - Replace full directory, Saenai with your manga name
+            - Your vol1, 2, 3, etc. should be inside `Saenai folder` in ascending uniform named order
 
 7. See [Reading Processed Manga](setupMangaOnPC.md/#reading-processed-manga)
 
