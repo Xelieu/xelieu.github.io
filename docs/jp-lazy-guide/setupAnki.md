@@ -126,7 +126,7 @@ You now have an Anki Template, next is Yomitan
 
 ??? question "Where should I put more image aside from screenshot <small>(click here)</small>"
 
-    - You can put multiple pictures in `Picture` in `Anki` > `Browse` > Select a `Card`
+    - You can put multiple pictures in `DefinitionPicture` in `Anki` > `Browse` > Select a `Card`
 
     - You can paste the image while reviewing by going `Edit` mode or `E` shortcut
 
