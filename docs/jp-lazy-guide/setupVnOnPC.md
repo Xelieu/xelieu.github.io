@@ -143,7 +143,3 @@ Now that the Clipboard Inserter is working, let's proceed on knowing how to play
     To get VNs, search around the web, go to `nyaa` or discord servers that have them or `BUY` them
 
     - If you pm me, I can give you more details
-
----
-
-## FAQs
