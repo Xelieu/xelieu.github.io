@@ -8,13 +8,13 @@
 
 ## Requirements
 
-For `PC`:
+For PC:
 
-- [Yomitan On PC](setupYomitanOnPC.md) already set-up
+- [Yomitan On PC](setupYomitanOnPC.md) and [VN on PC](setupVnOnPC.md) already set-up
 
-- Running `Anki`, `Steam` and `Texthooker` page
+- Running `Anki`, `Steam`, `Textractor` and `Texthooker` page
 
-For `Android`:
+For Android:
 
 - Install and Run [Steam Link](https://play.google.com/store/apps/details?id=com.valvesoftware.steamlink&hl=en_US)
 
@@ -31,7 +31,7 @@ For `Android`:
 
     ![Steam Settings](../img/steam-settings.png){height=250 width=500}
 
-2. Customize your `M1-M8` with whatever keybinds you like for your mining or whatever like ShareX e.g. `alt + shift + C`
+2. Customize your `M1-M8` with whatever keybinds you like for your mining or whatever like ShareX e.g. `alt + shift + C` (screenshot)
 
     ![Steam Controller Settings](../img/steam-controller-settings.png){height=500 width=1000}
 
@@ -39,7 +39,9 @@ For `Android`:
 
     ![Steam Link Settings](../img/steam-link-settings.png){height=500 width=1000}
 
-4. Use `Steam link` > `shake your android`(if icon is not there) > open the `top left icon` > `Touch Controller` ENABLED > `Layout Controls` > add your macros wherever, erase controller buttons as you won't need them
+4. Use `Steam link` > `shake your android`(if icon is not there) > open the `top left icon` > `Touch Controller` ENABLED > `Layout Controls`
+    - Add your macro buttons; like screenshot, audio record, ctrl etc.
+    - Erase controller buttons as you won't need them
 
     ![Steam Link Macros](../img/steam-link-macros.png){height=500 width=1000}
 
@@ -47,11 +49,10 @@ For `Android`:
 
     ![Steam Link Mouse](../img/steam-link-mouse.png){height=500 width=1000}
 
-6. Launch your VN
+6. On your `PC` make sure `Texthooker Page` and `Visual Novel` is on different screen, then run your `Steam Link`
+    - Make sure when you run your `Visual Novel`, it is not launched via `Steam` or controller layout would not work
 
-!!! danger "Note"
-
-    Make sure `Big Picture` is not disabled/selected from step 3 and that you launch your `Visual Novel` out of steam, or else controller layout will not work
+7. Proceed to [Yomitan Configuration](setupVnOnAndroid.md/#yomitan-configuration) and [Mining VN on Android](setupVnOnAndroid.md/#mining-vn-on-android)
 
 ---
 
@@ -75,17 +76,17 @@ For `Android`:
 
 ## Mining VN on Android
 
-1. `Drag your mouse` out of your screen to where your 2nd monitor
+1. `Drag your mouse` out of your screen to where your other monitor is(left or right)
 
 2. `TAP` your screen to switch monitor
 
-3. `Add Yomitan` word like usual
+3. `Add Yomitan` words like usual
 
-4. `Use the macros` that you've set for screenshot/audio (`ShareX`)
+4. `Use the macros` that [you've set](setupVnOnAndroid.md/#setting-up) for screenshot/audio (`ShareX`)
 
 !!! info "Note"
 
-    If you only have 1 monitor, customize your `Steam Controller Settings` > `M1-M8` and put a `alt-tab` macro
+    If you only have 1 monitor, customize your `Steam Controller Settings` > [M1-M8](setupVnOnAndroid.md/#setting-up) and put an `alt-tab` macro
 
 Macros on my Steam Link:
 
