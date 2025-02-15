@@ -35,7 +35,7 @@ hide:
 - Yomitan:
 	- Updated Yomitan settings to accommodate [Lapis](https://github.com/donkuri/lapis) format transition (Do not use on JPMN format)
 	- [Updated Dictionary](https://drive.google.com/drive/folders/1s_PdQ9HWvpDFXkh_AGGzVgqrFBGhUsbI?usp=sharing): `三省堂国語辞典　第八版`, `JPDBv2`
-	- Replaced `JMDict` with `Jitendex` (Don't use Jitendex with JPMN; bad styling)
+	- Replaced `JMDict` with `Jitendex`
 	- Removed `JMDict Forms` (Its integrated to Jitendex)
 	- Changed Sorting Dictionary to JPDBv2
 	- Removed `yomichan` card tagging
