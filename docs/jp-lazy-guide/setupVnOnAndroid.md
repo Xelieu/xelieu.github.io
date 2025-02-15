@@ -92,7 +92,7 @@ Macros on my Steam Link:
 
 ![Steam Link Macros 2](../img/steam-link-macros-2.png){height=500 width=1000}
 
-Yomitan on my Android:
+Yomitan/Texthooker Page on my Android:
 
 ![VN on Android Yomitan](../img/vn-android-yomitan.png){height=500 width=1000}
 
