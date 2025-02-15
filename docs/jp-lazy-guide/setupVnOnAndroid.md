@@ -10,7 +10,7 @@
 
 For PC:
 
-- [Yomitan On PC](setupYomitanOnPC.md) and [VN on PC](setupVnOnPC.md) already set-up
+- [Yomitan On PC](setupYomitanOnPC.md), [ShareX](setupShareX.md) and [VN on PC](setupVnOnPC.md) already set-up
 
 - Running `Anki`, `Steam`, `Textractor` and `Texthooker` page
 
@@ -86,7 +86,8 @@ For Android:
 
 !!! info "Note"
 
-    If you only have 1 monitor, customize your `Steam Controller Settings` > [M1-M8](setupVnOnAndroid.md/#setting-up) and put an `alt-tab` macro
+    - If you only have 1 monitor, customize your `Steam Controller Settings` > [M1-M8](setupVnOnAndroid.md/#setting-up) and put an `alt-tab` macro
+    - You can also turn off your PC Monitor when using this setup
 
 Macros on my Steam Link:
 
