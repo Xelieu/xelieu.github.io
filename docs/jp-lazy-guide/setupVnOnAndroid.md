@@ -125,8 +125,3 @@ You now mine VN on Android, why not check out Mining Light Novel on PC?
     2. `Yomitan` settings > `Dictionary` > Enable `all`
 
         ![Dictionary Toggle](../img/dictionary-toggle.png){height=250 width=500}
-
-    3. `Yomitan` settings > `Anki` > `Configure Anki card templates...`
-        - Switch the `highlighted text` to `monolingual` (case-sensitive)
-
-        ![Dictionary Toggle](../img/switch-to-mono.png){height=250 width=500}
