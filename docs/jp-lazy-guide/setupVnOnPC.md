@@ -22,7 +22,7 @@ Requirements:
 - Download `Clipboard Inserter` from [Chrome/Edge](https://chrome.google.com/webstore/detail/clipboard-inserter/deahejllghicakhplliloeheabddjajm) or [Firefox](https://addons.mozilla.org/en-US/firefox/addon/lap-clipboard-inserter/)
 
 - `Clipboard Inserter` is used with `Texthooker Page` from the [Textractor 5.2.0](https://drive.google.com/drive/folders/1HPhYtqcNK66EvAjQnW3Y7jSUYEkwRAEw?usp=sharing) folder 
-    - Alternative [Texthooker Page w/ Websocket](https://github.com/Renji-XD/texthooker-ui) (only for know-how)
+    - Alternative [Texthooker Page w/Websocket](https://github.com/Renji-XD/texthooker-ui) (only for know-how)
 
 
  Set the System Locale - JP
