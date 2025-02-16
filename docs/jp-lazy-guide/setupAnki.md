@@ -62,7 +62,7 @@
     === "Settings 1"
         ![Anki Settings 1](../img/anki-settings-1.png){height=300 width=600}
     === "Settings 2"
-        ![Anki Settings 2](../img/anki-settings-2-tutorial.png){height=300 width=600}
+        ![Anki Settings 2](../img/anki-settings-2.png){height=300 width=600}
     === "Settings 3"
         ![Anki Settings 3](../img/anki-settings-3.png){height=300 width=600}
     === "Settings 4"
