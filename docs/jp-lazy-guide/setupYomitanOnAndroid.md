@@ -35,7 +35,7 @@
 
     ![Dictionary Import](../img/yomitan-dictionary-import.png){height=250 width=500}
 
-7. Then Scroll down, in `Backup` > `Import Settings` > `lazyxel-yomitan-settings` (from the extracted folder)
+7. Then Scroll down, in `Backup` > `Import Settings` > `lazyxel-yomitan-settings` (the file from [here](setupYomitanOnAndroid.md/#download-and-install))
     - Pick either:
         - `lazyXel-local-audio-yomitan-settings` (Install: [Yomitan Local Audio](setupYomitanOnAndroid.md/#info-2-android-yomitan-local-audio))
         - `lazyXel-non-local-audio-yomitan-settings`
