@@ -66,6 +66,7 @@ Requirements:
     - Check [Extra Info and Tips](setupVnOnPC.md/#extra-info-and-tips) if you have trouble finding the proper hook or the text is messy
 
 5. If it's working properly it should look like this:
+    - Click `Save hook(s)` if everything is alright
 
 === "Textractor and Regex Filter"
     ![Textractor Working](../img/textractor-working.png){height=300 width=600}
