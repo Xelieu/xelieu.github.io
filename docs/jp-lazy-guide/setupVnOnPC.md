@@ -14,7 +14,8 @@ Requirements:
     
     - Some versions are messed up so I recommend sticking to this
     
-    - (Optional) If you don't have a 2nd monitor: [VN Texthooker on Android](https://rentry.co/android-texthook) and [Android Setup](setupLnOnAndroid.md)
+    - (Optional) If you don't have a 2nd monitor to display `Texthooker Page`:
+        - [VN Texthooker on Android](https://rentry.co/android-texthook) and [Android Setup](setupLnOnAndroid.md)
 
 [Clipboard Inserter](setupVnOnPC.md/#setup-clipboard-inserter)
 
