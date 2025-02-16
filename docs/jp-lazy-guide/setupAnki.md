@@ -25,7 +25,7 @@
 
     ![Anki Sync](../img/anki-sync.png){height=250 width=500}
 
-2. Extract `Anki addons21.7z` and paste the `addons21` folder to `C:\Users\**YourUser**\AppData\Roaming\Anki2`
+2. Extract([?](https://www.webhostinghub.com/help/learn/website/managing-files/extract-file)) `Anki addons21.7z` and paste the `addons21` folder to `C:\Users\**YourUser**\AppData\Roaming\Anki2`
     
     ![Anki Addons](../img/addons-directory.png){height=150 width=300}
 

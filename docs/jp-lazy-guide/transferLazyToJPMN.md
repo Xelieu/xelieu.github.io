@@ -17,7 +17,7 @@ hide:
 
     ## Installing JPMN Note
 
-    1. Extract `Anki addons21.7z` and paste the `addons21` folder to `C:\Users\**YourUser**\AppData\Roaming\Anki2`
+    1. Extract([?](https://www.webhostinghub.com/help/learn/website/managing-files/extract-file)) `Anki addons21.7z` and paste the `addons21` folder to `C:\Users\**YourUser**\AppData\Roaming\Anki2`
         
         ![Anki Addons](../img/addons-directory.png){height=150 width=300}
 

@@ -32,7 +32,7 @@ hide:
     - This should take up to 2 weeks
 
 2. Download [Anki](https://apps.ankiweb.net/) and my [Anki add-ons](https://drive.google.com/drive/folders/1qdElBZ_1CCjyVuKCrxHegtGYludG0HVw?usp=sharing)
-    - Extract the `Anki add-ons` and Paste it to `C:\Users\YourUser\AppData\Roaming\Anki2`
+    - Extract([?](https://www.webhostinghub.com/help/learn/website/managing-files/extract-file)) the `Anki add-ons` and Paste it to `C:\Users\YourUser\AppData\Roaming\Anki2`
     - Restart your `Anki`
 
 3. Download [Kaishi.1.5k.apkg](https://github.com/donkuri/Kaishi/releases/latest)(`1.5k vocab deck`) then open it

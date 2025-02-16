@@ -13,7 +13,7 @@
 - Install [Yomitan Chrome](https://chrome.google.com/webstore/detail/yomitan/likgccmbimhjbgkjambclfkhldnlhbnn) in your `Kiwi Browser`
 
 - Download `yomitan dictionary` and `lazyXel-yomitan-settings`(download both) from [here](https://drive.google.com/drive/folders/1s_PdQ9HWvpDFXkh_AGGzVgqrFBGhUsbI?usp=sharing)
-    - Extract `yomitan dictionary.7z`
+    - Extract([?](https://www.webhostinghub.com/help/learn/website/managing-files/extract-file)) `yomitan dictionary.7z`
     - `yomitan dictionary.7z` should only be extracted once, `don't extract the dictionary` itself
 
 ---

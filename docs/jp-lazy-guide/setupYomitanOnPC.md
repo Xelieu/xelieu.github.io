@@ -8,10 +8,10 @@
 
 ## Download and Install
 
-- Install [Yomitan Chrome](https://chrome.google.com/webstore/detail/yomitan/likgccmbimhjbgkjambclfkhldnlhbnn) or [Yomitan Firefox](https://addons.mozilla.org/en-US/firefox/addon/yomitan/)
+- Install [Yomitan Chrome/Edge](https://chrome.google.com/webstore/detail/yomitan/likgccmbimhjbgkjambclfkhldnlhbnn) or [Yomitan Firefox](https://addons.mozilla.org/en-US/firefox/addon/yomitan/)
 
 - Download `yomitan dictionary`, `lazyXel-yomitan-settings`(download both) and `Font` from [here](https://drive.google.com/drive/folders/1s_PdQ9HWvpDFXkh_AGGzVgqrFBGhUsbI?usp=sharing)
-    - Extract `Font.7z` and `yomitan dictionary.7z`
+    - Extract([?](https://www.webhostinghub.com/help/learn/website/managing-files/extract-file)) `Font.7z` and `yomitan dictionary.7z`
     - `yomitan dictionary.7z` should only be extracted once, `don't extract the dictionary` itself
 
 ---
@@ -46,7 +46,7 @@
 
     ![Dictionary Import](../img/yomitan-dictionary-import.png){height=250 width=500}
 
-7. Then Scroll down, in `Backup` > `Import Settings` > `lazyxel-yomitan-settings` (from the extracted folder)
+7. Then Scroll down, in `Backup` > `Import Settings` > `lazyxel-yomitan-settings` (the file from [here](setupYomitanOnPC.md/#download-and-install))
     - Pick either:
         - `lazyXel-local-audio-yomitan-settings` (Install: [Yomitan Local Audio](setupYomitanOnPC.md/#info-2-yomitan-local-audio))
         - `lazyXel-non-local-audio-yomitan-settings`

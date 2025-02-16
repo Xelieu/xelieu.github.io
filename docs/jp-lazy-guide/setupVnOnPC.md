@@ -10,7 +10,7 @@ Requirements:
 
 - [Yomitan On PC](setupYomitanOnPC.md) already set-up
 
-- Download [Textractor 5.2.0](https://drive.google.com/drive/folders/1oHdD3DL8BqAxEEvUoSK-ow8snK6_Qn6y?usp=sharing) and extract the folder with the password `lazyguide` (lowercase; no space)
+- Download [Textractor 5.2.0](https://drive.google.com/drive/folders/1oHdD3DL8BqAxEEvUoSK-ow8snK6_Qn6y?usp=sharing) and extract([?](https://www.webhostinghub.com/help/learn/website/managing-files/extract-file)) the folder with the password `lazyguide` (lowercase; no space)
     
     - Some versions are messed up so I recommend sticking to this
     
