@@ -28,20 +28,22 @@ This is mostly beginner's pointers
 
 ## Anki Settings
 
+I no longer recommend `microsteps` due to `FSRS`; this is worse case scenario
+
 1. Use my settings, you can also try [microstep modified v2](https://github.com/Xelieu/xelieu.github.io/blob/main/docs/img/microstep-v2.png) or [microstep modified v1](https://github.com/Xelieu/xelieu.github.io/blob/main/docs/img/microstep-v1.png)
-    - Shift + Click 'options' on your deck to get this window
+    - Shift + Click `options` on your deck to get this window
 
     ??? info "Anki Settings <small>(click here)</small>"
-        === "Anki Preference Settings"
-            ![Anki Preference Settings](../img/anki-preference-settings.png){height=300 width=600}
         === "Settings 1"
             ![Anki Settings 1](../img/anki-settings-1.png){height=300 width=600}
         === "Settings 2"
-            ![Anki Settings 2](../img/anki-settings-2.png){height=300 width=600}
+            ![Anki Settings 2](../img/anki-settings-2-tutorial.png){height=300 width=600}
         === "Settings 3"
             ![Anki Settings 3](../img/anki-settings-3.png){height=300 width=600}
         === "Settings 4"
             ![Anki Settings 4](../img/anki-settings-4.png){height=300 width=600}
+        === "Anki Preference Settings"
+            ![Anki Preference Settings](../img/anki-preference-settings.png){height=300 width=600}
 
 2. Lapse, make your `leech threshold` down into `4-6` and `suspend card` instead of tag only
 
@@ -76,7 +78,7 @@ In your `Deck`'s option:
 1. Make sure you have `at least 3-6 months of stable anki data` as this algorithm analyses your memory
     - Creator mentions a `difference of 12.6%` compared to threshold and `18.1% against anki`
     
-2. Its a little bit techy so here's a [full guide](https://forums.ankiweb.net/t/how-to-use-the-next-generation-spaced-repetition-algorithm-fsrs-on-anki/25415)
+2. Its a little bit techy so here's a [full guide](https://github.com/open-spaced-repetition/fsrs4anki/blob/main/docs/tutorial.md)
 
 ---
 

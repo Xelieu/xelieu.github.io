@@ -38,13 +38,11 @@ hide:
 3. Download [Kaishi.1.5k.apkg](https://github.com/donkuri/Kaishi/releases/latest)(`1.5k vocab deck`) then open it
     - Just use `again (1 = I don't know the answer)` or `good (spacebar or 3 = I know the answer)` button when doing the deck so you don't have to think about if it's `easy (2)` or `hard (4)`
 
-4. Go to your `Deck`'s option then copy the `settings` below
-    - (Top left) `Tools` > `Preferences` and set the settings accordingly
+4. Go to your `Deck`'s option(Cog icon) then copy the [settings](conciseGuideToJumpstartJP.md/#__tabbed_1_1) below
+    - (Menu Bar - Top Left) `Tools` > `Preferences` and set the [settings](conciseGuideToJumpstartJP.md/#__tabbed_1_5) accordingly
 
     ??? info "Anki Settings <small>(click here)</small>"
     
-        === "Anki Preference Settings"
-            ![Anki Preference Settings](../img/anki-preference-settings.png){height=300 width=600}
         === "Settings 1"
             ![Anki Settings 1](../img/anki-settings-1.png){height=300 width=600}
         === "Settings 2"
@@ -53,6 +51,8 @@ hide:
             ![Anki Settings 3](../img/anki-settings-3.png){height=300 width=600}
         === "Settings 4"
             ![Anki Settings 4](../img/anki-settings-4.png){height=300 width=600}
+        === "Anki Preference Settings"
+            ![Anki Preference Settings](../img/anki-preference-settings.png){height=300 width=600}
 
 5. Do the `Kaishi 1.5k Vocab Deck`, start with `10 new cards/day`(30 max; don't overdo it) along with the `grammar guide` on `step 6`;
     - Kanji is here on the deck; `learn vocab not isolated kanji` is the motto
