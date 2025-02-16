@@ -10,14 +10,11 @@ Requirements:
 
 - [Yomitan On PC](setupYomitanOnPC.md) already set-up
 
-[Textractor](setupVnOnPC.md/#setup-textractor)
-
 - Download [Textractor 5.2.0](https://drive.google.com/drive/folders/1oHdD3DL8BqAxEEvUoSK-ow8snK6_Qn6y?usp=sharing) and extract the folder with the password `lazyguide` (lowercase; no space)
     
     - Some versions are messed up so I recommend sticking to this
     
-    - (Optional) [VN Texthooker on Android](https://rentry.co/android-texthook); [Android Setup](setupLnOnAndroid.md) is required
-        - If you don't have 2nd monitor or want to full screen
+    - (Optional) If you don't have a 2nd monitor: [VN Texthooker on Android](https://rentry.co/android-texthook) and [Android Setup](setupLnOnAndroid.md)
 
 [Clipboard Inserter](setupVnOnPC.md/#setup-clipboard-inserter)
 
