@@ -201,3 +201,5 @@ hide:
         When viewing a card, they are color assigned with the following:
 
         ![Pitch Accent Reference](../img/pitch-accent-reference.png){height=250 width=500}
+
+---
