@@ -26,7 +26,7 @@ Requirements
 
 2. Open `command prompt` by winkey/search > `cmd`
 
-3. Type `pip3 install manga-ocr`
+3. Type `pip install git+https://github.com/ZXY101/mokuro.git@master`
     - Then just let it download/install for a few mins until it's done and you can type again
     - If `pip3 is not recognized...` then:
         - Uninstall `Python`(step 1) > Restart the pc > reinstall `Python` (repeat if it didn't work; I know its dumb)
@@ -94,7 +94,7 @@ Choose between 2 options:
 
 3. Open `command prompt` by winkey/search > `cmd`
 
-4. Type `pip3 install manga-ocr`
+4. Type `pip install git+https://github.com/ZXY101/mokuro.git@master`
     - Then just let it download/install for a few mins until it's done and you can type again
     - If `pip3 is not recognized...` then:
         - Uninstall `Python`(step 1) > Restart the pc > reinstall `Python` (repeat if it didn't work; I know its dumb)
