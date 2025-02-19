@@ -123,6 +123,17 @@ Choose between 2 options:
         - Paste: `mokuro F:\Manga\Saenai\Vol3`
             - Replace full directory, Saenai with your manga name and volume #
 
+    ??? examplecode "Folder Structure <small>(click here)</small>"
+        
+        ```
+        ├── Manga Folder
+        │   ├── _ocr folder
+        │   ├── .html
+        │   ├── .mokuro
+        │   └── .zip
+        │    │    └── manga img file (.jpg/.png)
+        ```
+
 7. See [Reading Processed Manga](setupMangaOnPC.md/#reading-processed-manga)
 
 ---
