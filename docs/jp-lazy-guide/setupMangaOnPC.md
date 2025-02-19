@@ -115,13 +115,13 @@ Choose between 2 options:
     - If problem occurs reinstall pytorch by `pip uninstall torch` in `cmd` then redo the step above, if it still failed, go check [here](https://pytorch.org/get-started/locally/#windows-verification) for other ways to verify
 
 6. Two options to process, go to `cmd` then:
-    - Specified Manga volume: 
-        - Paste: `mokuro F:\Manga\Saenai\Vol3`
-            - Replace full directory, Saenai with your manga name and volume #
     - All Manga volumes: 
         - Paste: `mokuro --parent_dir F:\Manga\Saenai`
             - Replace full directory, Saenai with your manga name
             - Your vol1, 2, 3, etc. should be inside `Saenai folder` in ascending uniform named order
+    - Specified Manga volume: 
+        - Paste: `mokuro F:\Manga\Saenai\Vol3`
+            - Replace full directory, Saenai with your manga name and volume #
 
 7. See [Reading Processed Manga](setupMangaOnPC.md/#reading-processed-manga)
 
