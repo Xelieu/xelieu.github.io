@@ -6,7 +6,7 @@ hide:
 
 - Very short concise guide to combat other guides with walls of text and links to paid stuff that's unnecessary, especially confusing for beginners
 
-- I'm a JLPT N2 Passer(2021) at the time of writing this and my opinion haven't changed until now
+- I'm a JLPT N2 Passer(2022) at the time of writing this and my opinion haven't changed until now
 
 ## Tips
 
