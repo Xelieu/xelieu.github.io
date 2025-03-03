@@ -170,3 +170,15 @@ Yomitan on PC setup is done, why not check out how to use Yomitan on Android?
     Now apply it on every profile under `Editing Profile` and make sure `Monolingual`, `Bilingual`, `Android (Anime, LN & Manga)` and `Android (VN)` got their config changed
 
     ![Yomitan Profile](../img/yomitan-profiles.png){align=left height=300 width=600}
+
+#### Question 4: How to update Jitendex?
+
+??? question "How to update Jitendex? <small>(click here)</small>"
+
+    Personally I don't recommend updating `Jitendex` as you'd need to mess with the settings with how it works (it has a date on its name)
+    
+    1. In `Yomitan` settings > `Dictionaries` > `Check Updates` > Update `Jitendex`
+    2. Still in `Yomitan` > `Anki` > `Configure Anki card format...` > in `MainDefinition` > dropdown > find `single-glossary-jitendexorg-YYYY-MM-DD`
+    3. Do this on every `Yomitan Profile`
+
+    ![Updating Jitendex](../img/updating-jitendex.png){height=250 width=500}
