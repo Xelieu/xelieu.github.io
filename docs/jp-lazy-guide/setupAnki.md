@@ -121,6 +121,14 @@ You now have an Anki Template, next is Yomitan
 
     ![Pitch Accent Reference](../img/pitch-accent-reference.png){height=250 width=500}
 
+#### Tip 3: Anki Definition Glossary switch
+
+??? tip "Anki Definition Glossary switch <small>(click here)</small>"
+
+    When reviewing a card, you can tap the definition's left side to switch between `Monolingual` and `Bilingual`
+
+    ![Anki Glossary Switch](../img/anki-glossary-switch.png){height=250 width=500}
+
 ## FAQs
 
 #### Question 1: Where should I put more image aside from screenshot?
