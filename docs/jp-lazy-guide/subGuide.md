@@ -4,4 +4,4 @@ Sub Guide is a separate guide that are unrelated to tools and more of your stand
 
 ![Intro Wallpaper](../img/intro-wallpaper-3.jpg){height=500 width=1000}
 
-[Proceed to Concise Guide to Jumpstart JP](setupAnki.md){ .md-button .md-button }
+[Proceed to Concise Guide to Jumpstart JP](conciseGuideToJumpstartJP.md){ .md-button .md-button }
