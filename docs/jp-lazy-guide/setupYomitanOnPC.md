@@ -14,7 +14,7 @@
     - `Font`
     - `yomitan dictionary`
     - `lazyXel-yomitan-settings`(download both)
-        - For `Firefox yomitan settings` [here](https://drive.google.com/drive/folders/1LEstvS4Nx9NKnVvHLAfxDs8gIZ7478R1?usp=sharing)
+        - For `Firefox, yomitan settings` [here](https://drive.google.com/drive/folders/1LEstvS4Nx9NKnVvHLAfxDs8gIZ7478R1?usp=sharing)
 
 - After Downloading:
     - Extract([?](https://www.webhostinghub.com/help/learn/website/managing-files/extract-file)) `Font.7z` and `yomitan dictionary.7z`
