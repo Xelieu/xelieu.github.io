@@ -10,7 +10,13 @@
 
 - Install [Yomitan Chrome/Edge](https://chrome.google.com/webstore/detail/yomitan/likgccmbimhjbgkjambclfkhldnlhbnn) or [Yomitan Firefox](https://addons.mozilla.org/en-US/firefox/addon/yomitan/)
 
-- Download `yomitan dictionary`, `lazyXel-yomitan-settings`(download both) and `Font` from [here](https://drive.google.com/drive/folders/1s_PdQ9HWvpDFXkh_AGGzVgqrFBGhUsbI?usp=sharing)
+- Download from [here](https://drive.google.com/drive/folders/1s_PdQ9HWvpDFXkh_AGGzVgqrFBGhUsbI?usp=sharing):
+    - `Font`
+    - `yomitan dictionary`
+    - `lazyXel-yomitan-settings`(download both)
+        - For `Firefox yomitan settings` [here](https://drive.google.com/drive/folders/1LEstvS4Nx9NKnVvHLAfxDs8gIZ7478R1?usp=sharing)
+
+- After Downloading:
     - Extract([?](https://www.webhostinghub.com/help/learn/website/managing-files/extract-file)) `Font.7z` and `yomitan dictionary.7z`
     - `yomitan dictionary.7z` should only be extracted once, `don't extract the dictionary` itself
 
