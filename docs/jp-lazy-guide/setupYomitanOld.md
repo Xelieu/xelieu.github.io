@@ -15,10 +15,6 @@ hide:
 
     ---
 
-    I recommend you to follow the current guide that's not on the Archive
-
-    ??? danger "I'm aware that this is an Archive <small>(click here)</small>"
-
     ## Download and Install
 
     - Install [Yomitan Chrome](https://chrome.google.com/webstore/detail/yomitan/likgccmbimhjbgkjambclfkhldnlhbnn) or [Yomitan Firefox](https://addons.mozilla.org/en-US/firefox/addon/yomitan/)
