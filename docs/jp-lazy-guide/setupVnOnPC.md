@@ -9,21 +9,10 @@
 Requirements:
 
 - [Yomitan On PC](setupYomitanOnPC.md) already set-up
-
 - Download [Textractor 5.2.0](https://drive.google.com/drive/folders/1oHdD3DL8BqAxEEvUoSK-ow8snK6_Qn6y?usp=sharing) and extract([?](https://www.webhostinghub.com/help/learn/website/managing-files/extract-file)) the folder with the password `lazyguide` (lowercase; no space)
-    
     - Some versions are messed up so I recommend sticking to this
-    
     - (Optional) If you don't want to `Alt + Tab` or don't have a 2nd monitor to display `Texthooker Page`:
         - [VN Texthooker on Android](https://rentry.co/android-texthook) and [Android Setup](setupLnOnAndroid.md)
-
-[Clipboard Inserter](setupVnOnPC.md/#setup-clipboard-inserter)
-
-- Download `Clipboard Inserter` from [Chrome/Edge](https://chrome.google.com/webstore/detail/clipboard-inserter/deahejllghicakhplliloeheabddjajm) or [Firefox](https://addons.mozilla.org/en-US/firefox/addon/lap-clipboard-inserter/)
-
-- `Clipboard Inserter` is used with `Texthooker Page` from the [Textractor 5.2.0](https://drive.google.com/drive/folders/1HPhYtqcNK66EvAjQnW3Y7jSUYEkwRAEw?usp=sharing) folder 
-    - Alternative [Texthooker Page w/Websocket](https://github.com/Renji-XD/texthooker-ui) (only for know-how)
-
 
  Set the System Locale - JP
 
@@ -71,38 +60,61 @@ Requirements:
 === "Visual Novel Sample"
     ![Visual Novel Sample](../img/visual-novel-sample.png){height=500 width=1000}
 
-It is now texthooking, proceed to [Clipboard Inserter](setupVnOnPC.md/#setup-clipboard-inserter) to be able to use the text from `Textractor` and use `Yomitan` on it
+It is now texthooking, proceed to the guide below to be able to use the text from `Textractor` and use `Yomitan` on it
 
 ---
 
-## Setup: Clipboard Inserter
+## Setup: Texthooker Page
 
-1. Go to `chrome://extensions` or `edge://extensions` or `about:addons`(firefox) and go to `Clipboard Inserter` extension settings
+Requirements:
 
-2. Make sure for:
-    - Chrome/Edge: `Allow access to file URLs` is enabled
-    - Firefox: `Access your data for all websites` is enabled
+Make sure [Textractor](setupVnOnPC.md#setup-textractor) is already setup and running
 
-    === "Chrome/Edge"
-        ![Chrome/Edge URL Access](../img/chromium-url-access.png){height=150 width=300}
-    === "Firefox"
-        ![Firefox Yomitan Access to all websites](../img/firefox-url-access.png){height=300 width=600}
+Your `Visual Novel` running and already pasting text to `Textractor` like [this](setupVnOnPC.md#__tabbed_1_1)
 
-3. Go to `Textractor 5.2.0` folder and open `texthooker` page
+---
+
+1. Go to `Textractor 5.2.0` folder and open `texthooker` page
 
     ![Texthooker PC Page](../img/texthooker-pc-page.png){height=150 width=300}
 
-4. Turn on `Clipboard Inserter` Extension by clicking on it at the `Texthooker Page` located at the top right
+2. On the `texthooker` page, go to settings:
 
-    ![Clipboard Inserter](../img/clipboard-inserter.png){height=50 width=100}
+    ![Texthooker Page Settings](../img/texthooker-page-settings.png){height=150 width=300}
 
-5. If working as intended it should paste anything you copy or from textractor:
-    - You can now use Yomitan on it
+3. Copy the settings below:
+    - Copy and Paste the [Custom CSS](setupVnOnPC.md#__tabbed_2_2) below the settings
 
-    ![Texthooker Working](../img/texthooker-paste.png){height=300 width=600}
+    === "Settings"
+        ![Texthooker Page Checkbox](../img/texthooker-page-checkbox.png){height=200 width=400}
+    === "Custom CSS"
+        ```
+        main > p {
+            padding: 0rem !important;
+        }
 
+        main {
+            padding-left: min(3%, 5rem) !important;
+            padding-right: min(3%, 5rem) !important;
+        }
 
-Now that the Clipboard Inserter is working, let's proceed on knowing how to play Visual Novel on Android
+        body > div > textarea {
+            font-size: 24px !important;
+        }
+        ```
+
+4. On the `texthooker` page, click the `plug` icon to turn on:
+    - It should turn `green`
+
+    ![Texthooker Enable](../img/texthooker-enable.png){height=150 width=300}
+
+5. Go back to your `Visual Novel` and try progressing on dialogues and it should be already working:
+
+    ![Texthooker Page Pasting](../img/texthooker-page-pasting.png){height=300 width=600}
+
+6. Done! You should now be able to hover over words and mine
+
+Now that the `Texthooker Page` is working, let's proceed on knowing how to play Visual Novel on Android
 
 [Proceed to VN on Android Setup](setupVnOnAndroid.md){ .md-button .md-button }
 

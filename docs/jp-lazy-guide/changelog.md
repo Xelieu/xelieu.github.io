@@ -10,6 +10,14 @@ hide:
 
 ---
 
+### March
+
+**2025-03-12**
+
+- Setup: VN on PC
+	- Changed back the `texthooker page` to `Webhooker` kind
+	- Archived the [Clipboard Inserter](setupVNOnPCOld.md) way
+
 ### February
 
 **2025-02-11**
