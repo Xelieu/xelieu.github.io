@@ -9,6 +9,7 @@
 ## Download and Install
 
 - Install [Kiwi Browser](https://drive.google.com/drive/folders/1LG1e4mUmBivgW_ebaP0M2HljlHVclNEg?usp=sharing)
+    - Still searching for alternative since it died; I don't recommend `Firefox` (some feature don't work for android)
 
 - Install [Yomitan Chrome](https://chrome.google.com/webstore/detail/yomitan/likgccmbimhjbgkjambclfkhldnlhbnn) in your `Kiwi Browser`
 
