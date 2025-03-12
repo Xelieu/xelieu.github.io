@@ -16,7 +16,7 @@ hide:
 
 - Setup: VN on PC
 	- Changed back the `texthooker page` to `Webhooker` kind
-	- Archived the [Clipboard Inserter](setupVNOnPCOld.md) way (it died on chrome)
+	- Archived the [Clipboard Inserter](setupVNOnPCOld.md) way (no longer works on chrome)
 
 ### February
 
