@@ -114,7 +114,7 @@ Your `Visual Novel` running and already pasting text to `Textractor` like [this]
 
 6. Done! You should now be able to hover over words and mine
 
-Now that the `Texthooker Page` is working, let's proceed on knowing how to play Visual Novel on Android
+Now that the `Texthooker Page` is working, let's proceed on learning how to play Visual Novel on Android
 
 [Proceed to VN on Android Setup](setupVnOnAndroid.md){ .md-button .md-button }
 
