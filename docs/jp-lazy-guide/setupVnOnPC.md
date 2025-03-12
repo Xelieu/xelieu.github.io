@@ -85,23 +85,23 @@ Your `Visual Novel` running and already pasting text to `Textractor` like [this]
 3. Copy the settings below:
     - Copy and Paste the [Custom CSS](setupVnOnPC.md#__tabbed_2_2) below the settings
 
-    === "Settings"
-        ![Texthooker Page Checkbox](../img/texthooker-page-checkbox.png){height=200 width=400}
-    === "Custom CSS"
-        ```
-        main > p {
-            padding: 0rem !important;
-        }
+        === "Settings"
+            ![Texthooker Page Checkbox](../img/texthooker-page-checkbox.png){height=200 width=400}
+        === "Custom CSS"
+            ```
+            main > p {
+                padding: 0rem !important;
+            }
 
-        main {
-            padding-left: min(3%, 5rem) !important;
-            padding-right: min(3%, 5rem) !important;
-        }
+            main {
+                padding-left: min(3%, 5rem) !important;
+                padding-right: min(3%, 5rem) !important;
+            }
 
-        body > div > textarea {
-            font-size: 24px !important;
-        }
-        ```
+            body > div > textarea {
+                font-size: 24px !important;
+            }
+            ```
 
 4. On the `texthooker` page, click the `plug` icon to turn on:
     - It should turn `green`
