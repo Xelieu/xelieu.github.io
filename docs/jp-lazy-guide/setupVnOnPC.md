@@ -78,7 +78,7 @@ Your `Visual Novel` running and already pasting text to `Textractor` like [this]
 
     ![Texthooker PC Page](../img/texthooker-pc-page.png){height=150 width=300}
 
-2. On the `texthooker` page, go to settings:
+2. On the `texthooker` page, go to settings(on the top right):
 
     ![Texthooker Page Settings](../img/texthooker-page-settings.png){height=150 width=300}
 
