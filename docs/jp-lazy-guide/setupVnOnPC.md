@@ -2,8 +2,6 @@
 
 - [Textractor](setupVnOnPC.md/#setup-textractor) is a tool used to extract `text` from `Visual Novels`
 
-- [Clipboard Inserter](setupVnOnPC.md/#setup-clipboard-inserter) is used to copy and paste the text extracted by `Textractor` into a `Texthooker` page where you can use `Yomitan` to scan the words and mine it into `Anki`
-
 ---
 
 Requirements:
