@@ -39,6 +39,7 @@
     - Audio source: `virtual-audio-capturer`
 
 5. Add/Mine the `word` on `Yomitan` first before using `screenshot` or `audio record` hotkey using `ShareX`
+    - Make sure `Anki` is running to see the `Add(+)` button
     - Check out the [Mining Demo](index.md/#mining-demo)!
 
 You are done setting up ShareX, next is Visual Novel for PC
