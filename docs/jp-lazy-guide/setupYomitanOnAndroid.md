@@ -8,10 +8,8 @@
 
 ## Download and Install
 
-- Install [Kiwi Browser](https://drive.google.com/drive/folders/1LG1e4mUmBivgW_ebaP0M2HljlHVclNEg?usp=sharing)
-    - Still searching for alternative since it died; I don't recommend `Firefox` (some feature don't work for android)
-
-- Install [Yomitan Chrome](https://chrome.google.com/webstore/detail/yomitan/likgccmbimhjbgkjambclfkhldnlhbnn) in your `Kiwi Browser`
+- Install [Edge Canary](https://play.google.com/store/apps/details?id=com.microsoft.emmx.canary)
+    - I don't recommend `Firefox` on Android because you can't enable `Experimental Web Features` for [Anime on Android](setupAnimeOnAndroid.md)
 
 - Download from [here](https://drive.google.com/drive/folders/1s_PdQ9HWvpDFXkh_AGGzVgqrFBGhUsbI?usp=sharing):
     - `Font`
@@ -26,17 +24,26 @@
 
 ## Setting Up
 
-1. Go to `chrome://extensions` and go to `Yomitan` extension settings
+1. Go to `Menu` > `Settings` > `About Microsoft Edge` > `Privacy and Terms` > tap `Edge Canary build number` 7 times
+    - `Developer Options` should be enabled
 
-2. Make sure `Allow access to file URLs` is enabled
+    ![Edge Canary Build Number](../img/edge-canary-build-number.png){height=200 width=400}
 
-    ![Yomitan URL Access](../img/chromium-url-access.png){height=150 width=300}
+2. Go back in `Settings` > `Developer Options` > `Extension install by id` > paste this:
+    ```
+    idelnfbbmikgfiejhgmddlbkfgiifnnn
+    ```
 
-3. Go to `Yomitan`’s settings page (Click on the extension’s icon then click on the cog icon from the popup)
+3. Click `Add` Yomitan Extension then wait a moment until it finishes downloading
+    - The [Welcome Page](extension://idelnfbbmikgfiejhgmddlbkfgiifnnn/welcome.html) should appear automatically or go to `Settings` > `Extensions` > Tap `Yomitan Popup Dictionary` > `Settings(Cog Icon)`
 
-    ![Yomitan Cog](../img/yomitan-cog.png){height=50 width=100}
+4. On the [Welcome Page](extension://idelnfbbmikgfiejhgmddlbkfgiifnnn/welcome.html) turn on `Enable optional permissions`
 
-4. Go to `Dictionary` > `Configure installed and enabled dictionaries...` > `Import`
+    ![Enable optional permissions](../img/enable-optional-permissions.png){height=200 width=400}
+
+5. Next, go to [Settings Page](extension://idelnfbbmikgfiejhgmddlbkfgiifnnn/settings.html) or `Settings` > `Extensions` > Tap `Yomitan Popup Dictionary` > `Settings(Cog Icon)`
+
+6. Go to `Dictionary` > `Configure installed and enabled dictionaries...` > `Import`
     - Import all the dictionaries from `yomitan dictionary` folder (You can select them all and import all at once)
 
     ![Dictionary Import](../img/yomitan-dictionary-import.png){height=250 width=500}
@@ -48,7 +55,7 @@
 
         ![Yomitan Import Settings](../img/yomitan-import-settings.png){align=left height=300 width=600}
 
-6. Pick `Android (Anime, LN & Manga)` profile (`Default` and `Editing`)
+8. Pick `Android (Anime, LN & Manga)` profile (`Default` and `Editing`)
 
     ![Yomitan Profile](../img/yomitan-profile-android.png){align=left height=300 width=600}
 
@@ -120,7 +127,7 @@ Yomitan setup is done, next is ShareX for convenient Mining
     
     6. To ensure it's working, check that all sources are present
         - If it doesn't work, make sure AnkiConnect Android `Start Service` is running
-        - Battery saving/optimization is off for AnkiConnect Android, Ankidroid and Kiwi Browser
+        - Battery saving/optimization is off for AnkiConnect Android, Ankidroid and Edge Canary
 
         ![Yomitan Local Audio Check](../img/yomitan-local-audio-check.gif){height=250 width=500}
 

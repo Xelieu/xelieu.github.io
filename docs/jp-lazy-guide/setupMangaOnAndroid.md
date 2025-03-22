@@ -1,6 +1,6 @@
 # Setup: Manga on Android
 
-- You can use your `Android` to read `Manga` using `Kiwi Browser` to scan words using `yomitan` on it
+- You can use your `Android` to read `Manga` using `Edge Canary` to scan words using `yomitan` on it
 
 - This includes automated `Manga` screenshot even if you are in `Android`
 
@@ -36,7 +36,7 @@ Requirements:
 
 4. `Start the Service` on `AnkiConnect Android` and make sure `AnkiDroid` is also opened
 
-5. Open your `Kiwi Browser` > go to [Mokuro Reader](https://reader.mokuro.app/) > `Upload` icon (top right) > `choose files` (NOT `choose directory`)
+5. Open your `Edge Canary` > go to [Mokuro Reader](https://reader.mokuro.app/) > `Upload` icon (top right) > `choose files` (NOT `choose directory`)
     - Go to the directory of your manga and upload `.html`, `.mokuro` and `.zip` files (from `Step 2`)
 
     ![Mokuro Android Upload](../img/mokuro-upload-android.png){height=150 width=300}

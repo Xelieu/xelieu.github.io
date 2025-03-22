@@ -12,6 +12,11 @@ hide:
 
 ### March
 
+**2025-03-22**
+
+- Setup: Yomitan Android
+	- Switched `Kiwi Browser` to `Edge Canary` as `Yomitan` stopped working to `Kiwi Browser`
+
 **2025-03-12**
 
 - Setup: VN on PC
