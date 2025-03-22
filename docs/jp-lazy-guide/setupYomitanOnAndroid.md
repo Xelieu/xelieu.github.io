@@ -35,13 +35,13 @@
     ```
 
 3. Click `Add` Yomitan Extension then wait a moment until it finishes downloading
-    - The [Welcome Page](extension://idelnfbbmikgfiejhgmddlbkfgiifnnn/welcome.html) should appear automatically or go to `Settings` > `Extensions` > Tap `Yomitan Popup Dictionary` > `Settings(Cog Icon)`
+    - The `Welcome Page` should appear automatically or go to `Settings` > `Extensions` > Tap `Yomitan Popup Dictionary` > `Settings(Cog Icon)`
 
-4. On the [Welcome Page](extension://idelnfbbmikgfiejhgmddlbkfgiifnnn/welcome.html) turn on `Enable optional permissions`
+4. On the `Welcome Page` extension://idelnfbbmikgfiejhgmddlbkfgiifnnn/welcome.html turn on `Enable optional permissions`
 
     ![Enable optional permissions](../img/enable-optional-permissions.png){height=200 width=400}
 
-5. Next, go to [Settings Page](extension://idelnfbbmikgfiejhgmddlbkfgiifnnn/settings.html) or `Settings` > `Extensions` > Tap `Yomitan Popup Dictionary` > `Settings(Cog Icon)`
+5. Next, go to `Settings Page` or `Settings` > `Extensions` > Tap `Yomitan Popup Dictionary` > `Settings(Cog Icon)`
 
 6. Go to `Dictionary` > `Configure installed and enabled dictionaries...` > `Import`
     - Import all the dictionaries from `yomitan dictionary` folder (You can select them all and import all at once)
