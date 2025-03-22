@@ -9,7 +9,6 @@
 ## Download and Install
 
 - Install [Edge Canary](https://play.google.com/store/apps/details?id=com.microsoft.emmx.canary)
-    - I don't recommend `Firefox` on Android because you can't enable `Experimental Web Features` for [Anime on Android](setupAnimeOnAndroid.md)
 
 - Download from [here](https://drive.google.com/drive/folders/1s_PdQ9HWvpDFXkh_AGGzVgqrFBGhUsbI?usp=sharing):
     - `Font`
@@ -37,7 +36,7 @@
 3. Click `Add` Yomitan Extension then wait a moment until it finishes downloading
     - The `Welcome Page` should appear automatically or go to `Settings` > `Extensions` > Tap `Yomitan Popup Dictionary` > `Settings(Cog Icon)`
 
-4. On the `Welcome Page` extension://idelnfbbmikgfiejhgmddlbkfgiifnnn/welcome.html turn on `Enable optional permissions`
+4. On the `Welcome Page` turn on `Enable optional permissions`
 
     ![Enable optional permissions](../img/enable-optional-permissions.png){height=200 width=400}
 
