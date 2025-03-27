@@ -10,12 +10,12 @@ This is a very `detailed spreadsheet` made in `GSheet`
 
 !!! note "Immersion Data Spreadsheet up to 2035"
 
-    [Clean Sheet](https://docs.google.com/spreadsheets/d/1CYJTt-BikDSH9FaSCOEPrzQk-jotcfhPr-lRxfqMfiU/edit?usp=sharing) | [Sample Sheet](https://docs.google.com/spreadsheets/d/1rD4kg2blrr0Sn9P6W6sRZy0sYzGp-Pv1VhGOKT7hgmA/edit?usp=sharing)
+    [Clean Sheet](https://docs.google.com/spreadsheets/d/1YO14DP7wl6lMXqaQi0kgscosP4eRB46nBhyUDwqO99U/edit?usp=sharing) | [Sample Sheet](https://docs.google.com/spreadsheets/d/1nCy1LSyVzf27qT82o1KYUqKAQrDvop0YCFiEZg08X44/edit?usp=sharing)
 
 
-1. [Video Guide](https://youtu.be/iklOYoIq7ew) on how to fill-up data
+1. [Video Guide](https://youtu.be/CmCeYaw_y9s) on how to fill-up data
 
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/iklOYoIq7ew" title="Mining Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/CmCeYaw_y9s" title="Mining Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 2. To copy, open the `Spreadsheet` then `File` > `Make a Copy`
     - To use other Sheets: go to `View` > `Hidden Sheets`
