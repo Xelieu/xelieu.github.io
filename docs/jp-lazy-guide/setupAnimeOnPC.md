@@ -52,7 +52,7 @@ You can now mine Anime on PC, why not do it on Android too? (RIP eyes)
 
 ??? info "Anime Mining Demo <small>(click here)</small>"
 
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/CujTp1DxbtM" title="Mining Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/SrpeFg1oHRs" title="Mining Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 #### Tip 1: Synchronizing Subtitle
 
