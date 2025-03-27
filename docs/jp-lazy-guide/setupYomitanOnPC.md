@@ -90,7 +90,7 @@ Yomitan on PC setup is done, why not check out how to use Yomitan on Android?
 
     ---
 
-    1. Download everything from [here](https://github.com/yomidevs/local-audio-yomichan?tab=readme-ov-file#steps): `local-yomitan-audio-collection-2023-06-11-opus.tar.xz` file
+    1. Download everything from the [recommended](https://github.com/yomidevs/local-audio-yomichan?tab=readme-ov-file#steps)
 
     2. Within `Anki`: either `Ctrl + Shift + A` or `Tools` > `Add-ons` > `Get Add-ons...` > `1045800357` > restart `Anki`
 
