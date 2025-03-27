@@ -143,11 +143,3 @@ Now that the `Texthooker Page` is working, let's proceed on learning how to play
 
     - Some Visual Novels are sensitive, and that it will only textract a portion of its text since the dialogue appeared slowly
         - Max up the dialogue speed in the VN settings
-
-#### Tip 1: Getting Visual Novels
-
-??? tip "Getting Visual Novels <small>(click here)</small>"
-
-    To get VNs, search around the web, go to `nyaa` or discord servers that have them or `BUY` them
-
-    - If you pm me, I can give you more details

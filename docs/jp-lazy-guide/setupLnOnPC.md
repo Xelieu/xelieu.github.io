@@ -54,15 +54,3 @@ You can now read Light Novels on PC, how about Android?
     2. On `Translation` > `Configure custom text replacement patterns...`
 
     3. Copy and paste [this](https://pastebin.com/tzHgVe6V)
-
-#### Tip 1: Getting epubs
-
-??? tip "Getting epubs <small>(click here)</small>"
-
-    To get epubs, search around the web, go to `nyaa` or discord servers that have them or `BUY` and convert them
-
-    - If you pm me, I can give you more details
-
----
-
-## FAQs

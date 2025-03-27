@@ -217,15 +217,3 @@ You can now mine Manga on PC, see how it's done in Android!
     3. Use `Forward Button` to use it
         - This is assuming the `OCR (manga_ocr)` hotkey in `ShareX` is unchanged from `Shift + Alt + Q`
         - You can edit the hotkey by editing the script if you like
-
-#### Tip 1: Getting raw or Processed Manga
-
-??? tip "Getting raw or Processed Manga <small>(click here)</small>"
-
-    To get epubs, search around the web, go to `nyaa` or discord servers that have them or `BUY` and convert them
-
-    - If you pm me, I can give you more details
-
----
-
-## FAQs
