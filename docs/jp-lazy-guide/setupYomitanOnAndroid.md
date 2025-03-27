@@ -49,7 +49,7 @@
 
 7. Then Scroll down, in `Backup` > `Import Settings` > `lazyxel-yomitan-settings` (the file from [here](setupYomitanOnAndroid.md/#download-and-install))
     - Pick either:
-        - `lazyXel-local-audio-yomitan-settings` (Install: [Yomitan Local Audio](setupYomitanOnAndroid.md/#info-2-android-yomitan-local-audio))
+        - `lazyXel-local-audio-yomitan-settings` (Install: [Yomitan Local Audio](setupYomitanOnAndroid.md/#info-1-android-yomitan-local-audio))
         - `lazyXel-non-local-audio-yomitan-settings`
 
         ![Yomitan Import Settings](../img/yomitan-import-settings.png){align=left height=300 width=600}
@@ -68,29 +68,7 @@ Yomitan setup is done, next is ShareX for convenient Mining
 
 ## Extra Info and Tips
 
-#### Info 1: Yomitan Dictionary List
-
-??? info "Yomitan Dictionary List <small>(click here)</small>"
-
-    - (Bilingual) Jitendex
-    - (Monolingual) 旺文社国語辞典 第十一版
-    - (Monolingual) 三省堂国語辞典　第八版
-    - (Monolingual) 実用日本語表現辞典
-    - (Monolingual) 新明解国語辞典 第八版
-    - (Monolingual) 明鏡国語辞典 第二版
-    - (Name) JMnedict (No-Kana)
-    - (Pitch Accent) アクセント辞典
-    - (Frequency) JPDBv2
-    - (Frequency) BCCWJ
-    - (Frequency) ICR
-    - (Frequency) Narou
-    - (Frequency) VN
-    - (Frequency) CC100
-    - (Kanji Forms) JPDB Kanji
-    - (Kanji Forms) Kanjidic (English)
-    - (Kanji Forms) TheKanjiMap Kanji Radicals/Composition
-
-#### Info 2: Android Yomitan Local Audio
+#### Info 1: Android Yomitan Local Audio
 
 ??? info "Android Yomitan Local Audio <small>(click here)</small>"
 
@@ -132,7 +110,7 @@ Yomitan setup is done, next is ShareX for convenient Mining
 
         DONE!
 
-#### Info 3: Yomitan Light and Dark Mode
+#### Info 2: Yomitan Light and Dark Mode
 
 ??? info "Yomitan Light and Dark Mode <small>(click here)</small>"
 

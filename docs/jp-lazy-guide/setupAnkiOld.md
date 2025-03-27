@@ -26,7 +26,7 @@ hide:
 
     - Install `PC` [Anki](https://apps.ankiweb.net/) (Please don't use `Qt5`)
         - [Android](https://play.google.com/store/apps/details?id=com.ichi2.anki&hl=en_US) | [iOS](https://apps.apple.com/us/app/ankimobile-flashcards/id373493387) (Install guide is for `PC` only but you can use it on mobile afterwards)
-    - Download [Anki addons](https://drive.google.com/drive/folders/1_fyeMaldky38dGXbOZAMB7BII_wx0kPU?usp=sharing)
+    - Download [Anki addons](https://drive.google.com/drive/folders/1_fyeMaldky38dGXbOZAMB7BII_wx0kPU?usp=sharing) (Pass: `lazyguide`)
 
     ---
     ## Setting Up

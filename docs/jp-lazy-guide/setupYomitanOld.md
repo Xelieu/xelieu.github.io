@@ -20,7 +20,7 @@ hide:
     - Install [Yomitan Chrome](https://chrome.google.com/webstore/detail/yomitan/likgccmbimhjbgkjambclfkhldnlhbnn) or [Yomitan Firefox](https://addons.mozilla.org/en-US/firefox/addon/yomitan/)
 
     - Download `yomitan dictionary`, `lazyXel-yomitan-settings`(download both) and `Font` from [here](https://drive.google.com/drive/folders/1_fyeMaldky38dGXbOZAMB7BII_wx0kPU?usp=sharing)
-        - Extract([?](https://www.webhostinghub.com/help/learn/website/managing-files/extract-file)) `Font.7z` and `yomitan dictionary.7z`
+        - Extract([?](https://www.webhostinghub.com/help/learn/website/managing-files/extract-file)) `Font.7z` and `yomitan dictionary.7z` (Pass: `lazyguide`)
         - `yomitan dictionary.7z` should only be extracted once, `don't extract the dictionary` itself
 
     ---
@@ -56,7 +56,7 @@ hide:
         ![Dictionary Import](../img/yomitan-dictionary-import.png){height=250 width=500}
 
     7. Then Scroll down, in `Backup` > `Import Settings` > `lazyxel-yomitan-settings` (from the extracted folder)
-        - If you are interested on installing [Yomitan Local Audio](setupYomitanOnPC.md/#info-2-yomitan-local-audio) pick `lazyXel-local-audio-yomitan-settings`, otherwise `lazyXel-non-local-audio-yomitan-settings`
+        - If you are interested on installing [Yomitan Local Audio](setupYomitanOnPC.md/#info-1-yomitan-local-audio) pick `lazyXel-local-audio-yomitan-settings`, otherwise `lazyXel-non-local-audio-yomitan-settings`
         - `Import` NOT `Sanitize and Import`
         
             ![Yomitan Import](../img/yomitan-import.png){height=150 width=300}
@@ -82,30 +82,7 @@ hide:
 
     ## Extra Info and Tips
 
-    #### Info 1: Yomitan Dictionary List
-
-    ??? info "Yomitan Dictionary List <small>(click here)</small>"
-
-        - (Monolingual) 旺文社国語辞典 第十一版
-        - (Monolingual) 三省堂国語辞典　第七版
-        - (Monolingual) 実用日本語表現辞典
-        - (Monolingual) 新明解国語辞典 第八版
-        - (Monolingual) 明鏡国語辞典 第二版
-        - (Bilingual) JMdict (English-Original)
-        - (Variant Forms) JMdict Forms
-        - (Name) JMnedict (No-Kana)
-        - (Pitch Accent) アクセント辞典
-        - (Frequency) BCCWJ
-        - (Frequency) JPDB
-        - (Frequency) ICR
-        - (Frequency) Narou
-        - (Frequency) VN
-        - (Frequency) CC100
-        - (Kanji Forms) JPDB Kanji
-        - (Kanji Forms) Kanjidic (English)
-        - (Kanji Forms) TheKanjiMap Kanji Radicals/Composition
-
-    #### Info 2: Yomitan Local Audio
+    #### Info 1: Yomitan Local Audio
 
     ??? info "Yomitan Local Audio <small>(click here)</small>"
 
@@ -115,8 +92,7 @@ hide:
 
         ---
 
-        1. Download everything from [torrent](https://nyaa.si/view/1681655) or [magnet link](magnet:?xt=urn:btih:ef90ec428e6abcd560ffc85a2a1c083e0399d003&dn=local-yomitan-audio-collection-2023-06-11-opus.tar.xz&tr=http%3a%2f%2fanidex.moe%3a6969%2fannounce&tr=http%3a%2f%2fnyaa.tracker.wf%3a7777%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.moeking.me%3a6969%2fannounce&tr=udp%3a%2f%2fopentracker.i2p.rocks%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.zerobytes.xyz%3a1337%2fannounce): `local-yomitan-audio-collection-2023-06-11-opus.tar.xz` file
-            - If you are using `AnkiMobile` on `iOS`, `Android 4`(very unlikely) or `AnkiWeb`: [torrent](https://nyaa.si/view/1681654) or [magnet link](magnet:?xt=urn:btih:5bd0aa89667860e68b31a585dc6e7a2bfc811702&dn=local-yomitan-audio-collection-2023-06-11-mp3.tar.xz&tr=http%3a%2f%2fanidex.moe%3a6969%2fannounce&tr=http%3a%2f%2fnyaa.tracker.wf%3a7777%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.moeking.me%3a6969%2fannounce&tr=udp%3a%2f%2fopentracker.i2p.rocks%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.zerobytes.xyz%3a1337%2fannounce) `local-yomitan-audio-collection-2023-06-11-mp3.tar.xz` file
+        1. Download everything from [here](https://github.com/yomidevs/local-audio-yomichan?tab=readme-ov-file#steps): `local-yomitan-audio-collection-2023-06-11-opus.tar.xz` file
 
         2. Within `Anki`: either `Ctrl + Shift + A` or `Tools` > `Add-ons` > `Get Add-ons...` > `1045800357` > restart `Anki`
 
