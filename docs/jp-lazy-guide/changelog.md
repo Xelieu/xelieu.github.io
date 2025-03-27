@@ -12,6 +12,10 @@ hide:
 
 ### March
 
+**2025-03-28**
+- Lazy Guide: Gray stuff links clean up
+	- I'm moving to Japan soon, so I cleaned up some links to avoid trouble
+
 **2025-03-22**
 
 - Setup: Yomitan Android

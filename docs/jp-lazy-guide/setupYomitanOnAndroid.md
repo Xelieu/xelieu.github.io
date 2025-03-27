@@ -16,7 +16,7 @@
     - `lazyXel-yomitan-settings`(download both)
 
 - After Downloading:
-    - Extract([?](https://www.webhostinghub.com/help/learn/website/managing-files/extract-file)) `Font.7z` and `yomitan dictionary.7z`
+    - Extract([?](https://www.webhostinghub.com/help/learn/website/managing-files/extract-file)) `Font.7z` and `yomitan dictionary.7z` (Pass: `lazyguide`)
     - `yomitan dictionary.7z` should only be extracted once, `don't extract the dictionary` itself
 
 ---
