@@ -75,7 +75,7 @@ Choose between 2 options:
 
 ### Online Processing Method
 
-1. Follow this [Setup Guide](https://colab.research.google.com/drive/1zT4ubIPs3J93UJ0Di82A1ZimzXYULXNf?usp=sharing)
+1. Follow this [Setup Guide](https://colab.research.google.com/drive/1Yl1hscOYoUlYOqMIpfUZ_BUuwVqUFd-y?usp=sharing)
 
 2. Download the processed `Manga` folder and see [Reading Processed Manga](setupMangaOnPC.md/#reading-processed-manga)
 
