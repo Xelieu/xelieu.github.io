@@ -19,7 +19,6 @@ If you want to buy me a coffee(Thanks!): [Ko-fi (Xelieu)](https://ko-fi.com/xeli
 
 Have any questions? Contact me at Discord: [xelieu](https://www.discordapp.com/users/719459399168426054)
 
-TEST
 ---
 
 ## Anki and Yomitan Format
