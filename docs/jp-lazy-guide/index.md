@@ -47,7 +47,7 @@ Have any questions? Contact me at Discord: [xelieu](https://www.discordapp.com/u
 ## [Mining Demo](https://youtu.be/MMS7ysldXBU)
 - This is outdated `Anki/Yomitan Format` but the method is pretty much the same
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/seAMOvIiFcw" title="Mining Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MMS7ysldXBU" title="Mining Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 [Proceed on Setup Guide](setup.md){ .md-button .md-button }
