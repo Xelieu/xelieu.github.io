@@ -29,7 +29,7 @@
     - `screenshot nsfw snip`
     - `audio`
         - Then for each one: click the `COG` icon > `override screenshot folder` > change the `path`
-        - Change the `Xelieu` with your Anki profile name: `%ApplicationData%\Anki2\**YourAnkiProfileName**\collection.media`
+        - Change the `LazyGuide` with your Anki profile name: `%ApplicationData%\Anki2\**YourAnkiProfileName**\collection.media`
             - Profile name is written on the top left bar of Anki, or `File` > `Profile` to set
 
             ![ShareX Path](../img/sharex-path.png){height=150 width=300}
