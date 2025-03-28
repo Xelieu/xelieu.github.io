@@ -2,8 +2,6 @@ site_name: Lazy Guide
 site_url: https://xelieu.github.io/
 site_description: JP Immersion Tool Lazy Guide
 site_author: Lazy Guide
-repo_url: https://ko-fi.com/lazyguide
-repo_name: Want to buy me a coffee?
 nav:
   - Home:
     - Introduction: 'jp-lazy-guide/index.md'
