@@ -14,8 +14,8 @@ hide:
 
 **2025-03-28**
 
-- Lazy Guide: Gray stuff links clean up
-	- I moved to Japan, so I cleaned up some links to avoid trouble
+- Lazy Guide: Gray stuff clean up
+	- I moved to Japan, so I cleaned up to avoid issue
 
 **2025-03-22**
 
