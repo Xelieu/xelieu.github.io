@@ -86,16 +86,16 @@ extra:
   social:
     - icon: fontawesome/brands/github-alt
       link: https://github.com/Xelieu
-      name: Github - Xelieu
+      name: Github
     - icon: fontawesome/brands/discord
-      link: https://www.discordapp.com/users/719459399168426054
-      name: Discord - xelieu
+      link: https://discord.com/
+      name: Discord
     - icon: fontawesome/brands/youtube
-      link: https://www.youtube.com/@xelieu
-      name: Youtube - Xelieu      
+      link: https://www.youtube.com/@LazyXelieu
+      name: Youtube
     - icon: fontawesome/solid/mug-hot
       link: https://ko-fi.com/xelieu
-      name: Ko-Fi - Xelieu
+      name: Ko-Fi
   analytics:
     provider: google
     property: G-GMJZ3SM36S
@@ -136,4 +136,4 @@ plugins:
         - ja
 
 copyright: |
-  &copy; 2025 <a href="https://github.com/Xelieu/xelieu.github.io/blob/main/LICENSE"  target="_blank" rel="noopener">Xelieu</a>
+  &copy; 2025 <a href="https://github.com/Xelieu/xelieu.github.io/blob/main/LICENSE"  target="_blank" rel="noopener">Lazy Guide</a>
