@@ -15,8 +15,6 @@ hide:
 
 New to Japanese and want to immerse quickly? See [Concise Guide to Jumpstart Japanese](conciseGuideToJumpstartJP.md)
 
-If you want to buy me a coffee(Thanks!): [Ko-fi](https://ko-fi.com/xelieu)
-
 ---
 
 ## Anki and Yomitan Format
