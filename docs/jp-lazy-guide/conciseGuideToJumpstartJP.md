@@ -74,7 +74,6 @@ hide:
 
 ### Afterthoughts
 
-- A `very dumb down version` hence, it lacks info, just do it along the way and if you have questions you can ask me on:
-    - Discord: [xelieu](https://www.discordapp.com/users/719459399168426054)
+- A `very dumb down version` hence, it lacks info, just do it along the way and if you have questions you can ask on Japanese Immersion Servers or find me on discord
 
 -  `No bullshit textbooks`, `subscriptions` or being stuck for years studying thinking you are not ready enough, because you will never be if you don't start immersing

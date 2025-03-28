@@ -37,7 +37,7 @@ You can now read Light Novels in Android, why not check out the Manga setup?
 
 [Proceed to Manga on PC Setup](setupMangaOnPC.md){ .md-button .md-button }
 
-<small>If you have any problems check [FAQs](setupLnOnAndroid.md/#faqs) or contact me on Discord: [xelieu](https://www.discordapp.com/users/719459399168426054)</small>
+<small>If you have any problems check [FAQs](setupLnOnAndroid.md/#faqs)</small>
 
 ---
 

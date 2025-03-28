@@ -115,7 +115,7 @@ Now that the `Texthooker Page` is working, let's proceed on learning how to play
 
 [Proceed to VN on Android Setup](setupVnOnAndroid.md){ .md-button .md-button }
 
-<small>If you have any problems check [FAQs](setupVnOnPC.md/#faqs) or contact me on Discord: [xelieu](https://www.discordapp.com/users/719459399168426054)</small>
+<small>If you have any problems check [FAQs](setupVnOnPC.md/#faqs)</small>
 
 ---
 

@@ -15,9 +15,7 @@ hide:
 
 New to Japanese and want to immerse quickly? See [Concise Guide to Jumpstart Japanese](conciseGuideToJumpstartJP.md)
 
-If you want to buy me a coffee(Thanks!): [Ko-fi (Xelieu)](https://ko-fi.com/xelieu)
-
-Have any questions? Contact me at Discord: [xelieu](https://www.discordapp.com/users/719459399168426054)
+If you want to buy me a coffee(Thanks!): [Ko-fi](https://ko-fi.com/xelieu)
 
 ---
 

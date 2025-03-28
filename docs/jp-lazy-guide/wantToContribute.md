@@ -12,7 +12,7 @@
 
 #### How to submit the contribution?
 
-You can either submit a [Github: Pull Request](https://github.com/Xelieu/xelieu.github.io/pulls) or message me on [Discord: xelieu](https://www.discordapp.com/users/719459399168426054) with the guide already organized in a notepad and screenshots edited
+You can either submit a [Github: Pull Request](https://github.com/Xelieu/xelieu.github.io/pulls) with the guide already organized in a notepad and screenshots edited
 
 - You can `ask me first` if I'd actually want it on the guide so your effort is not wasted
 

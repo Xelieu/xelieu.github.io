@@ -30,7 +30,7 @@ You can now read Light Novels on PC, how about Android?
 
 [Proceed to LN on Android Setup](setupLnOnAndroid.md){ .md-button .md-button }
 
-<small>If you have any problems check [FAQs](setupLnOnPC.md/#faqs) or contact me on Discord: [xelieu](https://www.discordapp.com/users/719459399168426054)</small>
+<small>If you have any problems check [FAQs](setupLnOnPC.md/#faqs)</small>
 
 ---
 

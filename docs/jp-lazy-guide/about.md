@@ -12,13 +12,7 @@ I made the lazy guide because:
 
 ---
 
-If you want to buy me a coffee(Thanks!): [Ko-fi (Xelieu)](https://ko-fi.com/xelieu)
-
 [Old Lazy Guide](https://rentry.co/lazyXel/) | [Pastebin](https://pastebin.com/u/Xelieu)
-
-My contact:
-
-- Discord: [xelieu](https://www.discordapp.com/users/719459399168426054)
 
 If no one can `reach me` for a long time(6 months+) consider it abandoned, anyone can continue my guide from here: [Repository](https://github.com/Xelieu/xelieu.github.io) | [License](https://github.com/Xelieu/xelieu.github.io/blob/main/LICENSE)
 

@@ -62,7 +62,7 @@ Yomitan setup is done, next is ShareX for convenient Mining
 
 [Proceed to ShareX Setup](setupShareX.md){ .md-button .md-button }
 
-<small>If you have any problems check [FAQs](setupYomitanOnAndroid.md/#faqs) or contact me on Discord: [xelieu](https://www.discordapp.com/users/719459399168426054)</small>
+<small>If you have any problems check [FAQs](setupYomitanOnAndroid.md/#faqs)</small>
 
 ---
 

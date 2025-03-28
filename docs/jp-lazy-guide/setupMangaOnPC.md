@@ -190,7 +190,7 @@ You can now mine Manga on PC, see how it's done in Android!
 
 [Proceed to Manga on Android Setup](setupMangaOnAndroid.md){ .md-button .md-button }
 
-<small>If you have any problems check [FAQs](setupMangaOnPC.md/#faqs) or contact me on Discord: [xelieu](https://www.discordapp.com/users/719459399168426054)</small>
+<small>If you have any problems check [FAQs](setupMangaOnPC.md/#faqs)</small>
 
 ## Extra Info and Tips
 

@@ -74,7 +74,7 @@ Yomitan on PC setup is done, why not check out how to use Yomitan on Android?
 
 [Proceed to Yomitan on Android Setup](setupYomitanOnAndroid.md){ .md-button .md-button }
 
-<small>If you have any problems check [FAQs](setupYomitanOnPC.md/#faqs) or contact me on Discord: [xelieu](https://www.discordapp.com/users/719459399168426054)</small>
+<small>If you have any problems check [FAQs](setupYomitanOnPC.md/#faqs)</small>
 
 ---
 

@@ -7,7 +7,6 @@ Made in material mkdocs
 
 Any contribution to the site is welcome
 
-You can message me on discord: xelieu
 
 ### How to install?
 This is in case I stopped caring about my guide, anyone else can continue it

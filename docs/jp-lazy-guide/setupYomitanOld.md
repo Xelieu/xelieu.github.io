@@ -76,7 +76,7 @@ hide:
 
     [Proceed to Yomitan on Android Setup](setupYomitanOnAndroid.md){ .md-button .md-button }
 
-    <small>If you have any problems check [FAQs](setupYomitanOnPC.md/#faqs) or contact me on Discord: [xelieu](https://www.discordapp.com/users/719459399168426054)</small>
+    <small>If you have any problems check [FAQs](setupYomitanOnPC.md/#faqs)</small>
 
     ---
 
