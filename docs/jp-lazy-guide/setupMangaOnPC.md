@@ -217,3 +217,5 @@ You can now mine Manga on PC, see how it's done in Android!
     3. Use `Forward Button` to use it
         - This is assuming the `OCR (manga_ocr)` hotkey in `ShareX` is unchanged from `Shift + Alt + Q`
         - You can edit the hotkey by editing the script if you like
+
+## FAQs

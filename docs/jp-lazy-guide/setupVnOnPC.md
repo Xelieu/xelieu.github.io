@@ -143,3 +143,5 @@ Now that the `Texthooker Page` is working, let's proceed on learning how to play
 
     - Some Visual Novels are sensitive, and that it will only textract a portion of its text since the dialogue appeared slowly
         - Max up the dialogue speed in the VN settings
+
+## FAQs

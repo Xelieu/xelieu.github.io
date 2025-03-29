@@ -9,9 +9,9 @@ hide:
 
     # Setup: VN on PC
 
-    - [Textractor](setupVnOnPC.md/#setup-textractor) is a tool used to extract `text` from `Visual Novels`
+    - [Textractor](setupVnOnPCOld.md/#setup-textractor) is a tool used to extract `text` from `Visual Novels`
 
-    - [Clipboard Inserter](setupVnOnPC.md/#setup-clipboard-inserter) is used to copy and paste the text extracted by `Textractor` into a `Texthooker` page where you can use `Yomitan` to scan the words and mine it into `Anki`
+    - [Clipboard Inserter](setupVnOnPCOld.md/#setup-clipboard-inserter) is used to copy and paste the text extracted by `Textractor` into a `Texthooker` page where you can use `Yomitan` to scan the words and mine it into `Anki`
 
     ---
 
@@ -26,7 +26,7 @@ hide:
         - (Optional) If you don't want to `Alt + Tab` or don't have a 2nd monitor to display `Texthooker Page`:
             - [VN Texthooker on Android](https://rentry.co/android-texthook) and [Android Setup](setupLnOnAndroid.md)
 
-    [Clipboard Inserter](setupVnOnPC.md/#setup-clipboard-inserter)
+    [Clipboard Inserter](setupVnOnPCOld.md/#setup-clipboard-inserter)
 
     - Download `Clipboard Inserter` from [Chrome/Edge](https://chrome.google.com/webstore/detail/clipboard-inserter/deahejllghicakhplliloeheabddjajm) or [Firefox](https://addons.mozilla.org/en-US/firefox/addon/lap-clipboard-inserter/)
 
@@ -80,7 +80,7 @@ hide:
     === "Visual Novel Sample"
         ![Visual Novel Sample](../img/visual-novel-sample.png){height=500 width=1000}
 
-    It is now texthooking, proceed to [Clipboard Inserter](setupVnOnPC.md/#setup-clipboard-inserter) to be able to use the text from `Textractor` and use `Yomitan` on it
+    It is now texthooking, proceed to [Clipboard Inserter](setupVnOnPCOld.md/#setup-clipboard-inserter) to be able to use the text from `Textractor` and use `Yomitan` on it
 
     ---
 
@@ -115,7 +115,7 @@ hide:
 
     [Proceed to VN on Android Setup](setupVnOnAndroid.md){ .md-button .md-button }
 
-    <small>If you have any problems check [FAQs](setupVnOnPC.md/#faqs)</small>
+    <small>If you have any problems check [FAQs](setupVnOnPCOld.md/#faqs)</small>
 
     ---
 
@@ -151,3 +151,5 @@ hide:
         To get VNs, search around the web, go to `nyaa` or discord servers that have them or `BUY` them
 
         - If you pm me, I can give you more details
+
+    ## FAQs

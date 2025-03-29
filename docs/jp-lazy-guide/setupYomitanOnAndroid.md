@@ -74,7 +74,7 @@ Yomitan setup is done, next is ShareX for convenient Mining
 
     Requirements:
     
-    - Make sure you have [PC Yomitan Local Audio](setupYomitanOnPC.md/#info-2-yomitan-local-audio) setup
+    - Make sure you have [PC Yomitan Local Audio](setupYomitanOnPC.md/#info-1-yomitan-local-audio) setup
 
     - You have [Ankiconnect Android](https://github.com/KamWithK/AnkiconnectAndroid/releases/latest) installed
 

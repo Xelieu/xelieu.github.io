@@ -54,3 +54,5 @@ You can now read Light Novels on PC, how about Android?
     2. On `Translation` > `Configure custom text replacement patterns...`
 
     3. Copy and paste [this](https://pastebin.com/tzHgVe6V)
+
+## FAQs
