@@ -15,7 +15,7 @@ hide:
 **2025-03-28**
 
 - Lazy Guide: Gray stuff clean up
-	- I moved to Japan, so I cleaned up to avoid issue
+	- I moved, so I cleaned up to avoid issue
 
 **2025-03-22**
 
