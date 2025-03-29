@@ -36,7 +36,7 @@ nav:
       - "Setup: Yomitan (JPMN)": 'jp-lazy-guide/setupYomitanOld.md'
       - "Transfer: Lazy Setup to JPMN": 'jp-lazy-guide/transferLazyToJPMN.md'
       - "Updating: Anki JPMN Note": 'jp-lazy-guide/updatingAnkiJPMNNote.md'
-      - "Setup: VN on PC (Clipboard Inserter)": 'jp-lazy-guide/setupVnOnPCOld.md'
+      - "Setup: VN on PC (Clipboard Inserter)": 'jp-lazy-guide/setupVnOnPCOld2.md'
   - Sub Guide:
     - Sub Guide Introduction: 'jp-lazy-guide/subGuide.md'
     - Concise Guide to Jumpstart JP: 'jp-lazy-guide/conciseGuideToJumpstartJP.md'
