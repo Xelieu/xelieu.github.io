@@ -49,8 +49,6 @@ theme:
   name: material
   favicon: img/favicon.png
   logo: img/favicon-2.png
-  icon:
-    repo: simple/buymeacoffee
   features:
     - navigation.tabs
     - navigation.sections
@@ -85,15 +83,9 @@ extra:
     - icon: fontawesome/brands/github-alt
       link: https://github.com/Xelieu
       name: Github
-    - icon: fontawesome/brands/discord
-      link: https://discord.com/
-      name: Discord
     - icon: fontawesome/brands/youtube
       link: https://www.youtube.com/@LazyGuideJP
       name: Youtube
-    - icon: fontawesome/solid/mug-hot
-      link: https://ko-fi.com/lazyguide
-      name: Ko-Fi
   analytics:
     provider: google
     property: G-GMJZ3SM36S
