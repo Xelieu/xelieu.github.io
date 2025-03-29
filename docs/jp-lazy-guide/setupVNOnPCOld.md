@@ -1,7 +1,7 @@
 ---
 hide:
   - footer
----s
+---
 
 - I recommend you to follow the current guide that's not on the Archive
 
