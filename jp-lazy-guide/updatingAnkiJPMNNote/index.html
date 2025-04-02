@@ -1,0 +1,2204 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="Preconfigured tools for Anki/Yomitan and VN/LN/Anime/Manga for PC/Android">
+      
+      
+        <meta name="author" content="LazyGuideJP">
+      
+      
+        <link rel="canonical" href="https://lazyguidejp.github.io/jp-lazy-guide/jp-lazy-guide/updatingAnkiJPMNNote/">
+      
+      
+        <link rel="prev" href="../transferLazyToJPMN/">
+      
+      
+        <link rel="next" href="../setupVnOnPCOld/">
+      
+      
+      <link rel="icon" href="../../img/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.11">
+    
+    
+      
+        <title>Updating: Anki JPMN Note - Lazy Guide</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.4af4bdda.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+  
+
+
+  
+  
+
+<script id="__analytics">function __md_analytics(){function e(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],e("js",new Date),e("config","G-GMJZ3SM36S"),document.addEventListener("DOMContentLoaded",(function(){document.forms.search&&document.forms.search.query.addEventListener("blur",(function(){this.value&&e("event","search",{search_term:this.value})}));document$.subscribe((function(){var t=document.forms.feedback;if(void 0!==t)for(var a of t.querySelectorAll("[type=submit]"))a.addEventListener("click",(function(a){a.preventDefault();var n=document.location.pathname,d=this.getAttribute("data-md-value");e("event","feedback",{page:n,data:d}),t.firstElementChild.disabled=!0;var r=t.querySelector(".md-feedback__note [data-md-value='"+d+"']");r&&(r.hidden=!1)})),t.hidden=!1})),location$.subscribe((function(t){e("config","G-GMJZ3SM36S",{page_path:t.pathname})}))}));var t=document.createElement("script");t.async=!0,t.src="https://www.googletagmanager.com/gtag/js?id=G-GMJZ3SM36S",document.getElementById("__analytics").insertAdjacentElement("afterEnd",t)}</script>
+  
+    <script>"undefined"!=typeof __md_analytics&&__md_analytics()</script>
+  
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#updating-anki-jpmn-note" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="/jp-lazy-guide/" title="Lazy Guide" class="md-header__button md-logo" aria-label="Lazy Guide" data-md-component="logo">
+      
+  <img src="../../img/favicon-2.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Lazy Guide
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Updating: Anki JPMN Note
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m17.75 4.09-2.53 1.94.91 3.06-2.63-1.81-2.63 1.81.91-3.06-2.53-1.94L12.44 4l1.06-3 1.06 3zm3.5 6.91-1.64 1.25.59 1.98-1.7-1.17-1.7 1.17.59-1.98L15.75 11l2.06-.05L18.5 9l.69 1.95zm-2.28 4.95c.83-.08 1.72 1.1 1.19 1.85-.32.45-.66.87-1.08 1.27C15.17 23 8.84 23 4.94 19.07c-3.91-3.9-3.91-10.24 0-14.14.4-.4.82-.76 1.27-1.08.75-.53 1.93.36 1.85 1.19-.27 2.86.69 5.83 2.89 8.02a9.96 9.96 0 0 0 8.02 2.89m-1.64 2.02a12.08 12.08 0 0 1-7.8-3.47c-2.17-2.19-3.33-5-3.49-7.82-2.81 3.14-2.7 7.96.31 10.98 3.02 3.01 7.84 3.12 10.98.31"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m3.55 19.09 1.41 1.41 1.8-1.79-1.42-1.42M12 6c-3.31 0-6 2.69-6 6s2.69 6 6 6 6-2.69 6-6c0-3.32-2.69-6-6-6m8 7h3v-2h-3m-2.76 7.71 1.8 1.79 1.41-1.41-1.79-1.8M20.45 5l-1.41-1.4-1.8 1.79 1.42 1.42M13 1h-2v3h2M6.76 5.39 4.96 3.6 3.55 5l1.79 1.81zM1 13h3v-2H1m12 9h-2v3h2"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+            
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../" class="md-tabs__link">
+          
+  
+  
+  Home
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+  
+  
+    
+    
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="../setup/" class="md-tabs__link">
+          
+  
+  
+  Setup
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../subGuide/" class="md-tabs__link">
+          
+  
+  
+  Sub Guide
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../resources/" class="md-tabs__link">
+          
+  
+  
+  Resources
+
+        </a>
+      </li>
+    
+  
+
+      
+    </ul>
+  </div>
+</nav>
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+                
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="/jp-lazy-guide/" title="Lazy Guide" class="md-nav__button md-logo" aria-label="Lazy Guide" data-md-component="logo">
+      
+  <img src="../../img/favicon-2.png" alt="logo">
+
+    </a>
+    Lazy Guide
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_1" id="__nav_1_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Home
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_1">
+            <span class="md-nav__icon md-icon"></span>
+            Home
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Introduction
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../changelog/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Changelog (2025-04-02)
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../about/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    About
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../credits/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Credits
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../wantToContribute/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Want to contribute?
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+    
+    
+      
+        
+        
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    Setup
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            Setup
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../setup/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Setup Introduction
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+        
+          
+          
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_2" id="__nav_2_2_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    Essentials
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_2">
+            <span class="md-nav__icon md-icon"></span>
+            Essentials
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../setupAnki/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Setup: Anki
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../setupYomitanOnPC/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Setup: Yomitan PC
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../setupYomitanOnAndroid/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Setup: Yomitan Android
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../setupShareX/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Setup: ShareX
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+        
+          
+          
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_3" id="__nav_2_3_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    Visual Novel
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_3">
+            <span class="md-nav__icon md-icon"></span>
+            Visual Novel
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../setupVnOnPC/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Setup: VN on PC
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../setupVnOnAndroid/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Setup: VN on Android
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+        
+          
+          
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_4" id="__nav_2_4_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    Light Novel
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_4">
+            <span class="md-nav__icon md-icon"></span>
+            Light Novel
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../setupLnOnPC/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Setup: LN on PC
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../setupLnOnAndroid/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Setup: LN on Android
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+        
+          
+          
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_5" id="__nav_2_5_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    Manga
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_5">
+            <span class="md-nav__icon md-icon"></span>
+            Manga
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../setupMangaOnPC/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Setup: Manga on PC
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../setupMangaOnAndroid/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Setup: Manga on Android
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+        
+          
+          
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_6" id="__nav_2_6_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    Anime
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_6">
+            <span class="md-nav__icon md-icon"></span>
+            Anime
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../setupAnimeOnPC/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Setup: Anime on PC
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../setupAnimeOnAndroid/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Setup: Anime on Android
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+        
+          
+          
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_7" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_7" id="__nav_2_7_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    Miscellaneous
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_7_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_7">
+            <span class="md-nav__icon md-icon"></span>
+            Miscellaneous
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../transferJPMNToLapis/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Transfer: JPMN to Lapis
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../updatingAnkiLapisFormat/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Updating: Lapis Format
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    
+    
+    
+    
+      
+      
+        
+          
+          
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_8" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_2_8" id="__nav_2_8_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    Archive
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_8_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_2_8">
+            <span class="md-nav__icon md-icon"></span>
+            Archive
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../setupAnkiOld/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Setup: Anki (JPMN)
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../setupYomitanOld/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Setup: Yomitan (JPMN)
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../transferLazyToJPMN/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Transfer: Lazy Setup to JPMN
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    Updating: Anki JPMN Note
+    
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    Updating: Anki JPMN Note
+    
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#update-watcher" class="md-nav__link">
+    <span class="md-ellipsis">
+      Update Watcher
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#download-and-install" class="md-nav__link">
+    <span class="md-ellipsis">
+      Download and Install
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#updating-the-jpmn-format" class="md-nav__link">
+    <span class="md-ellipsis">
+      Updating the JPMN Format
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#updating-ajt-japanese" class="md-nav__link">
+    <span class="md-ellipsis">
+      Updating AJT Japanese
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../setupVnOnPCOld/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Setup: VN on PC (Clipboard Inserter)
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Sub Guide
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            Sub Guide
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../subGuide/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Sub Guide Introduction
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../conciseGuideToJumpstartJP/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Concise Guide to Jumpstart JP
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../retentionHowTo/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Retention How-To
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Resources
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            Resources
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../resources/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Resources Introduction
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../immersionDataSpreadsheet/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Immersion Data Spreadsheet
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../resourcesDecks/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Deck Resources
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+                
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#update-watcher" class="md-nav__link">
+    <span class="md-ellipsis">
+      Update Watcher
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#download-and-install" class="md-nav__link">
+    <span class="md-ellipsis">
+      Download and Install
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#updating-the-jpmn-format" class="md-nav__link">
+    <span class="md-ellipsis">
+      Updating the JPMN Format
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#updating-ajt-japanese" class="md-nav__link">
+    <span class="md-ellipsis">
+      Updating AJT Japanese
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+  
+
+
+
+
+<ul>
+<li>I recommend you to follow the current guide that's not on the Archive</li>
+</ul>
+<details class="danger">
+<summary>I'm aware that this is an Archive <small>(click here)</small></summary>
+<h1 id="updating-anki-jpmn-note">Updating: Anki JPMN Note</h1>
+<ul>
+<li>This is how to update <code>JPMN Note</code> to fix bugs or just get an actual update</li>
+<li>If you are updating from base <code>Aquafina JPMN</code> version, see <a href="../transferLazyToJPMN/">Transfer Lazy Setup to JPMN</a></li>
+</ul>
+<h3 id="update-watcher">Update Watcher</h3>
+<ul>
+<li>
+<p>If you didn't update on or before the following dates, please update:</p>
+<ul>
+<li><code>JPMN Note</code>: 2025-01-01 - jp-mining-note: v0.12.0.0-prerelease-19<ul>
+<li>Delete old JPMN Manager, install the <a href="https://ankiweb.net/shared/info/301910299">new one</a></li>
+</ul>
+</li>
+<li><code>AJT Japanese</code>: 2024-01-19</li>
+</ul>
+</li>
+<li>
+<p>This is just to confirm you are at the latest, you can always update anytime regardless of what is written here</p>
+</li>
+</ul>
+<hr />
+<h2 id="download-and-install">Download and Install</h2>
+<ol>
+<li>
+<ul>
+<li>Make sure <a href="https://ankiweb.net/shared/info/301910299">JPMN Manager</a> and <a href="https://ankiweb.net/shared/info/1344485230">AJT Japanese</a> is updated</li>
+<li>If there's an <code>update</code>, restart your Anki</li>
+</ul>
+<p>In your Anki: <code>Ctrl + Shift + A</code> OR <code>Tools</code> &gt; <code>Add-ons</code> &gt; <code>Check for add-ons update</code></p>
+<p><img alt="Anki Addons Update" height="250" src="../../img/addons-update.png" width="500" /></p>
+</li>
+</ol>
+<div class="admonition danger">
+<p class="admonition-title">Make sure you're using the proper JPMN Manager</p>
+<ul>
+<li>Make sure you have the new version: <code>JPMN Manager with prereleases New Version</code></li>
+<li>Remove the old version: <code>JPMN Manager with prereleases</code></li>
+</ul>
+</div>
+<hr />
+<h2 id="updating-the-jpmn-format">Updating the JPMN Format</h2>
+<ol>
+<li>
+<p>In your Anki's toolbar: <code>Tools</code> &gt; <code>JPMN Manager</code> &gt; <code>Check for note updates</code> (If there is) &gt; Update jp-mining-note (Follow the instructions)</p>
+<p><img alt="JPMN Note Update" height="250" src="../../img/jpmn-manager-update.png" width="500" /></p>
+</li>
+<li>
+<p>Done</p>
+</li>
+</ol>
+<hr />
+<h2 id="updating-ajt-japanese">Updating AJT Japanese</h2>
+<ol>
+<li>
+<p>In your Anki <code>Ctrl + Shift + A</code> OR <code>Tools</code> &gt; <code>Add-ons</code> &gt; <code>Check for add-ons update</code> &gt; if there's update, restart Anki</p>
+</li>
+<li>
+<p>Again, <code>Ctrl + Shift + A</code> OR <code>Tools</code> &gt; <code>Add-ons</code> &gt; <code>AJT Japanese</code> &gt; <code>View Files</code></p>
+</li>
+<li>
+<p>Open the <code>config.json</code>(edit with notepad) then copy and paste the config below:</p>
+<details class="examplecode">
+<summary>AJT Japanese Config <small>(click here)</small></summary>
+<div class="highlight"><pre><span></span><code><a id="__codelineno-0-1" name="__codelineno-0-1" href="#__codelineno-0-1"></a>{
+<a id="__codelineno-0-2" name="__codelineno-0-2" href="#__codelineno-0-2"></a>    &quot;cache_lookups&quot;: 1024,
+<a id="__codelineno-0-3" name="__codelineno-0-3" href="#__codelineno-0-3"></a>    &quot;last_file_save_location&quot;: &quot;&quot;,
+<a id="__codelineno-0-4" name="__codelineno-0-4" href="#__codelineno-0-4"></a>    &quot;profiles&quot;: [ 
+<a id="__codelineno-0-5" name="__codelineno-0-5" href="#__codelineno-0-5"></a>        {
+<a id="__codelineno-0-6" name="__codelineno-0-6" href="#__codelineno-0-6"></a>            &quot;name&quot;: &quot;Add furigana for sentence&quot;,
+<a id="__codelineno-0-7" name="__codelineno-0-7" href="#__codelineno-0-7"></a>            &quot;note_type&quot;: &quot;JP Mining Note&quot;,
+<a id="__codelineno-0-8" name="__codelineno-0-8" href="#__codelineno-0-8"></a>            &quot;source&quot;: &quot;Sentence&quot;,
+<a id="__codelineno-0-9" name="__codelineno-0-9" href="#__codelineno-0-9"></a>            &quot;destination&quot;: &quot;SentenceReading&quot;,
+<a id="__codelineno-0-10" name="__codelineno-0-10" href="#__codelineno-0-10"></a>            &quot;mode&quot;: &quot;furigana&quot;,
+<a id="__codelineno-0-11" name="__codelineno-0-11" href="#__codelineno-0-11"></a>            &quot;split_morphemes&quot;: true,
+<a id="__codelineno-0-12" name="__codelineno-0-12" href="#__codelineno-0-12"></a>            &quot;triggered_by&quot;: &quot;focus_lost,toolbar_button,note_added,bulk_add&quot;,
+<a id="__codelineno-0-13" name="__codelineno-0-13" href="#__codelineno-0-13"></a>            &quot;overwrite_destination&quot;: false
+<a id="__codelineno-0-14" name="__codelineno-0-14" href="#__codelineno-0-14"></a>        },
+<a id="__codelineno-0-15" name="__codelineno-0-15" href="#__codelineno-0-15"></a>        {
+<a id="__codelineno-0-16" name="__codelineno-0-16" href="#__codelineno-0-16"></a>            &quot;name&quot;: &quot;Add furigana for word -- UNUSED BY jp-mining-note&quot;,
+<a id="__codelineno-0-17" name="__codelineno-0-17" href="#__codelineno-0-17"></a>            &quot;note_type&quot;: &quot;AJT_JAPANESE_IGNORE_PROFILE&quot;,
+<a id="__codelineno-0-18" name="__codelineno-0-18" href="#__codelineno-0-18"></a>            &quot;source&quot;: &quot;VocabKanji&quot;,
+<a id="__codelineno-0-19" name="__codelineno-0-19" href="#__codelineno-0-19"></a>            &quot;destination&quot;: &quot;VocabFurigana&quot;,
+<a id="__codelineno-0-20" name="__codelineno-0-20" href="#__codelineno-0-20"></a>            &quot;mode&quot;: &quot;furigana&quot;,
+<a id="__codelineno-0-21" name="__codelineno-0-21" href="#__codelineno-0-21"></a>            &quot;split_morphemes&quot;: false,
+<a id="__codelineno-0-22" name="__codelineno-0-22" href="#__codelineno-0-22"></a>            &quot;triggered_by&quot;: &quot;focus_lost,toolbar_button,note_added,bulk_add&quot;,
+<a id="__codelineno-0-23" name="__codelineno-0-23" href="#__codelineno-0-23"></a>            &quot;overwrite_destination&quot;: false
+<a id="__codelineno-0-24" name="__codelineno-0-24" href="#__codelineno-0-24"></a>        },
+<a id="__codelineno-0-25" name="__codelineno-0-25" href="#__codelineno-0-25"></a>        {
+<a id="__codelineno-0-26" name="__codelineno-0-26" href="#__codelineno-0-26"></a>            &quot;name&quot;: &quot;Add pitch accent for word&quot;,
+<a id="__codelineno-0-27" name="__codelineno-0-27" href="#__codelineno-0-27"></a>            &quot;note_type&quot;: &quot;JP Mining Note&quot;,
+<a id="__codelineno-0-28" name="__codelineno-0-28" href="#__codelineno-0-28"></a>            &quot;source&quot;: &quot;Word&quot;,
+<a id="__codelineno-0-29" name="__codelineno-0-29" href="#__codelineno-0-29"></a>            &quot;destination&quot;: &quot;AJTWordPitch&quot;,
+<a id="__codelineno-0-30" name="__codelineno-0-30" href="#__codelineno-0-30"></a>            &quot;mode&quot;: &quot;pitch&quot;,
+<a id="__codelineno-0-31" name="__codelineno-0-31" href="#__codelineno-0-31"></a>            &quot;split_morphemes&quot;: false,
+<a id="__codelineno-0-32" name="__codelineno-0-32" href="#__codelineno-0-32"></a>            &quot;output_format&quot;: &quot;html&quot;,
+<a id="__codelineno-0-33" name="__codelineno-0-33" href="#__codelineno-0-33"></a>            &quot;triggered_by&quot;: &quot;focus_lost,toolbar_button,note_added,bulk_add&quot;,
+<a id="__codelineno-0-34" name="__codelineno-0-34" href="#__codelineno-0-34"></a>            &quot;overwrite_destination&quot;: false
+<a id="__codelineno-0-35" name="__codelineno-0-35" href="#__codelineno-0-35"></a>        },
+<a id="__codelineno-0-36" name="__codelineno-0-36" href="#__codelineno-0-36"></a>        {
+<a id="__codelineno-0-37" name="__codelineno-0-37" href="#__codelineno-0-37"></a>            &quot;name&quot;: &quot;Add audio for word -- UNUSED BY jp-mining-note&quot;,
+<a id="__codelineno-0-38" name="__codelineno-0-38" href="#__codelineno-0-38"></a>            &quot;note_type&quot;: &quot;AJT_JAPANESE_IGNORE_PROFILE&quot;,
+<a id="__codelineno-0-39" name="__codelineno-0-39" href="#__codelineno-0-39"></a>            &quot;source&quot;: &quot;VocabKanji&quot;,
+<a id="__codelineno-0-40" name="__codelineno-0-40" href="#__codelineno-0-40"></a>            &quot;destination&quot;: &quot;VocabAudio&quot;,
+<a id="__codelineno-0-41" name="__codelineno-0-41" href="#__codelineno-0-41"></a>            &quot;mode&quot;: &quot;audio&quot;,
+<a id="__codelineno-0-42" name="__codelineno-0-42" href="#__codelineno-0-42"></a>            &quot;split_morphemes&quot;: false,
+<a id="__codelineno-0-43" name="__codelineno-0-43" href="#__codelineno-0-43"></a>            &quot;triggered_by&quot;: &quot;focus_lost,toolbar_button,note_added,bulk_add&quot;,
+<a id="__codelineno-0-44" name="__codelineno-0-44" href="#__codelineno-0-44"></a>            &quot;overwrite_destination&quot;: false
+<a id="__codelineno-0-45" name="__codelineno-0-45" href="#__codelineno-0-45"></a>        }
+<a id="__codelineno-0-46" name="__codelineno-0-46" href="#__codelineno-0-46"></a>    ],
+<a id="__codelineno-0-47" name="__codelineno-0-47" href="#__codelineno-0-47"></a>    &quot;pitch_accent&quot;: {
+<a id="__codelineno-0-48" name="__codelineno-0-48" href="#__codelineno-0-48"></a>        &quot;lookup_shortcut&quot;: &quot;Ctrl+8&quot;,
+<a id="__codelineno-0-49" name="__codelineno-0-49" href="#__codelineno-0-49"></a>        &quot;output_hiragana&quot;: false,
+<a id="__codelineno-0-50" name="__codelineno-0-50" href="#__codelineno-0-50"></a>        &quot;kana_lookups&quot;: true,
+<a id="__codelineno-0-51" name="__codelineno-0-51" href="#__codelineno-0-51"></a>        &quot;skip_numbers&quot;: true,
+<a id="__codelineno-0-52" name="__codelineno-0-52" href="#__codelineno-0-52"></a>        &quot;reading_separator&quot;: &quot;・&quot;, 
+<a id="__codelineno-0-53" name="__codelineno-0-53" href="#__codelineno-0-53"></a>        &quot;word_separator&quot;: &quot;、&quot;,
+<a id="__codelineno-0-54" name="__codelineno-0-54" href="#__codelineno-0-54"></a>        &quot;blocklisted_words&quot;: &quot;こと,へ,か,よ,ん,だ,び,の,や,ね,ば,て,と,た,が,に,な,は,も,ます,から,いる,たち,てる,う,ましょ,たい,する,です,ない&quot;,
+<a id="__codelineno-0-55" name="__codelineno-0-55" href="#__codelineno-0-55"></a>        &quot;maximum_results&quot;: 100, 
+<a id="__codelineno-0-56" name="__codelineno-0-56" href="#__codelineno-0-56"></a>        &quot;discard_mode&quot;: &quot;discard_extra&quot;,
+<a id="__codelineno-0-57" name="__codelineno-0-57" href="#__codelineno-0-57"></a>        &quot;style&quot;: &quot;none&quot; 
+<a id="__codelineno-0-58" name="__codelineno-0-58" href="#__codelineno-0-58"></a>    },
+<a id="__codelineno-0-59" name="__codelineno-0-59" href="#__codelineno-0-59"></a>    &quot;furigana&quot;: {
+<a id="__codelineno-0-60" name="__codelineno-0-60" href="#__codelineno-0-60"></a>        &quot;skip_numbers&quot;: true,
+<a id="__codelineno-0-61" name="__codelineno-0-61" href="#__codelineno-0-61"></a>        &quot;prefer_literal_pronunciation&quot;: false,
+<a id="__codelineno-0-62" name="__codelineno-0-62" href="#__codelineno-0-62"></a>        &quot;reading_separator&quot;: &quot;, &quot;,
+<a id="__codelineno-0-63" name="__codelineno-0-63" href="#__codelineno-0-63"></a>        &quot;blocklisted_words&quot;: &quot;人&quot;,
+<a id="__codelineno-0-64" name="__codelineno-0-64" href="#__codelineno-0-64"></a>        &quot;mecab_only&quot;: &quot;彼,猫,首,母,顔,木,頭,私,弟,空,体,行く&quot;,
+<a id="__codelineno-0-65" name="__codelineno-0-65" href="#__codelineno-0-65"></a>        &quot;maximum_results&quot;: 1, 
+<a id="__codelineno-0-66" name="__codelineno-0-66" href="#__codelineno-0-66"></a>        &quot;discard_mode&quot;: &quot;discard_extra&quot;
+<a id="__codelineno-0-67" name="__codelineno-0-67" href="#__codelineno-0-67"></a>    },
+<a id="__codelineno-0-68" name="__codelineno-0-68" href="#__codelineno-0-68"></a>    &quot;context_menu&quot;: {
+<a id="__codelineno-0-69" name="__codelineno-0-69" href="#__codelineno-0-69"></a>        &quot;generate_furigana&quot;: true,
+<a id="__codelineno-0-70" name="__codelineno-0-70" href="#__codelineno-0-70"></a>        &quot;to_katakana&quot;: true,
+<a id="__codelineno-0-71" name="__codelineno-0-71" href="#__codelineno-0-71"></a>        &quot;to_hiragana&quot;: true,
+<a id="__codelineno-0-72" name="__codelineno-0-72" href="#__codelineno-0-72"></a>        &quot;literal_pronunciation&quot;: true,
+<a id="__codelineno-0-73" name="__codelineno-0-73" href="#__codelineno-0-73"></a>        &quot;look_up_word&quot;: true
+<a id="__codelineno-0-74" name="__codelineno-0-74" href="#__codelineno-0-74"></a>    },
+<a id="__codelineno-0-75" name="__codelineno-0-75" href="#__codelineno-0-75"></a>    &quot;toolbar&quot;: { 
+<a id="__codelineno-0-76" name="__codelineno-0-76" href="#__codelineno-0-76"></a>        &quot;generate_all_button&quot;: {
+<a id="__codelineno-0-77" name="__codelineno-0-77" href="#__codelineno-0-77"></a>            &quot;enabled&quot;: false,
+<a id="__codelineno-0-78" name="__codelineno-0-78" href="#__codelineno-0-78"></a>            &quot;shortcut&quot;: &quot;Alt+P&quot;,
+<a id="__codelineno-0-79" name="__codelineno-0-79" href="#__codelineno-0-79"></a>            &quot;text&quot;: &quot;入&quot;
+<a id="__codelineno-0-80" name="__codelineno-0-80" href="#__codelineno-0-80"></a>        },
+<a id="__codelineno-0-81" name="__codelineno-0-81" href="#__codelineno-0-81"></a>        &quot;regenerate_all_button&quot;: {
+<a id="__codelineno-0-82" name="__codelineno-0-82" href="#__codelineno-0-82"></a>            &quot;enabled&quot;: false,
+<a id="__codelineno-0-83" name="__codelineno-0-83" href="#__codelineno-0-83"></a>            &quot;shortcut&quot;: &quot;Alt+;&quot;,
+<a id="__codelineno-0-84" name="__codelineno-0-84" href="#__codelineno-0-84"></a>            &quot;text&quot;: &quot;再&quot;
+<a id="__codelineno-0-85" name="__codelineno-0-85" href="#__codelineno-0-85"></a>        },
+<a id="__codelineno-0-86" name="__codelineno-0-86" href="#__codelineno-0-86"></a>        &quot;furigana_button&quot;: {
+<a id="__codelineno-0-87" name="__codelineno-0-87" href="#__codelineno-0-87"></a>            &quot;enabled&quot;: false,
+<a id="__codelineno-0-88" name="__codelineno-0-88" href="#__codelineno-0-88"></a>            &quot;shortcut&quot;: &quot;&quot;,
+<a id="__codelineno-0-89" name="__codelineno-0-89" href="#__codelineno-0-89"></a>            &quot;text&quot;: &quot;振&quot;
+<a id="__codelineno-0-90" name="__codelineno-0-90" href="#__codelineno-0-90"></a>        },
+<a id="__codelineno-0-91" name="__codelineno-0-91" href="#__codelineno-0-91"></a>        &quot;hiragana_button&quot;: {
+<a id="__codelineno-0-92" name="__codelineno-0-92" href="#__codelineno-0-92"></a>            &quot;enabled&quot;: false,
+<a id="__codelineno-0-93" name="__codelineno-0-93" href="#__codelineno-0-93"></a>            &quot;shortcut&quot;: &quot;&quot;,
+<a id="__codelineno-0-94" name="__codelineno-0-94" href="#__codelineno-0-94"></a>            &quot;text&quot;: &quot;平&quot;
+<a id="__codelineno-0-95" name="__codelineno-0-95" href="#__codelineno-0-95"></a>        },
+<a id="__codelineno-0-96" name="__codelineno-0-96" href="#__codelineno-0-96"></a>        &quot;clean_furigana_button&quot;: {
+<a id="__codelineno-0-97" name="__codelineno-0-97" href="#__codelineno-0-97"></a>            &quot;enabled&quot;: false,
+<a id="__codelineno-0-98" name="__codelineno-0-98" href="#__codelineno-0-98"></a>            &quot;shortcut&quot;: &quot;&quot;,
+<a id="__codelineno-0-99" name="__codelineno-0-99" href="#__codelineno-0-99"></a>            &quot;text&quot;: &quot;削&quot;
+<a id="__codelineno-0-100" name="__codelineno-0-100" href="#__codelineno-0-100"></a>        },
+<a id="__codelineno-0-101" name="__codelineno-0-101" href="#__codelineno-0-101"></a>        &quot;audio_search_button&quot;: {
+<a id="__codelineno-0-102" name="__codelineno-0-102" href="#__codelineno-0-102"></a>            &quot;enabled&quot;: false,
+<a id="__codelineno-0-103" name="__codelineno-0-103" href="#__codelineno-0-103"></a>            &quot;shortcut&quot;: &quot;&quot;,
+<a id="__codelineno-0-104" name="__codelineno-0-104" href="#__codelineno-0-104"></a>            &quot;text&quot;: &quot;検&quot;
+<a id="__codelineno-0-105" name="__codelineno-0-105" href="#__codelineno-0-105"></a>        },
+<a id="__codelineno-0-106" name="__codelineno-0-106" href="#__codelineno-0-106"></a>        &quot;add_definition_button&quot;: {
+<a id="__codelineno-0-107" name="__codelineno-0-107" href="#__codelineno-0-107"></a>            &quot;enabled&quot;: false,
+<a id="__codelineno-0-108" name="__codelineno-0-108" href="#__codelineno-0-108"></a>            &quot;shortcut&quot;: &quot;&quot;,
+<a id="__codelineno-0-109" name="__codelineno-0-109" href="#__codelineno-0-109"></a>            &quot;text&quot;: &quot;意&quot;
+<a id="__codelineno-0-110" name="__codelineno-0-110" href="#__codelineno-0-110"></a>        }
+<a id="__codelineno-0-111" name="__codelineno-0-111" href="#__codelineno-0-111"></a>    },
+<a id="__codelineno-0-112" name="__codelineno-0-112" href="#__codelineno-0-112"></a>    &quot;audio_sources&quot;: [
+<a id="__codelineno-0-113" name="__codelineno-0-113" href="#__codelineno-0-113"></a>        {
+<a id="__codelineno-0-114" name="__codelineno-0-114" href="#__codelineno-0-114"></a>            &quot;enabled&quot;: false, 
+<a id="__codelineno-0-115" name="__codelineno-0-115" href="#__codelineno-0-115"></a>            &quot;name&quot;: &quot;NHK-2016&quot;,
+<a id="__codelineno-0-116" name="__codelineno-0-116" href="#__codelineno-0-116"></a>            &quot;url&quot;: &quot;https://github.com/Ajatt-Tools/nhk_2016_pronunciations_index/releases/download/v1.2/NHK_main.zip&quot;
+<a id="__codelineno-0-117" name="__codelineno-0-117" href="#__codelineno-0-117"></a>        },
+<a id="__codelineno-0-118" name="__codelineno-0-118" href="#__codelineno-0-118"></a>        {
+<a id="__codelineno-0-119" name="__codelineno-0-119" href="#__codelineno-0-119"></a>            &quot;enabled&quot;: false,
+<a id="__codelineno-0-120" name="__codelineno-0-120" href="#__codelineno-0-120"></a>            &quot;name&quot;: &quot;NHK-1998&quot;,
+<a id="__codelineno-0-121" name="__codelineno-0-121" href="#__codelineno-0-121"></a>            &quot;url&quot;: &quot;https://github.com/Ajatt-Tools/nhk_1998_pronunciations_index/releases/download/v1.1/NHK_main.zip&quot;
+<a id="__codelineno-0-122" name="__codelineno-0-122" href="#__codelineno-0-122"></a>        },
+<a id="__codelineno-0-123" name="__codelineno-0-123" href="#__codelineno-0-123"></a>        {
+<a id="__codelineno-0-124" name="__codelineno-0-124" href="#__codelineno-0-124"></a>            &quot;enabled&quot;: false,
+<a id="__codelineno-0-125" name="__codelineno-0-125" href="#__codelineno-0-125"></a>            &quot;name&quot;: &quot;Shinmeikai-8&quot;,
+<a id="__codelineno-0-126" name="__codelineno-0-126" href="#__codelineno-0-126"></a>            &quot;url&quot;: &quot;https://github.com/Ajatt-Tools/shinmeikai_8_pronunciations_index/releases/download/v1.5/Shinmeikai-8_main.zip&quot;
+<a id="__codelineno-0-127" name="__codelineno-0-127" href="#__codelineno-0-127"></a>        },
+<a id="__codelineno-0-128" name="__codelineno-0-128" href="#__codelineno-0-128"></a>        {
+<a id="__codelineno-0-129" name="__codelineno-0-129" href="#__codelineno-0-129"></a>            &quot;enabled&quot;: false,
+<a id="__codelineno-0-130" name="__codelineno-0-130" href="#__codelineno-0-130"></a>            &quot;name&quot;: &quot;Daijisen&quot;,
+<a id="__codelineno-0-131" name="__codelineno-0-131" href="#__codelineno-0-131"></a>            &quot;url&quot;: &quot;https://github.com/Ajatt-Tools/daijisen_pronunciations_index/releases/download/v1.0/Daijisen_main.zip&quot;
+<a id="__codelineno-0-132" name="__codelineno-0-132" href="#__codelineno-0-132"></a>        },
+<a id="__codelineno-0-133" name="__codelineno-0-133" href="#__codelineno-0-133"></a>        {
+<a id="__codelineno-0-134" name="__codelineno-0-134" href="#__codelineno-0-134"></a>            &quot;enabled&quot;: false,
+<a id="__codelineno-0-135" name="__codelineno-0-135" href="#__codelineno-0-135"></a>            &quot;name&quot;: &quot;TAAS&quot;,
+<a id="__codelineno-0-136" name="__codelineno-0-136" href="#__codelineno-0-136"></a>            &quot;url&quot;: &quot;https://github.com/Ajatt-Tools/taas_pronunciations_index/releases/download/v1.0/TAAS_main.zip&quot;
+<a id="__codelineno-0-137" name="__codelineno-0-137" href="#__codelineno-0-137"></a>        }
+<a id="__codelineno-0-138" name="__codelineno-0-138" href="#__codelineno-0-138"></a>    ],
+<a id="__codelineno-0-139" name="__codelineno-0-139" href="#__codelineno-0-139"></a>    &quot;audio_settings&quot;: {
+<a id="__codelineno-0-140" name="__codelineno-0-140" href="#__codelineno-0-140"></a>        &quot;dictionary_download_timeout&quot;: 30,
+<a id="__codelineno-0-141" name="__codelineno-0-141" href="#__codelineno-0-141"></a>        &quot;audio_download_timeout&quot;: 6,
+<a id="__codelineno-0-142" name="__codelineno-0-142" href="#__codelineno-0-142"></a>        &quot;attempts&quot;: 4,
+<a id="__codelineno-0-143" name="__codelineno-0-143" href="#__codelineno-0-143"></a>        &quot;maximum_results&quot;: 99,
+<a id="__codelineno-0-144" name="__codelineno-0-144" href="#__codelineno-0-144"></a>        &quot;ignore_inflections&quot;: false,
+<a id="__codelineno-0-145" name="__codelineno-0-145" href="#__codelineno-0-145"></a>        &quot;stop_if_one_source_has_results&quot;: false,
+<a id="__codelineno-0-146" name="__codelineno-0-146" href="#__codelineno-0-146"></a>        &quot;search_dialog_field_name&quot;: &quot;VocabAudio&quot;,
+<a id="__codelineno-0-147" name="__codelineno-0-147" href="#__codelineno-0-147"></a>        &quot;tag_separator&quot;: &quot;&lt;br&gt;&quot;
+<a id="__codelineno-0-148" name="__codelineno-0-148" href="#__codelineno-0-148"></a>    },
+<a id="__codelineno-0-149" name="__codelineno-0-149" href="#__codelineno-0-149"></a>    &quot;definitions&quot;: {
+<a id="__codelineno-0-150" name="__codelineno-0-150" href="#__codelineno-0-150"></a>        &quot;timeout&quot;: 10,
+<a id="__codelineno-0-151" name="__codelineno-0-151" href="#__codelineno-0-151"></a>        &quot;remove_marks&quot;: true,
+<a id="__codelineno-0-152" name="__codelineno-0-152" href="#__codelineno-0-152"></a>        &quot;dict_name&quot;: &quot;meikyou&quot;,
+<a id="__codelineno-0-153" name="__codelineno-0-153" href="#__codelineno-0-153"></a>        &quot;search_type&quot;: &quot;exact&quot;,
+<a id="__codelineno-0-154" name="__codelineno-0-154" href="#__codelineno-0-154"></a>        &quot;source&quot;: &quot;VocabKanji&quot;,
+<a id="__codelineno-0-155" name="__codelineno-0-155" href="#__codelineno-0-155"></a>        &quot;destination&quot;: &quot;VocabDef&quot;,
+<a id="__codelineno-0-156" name="__codelineno-0-156" href="#__codelineno-0-156"></a>        &quot;behavior&quot;: &quot;append&quot;
+<a id="__codelineno-0-157" name="__codelineno-0-157" href="#__codelineno-0-157"></a>    }
+<a id="__codelineno-0-158" name="__codelineno-0-158" href="#__codelineno-0-158"></a>}
+</code></pre></div>
+</details>
+</li>
+<li>
+<p>AGAIN, restart your Anki (I know xD), then <code>Tools</code> &gt; <code>JPMN Manager</code> &gt; <code>Run batch command</code> &gt; Paste the <code>command</code> below:</p>
+<div class="highlight"><pre><span></span><code><a id="__codelineno-1-1" name="__codelineno-1-1" href="#__codelineno-1-1"></a>empty_field AJTWordPitch
+</code></pre></div>
+</li>
+<li>
+<p>In your Anki's Main Window &gt; <code>Browse</code></p>
+<ul>
+<li>In the left side under <code>Note Types</code>, Click on <code>JP Mining Note</code></li>
+<li>Select all cards by clicking on 1 card and then <code>Ctrl + A</code></li>
+</ul>
+</li>
+<li>
+<p>In the toolbar on the top left, select <code>Edit</code> &gt; <code>AJT: Bulk-generate</code></p>
+<ul>
+<li>Wait for the process to finish</li>
+</ul>
+</li>
+<li>
+<p>Done! To check if the card has no problem, view a card &gt; check if the <code>!</code> icon on the top left isn't red</p>
+</li>
+</ol>
+<details class="danger">
+<summary>If you didn't update then the following features will be missing: <small>(click here)</small></summary>
+<ul>
+<li>Automatically generated furigana</li>
+<li>Devoiced and nasal information to pitch accents</li>
+<li>Less coverage on pitch accents</li>
+</ul>
+</details>
+</details>
+<hr />
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+  <aside class="md-source-file">
+    
+      
+  <span class="md-source-file__fact">
+    <span class="md-icon" title="Last update">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1zM12.5 7v5.2l4 2.4-1 1L11 13V7zM11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2z"/></svg>
+    </span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="April 2, 2025 13:19:06">April 2, 2025</span>
+  </span>
+
+    
+    
+    
+    
+  </aside>
+
+
+  
+
+
+  
+
+
+
+                
+              </article>
+            </div>
+          
+          
+  <script>var tabs=__md_get("__tabs");if(Array.isArray(tabs))e:for(var set of document.querySelectorAll(".tabbed-set")){var labels=set.querySelector(".tabbed-labels");for(var tab of tabs)for(var label of labels.getElementsByTagName("label"))if(label.innerText.trim()===tab){var input=document.getElementById(label.htmlFor);input.checked=!0;continue e}}</script>
+
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    
+      
+        
+      
+      <nav class="md-footer__inner md-grid" aria-label="Footer" hidden>
+        
+          
+          <a href="../transferLazyToJPMN/" class="md-footer__link md-footer__link--prev" aria-label="Previous: Transfer: Lazy Setup to JPMN">
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+            </div>
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Previous
+              </span>
+              <div class="md-ellipsis">
+                Transfer: Lazy Setup to JPMN
+              </div>
+            </div>
+          </a>
+        
+        
+          
+          <a href="../setupVnOnPCOld/" class="md-footer__link md-footer__link--next" aria-label="Next: Setup: VN on PC (Clipboard Inserter)">
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Next
+              </span>
+              <div class="md-ellipsis">
+                Setup: VN on PC (Clipboard Inserter)
+              </div>
+            </div>
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg>
+            </div>
+          </a>
+        
+      </nav>
+    
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      &copy; 2025 <a href="https://github.com/LazyGuideJP/LazyGuideJP.github.io/blob/main/LICENSE"  target="_blank" rel="noopener">Lazy Guide</a>
+    </div>
+  
+  
+</div>
+      
+        <div class="md-social">
+  
+    
+    
+    
+    
+    <a href="https://github.com/LazyGuideJP" target="_blank" rel="noopener" title="Github" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 512"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M186.1 328.7c0 20.9-10.9 55.1-36.7 55.1s-36.7-34.2-36.7-55.1 10.9-55.1 36.7-55.1 36.7 34.2 36.7 55.1M480 278.2c0 31.9-3.2 65.7-17.5 95-37.9 76.6-142.1 74.8-216.7 74.8-75.8 0-186.2 2.7-225.6-74.8-14.6-29-20.2-63.1-20.2-95 0-41.9 13.9-81.5 41.5-113.6-5.2-15.8-7.7-32.4-7.7-48.8 0-21.5 4.9-32.3 14.6-51.8 45.3 0 74.3 9 108.8 36 29-6.9 58.8-10 88.7-10 27 0 54.2 2.9 80.4 9.2 34-26.7 63-35.2 107.8-35.2 9.8 19.5 14.6 30.3 14.6 51.8 0 16.4-2.6 32.7-7.7 48.2 27.5 32.4 39 72.3 39 114.2m-64.3 50.5c0-43.9-26.7-82.6-73.5-82.6-18.9 0-37 3.4-56 6-14.9 2.3-29.8 3.2-45.1 3.2-15.2 0-30.1-.9-45.1-3.2-18.7-2.6-37-6-56-6-46.8 0-73.5 38.7-73.5 82.6 0 87.8 80.4 101.3 150.4 101.3h48.2c70.3 0 150.6-13.4 150.6-101.3m-82.6-55.1c-25.8 0-36.7 34.2-36.7 55.1s10.9 55.1 36.7 55.1 36.7-34.2 36.7-55.1-10.9-55.1-36.7-55.1"/></svg>
+    </a>
+  
+    
+    
+    
+    
+    <a href="https://www.youtube.com/@LazyGuideJP" target="_blank" rel="noopener" title="Youtube" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305m-317.51 213.508V175.185l142.739 81.205z"/></svg>
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      <script id="__config" type="application/json">{"base": "../..", "features": ["navigation.tabs", "navigation.sections", "navigation.top", "navigation.footer", "toc.follow", "search.suggest", "search.highlight", "content.code.annotation", "content.code.copy", "content.tabs.link"], "search": "../../assets/javascripts/workers/search.f8cc74c7.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.c8b220af.min.js"></script>
+      
+    
+  </body>
+</html>
